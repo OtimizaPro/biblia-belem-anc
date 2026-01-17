@@ -1,0 +1,19 @@
+name = "biblia-belem-api"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+compatibility_flags = ["nodejs_compat"]
+account_id = "28248f850aef40d0c91531280962a88a"
+workers_dev = true
+
+[vars]
+ENVIRONMENT = "production"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "biblia-belem"
+database_id = "c068f4c2-6086-4755-a312-c3a5c5685345"
+
+# Custom domain
+[[routes]]
+pattern = "biblia.aculpaedasovelhas.org"
+custom_domain = true

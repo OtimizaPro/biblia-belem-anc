@@ -1,0 +1,1530 @@
+{
+  "Ἀποκάλυψις": {
+    "translation": "Revelação",
+    "strongs": "G602"
+  },
+  "ἀγαπῶντι": {
+    "translation": "amando",
+    "strongs": "G25"
+  },
+  "ἄγγελος": {
+    "translation": "anjo",
+    "strongs": "G32"
+  },
+  "ἀγγέλῳ": {
+    "translation": "anjo",
+    "strongs": "G32"
+  },
+  "ἅγιος": {
+    "translation": "santo",
+    "strongs": "G40"
+  },
+  "ἁγίων": {
+    "translation": "santos",
+    "strongs": "G40"
+  },
+  "ἀδελφός": {
+    "translation": "irmão",
+    "strongs": "G80"
+  },
+  "αἰών": {
+    "translation": "era",
+    "strongs": "G165"
+  },
+  "αἰῶνας": {
+    "translation": "eras",
+    "strongs": "G165"
+  },
+  "αἰώνων": {
+    "translation": "eras",
+    "strongs": "G165"
+  },
+  "ἀκούω": {
+    "translation": "ouvir",
+    "strongs": "G191"
+  },
+  "ἀκουσάτω": {
+    "translation": "ouça",
+    "strongs": "G191"
+  },
+  "ἤκουσα": {
+    "translation": "ouvi",
+    "strongs": "G191"
+  },
+  "ἀλήθεια": {
+    "translation": "verdade",
+    "strongs": "G225"
+  },
+  "Ἄλφα": {
+    "translation": "Alfa",
+    "strongs": "G1"
+  },
+  "ἀμήν": {
+    "translation": "amém",
+    "strongs": "G281"
+  },
+  "ἁμαρτία": {
+    "translation": "pecado",
+    "strongs": "G266"
+  },
+  "ἁμαρτιῶν": {
+    "translation": "pecados",
+    "strongs": "G266"
+  },
+  "ἤνοιξεν": {
+    "translation": "abriu",
+    "strongs": "G455"
+  },
+  "ἄξιος": {
+    "translation": "digno",
+    "strongs": "G514"
+  },
+  "Ἀρνίον": {
+    "translation": "Cordeiro",
+    "strongs": "G721"
+  },
+  "Ἀρνίου": {
+    "translation": "Cordeiro",
+    "strongs": "G721"
+  },
+  "ἀστήρ": {
+    "translation": "estrela",
+    "strongs": "G792"
+  },
+  "ἀστέρας": {
+    "translation": "estrelas",
+    "strongs": "G792"
+  },
+  "αὐτός": {
+    "translation": "ele",
+    "strongs": "G846"
+  },
+  "αὐτούς": {
+    "translation": "eles",
+    "strongs": "G846"
+  },
+  "ἄχρι": {
+    "translation": "até",
+    "strongs": "G891"
+  },
+  "βασιλεία": {
+    "translation": "reino",
+    "strongs": "G932"
+  },
+  "βασιλεύς": {
+    "translation": "rei",
+    "strongs": "G935"
+  },
+  "βασιλεῖς": {
+    "translation": "reis",
+    "strongs": "G935"
+  },
+  "βιβλίον": {
+    "translation": "livro",
+    "strongs": "G975"
+  },
+  "βλέπω": {
+    "translation": "ver",
+    "strongs": "G991"
+  },
+  "γῆ": {
+    "translation": "terra",
+    "strongs": "G1093"
+  },
+  "γῆν": {
+    "translation": "terra",
+    "strongs": "G1093"
+  },
+  "γράφω": {
+    "translation": "escrever",
+    "strongs": "G1125"
+  },
+  "γράψον": {
+    "translation": "escreve",
+    "strongs": "G1125"
+  },
+  "γεγραμμένον": {
+    "translation": "escrito",
+    "strongs": "G1125"
+  },
+  "δέκα": {
+    "translation": "dez",
+    "strongs": "G1176"
+  },
+  "δεξιά": {
+    "translation": "direita",
+    "strongs": "G1188"
+  },
+  "δίδωμι": {
+    "translation": "dar",
+    "strongs": "G1325"
+  },
+  "δώσω": {
+    "translation": "darei",
+    "strongs": "G1325"
+  },
+  "ἐδόθη": {
+    "translation": "foi-dado",
+    "strongs": "G1325"
+  },
+  "δόξα": {
+    "translation": "glória",
+    "strongs": "G1391"
+  },
+  "δοῦλος": {
+    "translation": "servo",
+    "strongs": "G1401"
+  },
+  "δούλοις": {
+    "translation": "servos",
+    "strongs": "G1401"
+  },
+  "δούλῳ": {
+    "translation": "servo",
+    "strongs": "G1401"
+  },
+  "δράκων": {
+    "translation": "dragão",
+    "strongs": "G1404"
+  },
+  "δύναμις": {
+    "translation": "poder",
+    "strongs": "G1411"
+  },
+  "δύο": {
+    "translation": "dois",
+    "strongs": "G1417"
+  },
+  "δώδεκα": {
+    "translation": "doze",
+    "strongs": "G1427"
+  },
+  "ἐγώ": {
+    "translation": "eu",
+    "strongs": "G1473"
+  },
+  "Ἐγώ": {
+    "translation": "Eu",
+    "strongs": "G1473"
+  },
+  "εἰμί": {
+    "translation": "sou",
+    "strongs": "G1510"
+  },
+  "εἶδον": {
+    "translation": "vi",
+    "strongs": "G1492"
+  },
+  "εἶδες": {
+    "translation": "viste",
+    "strongs": "G1492"
+  },
+  "εἰρήνη": {
+    "translation": "paz",
+    "strongs": "G1515"
+  },
+  "εἷς": {
+    "translation": "um",
+    "strongs": "G1520"
+  },
+  "εἰσιν": {
+    "translation": "são",
+    "strongs": "G1526"
+  },
+  "ἐκκλησία": {
+    "translation": "assembleia",
+    "strongs": "G1577"
+  },
+  "ἐκκλησίαις": {
+    "translation": "assembleias",
+    "strongs": "G1577"
+  },
+  "ἐνώπιον": {
+    "translation": "diante",
+    "strongs": "G1799"
+  },
+  "ἑπτά": {
+    "translation": "sete",
+    "strongs": "G2033"
+  },
+  "ἑπτὰ": {
+    "translation": "sete",
+    "strongs": "G2033"
+  },
+  "ἔργον": {
+    "translation": "obra",
+    "strongs": "G2041"
+  },
+  "ἔρχομαι": {
+    "translation": "vir",
+    "strongs": "G2064"
+  },
+  "ἐρχόμενος": {
+    "translation": "vindo",
+    "strongs": "G2064"
+  },
+  "ἔτι": {
+    "translation": "ainda",
+    "strongs": "G2089"
+  },
+  "ἔχω": {
+    "translation": "ter",
+    "strongs": "G2192"
+  },
+  "ἔχων": {
+    "translation": "tendo",
+    "strongs": "G2192"
+  },
+  "ἔχεις": {
+    "translation": "tens",
+    "strongs": "G2192"
+  },
+  "ἔχουσιν": {
+    "translation": "têm",
+    "strongs": "G2192"
+  },
+  "ζάω": {
+    "translation": "viver",
+    "strongs": "G2198"
+  },
+  "ζωή": {
+    "translation": "vida",
+    "strongs": "G2222"
+  },
+  "ἡμέρα": {
+    "translation": "dia",
+    "strongs": "G2250"
+  },
+  "θάλασσα": {
+    "translation": "mar",
+    "strongs": "G2281"
+  },
+  "θαλάσσης": {
+    "translation": "mar",
+    "strongs": "G2281"
+  },
+  "θάλασσαν": {
+    "translation": "mar",
+    "strongs": "G2281"
+  },
+  "θάνατος": {
+    "translation": "morte",
+    "strongs": "G2288"
+  },
+  "θηρίον": {
+    "translation": "besta",
+    "strongs": "G2342"
+  },
+  "θηρίου": {
+    "translation": "besta",
+    "strongs": "G2342"
+  },
+  "θρόνος": {
+    "translation": "trono",
+    "strongs": "G2362"
+  },
+  "θρόνου": {
+    "translation": "trono",
+    "strongs": "G2362"
+  },
+  "θρόνῳ": {
+    "translation": "trono",
+    "strongs": "G2362"
+  },
+  "θυμός": {
+    "translation": "ira",
+    "strongs": "G2372"
+  },
+  "θυμοῦ": {
+    "translation": "ira",
+    "strongs": "G2372"
+  },
+  "ἰδού": {
+    "translation": "eis",
+    "strongs": "G2400"
+  },
+  "Ἰδοὺ": {
+    "translation": "Eis",
+    "strongs": "G2400"
+  },
+  "ἱερεύς": {
+    "translation": "sacerdote",
+    "strongs": "G2409"
+  },
+  "ἱερεῖς": {
+    "translation": "sacerdotes",
+    "strongs": "G2409"
+  },
+  "Ἰωάννης": {
+    "translation": "João",
+    "strongs": "G2491"
+  },
+  "Ἰωάνῃ": {
+    "translation": "João",
+    "strongs": "G2491"
+  },
+  "καθήμενος": {
+    "translation": "sentado",
+    "strongs": "G2521"
+  },
+  "καιρός": {
+    "translation": "tempo",
+    "strongs": "G2540"
+  },
+  "κεφαλή": {
+    "translation": "cabeça",
+    "strongs": "G2776"
+  },
+  "κεφαλὰς": {
+    "translation": "cabeças",
+    "strongs": "G2776"
+  },
+  "κέρας": {
+    "translation": "chifre",
+    "strongs": "G2768"
+  },
+  "κέρατα": {
+    "translation": "chifres",
+    "strongs": "G2768"
+  },
+  "κράτος": {
+    "translation": "domínio",
+    "strongs": "G2904"
+  },
+  "κύριος": {
+    "translation": "Senhor",
+    "strongs": "G2962"
+  },
+  "λέγω": {
+    "translation": "dizer",
+    "strongs": "G3004"
+  },
+  "λέγοντος": {
+    "translation": "dizendo",
+    "strongs": "G3004"
+  },
+  "λόγος": {
+    "translation": "palavra",
+    "strongs": "G3056"
+  },
+  "λυχνία": {
+    "translation": "candelabro",
+    "strongs": "G3087"
+  },
+  "λύσαντι": {
+    "translation": "libertou",
+    "strongs": "G3089"
+  },
+  "Μακάριος": {
+    "translation": "Bem-aventurado",
+    "strongs": "G3107"
+  },
+  "μαρτυρία": {
+    "translation": "testemunho",
+    "strongs": "G3141"
+  },
+  "μαρτυρίαν": {
+    "translation": "testemunho",
+    "strongs": "G3141"
+  },
+  "μάρτυς": {
+    "translation": "testemunha",
+    "strongs": "G3144"
+  },
+  "μέγας": {
+    "translation": "grande",
+    "strongs": "G3173"
+  },
+  "μεγάλην": {
+    "translation": "grande",
+    "strongs": "G3173"
+  },
+  "μεγάλῃ": {
+    "translation": "grande",
+    "strongs": "G3173"
+  },
+  "μεγάλης": {
+    "translation": "grande",
+    "strongs": "G3173"
+  },
+  "μέσος": {
+    "translation": "meio",
+    "strongs": "G3319"
+  },
+  "μέσῳ": {
+    "translation": "meio",
+    "strongs": "G3319"
+  },
+  "μετά": {
+    "translation": "com",
+    "strongs": "G3326"
+  },
+  "νεκρός": {
+    "translation": "morto",
+    "strongs": "G3498"
+  },
+  "νεκρῶν": {
+    "translation": "mortos",
+    "strongs": "G3498"
+  },
+  "νικάω": {
+    "translation": "vencer",
+    "strongs": "G3528"
+  },
+  "νικῶν": {
+    "translation": "vencendo",
+    "strongs": "G3528"
+  },
+  "ὅμοιον": {
+    "translation": "semelhante",
+    "strongs": "G3664"
+  },
+  "ὄνομα": {
+    "translation": "nome",
+    "strongs": "G3686"
+  },
+  "ὀνόματα": {
+    "translation": "nomes",
+    "strongs": "G3686"
+  },
+  "ὅτε": {
+    "translation": "quando",
+    "strongs": "G3753"
+  },
+  "Οὐαὶ": {
+    "translation": "Ai",
+    "strongs": "G3759"
+  },
+  "οὐδείς": {
+    "translation": "ninguém",
+    "strongs": "G3762"
+  },
+  "οὐδεὶς": {
+    "translation": "ninguém",
+    "strongs": "G3762"
+  },
+  "οὐρανός": {
+    "translation": "céu",
+    "strongs": "G3772"
+  },
+  "οὖς": {
+    "translation": "ouvido",
+    "strongs": "G3775"
+  },
+  "οὗτοι": {
+    "translation": "estes",
+    "strongs": "G3778"
+  },
+  "οὔτε": {
+    "translation": "nem",
+    "strongs": "G3777"
+  },
+  "Παντοκράτωρ": {
+    "translation": "Todo-Poderoso",
+    "strongs": "G3841"
+  },
+  "πατήρ": {
+    "translation": "Pai",
+    "strongs": "G3962"
+  },
+  "Πατρί": {
+    "translation": "Pai",
+    "strongs": "G3962"
+  },
+  "πιστός": {
+    "translation": "fiel",
+    "strongs": "G4103"
+  },
+  "πνεῦμα": {
+    "translation": "espírito",
+    "strongs": "G4151"
+  },
+  "Πνευμάτων": {
+    "translation": "Espíritos",
+    "strongs": "G4151"
+  },
+  "ποιέω": {
+    "translation": "fazer",
+    "strongs": "G4160"
+  },
+  "ποιῆσαι": {
+    "translation": "fazer",
+    "strongs": "G4160"
+  },
+  "πόλεμος": {
+    "translation": "guerra",
+    "strongs": "G4171"
+  },
+  "πόλεμον": {
+    "translation": "guerra",
+    "strongs": "G4171"
+  },
+  "πόλις": {
+    "translation": "cidade",
+    "strongs": "G4172"
+  },
+  "πόλεως": {
+    "translation": "cidade",
+    "strongs": "G4172"
+  },
+  "πόλιν": {
+    "translation": "cidade",
+    "strongs": "G4172"
+  },
+  "πολύς": {
+    "translation": "muito",
+    "strongs": "G4183"
+  },
+  "πολλῶν": {
+    "translation": "muitos",
+    "strongs": "G4183"
+  },
+  "προσκυνέω": {
+    "translation": "adorar",
+    "strongs": "G4352"
+  },
+  "προσεκύνησαν": {
+    "translation": "adoraram",
+    "strongs": "G4352"
+  },
+  "προφητεία": {
+    "translation": "profecia",
+    "strongs": "G4394"
+  },
+  "προφητείας": {
+    "translation": "profecia",
+    "strongs": "G4394"
+  },
+  "πρωτότοκος": {
+    "translation": "primogênito",
+    "strongs": "G4416"
+  },
+  "πῦρ": {
+    "translation": "fogo",
+    "strongs": "G4442"
+  },
+  "σάλπιγξ": {
+    "translation": "trombeta",
+    "strongs": "G4536"
+  },
+  "ἐσάλπισεν": {
+    "translation": "tocou-trombeta",
+    "strongs": "G4537"
+  },
+  "ἐσήμανεν": {
+    "translation": "significou",
+    "strongs": "G4591"
+  },
+  "σφραγίς": {
+    "translation": "selo",
+    "strongs": "G4973"
+  },
+  "σφραγῖδα": {
+    "translation": "selo",
+    "strongs": "G4973"
+  },
+  "στόμα": {
+    "translation": "boca",
+    "strongs": "G4750"
+  },
+  "στόματος": {
+    "translation": "boca",
+    "strongs": "G4750"
+  },
+  "τάχος": {
+    "translation": "brevidade",
+    "strongs": "G5034"
+  },
+  "τάχει": {
+    "translation": "brevemente",
+    "strongs": "G5034"
+  },
+  "ταῦτα": {
+    "translation": "estas-coisas",
+    "strongs": "G5023"
+  },
+  "τέσσαρες": {
+    "translation": "quatro",
+    "strongs": "G5064"
+  },
+  "τεσσάρων": {
+    "translation": "quatro",
+    "strongs": "G5064"
+  },
+  "τρεῖς": {
+    "translation": "três",
+    "strongs": "G5140"
+  },
+  "τρίτον": {
+    "translation": "terço",
+    "strongs": "G5154"
+  },
+  "υἱός": {
+    "translation": "filho",
+    "strongs": "G5207"
+  },
+  "ὑπομονή": {
+    "translation": "perseverança",
+    "strongs": "G5281"
+  },
+  "φιάλη": {
+    "translation": "taça",
+    "strongs": "G5357"
+  },
+  "φιάλην": {
+    "translation": "taça",
+    "strongs": "G5357"
+  },
+  "φυλή": {
+    "translation": "tribo",
+    "strongs": "G5443"
+  },
+  "φυλῆς": {
+    "translation": "tribo",
+    "strongs": "G5443"
+  },
+  "φωνή": {
+    "translation": "voz",
+    "strongs": "G5456"
+  },
+  "φωνὴν": {
+    "translation": "voz",
+    "strongs": "G5456"
+  },
+  "φωνῇ": {
+    "translation": "voz",
+    "strongs": "G5456"
+  },
+  "φωνὴ": {
+    "translation": "voz",
+    "strongs": "G5456"
+  },
+  "χάραγμα": {
+    "translation": "marca",
+    "strongs": "G5480"
+  },
+  "χάρις": {
+    "translation": "graça",
+    "strongs": "G5485"
+  },
+  "χείρ": {
+    "translation": "mão",
+    "strongs": "G5495"
+  },
+  "χειρί": {
+    "translation": "mão",
+    "strongs": "G5495"
+  },
+  "χιλιάς": {
+    "translation": "milhar",
+    "strongs": "G5505"
+  },
+  "χιλιάδες": {
+    "translation": "milhares",
+    "strongs": "G5505"
+  },
+  "Ὦ": {
+    "translation": "Ômega",
+    "strongs": "G5598"
+  },
+  "ὢν": {
+    "translation": "sendo",
+    "strongs": "G5607"
+  },
+  "ὥρα": {
+    "translation": "hora",
+    "strongs": "G5610"
+  },
+  "ἄλλος": {
+    "translation": "outro",
+    "strongs": "G243"
+  },
+  "ἐξῆλθεν": {
+    "translation": "saiu",
+    "strongs": "G1831"
+  },
+  "ἔβαλεν": {
+    "translation": "lançou",
+    "strongs": "G906"
+  },
+  "ἐβλήθη": {
+    "translation": "foi-lançado",
+    "strongs": "G906"
+  },
+  "ἐξουσία": {
+    "translation": "autoridade",
+    "strongs": "G1849"
+  },
+  "ἐξουσίαν": {
+    "translation": "autoridade",
+    "strongs": "G1849"
+  },
+  "ἔπεσαν": {
+    "translation": "caíram",
+    "strongs": "G4098"
+  },
+  "ἔθνη": {
+    "translation": "nações",
+    "strongs": "G1484"
+  },
+  "ἐξέχεεν": {
+    "translation": "derramou",
+    "strongs": "G1632"
+  },
+  "ἀποστείλας": {
+    "translation": "enviando",
+    "strongs": "G649"
+  },
+  "μετ’": {
+    "translation": "com",
+    "strongs": "G3326"
+  },
+  "ἐπ’": {
+    "translation": "sobre",
+    "strongs": "G1909"
+  },
+  "ἰδοὺ": {
+    "translation": "eis",
+    "strongs": "G2400"
+  },
+  "ἐμοῦ": {
+    "translation": "meu",
+    "strongs": "G1700"
+  },
+  "εἶ": {
+    "translation": "és",
+    "strongs": "G1510"
+  },
+  "εἰμι": {
+    "translation": "sou",
+    "strongs": "G1510"
+  },
+  "αὐτήν": {
+    "translation": "ela",
+    "strongs": "G846"
+  },
+  "ὄνομά": {
+    "translation": "nome",
+    "strongs": "G3686"
+  },
+  "Ἔρχου": {
+    "translation": "Vem",
+    "strongs": "G2064"
+  },
+  "ἔτη": {
+    "translation": "anos",
+    "strongs": "G2094"
+  },
+  "ἔστιν": {
+    "translation": "é",
+    "strongs": "G2076"
+  },
+  "ἐστίν": {
+    "translation": "é",
+    "strongs": "G2076"
+  },
+  "ἐθνῶν": {
+    "translation": "nações",
+    "strongs": "G1484"
+  },
+  "χειρὶ": {
+    "translation": "mão",
+    "strongs": "G5495"
+  },
+  "χίλια": {
+    "translation": "mil",
+    "strongs": "G5507"
+  },
+  "φωνῆς": {
+    "translation": "voz",
+    "strongs": "G5456"
+  },
+  "τεσσεράκοντα": {
+    "translation": "quarenta",
+    "strongs": "G5062"
+  },
+  "ταχύ": {
+    "translation": "rapidamente",
+    "strongs": "G5035"
+  },
+  "τέσσαρας": {
+    "translation": "quatro",
+    "strongs": "G5064"
+  },
+  "σάρκας": {
+    "translation": "carnes",
+    "strongs": "G4561"
+  },
+  "πυλῶνες": {
+    "translation": "portões",
+    "strongs": "G4440"
+  },
+  "προσκυνήσουσιν": {
+    "translation": "adorarão",
+    "strongs": "G4352"
+  },
+  "πρεσβυτέρων": {
+    "translation": "anciãos",
+    "strongs": "G4245"
+  },
+  "πορνείας": {
+    "translation": "imoralidade",
+    "strongs": "G4202"
+  },
+  "οἴνου": {
+    "translation": "vinho",
+    "strongs": "G3631"
+  },
+  "ναοῦ": {
+    "translation": "templo",
+    "strongs": "G3485"
+  },
+  "μίαν": {
+    "translation": "uma",
+    "strongs": "G1520"
+  },
+  "λίθῳ": {
+    "translation": "pedra",
+    "strongs": "G3037"
+  },
+  "καπνὸς": {
+    "translation": "fumaça",
+    "strongs": "G2586"
+  },
+  "καθημένῳ": {
+    "translation": "sentado",
+    "strongs": "G2521"
+  },
+  "καθημένου": {
+    "translation": "sentado",
+    "strongs": "G2521"
+  },
+  "θυσιαστηρίου": {
+    "translation": "altar",
+    "strongs": "G2379"
+  },
+  "θηρίῳ": {
+    "translation": "besta",
+    "strongs": "G2342"
+  },
+  "εὑρέθη": {
+    "translation": "foi-encontrado",
+    "strongs": "G2147"
+  },
+  "δρέπανον": {
+    "translation": "foice",
+    "strongs": "G1407"
+  },
+  "δεύτερος": {
+    "translation": "segundo",
+    "strongs": "G1208"
+  },
+  "γυνὴ": {
+    "translation": "mulher",
+    "strongs": "G1135"
+  },
+  "ᾠδὴν": {
+    "translation": "cântico",
+    "strongs": "G5603"
+  },
+  "ὅμοιος": {
+    "translation": "semelhante",
+    "strongs": "G3664"
+  },
+  "ὀργῆς": {
+    "translation": "ira",
+    "strongs": "G3709"
+  },
+  "ἔχουσα": {
+    "translation": "tendo",
+    "strongs": "G2192"
+  },
+  "ἔχοντα": {
+    "translation": "tendo",
+    "strongs": "G2192"
+  },
+  "ἔπεσεν": {
+    "translation": "caiu",
+    "strongs": "G4098"
+  },
+  "ἔκραξεν": {
+    "translation": "gritou",
+    "strongs": "G2896"
+  },
+  "ἐκεῖ": {
+    "translation": "ali",
+    "strongs": "G1563"
+  },
+  "ἐγένοντο": {
+    "translation": "tornaram-se",
+    "strongs": "G1096"
+  },
+  "Ἀμήν": {
+    "translation": "Amém",
+    "strongs": "G281"
+  },
+  "ἄλλο": {
+    "translation": "outro",
+    "strongs": "G243"
+  },
+  "ἀριθμὸς": {
+    "translation": "número",
+    "strongs": "G706"
+  },
+  "ἀπῆλθεν": {
+    "translation": "partiu",
+    "strongs": "G565"
+  },
+  "ἀνοῖξαι": {
+    "translation": "abrir",
+    "strongs": "G455"
+  },
+  "ἀνθρώπους": {
+    "translation": "homens",
+    "strongs": "G444"
+  },
+  "ἀλλ’": {
+    "translation": "mas",
+    "strongs": "G235"
+  },
+  "φωναὶ": {
+    "translation": "vozes",
+    "strongs": "G5456"
+  },
+  "φιάλας": {
+    "translation": "taças",
+    "strongs": "G5357"
+  },
+  "τέσσερα": {
+    "translation": "quatro",
+    "strongs": "G5064"
+  },
+  "σοῦ": {
+    "translation": "teu",
+    "strongs": "G4675"
+  },
+  "σοὶ": {
+    "translation": "a-ti",
+    "strongs": "G4671"
+  },
+  "σεισμὸς": {
+    "translation": "terremoto",
+    "strongs": "G4578"
+  },
+  "πρεσβύτεροι": {
+    "translation": "anciãos",
+    "strongs": "G4245"
+  },
+  "οὕτως": {
+    "translation": "assim",
+    "strongs": "G3779"
+  },
+  "οὐρανὸν": {
+    "translation": "céu",
+    "strongs": "G3772"
+  },
+  "οἵτινες": {
+    "translation": "os-quais",
+    "strongs": "G3748"
+  },
+  "μή": {
+    "translation": "não",
+    "strongs": "G3361"
+  },
+  "μέγαν": {
+    "translation": "grande",
+    "strongs": "G3173"
+  },
+  "λόγους": {
+    "translation": "palavras",
+    "strongs": "G3056"
+  },
+  "λεγούσης": {
+    "translation": "dizendo",
+    "strongs": "G3004"
+  },
+  "λέγουσαν": {
+    "translation": "dizendo",
+    "strongs": "G3004"
+  },
+  "κατοικοῦντας": {
+    "translation": "habitantes",
+    "strongs": "G2730"
+  },
+  "θρόνον": {
+    "translation": "trono",
+    "strongs": "G2362"
+  },
+  "εἰσὶν": {
+    "translation": "são",
+    "strongs": "G1526"
+  },
+  "εἰσίν": {
+    "translation": "são",
+    "strongs": "G1526"
+  },
+  "γυναῖκα": {
+    "translation": "mulher",
+    "strongs": "G1135"
+  },
+  "βιβλίου": {
+    "translation": "livro",
+    "strongs": "G975"
+  },
+  "βασιλέων": {
+    "translation": "reis",
+    "strongs": "G935"
+  },
+  "αὐτό": {
+    "translation": "isso",
+    "strongs": "G846"
+  },
+  "Κύριε": {
+    "translation": "Senhor",
+    "strongs": "G2962"
+  },
+  "Βαβυλὼν": {
+    "translation": "Babilônia",
+    "strongs": "G897"
+  },
+  "ῥάβδῳ": {
+    "translation": "vara",
+    "strongs": "G4464"
+  },
+  "ὑποκάτω": {
+    "translation": "debaixo",
+    "strongs": "G5270"
+  },
+  "ὅμοιοι": {
+    "translation": "semelhantes",
+    "strongs": "G3664"
+  },
+  "ὄρος": {
+    "translation": "monte",
+    "strongs": "G3735"
+  },
+  "ὀφθαλμῶν": {
+    "translation": "olhos",
+    "strongs": "G3788"
+  },
+  "ἥτις": {
+    "translation": "a-qual",
+    "strongs": "G3748"
+  },
+  "ἔχοντες": {
+    "translation": "tendo",
+    "strongs": "G2192"
+  },
+  "ἔχοντας": {
+    "translation": "tendo",
+    "strongs": "G2192"
+  },
+  "ἑκατὸν": {
+    "translation": "cem",
+    "strongs": "G1540"
+  },
+  "ἐχόντων": {
+    "translation": "tendo",
+    "strongs": "G2192"
+  },
+  "ἐκπορεύεται": {
+    "translation": "sai",
+    "strongs": "G1607"
+  },
+  "ἐδύνατο": {
+    "translation": "podia",
+    "strongs": "G1410"
+  },
+  "ἐγενόμην": {
+    "translation": "tornei-me",
+    "strongs": "G1096"
+  },
+  "Ἁλληλουϊά": {
+    "translation": "Aleluia",
+    "strongs": "G239"
+  },
+  "Ἀρνίῳ": {
+    "translation": "Cordeiro",
+    "strongs": "G721"
+  },
+  "ἄλλον": {
+    "translation": "outro",
+    "strongs": "G243"
+  },
+  "ἀστραπαὶ": {
+    "translation": "relâmpagos",
+    "strongs": "G796"
+  },
+  "ἀστέρων": {
+    "translation": "estrelas",
+    "strongs": "G792"
+  },
+  "ἀριθμὸν": {
+    "translation": "número",
+    "strongs": "G706"
+  },
+  "ἀπεκτάνθησαν": {
+    "translation": "foram-mortos",
+    "strongs": "G615"
+  },
+  "ἀδικῆσαι": {
+    "translation": "prejudicar",
+    "strongs": "G91"
+  },
+  "λέγων": {
+    "translation": "dizendo",
+    "strongs": "G3004"
+  },
+  "λέγοντες": {
+    "translation": "dizendo",
+    "strongs": "G3004"
+  },
+  "καὶ": {
+    "translation": "e",
+    "strongs": "G2532"
+  },
+  "ἐν": {
+    "translation": "em",
+    "strongs": "G1722"
+  },
+  "οὐ": {
+    "translation": "não",
+    "strongs": "G3756"
+  },
+  "οὐκ": {
+    "translation": "não",
+    "strongs": "G3756"
+  },
+  "τοῦ": {
+    "translation": "do",
+    "strongs": "G3588"
+  },
+  "τῆς": {
+    "translation": "da",
+    "strongs": "G3588"
+  },
+  "τὸ": {
+    "translation": "o",
+    "strongs": "G3588"
+  },
+  "τὸν": {
+    "translation": "o",
+    "strongs": "G3588"
+  },
+  "τῷ": {
+    "translation": "ao",
+    "strongs": "G3588"
+  },
+  "αὐτοῦ": {
+    "translation": "dele",
+    "strongs": "G846"
+  },
+  "αὐτῷ": {
+    "translation": "a-ele",
+    "strongs": "G846"
+  },
+  "αὐτὸν": {
+    "translation": "ele",
+    "strongs": "G846"
+  },
+  "αὐτῶν": {
+    "translation": "deles",
+    "strongs": "G846"
+  },
+  "ὁ": {
+    "translation": "o",
+    "strongs": "G3588"
+  },
+  "ἡ": {
+    "translation": "a",
+    "strongs": "G3588"
+  },
+  "οἱ": {
+    "translation": "os",
+    "strongs": "G3588"
+  },
+  "αἱ": {
+    "translation": "as",
+    "strongs": "G3588"
+  },
+  "τὰ": {
+    "translation": "as-coisas",
+    "strongs": "G3588"
+  },
+  "τοὺς": {
+    "translation": "os",
+    "strongs": "G3588"
+  },
+  "τῶν": {
+    "translation": "dos",
+    "strongs": "G3588"
+  },
+  "τὴν": {
+    "translation": "a",
+    "strongs": "G3588"
+  },
+  "τοῖς": {
+    "translation": "aos",
+    "strongs": "G3588"
+  },
+  "ταῖς": {
+    "translation": "às",
+    "strongs": "G3588"
+  },
+  "ἐκ": {
+    "translation": "de",
+    "strongs": "G1537"
+  },
+  "ἐξ": {
+    "translation": "de",
+    "strongs": "G1537"
+  },
+  "εἰς": {
+    "translation": "para",
+    "strongs": "G1519"
+  },
+  "ἐπὶ": {
+    "translation": "sobre",
+    "strongs": "G1909"
+  },
+  "πρὸς": {
+    "translation": "para",
+    "strongs": "G4314"
+  },
+  "διὰ": {
+    "translation": "através",
+    "strongs": "G1223"
+  },
+  "ὡς": {
+    "translation": "como",
+    "strongs": "G5613"
+  },
+  "μου": {
+    "translation": "meu",
+    "strongs": "G1473"
+  },
+  "ἐγὼ": {
+    "translation": "eu",
+    "strongs": "G1473"
+  },
+  "σε": {
+    "translation": "te",
+    "strongs": "G4571"
+  },
+  "μοι": {
+    "translation": "me",
+    "strongs": "G1473"
+  },
+  "με": {
+    "translation": "me",
+    "strongs": "G1473"
+  },
+  "ἡμῶν": {
+    "translation": "nosso",
+    "strongs": "G1473"
+  },
+  "ἡμᾶς": {
+    "translation": "nos",
+    "strongs": "G1473"
+  },
+  "ὑμῶν": {
+    "translation": "vosso",
+    "strongs": "G5216"
+  },
+  "ὑμῖν": {
+    "translation": "a-vós",
+    "strongs": "G5213"
+  },
+  "ἤ": {
+    "translation": "ou",
+    "strongs": "G2228"
+  },
+  "ἀλλὰ": {
+    "translation": "mas",
+    "strongs": "G235"
+  },
+  "γὰρ": {
+    "translation": "pois",
+    "strongs": "G1063"
+  },
+  "δὲ": {
+    "translation": "porém",
+    "strongs": "G1161"
+  },
+  "τε": {
+    "translation": "e",
+    "strongs": "G5037"
+  },
+  "ἵνα": {
+    "translation": "para-que",
+    "strongs": "G2443"
+  },
+  "ὅτι": {
+    "translation": "que",
+    "strongs": "G3754"
+  },
+  "ἐάν": {
+    "translation": "se",
+    "strongs": "G1437"
+  },
+  "εἰ": {
+    "translation": "se",
+    "strongs": "G1487"
+  },
+  "κατὰ": {
+    "translation": "segundo",
+    "strongs": "G2596"
+  },
+  "περὶ": {
+    "translation": "acerca",
+    "strongs": "G4012"
+  },
+  "ὑπὲρ": {
+    "translation": "por",
+    "strongs": "G5228"
+  },
+  "ὑπὸ": {
+    "translation": "sob",
+    "strongs": "G5259"
+  },
+  "σὺν": {
+    "translation": "com",
+    "strongs": "G4862"
+  },
+  "πάλιν": {
+    "translation": "novamente",
+    "strongs": "G3825"
+  },
+  "νῦν": {
+    "translation": "agora",
+    "strongs": "G3568"
+  },
+  "πῶς": {
+    "translation": "como",
+    "strongs": "G4459"
+  },
+  "ποῦ": {
+    "translation": "onde",
+    "strongs": "G4226"
+  },
+  "πότε": {
+    "translation": "quando",
+    "strongs": "G4219"
+  },
+  "τότε": {
+    "translation": "então",
+    "strongs": "G5119"
+  },
+  "οὖν": {
+    "translation": "portanto",
+    "strongs": "G3767"
+  },
+  "ἄρα": {
+    "translation": "então",
+    "strongs": "G686"
+  },
+  "μόνον": {
+    "translation": "somente",
+    "strongs": "G3440"
+  },
+  "ἤδη": {
+    "translation": "já",
+    "strongs": "G2235"
+  },
+  "οὕτω": {
+    "translation": "assim",
+    "strongs": "G3779"
+  },
+  "ὧδε": {
+    "translation": "aqui",
+    "strongs": "G5602"
+  },
+  "ἐκεῖνος": {
+    "translation": "aquele",
+    "strongs": "G1565"
+  },
+  "οὗτος": {
+    "translation": "este",
+    "strongs": "G3778"
+  },
+  "αὕτη": {
+    "translation": "esta",
+    "strongs": "G3778"
+  },
+  "τοῦτο": {
+    "translation": "isto",
+    "strongs": "G5124"
+  },
+  "τούτου": {
+    "translation": "disto",
+    "strongs": "G5127"
+  },
+  "ταύτης": {
+    "translation": "desta",
+    "strongs": "G5026"
+  },
+  "τούτῳ": {
+    "translation": "nisto",
+    "strongs": "G5129"
+  },
+  "ταύτῃ": {
+    "translation": "nesta",
+    "strongs": "G5026"
+  },
+  "πᾶν": {
+    "translation": "todo",
+    "strongs": "G3956"
+  },
+  "πᾶσα": {
+    "translation": "toda",
+    "strongs": "G3956"
+  },
+  "πάντες": {
+    "translation": "todos",
+    "strongs": "G3956"
+  },
+  "πάσας": {
+    "translation": "todas",
+    "strongs": "G3956"
+  },
+  "πάντα": {
+    "translation": "todas-coisas",
+    "strongs": "G3956"
+  },
+  "ἕως": {
+    "translation": "até",
+    "strongs": "G2193"
+  },
+  "μέχρι": {
+    "translation": "até",
+    "strongs": "G3360"
+  },
+  "πρίν": {
+    "translation": "antes",
+    "strongs": "G4250"
+  },
+  "μετὰ": {
+    "translation": "depois",
+    "strongs": "G3326"
+  },
+  "ἀπὸ": {
+    "translation": "de",
+    "strongs": "G575"
+  },
+  "ἀπ’": {
+    "translation": "de",
+    "strongs": "G575"
+  },
+  "ἀφ’": {
+    "translation": "de",
+    "strongs": "G575"
+  },
+  "παρὰ": {
+    "translation": "de",
+    "strongs": "G3844"
+  },
+  "παρ’": {
+    "translation": "de",
+    "strongs": "G3844"
+  }
+}

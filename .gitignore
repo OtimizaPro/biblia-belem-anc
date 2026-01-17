@@ -1,0 +1,9 @@
+node_modules/
+.wrangler/
+.env
+.stubs/
+bible_databases/
+references/
+nul
+*.db
+.DS_Store

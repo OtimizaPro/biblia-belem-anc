@@ -1,0 +1,23 @@
+{
+  "_description": "Palavras que NÃO devem ser traduzidas - permanecem no original",
+  "categories": {
+    "Theos": {
+      "reason": "Referência a Deus - manter original grego",
+      "words": ["Θεός", "Θεοῦ", "Θεόν", "Θεῷ", "Θεέ", "θεός", "θεοῦ", "θεόν", "θεῷ"]
+    },
+    "Iesous": {
+      "reason": "Nome de Jesus - manter original grego",
+      "words": ["Ἰησοῦς", "Ἰησοῦ", "Ἰησοῦν"]
+    },
+    "Christos": {
+      "reason": "Cristo/Messias - manter original grego",
+      "words": ["Χριστός", "Χριστοῦ", "Χριστόν", "Χριστῷ"]
+    }
+  },
+  "all_words": [
+    "Θεός", "Θεοῦ", "Θεόν", "Θεῷ", "Θεέ",
+    "θεός", "θεοῦ", "θεόν", "θεῷ",
+    "Ἰησοῦς", "Ἰησοῦ", "Ἰησοῦν",
+    "Χριστός", "Χριστοῦ", "Χριστόν", "Χριστῷ"
+  ]
+}
