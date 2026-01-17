@@ -1,0 +1,76 @@
+================================================================================
+REPOSITORIOS E LINKS DO PROJETO
+================================================================================
+Atualizado em: 16 de Janeiro de 2026
+
+================================================================================
+CLOUDFLARE
+================================================================================
+
+Dashboard:        https://dash.cloudflare.com
+Account ID:       28248f850aef40d0c91531280962a88a
+
+Workers:
+  - biblia-belem-api (producao)
+  - URL: https://biblia-belem-api.anderson-282.workers.dev
+
+D1 Database:
+  - Database Name: biblia-belem
+  - Database ID: c068f4c2-6086-4755-a312-c3a5c5685345
+
+Custom Domains:
+  - biblia.aculpaedasovelhas.org -> biblia-belem-api
+
+================================================================================
+GITHUB
+================================================================================
+
+Perfil:           https://github.com/AndersonOtimiza
+Repositorios:     https://github.com/AndersonOtimiza?tab=repositories
+Organizacao:      https://github.com/orgs/OtimizaPro/dashboard
+
+================================================================================
+URLS DE PRODUCAO
+================================================================================
+
+API (Workers):        https://biblia-belem-api.anderson-282.workers.dev
+API (Custom Domain):  https://biblia.aculpaedasovelhas.org
+Interface de Leitura: https://aculpaedasovelhas.org/ler-biblia.html
+Health Check:         https://biblia.aculpaedasovelhas.org/health
+Documentacao API:     https://biblia.aculpaedasovelhas.org/docs
+
+================================================================================
+ECOSSISTEMA - URLS
+================================================================================
+
+Site Principal:       https://aculpaedasovelhas.org
+Blog:                 https://aculpaedasovelhas.org/blog
+O Livrinho:           https://aculpaedasovelhas.org/livrinho
+Biblia Belem:         https://aculpaedasovelhas.org/ler-biblia.html
+exeg.ai Plataforma:   https://plataforma.exeg.ai
+exeg.ai Docs:         https://plataforma.exeg.ai/docs
+
+================================================================================
+DESENVOLVIMENTO LOCAL
+================================================================================
+
+API Local:            http://localhost:8787
+Site Local:           http://localhost:8080
+exeg.ai Local:        http://localhost:8000
+
+================================================================================
+COMANDOS UTEIS
+================================================================================
+
+# Deploy da API
+npm run deploy
+
+# Desenvolvimento local
+npm run dev:remote
+
+# Ver logs
+npm run tail
+
+# Lint e Format
+npm run lint
+npm run format

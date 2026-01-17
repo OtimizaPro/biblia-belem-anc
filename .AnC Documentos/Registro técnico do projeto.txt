@@ -1,0 +1,129 @@
+Registro técnico do projeto
+
+================================================================================
+INFORMACOES GERAIS
+================================================================================
+
+Nome: Biblia Belem An.C 2025
+Autor: Belem, Anderson Costa
+Status: Operacional (Producao)
+Data de Atualizacao: 16 de Janeiro de 2026
+
+================================================================================
+URLS DE PRODUCAO
+================================================================================
+
+API (Workers):        https://biblia-belem-api.anderson-282.workers.dev
+API (Custom Domain):  https://biblia.aculpaedasovelhas.org
+Interface de Leitura: https://aculpaedasovelhas.org/ler-biblia.html
+Health Check:         https://biblia.aculpaedasovelhas.org/health
+Documentacao:         https://biblia.aculpaedasovelhas.org/docs
+
+================================================================================
+STACK TECNOLOGICA
+================================================================================
+
+Runtime:      Cloudflare Workers
+Framework:    Hono (v4.6.0)
+Linguagem:    TypeScript (v5.7.0)
+Banco:        Cloudflare D1 (SQLite serverless)
+Build:        esbuild via Wrangler (v4.0.0)
+Linting:      ESLint (v9.39.2)
+Formatacao:   Prettier (v3.7.4)
+
+================================================================================
+CONFIGURACAO CLOUDFLARE
+================================================================================
+
+Account ID:   28248f850aef40d0c91531280962a88a
+Database ID:  c068f4c2-6086-4755-a312-c3a5c5685345
+Database:     biblia-belem
+
+================================================================================
+ESTATISTICAS DO BANCO
+================================================================================
+
+Livros (books):       66
+Versiculos (verses):  31.156
+Tokens (tokens):      441.646
+
+================================================================================
+OBJETIVO
+================================================================================
+
+Oferece ao Leitor uma traducao biblica de literalidade rigida (ipsis litteris)
+verdadeiramente Fiel aos codices originais em Aramaico, Hebraico e Grego Koine.
+Esta Biblia Inovadora elimina as escolhas interpretativas dos tradutores,
+editores e produtores.
+
+================================================================================
+PRINCIPIOS METODOLOGICOS
+================================================================================
+
+1. Literalidade rigida como regra primaria.
+
+2. Preservacao de tempos verbais, ordem sintatica e particulas do texto-fonte
+   no idioma do Leitor.
+
+3. Prioridade absoluta a fidelidade estrutural do texto original em detrimento
+   da "facilidade" da leitura.
+
+4. Exclusao de harmonizacoes, parafrases ou ajustes teologicos como os impostos
+   pelas traducoes Biblicas existentes.
+
+5. Intervencao editorial minima; quando inevitavel, devidamente sinalizada como
+   insercao ([ ]) onde o leitor deve usar a ferramenta exeg.ai (plataforma de
+   IA de exegese Biblica e identificacao de Biblical Easter Eggs) para decidir
+   quais ajustes devem ser feitos em sua Biblia.
+
+6. Separacao estrita entre traducao e apoio interpretativo. Fazemos a traducao,
+   ja a interpretacao pertence ao Leitor.
+
+================================================================================
+USO PRETENDIDO
+================================================================================
+
+- Leitura textual Academica, Tecnica e Devocional.
+- Leitura acompanhada da exeg.ai, que auxilia na identificacao de lacunas
+  semanticas sem que o tradutor imponha decisoes interpretativas e estas sejam
+  realizadas apenas pelo leitor preservando a sua liberdade, responsabilidade
+  e opcoes individuais de interpretacao.
+
+================================================================================
+FONTES TEXTUAIS
+================================================================================
+
+BHSA       - Biblia Hebraica Stuttgartensia
+WLC        - Westminster Leningrad Codex
+SBLGNT     - SBL Greek New Testament
+TR1550     - Textus Receptus 1550
+Nestle1904 - Critica textual
+
+================================================================================
+TEXTO PARA APRESENTACAO PUBLICA
+================================================================================
+
+"A Biblia Belem An.C 2025 e uma traducao literal rigida (ipsis litteris),
+orientada diretamente pelos codices canonicos, que preserva tempos verbais,
+ordem sintatica e particulas, priorizando a estrutura do texto original sobre
+a fluidez. O projeto elimina interferencias interpretativas dos tradutores e
+desloca o suporte explicativo para a exeg.ai, permitindo estudo e leitura com
+autonomia e liberdade ao Leitor."
+
+================================================================================
+ECOSSISTEMA "A CULPA E DAS OVELHAS"
+================================================================================
+
+Bible Belem AnC    - API da Biblia (este projeto)
+Site Institucional - aculpaedasovelhas.org
+exeg.ai            - Plataforma de exegese com IA
+O Livrinho         - Livro "A Culpa e das Ovelhas"
+Blog               - Artigos e reflexoes
+Aprisco            - Comunidade
+
+================================================================================
+LICENCA
+================================================================================
+
+Proprietario - A Culpa e das Ovelhas
+Copyright 2025 Anderson Costa Belem

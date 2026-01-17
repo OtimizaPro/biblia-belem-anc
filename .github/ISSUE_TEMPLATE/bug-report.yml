@@ -1,0 +1,60 @@
+name: "Bug Report"
+description: "Reportar bug na API da Bíblia"
+title: "[BUG] "
+labels: ["bug", "needs-triage"]
+body:
+  - type: dropdown
+    id: component
+    attributes:
+      label: Componente Afetado
+      options:
+        - API /books
+        - API /verses
+        - API /tokens
+        - API /glosses
+        - API /glossary
+        - Frontend/UI
+        - Database
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição do Bug
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Passos para Reproduzir
+      placeholder: |
+        1. Acesse endpoint X
+        2. Envie parâmetro Y
+        3. Observe erro Z
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamento Esperado
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Comportamento Atual
+
+  - type: input
+    id: endpoint
+    attributes:
+      label: Endpoint/URL
+      placeholder: "ex: /api/verses/REV/13/18"
+
+  - type: textarea
+    id: response
+    attributes:
+      label: Resposta da API (se aplicável)
+      description: Cole a resposta JSON ou erro
+      render: json

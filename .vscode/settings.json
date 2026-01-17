@@ -1,0 +1,26 @@
+{
+    "python.analysis.extraPaths": [
+        "c:\\Users\\AndersonBelem\\.vscode-insiders\\extensions\\ms-security.ms-sentinel-1.1.5\\python"
+    ],
+    "github.copilot.chat.locales": ["pt-br"],
+    "copilot.language": "pt-br",
+    "intl.localeVariantMapping": {
+        "pt": "pt-br",
+        "pt-br": "pt-br",
+        "pt_br": "pt-br"
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "eslint.validate": ["typescript"],
+    "prettier.requireConfig": true
+}

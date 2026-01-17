@@ -1,0 +1,824 @@
+[
+  {
+    "results": [
+      {
+        "text_utf8": "ἑπτὰ",
+        "freq": 48
+      },
+      {
+        "text_utf8": "εἶδον",
+        "freq": 45
+      },
+      {
+        "text_utf8": "ἐνώπιον",
+        "freq": 33
+      },
+      {
+        "text_utf8": "ἔχων",
+        "freq": 32
+      },
+      {
+        "text_utf8": "θρόνου",
+        "freq": 28
+      },
+      {
+        "text_utf8": "ἤκουσα",
+        "freq": 27
+      },
+      {
+        "text_utf8": "μετ’",
+        "freq": 26
+      },
+      {
+        "text_utf8": "γῆν",
+        "freq": 25
+      },
+      {
+        "text_utf8": "ἐπ’",
+        "freq": 23
+      },
+      {
+        "text_utf8": "δώδεκα",
+        "freq": 23
+      },
+      {
+        "text_utf8": "ἔτι",
+        "freq": 22
+      },
+      {
+        "text_utf8": "ἐδόθη",
+        "freq": 21
+      },
+      {
+        "text_utf8": "ἰδοὺ",
+        "freq": 19
+      },
+      {
+        "text_utf8": "χιλιάδες",
+        "freq": 17
+      },
+      {
+        "text_utf8": "φωνὴν",
+        "freq": 16
+      },
+      {
+        "text_utf8": "τρίτον",
+        "freq": 16
+      },
+      {
+        "text_utf8": "θηρίον",
+        "freq": 16
+      },
+      {
+        "text_utf8": "Ἀρνίου",
+        "freq": 15
+      },
+      {
+        "text_utf8": "φυλῆς",
+        "freq": 15
+      },
+      {
+        "text_utf8": "ταῦτα",
+        "freq": 15
+      },
+      {
+        "text_utf8": "οὔτε",
+        "freq": 15
+      },
+      {
+        "text_utf8": "θηρίου",
+        "freq": 15
+      },
+      {
+        "text_utf8": "εἰσιν",
+        "freq": 15
+      },
+      {
+        "text_utf8": "φωνῇ",
+        "freq": 14
+      },
+      {
+        "text_utf8": "ὅτε",
+        "freq": 13
+      },
+      {
+        "text_utf8": "ἐξουσίαν",
+        "freq": 13
+      },
+      {
+        "text_utf8": "μεγάλῃ",
+        "freq": 13
+      },
+      {
+        "text_utf8": "αἰῶνας",
+        "freq": 13
+      },
+      {
+        "text_utf8": "αἰώνων",
+        "freq": 13
+      },
+      {
+        "text_utf8": "ἁγίων",
+        "freq": 12
+      },
+      {
+        "text_utf8": "φωνὴ",
+        "freq": 12
+      },
+      {
+        "text_utf8": "βιβλίον",
+        "freq": 12
+      },
+      {
+        "text_utf8": "ἔχουσιν",
+        "freq": 11
+      },
+      {
+        "text_utf8": "ἔθνη",
+        "freq": 11
+      },
+      {
+        "text_utf8": "ἐμοῦ",
+        "freq": 11
+      },
+      {
+        "text_utf8": "ἄχρι",
+        "freq": 11
+      },
+      {
+        "text_utf8": "οὐδεὶς",
+        "freq": 11
+      },
+      {
+        "text_utf8": "θάλασσαν",
+        "freq": 11
+      },
+      {
+        "text_utf8": "ἤνοιξεν",
+        "freq": 10
+      },
+      {
+        "text_utf8": "ἐκκλησίαις",
+        "freq": 10
+      },
+      {
+        "text_utf8": "πόλις",
+        "freq": 10
+      },
+      {
+        "text_utf8": "δώσω",
+        "freq": 10
+      },
+      {
+        "text_utf8": "βασιλεῖς",
+        "freq": 10
+      },
+      {
+        "text_utf8": "αὐτούς",
+        "freq": 10
+      },
+      {
+        "text_utf8": "ἔβαλεν",
+        "freq": 9
+      },
+      {
+        "text_utf8": "στόματος",
+        "freq": 9
+      },
+      {
+        "text_utf8": "μεγάλης",
+        "freq": 9
+      },
+      {
+        "text_utf8": "μεγάλην",
+        "freq": 9
+      },
+      {
+        "text_utf8": "κεφαλὰς",
+        "freq": 9
+      },
+      {
+        "text_utf8": "καθήμενος",
+        "freq": 9
+      },
+      {
+        "text_utf8": "θαλάσσης",
+        "freq": 9
+      },
+      {
+        "text_utf8": "δύο",
+        "freq": 9
+      },
+      {
+        "text_utf8": "δράκων",
+        "freq": 9
+      },
+      {
+        "text_utf8": "δέκα",
+        "freq": 9
+      },
+      {
+        "text_utf8": "γράψον",
+        "freq": 9
+      },
+      {
+        "text_utf8": "ἔχεις",
+        "freq": 8
+      },
+      {
+        "text_utf8": "ἔπεσαν",
+        "freq": 8
+      },
+      {
+        "text_utf8": "ἐξῆλθεν",
+        "freq": 8
+      },
+      {
+        "text_utf8": "ἐξουσία",
+        "freq": 8
+      },
+      {
+        "text_utf8": "ἐβλήθη",
+        "freq": 8
+      },
+      {
+        "text_utf8": "Ἀρνίον",
+        "freq": 8
+      },
+      {
+        "text_utf8": "ἄλλος",
+        "freq": 8
+      },
+      {
+        "text_utf8": "ἀκουσάτω",
+        "freq": 8
+      },
+      {
+        "text_utf8": "τεσσάρων",
+        "freq": 8
+      },
+      {
+        "text_utf8": "τέσσαρες",
+        "freq": 8
+      },
+      {
+        "text_utf8": "σφραγῖδα",
+        "freq": 8
+      },
+      {
+        "text_utf8": "πόλεως",
+        "freq": 8
+      },
+      {
+        "text_utf8": "πόλεμον",
+        "freq": 8
+      },
+      {
+        "text_utf8": "ποιῆσαι",
+        "freq": 8
+      },
+      {
+        "text_utf8": "οὗτοι",
+        "freq": 8
+      },
+      {
+        "text_utf8": "οὖς",
+        "freq": 8
+      },
+      {
+        "text_utf8": "κέρατα",
+        "freq": 8
+      },
+      {
+        "text_utf8": "θυμοῦ",
+        "freq": 8
+      },
+      {
+        "text_utf8": "εἶ",
+        "freq": 8
+      },
+      {
+        "text_utf8": "εἰμι",
+        "freq": 8
+      },
+      {
+        "text_utf8": "Οὐαὶ",
+        "freq": 8
+      },
+      {
+        "text_utf8": "ὅμοιον",
+        "freq": 7
+      },
+      {
+        "text_utf8": "Ἰδοὺ",
+        "freq": 7
+      },
+      {
+        "text_utf8": "ἑπτά",
+        "freq": 7
+      },
+      {
+        "text_utf8": "ἐσάλπισεν",
+        "freq": 7
+      },
+      {
+        "text_utf8": "ἐξέχεεν",
+        "freq": 7
+      },
+      {
+        "text_utf8": "χάραγμα",
+        "freq": 7
+      },
+      {
+        "text_utf8": "φιάλην",
+        "freq": 7
+      },
+      {
+        "text_utf8": "τρεῖς",
+        "freq": 7
+      },
+      {
+        "text_utf8": "πόλιν",
+        "freq": 7
+      },
+      {
+        "text_utf8": "προφητείας",
+        "freq": 7
+      },
+      {
+        "text_utf8": "προσεκύνησαν",
+        "freq": 7
+      },
+      {
+        "text_utf8": "νικῶν",
+        "freq": 7
+      },
+      {
+        "text_utf8": "μαρτυρίαν",
+        "freq": 7
+      },
+      {
+        "text_utf8": "μέσῳ",
+        "freq": 7
+      },
+      {
+        "text_utf8": "λέγοντος",
+        "freq": 7
+      },
+      {
+        "text_utf8": "θρόνῳ",
+        "freq": 7
+      },
+      {
+        "text_utf8": "εἷς",
+        "freq": 7
+      },
+      {
+        "text_utf8": "εἶδες",
+        "freq": 7
+      },
+      {
+        "text_utf8": "αὐτήν",
+        "freq": 7
+      },
+      {
+        "text_utf8": "Παντοκράτωρ",
+        "freq": 7
+      },
+      {
+        "text_utf8": "Θεός",
+        "freq": 7
+      },
+      {
+        "text_utf8": "ὄνομά",
+        "freq": 6
+      },
+      {
+        "text_utf8": "ὀνόματα",
+        "freq": 6
+      },
+      {
+        "text_utf8": "Ἔρχου",
+        "freq": 6
+      },
+      {
+        "text_utf8": "ἔτη",
+        "freq": 6
+      },
+      {
+        "text_utf8": "ἔστιν",
+        "freq": 6
+      },
+      {
+        "text_utf8": "ἐστίν",
+        "freq": 6
+      },
+      {
+        "text_utf8": "ἐθνῶν",
+        "freq": 6
+      },
+      {
+        "text_utf8": "χειρὶ",
+        "freq": 6
+      },
+      {
+        "text_utf8": "χίλια",
+        "freq": 6
+      },
+      {
+        "text_utf8": "φωνῆς",
+        "freq": 6
+      },
+      {
+        "text_utf8": "τεσσεράκοντα",
+        "freq": 6
+      },
+      {
+        "text_utf8": "ταχύ",
+        "freq": 6
+      },
+      {
+        "text_utf8": "τέσσαρας",
+        "freq": 6
+      },
+      {
+        "text_utf8": "σάρκας",
+        "freq": 6
+      },
+      {
+        "text_utf8": "πυλῶνες",
+        "freq": 6
+      },
+      {
+        "text_utf8": "προσκυνήσουσιν",
+        "freq": 6
+      },
+      {
+        "text_utf8": "πρεσβυτέρων",
+        "freq": 6
+      },
+      {
+        "text_utf8": "πορνείας",
+        "freq": 6
+      },
+      {
+        "text_utf8": "πολλῶν",
+        "freq": 6
+      },
+      {
+        "text_utf8": "οἴνου",
+        "freq": 6
+      },
+      {
+        "text_utf8": "ναοῦ",
+        "freq": 6
+      },
+      {
+        "text_utf8": "μίαν",
+        "freq": 6
+      },
+      {
+        "text_utf8": "λίθῳ",
+        "freq": 6
+      },
+      {
+        "text_utf8": "καπνὸς",
+        "freq": 6
+      },
+      {
+        "text_utf8": "καθημένῳ",
+        "freq": 6
+      },
+      {
+        "text_utf8": "καθημένου",
+        "freq": 6
+      },
+      {
+        "text_utf8": "θυσιαστηρίου",
+        "freq": 6
+      },
+      {
+        "text_utf8": "θηρίῳ",
+        "freq": 6
+      },
+      {
+        "text_utf8": "εὑρέθη",
+        "freq": 6
+      },
+      {
+        "text_utf8": "δρέπανον",
+        "freq": 6
+      },
+      {
+        "text_utf8": "δεύτερος",
+        "freq": 6
+      },
+      {
+        "text_utf8": "γυνὴ",
+        "freq": 6
+      },
+      {
+        "text_utf8": "γεγραμμένον",
+        "freq": 6
+      },
+      {
+        "text_utf8": "ᾠδὴν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ὢν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ὅμοιος",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ὀργῆς",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἔχουσα",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἔχοντα",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἔπεσεν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἔκραξεν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἐκεῖ",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἐγένοντο",
+        "freq": 5
+      },
+      {
+        "text_utf8": "Ἀμήν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἄλλο",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἀριθμὸς",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἀπῆλθεν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἀνοῖξαι",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἀνθρώπους",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ἀλλ’",
+        "freq": 5
+      },
+      {
+        "text_utf8": "φωναὶ",
+        "freq": 5
+      },
+      {
+        "text_utf8": "φιάλας",
+        "freq": 5
+      },
+      {
+        "text_utf8": "τέσσερα",
+        "freq": 5
+      },
+      {
+        "text_utf8": "στόμα",
+        "freq": 5
+      },
+      {
+        "text_utf8": "σοῦ",
+        "freq": 5
+      },
+      {
+        "text_utf8": "σοὶ",
+        "freq": 5
+      },
+      {
+        "text_utf8": "σεισμὸς",
+        "freq": 5
+      },
+      {
+        "text_utf8": "πρεσβύτεροι",
+        "freq": 5
+      },
+      {
+        "text_utf8": "οὕτως",
+        "freq": 5
+      },
+      {
+        "text_utf8": "οὐρανὸν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "οἵτινες",
+        "freq": 5
+      },
+      {
+        "text_utf8": "μή",
+        "freq": 5
+      },
+      {
+        "text_utf8": "μέγαν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "λόγους",
+        "freq": 5
+      },
+      {
+        "text_utf8": "λεγούσης",
+        "freq": 5
+      },
+      {
+        "text_utf8": "λέγουσαν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "κατοικοῦντας",
+        "freq": 5
+      },
+      {
+        "text_utf8": "θρόνον",
+        "freq": 5
+      },
+      {
+        "text_utf8": "εἰσὶν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "εἰσίν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "γυναῖκα",
+        "freq": 5
+      },
+      {
+        "text_utf8": "βιβλίου",
+        "freq": 5
+      },
+      {
+        "text_utf8": "βασιλέων",
+        "freq": 5
+      },
+      {
+        "text_utf8": "αὐτό",
+        "freq": 5
+      },
+      {
+        "text_utf8": "Κύριε",
+        "freq": 5
+      },
+      {
+        "text_utf8": "Βαβυλὼν",
+        "freq": 5
+      },
+      {
+        "text_utf8": "ῥάβδῳ",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ὑποκάτω",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ὅμοιοι",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ὄρος",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ὀφθαλμῶν",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἥτις",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἔχοντες",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἔχοντας",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἑκατὸν",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἐχόντων",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἐκπορεύεται",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἐδύνατο",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἐγενόμην",
+        "freq": 4
+      },
+      {
+        "text_utf8": "Ἁλληλουϊά",
+        "freq": 4
+      },
+      {
+        "text_utf8": "Ἀρνίῳ",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἄλλον",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἀστραπαὶ",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἀστέρων",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἀριθμὸν",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἀπεκτάνθησαν",
+        "freq": 4
+      },
+      {
+        "text_utf8": "ἀδικῆσαι",
+        "freq": 4
+      },
+      {
+        "text_utf8": "χεῖρα",
+        "freq": 4
+      },
+      {
+        "text_utf8": "χειρὸς",
+        "freq": 4
+      },
+      {
+        "text_utf8": "τόπον",
+        "freq": 4
+      },
+      {
+        "text_utf8": "τρίτος",
+        "freq": 4
+      },
+      {
+        "text_utf8": "τούτου",
+        "freq": 4
+      },
+      {
+        "text_utf8": "τιμὴν",
+        "freq": 4
+      }
+    ],
+    "success": true,
+    "meta": {
+      "served_by": "v3-prod",
+      "served_by_region": "ENAM",
+      "served_by_colo": "MIA",
+      "served_by_primary": true,
+      "timings": {
+        "sql_duration_ms": 9.1767
+      },
+      "duration": 9.1767,
+      "changes": 0,
+      "last_row_id": 0,
+      "changed_db": false,
+      "size_after": 86724608,
+      "rows_read": 16854,
+      "rows_written": 0,
+      "total_attempts": 1
+    }
+  }
+]

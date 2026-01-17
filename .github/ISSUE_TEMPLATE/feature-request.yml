@@ -1,0 +1,46 @@
+name: "Feature Request"
+description: "Sugerir nova funcionalidade para a API"
+title: "[FEATURE] "
+labels: ["enhancement", "needs-review"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição da Funcionalidade
+      description: Descreva a funcionalidade desejada
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Caso de Uso
+      description: Como essa funcionalidade seria utilizada?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: component
+    attributes:
+      label: Componente
+      options:
+        - API Endpoints
+        - Glossário
+        - Tradução
+        - Search/Busca
+        - Frontend
+        - Documentação
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Solução Proposta
+      description: Se tiver uma ideia de implementação, descreva
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas Consideradas
+      description: Outras abordagens que considerou
