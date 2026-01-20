@@ -11,1033 +11,1034 @@ Sem suavização. Sem normalização. Sem interferência do tradutor.
 
 ── Capítulo 1 ──
 
-1  homem shet envosh
-2  qeynon mahalalel yored
-3  chanvokh mtushelach lomekh
-4  nocha nome chom voyofet
-5  filhos-de yefet gomer umogvog umoday vyovon vtuvol umeshekh vtiros
-6  uvney gomer ashkanaz vdifat vtvogarmoh
-7  uvney yovon elishoh vtarshiyshoh kitiym vrvodoniym
-8  filhos-de chom kush umitsrayim put ukhno'an
-9  uvney khush svo vachaviloh vsavto vra'mo vsavtkho uvney ra'mo shvo uddon
-10  vkhush dar-à-luz [OBJ] ele hechel lihyvot gibvor boorets
-11  umitsrayim dar-à-luz [OBJ] e-[OBJ] vet-'anomiym e-[OBJ] vet-naftuchiym e-[OBJ]
-12  e-[OBJ] vet-kasluchiym e-[OBJ] yotsu que plishtiym vet-kaftoriym e-[OBJ]
-13  ukhna'an dar-à-luz [OBJ] bkhorvo vet-chet e-[OBJ]
-14  e-[OBJ] vet-hoemoriy e-[OBJ] hagirgoshiy e-[OBJ]
-15  e-[OBJ] vet-h͏a'arqiy e-[OBJ] e-[OBJ]
-16  e-[OBJ] vet-hatsּmoriy e-[OBJ] e-[OBJ]
-17  filhos-de nome eylom vashּur varpakhshad vlud vaarom v'uts vchul vgeter vomeshekh
-18  varpakhshad dar-à-luz [OBJ] enviou dar-à-luz et-'ever [OBJ]
-19  ul'ever yulּad segundo filhos nome o-primeiro peleg que vyomoyv niflgoh a-terra vshem ochiyv yoqton
-20  vyoqton dar-à-luz [OBJ] vet-sholef e-[OBJ] vet-yorach e-[OBJ] e-[OBJ]
-21  e-[OBJ] vet-uzol e-[OBJ] e-[OBJ]
-22  e-[OBJ] vet-avimoel e-[OBJ] e-[OBJ]
-23  e-[OBJ] vet-chaviloh e-[OBJ] kol-elּeh e-[OBJ] yoqton todo filhos-de
-24  shem ׀ enviou
-25  ever peleg r'u
-26  srug nochvor torach
-27  avrom ele Abraão
-28  filhos-de Abraão Isaque vyishmo'el
-29  Estas toldvotom bkhvor yishmo'el nvoyvot vqedor vadbel umivsom
-30  mishmo vdumoh masּo chadad vteymo
-31  ytur nofiysh voqedmoh Estas eles filhos-de yishmo'el
-32  uvney qturoh pilegesh Abraão yoldoh [OBJ] vyoqshon umdon umidyon vyishboq vshucha uvney yoqshon shvo uddon
-33  uvney midyon eyfoh vo'efer vachanvokh vaavido veldo'oh todo bney filhos-de
-34  vayּvoled Abraão [OBJ] Isaque filhos-de Isaque esov vyisroel
-35  filhos-de esov elifaz r'uel vi'ush vya'lom vqorach
-36  filhos-de elifoz teymon vvomor tsfiy vga'tom qnaz vtimno va'amoleq
-37  filhos-de r'uel nachat zerach shamּoh umizּoh
-38  uvney se'iyr lvoton vshvovol vtsiv'von v͏a'anoh vdishon vetser vdishon
-39  uvney lvoton choriy vhvomom vaachvot lvoton timno
-40  filhos-de shvovol alyon umonachat v'eyvol shfiy vvonom s uvney tsiv'von ayּoh
-41  filhos-de anoh dishvon s uvney dishvon chamron veshbon vyitron
-42  bney-etser bilhon vza'avon ya'aqon bney filhos-de uts vaaron
-43  velּeh hamּlokhiym que molkhu berets edvom lifney rei-de rei yisroel Israel ben-b'vor filho-de irvo dinhovoh
-44  E-morreu bola vayּimlokh tachtoyv yvovov filho-de mibotsroh
-45  E-morreu yvovov vayּimlokh tachtoyv chushom meerets hateymoniy
-46  E-morreu chushom vayּimlokh tachtoyv hadad filho-de hamּakeh et-midyon [OBJ] mvoov vshem irvo *'yvt **'aviyt
-47  E-morreu hadod vayּimlokh tachtoyv samloh mimּasreqoh
-48  E-morreu samloh vayּimlokh tachtoyv shoul merchovvot o-rio
-49  E-morreu shoul vayּimlokh tachtoyv ba'al chonon filho-de
-50  E-morreu ba'al chonon vayּimlokh tachtoyv hadad vshem irvo po'i vshem ishtvo mheytavel bat-matred bat mey ouro
-51  E-morreu hadod s vayּihyu alּufey edvom alּuf timno alּuf *'lyh
-52  alּuf oholivomoh alּuf eloh alּuf pinon
-53  alּuf qnaz alּuf teymon alּuf mivtsor
-54  alּuf magdiel alּuf irom Estas alּufey edvom
+homem shet envosh
+qeynon mahalalel yored
+chanvokh mtushelach lomekh
+nocha nome chom voyofet
+filhos-de yefet gomer umogvog umoday vyovon vtuvol umeshekh vtiros
+uvney gomer ashkanaz vdifat vtvogarmoh
+uvney yovon elishoh vtarshiyshoh kitiym vrvodoniym
+filhos-de chom kush umitsrayim put ukhno'an
+uvney khush svo vachaviloh vsavto vra'mo vsavtkho uvney ra'mo shvo uddon
+vkhush dar-à-luz [OBJ] ele hechel lihyvot gibvor boorets
+umitsrayim dar-à-luz [OBJ] e-[OBJ] vet-'anomiym e-[OBJ] vet-naftuchiym e-[OBJ]
+e-[OBJ] vet-kasluchiym e-[OBJ] yotsu que plishtiym vet-kaftoriym e-[OBJ]
+ukhna'an dar-à-luz [OBJ] bkhorvo vet-chet e-[OBJ]
+e-[OBJ] vet-hoemoriy e-[OBJ] hagirgoshiy e-[OBJ]
+e-[OBJ] vet-h͏a'arqiy e-[OBJ] e-[OBJ]
+e-[OBJ] vet-hatsּmoriy e-[OBJ] e-[OBJ]
+filhos-de nome eylom vashּur varpakhshad vlud vaarom v'uts vchul vgeter vomeshekh
+varpakhshad dar-à-luz [OBJ] enviou dar-à-luz et-'ever [OBJ]
+ul'ever yulּad segundo filhos nome o-primeiro peleg que vyomoyv niflgoh a-terra vshem ochiyv yoqton
+vyoqton dar-à-luz [OBJ] vet-sholef e-[OBJ] vet-yorach e-[OBJ] e-[OBJ]
+e-[OBJ] vet-uzol e-[OBJ] e-[OBJ]
+e-[OBJ] vet-avimoel e-[OBJ] e-[OBJ]
+e-[OBJ] vet-chaviloh e-[OBJ] kol-elּeh e-[OBJ] yoqton todo filhos-de
+shem ׀ enviou
+ever peleg r'u
+srug nochvor torach
+avrom ele Abraão
+filhos-de Abraão Isaque vyishmo'el
+Estas toldvotom bkhvor yishmo'el nvoyvot vqedor vadbel umivsom
+mishmo vdumoh masּo chadad vteymo
+ytur nofiysh voqedmoh Estas eles filhos-de yishmo'el
+uvney qturoh pilegesh Abraão yoldoh [OBJ] vyoqshon umdon umidyon vyishboq vshucha uvney yoqshon shvo uddon
+uvney midyon eyfoh vo'efer vachanvokh vaavido veldo'oh todo bney filhos-de
+vayּvoled Abraão [OBJ] Isaque filhos-de Isaque esov vyisroel
+filhos-de esov elifaz r'uel vi'ush vya'lom vqorach
+filhos-de elifoz teymon vvomor tsfiy vga'tom qnaz vtimno va'amoleq
+filhos-de r'uel nachat zerach shamּoh umizּoh
+uvney se'iyr lvoton vshvovol vtsiv'von v͏a'anoh vdishon vetser vdishon
+uvney lvoton choriy vhvomom vaachvot lvoton timno
+filhos-de shvovol alyon umonachat v'eyvol shfiy vvonom s uvney tsiv'von ayּoh
+filhos-de anoh dishvon s uvney dishvon chamron veshbon vyitron
+bney-etser bilhon vza'avon ya'aqon bney filhos-de uts vaaron
+velּeh hamּlokhiym que molkhu berets edvom lifney rei-de rei yisroel Israel ben-b'vor filho-de irvo dinhovoh
+E-morreu bola vayּimlokh tachtoyv yvovov filho-de mibotsroh
+E-morreu yvovov vayּimlokh tachtoyv chushom meerets hateymoniy
+E-morreu chushom vayּimlokh tachtoyv hadad filho-de hamּakeh et-midyon [OBJ] mvoov vshem irvo *'yvt **'aviyt
+E-morreu hadod vayּimlokh tachtoyv samloh mimּasreqoh
+E-morreu samloh vayּimlokh tachtoyv shoul merchovvot o-rio
+E-morreu shoul vayּimlokh tachtoyv ba'al chonon filho-de
+E-morreu ba'al chonon vayּimlokh tachtoyv hadad vshem irvo po'i vshem ishtvo mheytavel bat-matred bat mey ouro
+E-morreu hadod s vayּihyu alּufey edvom alּuf timno alּuf *'lyh
+alּuf oholivomoh alּuf eloh alּuf pinon
+alּuf qnaz alּuf teymon alּuf mivtsor
+alּuf magdiel alּuf irom Estas alּufey edvom
 
 ── Capítulo 2 ──
 
-1  Estas filhos-de Israel ruven shim'von leviy vihudoh yisoshkhor uzvulun
-2  don yvosef uvinyomin naftoliy god vosher
-3  filhos-de yhudoh er vvonon vsheloh shlvoshoh nvolad a-ele mibat-shu'a hakna'aniyt e-houve E-foi ׀ bkhvor yhudoh mau b'eyney YHWH vaymitehu
-4  vtomor kalּotvo yoldoh para-ele [OBJ] vet-zorach e-[OBJ] yhudoh todo filhos-de
-5  bney-ferets chetsrvon vchomul
-6  uvney zerach zimri veyton vheymon vkhalkol vodora kulּom chamishּoh
-7  uvney karmiy okhor vokher Israel que mo'al bacherem
-8  uvney eyton azaryoh
-9  uvney chetsrvon que nvolad-lvo et-yrachmel [OBJ] vet-kluvoy e-[OBJ] e-[OBJ]
-10  vrom hvoliyd [OBJ] v'amּinodov hvoliyd et-nachshvon [OBJ] bney yhudoh filhos-de
-11  vnachshvon hvoliyd [OBJ] vsalmo hvoliyd et-bo'az [OBJ]
-12  uvo'az hvoliyd [OBJ] v'voved hvoliyd et-yishoy [OBJ]
-13  vishay hvoliyd [OBJ] et-eliov [OBJ] hashּeniy vshim'o hashּlishiy
-14  ntanel o-quarto raday hachamishiy
-15  otsem hashּishּiy doviyd hashּvi'iy
-16  *vchytyhm **vachyvoteyhem tsruyoh vaavigoyil uvney tsruyoh avshay El va'asoh-el
-17  vaavigayil yoldoh [OBJ] vaaviy amoso yeter hayּishm'eliy
-18  vkholev filho-de hvoliyd et-'azuvoh [OBJ] vet-yri'vot mulher e-[OBJ] yesher vshvovov vardvon
-19  vatomot azuvoh vayּiqּach-lvo kholev et-efrot [OBJ] a-ele et-chur [OBJ]
-20  vchur hvoliyd [OBJ] vuriy hvoliyd et-btsalel [OBJ]
-21  vachar veio chetsrvon a aviy gil'od vhu lqochoh vhu ben-shishּiym shonoh filho-de a-ele et-sguv [OBJ]
-22  usguv hvoliyd [OBJ] vayhi-lvo esriym vsholvosh oriym berets hagil'od
-23  E-tomou gshur-vaarom et-chauֺt [OBJ] meitom et-qnot vet-bnoteyho [OBJ] iyr e-[OBJ] bney mokhiyr cidade todo filhos-de
-24  vachar mvot-chetsrvon bkholev efrotoh veshet chetsrvon aviּoh vateled a-ele et-ashchur [OBJ] tqvo'a
-25  vayּihyu vney-yrachmel bkhvor chetsrvon habkhvor ׀ rom uvunoh vooren vootsem achiּoh
-26  vathiy mulher acheret liyrachmel ushmoh atoroh hiy mãe vonom
-27  vayּihyu vney-rom bkhvor yrachmel ma'ats vyomiyn vo'eqer
-28  vayּihyu vney-vonom shamּay vyodo uvney shamּay nodov vaavishur
-29  vshem eshet avishur avihoyil vateled a-ele [OBJ] vet-mvoliyd e-[OBJ]
-30  uvney nodov seled vapoyim E-morreu seled não filhos
-31  uvney apayim yish'iy uvney yish'i sheshon uvney sheshon achloy
-32  uvney conheceu achiy shamּay yeter vyvonoton E-morreu yeter não filhos
-33  uvney yvonoton pelet vzozo Estas hoyu filhos-de yrachmel
-34  e-não foi boniym que porque se eved mitsriy servo yarcho
-35  E-colocou sheshon [OBJ] lyarcho avdvo lishּoh vateled a-ele et-'atoy [OBJ]
-36  v'atay holiyd [OBJ] deu hvoliyd et-zovod [OBJ]
-37  vzovod hvoliyd [OBJ] veflol hvoliyd et-'voved [OBJ]
-38  v'voved hvoliyd [OBJ] vyehu hvoliyd et-'azaryoh [OBJ]
-39  va'azaryoh holiyd [OBJ] vchelets holiyd et-el'osoh [OBJ]
-40  vel'osoh holiyd [OBJ] vsismay holiyd et-shalּum [OBJ]
-41  vshalּum hvoliyd [OBJ] viyqamyoh holiyd et-elishomo [OBJ]
-42  uvney kholev achiy yrachmel meysho bkhorvo ele avi-ziyf uvney moreshoh aviy chevrvon
-43  uvney chevrvon qorach vtapucha vreqem voshoma
-44  vshema hvoliyd [OBJ] aviy yorqo'om vreqem hvoliyd et-shamּoy [OBJ]
-45  uven-shamּay mo'von umo'von aviy veyt-tsur casa-de
-46  v'eyfoh pilegesh kolev yoldoh [OBJ] vet-mvotso e-[OBJ] vchoron e-[OBJ] et-gozez [OBJ]
-47  uvney yohdoy regem vyvotom vgeyshon vofelet v'eyfoh vosho'af
-48  pilegesh kolev ma'akhoh dar-à-luz shever e-[OBJ]
-49  vateled sha'af aviy madmanּoh [OBJ] aviy makhbenoh vaaviy giv'o uvat-kolev akhsoh
-50  Estas hoyu filhos-de kholev filho-de bkhvor efrotoh shvovol aviy qiryat y'oriym
-51  salmo aviy casa-de choref aviy veyt-goder casa-de
-52  vayּihyu filhos lshvovol aviy qiryat y'oriym horoeh chatsiy hamּnuchvot
-53  umishpchvot qiryat y'oriym hayּitri vhaputiy vhashּumotiy vhamּishro'iy meelּeh yotsu hatsּor'otiy vhoeshtouliy
-54  filhos-de salmo casa pão untvofotiy atrvot casa yvoov vachatsiy hamּonachtiy hatsּor'iy
-55  umishpchvot sofrim *yshvv **yoshvey ya'bets tir'otiym shim'otiym sukhotiym hemּoh haqּiniym haboiym casa-de aviy
+Estas filhos-de Israel ruven shim'von leviy vihudoh yisoshkhor uzvulun
+don yvosef uvinyomin naftoliy god vosher
+filhos-de yhudoh er vvonon vsheloh shlvoshoh nvolad a-ele mibat-shu'a hakna'aniyt e-houve E-foi ׀ bkhvor yhudoh mau b'eyney yhwh vaymitehu
+vtomor kalּotvo yoldoh para-ele [OBJ] vet-zorach e-[OBJ] yhudoh todo filhos-de
+bney-ferets chetsrvon vchomul
+uvney zerach zimri veyton vheymon vkhalkol vodora kulּom chamishּoh
+uvney karmiy okhor vokher Israel que mo'al bacherem
+uvney eyton azaryoh
+uvney chetsrvon que nvolad-lvo et-yrachmel [OBJ] vet-kluvoy e-[OBJ] e-[OBJ]
+vrom hvoliyd [OBJ] v'amּinodov hvoliyd et-nachshvon [OBJ] bney yhudoh filhos-de
+vnachshvon hvoliyd [OBJ] vsalmo hvoliyd et-bo'az [OBJ]
+uvo'az hvoliyd [OBJ] v'voved hvoliyd et-yishoy [OBJ]
+vishay hvoliyd [OBJ] et-eliov [OBJ] hashּeniy vshim'o hashּlishiy
+ntanel o-quarto raday hachamishiy
+otsem hashּishּiy doviyd hashּvi'iy
+*vchytyhm **vachyvoteyhem tsruyoh vaavigoyil uvney tsruyoh avshay El va'asoh-el
+vaavigayil yoldoh [OBJ] vaaviy amoso yeter hayּishm'eliy
+vkholev filho-de hvoliyd et-'azuvoh [OBJ] vet-yri'vot mulher e-[OBJ] yesher vshvovov vardvon
+vatomot azuvoh vayּiqּach-lvo kholev et-efrot [OBJ] a-ele et-chur [OBJ]
+vchur hvoliyd [OBJ] vuriy hvoliyd et-btsalel [OBJ]
+vachar veio chetsrvon a aviy gil'od vhu lqochoh vhu ben-shishּiym shonoh filho-de a-ele et-sguv [OBJ]
+usguv hvoliyd [OBJ] vayhi-lvo esriym vsholvosh oriym berets hagil'od
+E-tomou gshur-vaarom et-chauֺt [OBJ] meitom et-qnot vet-bnoteyho [OBJ] iyr e-[OBJ] bney mokhiyr cidade todo filhos-de
+vachar mvot-chetsrvon bkholev efrotoh veshet chetsrvon aviּoh vateled a-ele et-ashchur [OBJ] tqvo'a
+vayּihyu vney-yrachmel bkhvor chetsrvon habkhvor ׀ rom uvunoh vooren vootsem achiּoh
+vathiy mulher acheret liyrachmel ushmoh atoroh hiy mãe vonom
+vayּihyu vney-rom bkhvor yrachmel ma'ats vyomiyn vo'eqer
+vayּihyu vney-vonom shamּay vyodo uvney shamּay nodov vaavishur
+vshem eshet avishur avihoyil vateled a-ele [OBJ] vet-mvoliyd e-[OBJ]
+uvney nodov seled vapoyim E-morreu seled não filhos
+uvney apayim yish'iy uvney yish'i sheshon uvney sheshon achloy
+uvney conheceu achiy shamּay yeter vyvonoton E-morreu yeter não filhos
+uvney yvonoton pelet vzozo Estas hoyu filhos-de yrachmel
+e-não foi boniym que porque se eved mitsriy servo yarcho
+E-colocou sheshon [OBJ] lyarcho avdvo lishּoh vateled a-ele et-'atoy [OBJ]
+v'atay holiyd [OBJ] deu hvoliyd et-zovod [OBJ]
+vzovod hvoliyd [OBJ] veflol hvoliyd et-'voved [OBJ]
+v'voved hvoliyd [OBJ] vyehu hvoliyd et-'azaryoh [OBJ]
+va'azaryoh holiyd [OBJ] vchelets holiyd et-el'osoh [OBJ]
+vel'osoh holiyd [OBJ] vsismay holiyd et-shalּum [OBJ]
+vshalּum hvoliyd [OBJ] viyqamyoh holiyd et-elishomo [OBJ]
+uvney kholev achiy yrachmel meysho bkhorvo ele avi-ziyf uvney moreshoh aviy chevrvon
+uvney chevrvon qorach vtapucha vreqem voshoma
+vshema hvoliyd [OBJ] aviy yorqo'om vreqem hvoliyd et-shamּoy [OBJ]
+uven-shamּay mo'von umo'von aviy veyt-tsur casa-de
+v'eyfoh pilegesh kolev yoldoh [OBJ] vet-mvotso e-[OBJ] vchoron e-[OBJ] et-gozez [OBJ]
+uvney yohdoy regem vyvotom vgeyshon vofelet v'eyfoh vosho'af
+pilegesh kolev ma'akhoh dar-à-luz shever e-[OBJ]
+vateled sha'af aviy madmanּoh [OBJ] aviy makhbenoh vaaviy giv'o uvat-kolev akhsoh
+Estas hoyu filhos-de kholev filho-de bkhvor efrotoh shvovol aviy qiryat y'oriym
+salmo aviy casa-de choref aviy veyt-goder casa-de
+vayּihyu filhos lshvovol aviy qiryat y'oriym horoeh chatsiy hamּnuchvot
+umishpchvot qiryat y'oriym hayּitri vhaputiy vhashּumotiy vhamּishro'iy meelּeh yotsu hatsּor'otiy vhoeshtouliy
+filhos-de salmo casa pão untvofotiy atrvot casa yvoov vachatsiy hamּonachtiy hatsּor'iy
+umishpchvot sofrim *yshvv **yoshvey ya'bets tir'otiym shim'otiym sukhotiym hemּoh haqּiniym haboiym casa-de aviy
 
 ── Capítulo 3 ──
 
-1  velּeh hoyu filhos-de dovyid que nvolad-lvo bchevrvon habkhvor ׀ amnon laachino'am hayּizr'eliyt segundo doniּel laavigayil hakarmliyt
-2  hashּlishi lavsholvom filho-de bat-talmay melekh gshur o-quarto adoniּoh ven-chagiyt filho-de
-3  hachamishiy shfatyoh laavitol hashּishּiy yitr'om l'egloh ishtvo
-4  shishּoh nvolad-lvo vchevrvon vayּimlokh-shom sheva nome sete dois ushloshiym vsholvosh shonoh molakh birusholo͏im rei
-5  velּeh nulּdu-lvo birusholoyim shim'o vshvovov vnoton ushlomoh quatro lvat-shu'a bat-'amּiel
-6  vyivchor veelishomo veelifolet
-7  vnogah vnefeg vyofiy'a
-8  veelishomo velyodo veelifelet tish'oh
-9  todo filhos-de doviyd milּvad bney-fiylagshiym vtomor achvotom
-10  uven-shlomoh rchav'om aviּoh vnvo oso vnvo yhvoshofot bnvo
-11  yvorom bnvo achazyohu vnvo yvoosh bnvo
-12  amatsyohu vnvo azaryoh vnvo yvotom bnvo
-13  ochoz bnvo chizqiּohu vnvo mnashּeh vnvo
-14  omvon bnvo yoshiּohu vnvo
-15  uvney yoshiּohu habkhvor yvochonon hashּeniy yhvoyoqiym hashּlishi tsidqiּohu o-quarto shalּum
-16  uvney yhvoyoqiym ykhonyoh vnvo tsidqiּoh vnvo
-17  uvney ykhonyoh asּir shaltiel bnvo
-18  umalkirom ufdoyoh vshenatsּar yqamyoh hvoshomo undavyoh
-19  uvney fdoyoh zrubovel vshim'iy uven-zrubovel mshulּom vachananyoh ushlomiyt achvotom
-20  vachashuvoh voohel uverekhyoh v͏achasadyoh yushav chesed cinco
-21  uven-chananyoh platyoh visha'yoh bney filhos-de bney filhos-de bney filhos-de bney filhos-de
-22  uvney shkhanyoh shma'yoh uvney shma'yoh chatּush vyigol uvoriycha un'aryoh vshofot shishּoh
-23  uven-n'aryoh elyvo'eynay vchizqiּoh v'azriqom shloshoh
-24  uvney elyvo'eynay *hdyvhv **hvodavyohu velyoshiyv ufloyoh v'aqּuv vyvochonon udloyoh
+velּeh hoyu filhos-de dovyid que nvolad-lvo bchevrvon habkhvor ׀ amnon laachino'am hayּizr'eliyt segundo doniּel laavigayil hakarmliyt
+hashּlishi lavsholvom filho-de bat-talmay melekh gshur o-quarto adoniּoh ven-chagiyt filho-de
+hachamishiy shfatyoh laavitol hashּishּiy yitr'om l'egloh ishtvo
+shishּoh nvolad-lvo vchevrvon vayּimlokh-shom sheva nome sete dois ushloshiym vsholvosh shonoh molakh birusholo͏im rei
+velּeh nulּdu-lvo birusholoyim shim'o vshvovov vnoton ushlomoh quatro lvat-shu'a bat-'amּiel
+vyivchor veelishomo veelifolet
+vnogah vnefeg vyofiy'a
+veelishomo velyodo veelifelet tish'oh
+todo filhos-de doviyd milּvad bney-fiylagshiym vtomor achvotom
+uven-shlomoh rchav'om aviּoh vnvo oso vnvo yhvoshofot bnvo
+yvorom bnvo achazyohu vnvo yvoosh bnvo
+amatsyohu vnvo azaryoh vnvo yvotom bnvo
+ochoz bnvo chizqiּohu vnvo mnashּeh vnvo
+omvon bnvo yoshiּohu vnvo
+uvney yoshiּohu habkhvor yvochonon hashּeniy yhvoyoqiym hashּlishi tsidqiּohu o-quarto shalּum
+uvney yhvoyoqiym ykhonyoh vnvo tsidqiּoh vnvo
+uvney ykhonyoh asּir shaltiel bnvo
+umalkirom ufdoyoh vshenatsּar yqamyoh hvoshomo undavyoh
+uvney fdoyoh zrubovel vshim'iy uven-zrubovel mshulּom vachananyoh ushlomiyt achvotom
+vachashuvoh voohel uverekhyoh v͏achasadyoh yushav chesed cinco
+uven-chananyoh platyoh visha'yoh bney filhos-de bney filhos-de bney filhos-de bney filhos-de
+uvney shkhanyoh shma'yoh uvney shma'yoh chatּush vyigol uvoriycha un'aryoh vshofot shishּoh
+uven-n'aryoh elyvo'eynay vchizqiּoh v'azriqom shloshoh
+uvney elyvo'eynay *hdyvhv **hvodavyohu velyoshiyv ufloyoh v'aqּuv vyvochonon udloyoh
 
 ── Capítulo 4 ──
 
-1  filhos-de yhudoh perets chetsrvon vkharmiy vchur vshvovol
-2  uroyoh filho-de hvoliyd et-yachat [OBJ] holiyd et-achumay vet-lohad Estas mishpchvot e-[OBJ]
-3  velּeh aviy eytom yizr'el vyishmo vyidbosh vshem achvotom hatslelpvoni
-4  ufnuel aviy gdor v'ezer aviy chushoh Estas vney-chur bkhvor efrotoh aviy beyt casa
-5  ulashchur aviy tqvo'a hoyu shtey noshiym cheloh vna'aroh
-6  vateled a-ele na'aroh [OBJ] vet-chefer e-[OBJ] vet-hoachashtoriy Estas bney e-[OBJ] filhos-de
-7  uvney cheloh tseret *ytschr
-8  E-espinhos hvoliyd [OBJ] vet-hatsּovevoh e-[OBJ] acharchel ben-horum filho-de
-9  e-houve ya'bets nikhbod meechoyv vimּvo qoroh shmvo ya'bets dizendo que yoladti b'otsev
-10  E-chamou ya'bets lelohey Israel dizendo se abençoou vhirbiyto et-gvuli [OBJ] yodkho imּiy v'osiyto mּero'oh para-não otsbiy e-trouxe Deus E-veio Elohim [OBJ] que
-11  ukhluv achiy-shuchoh hvoliyd et-mchiyr ele aviy eshtvon
-12  veshtvon hvoliyd [OBJ] casa vet-posecha e-[OBJ] aviy e-[OBJ] nochosh Estas cidade rekhoh
-13  uvney qnaz otniel usroyoh uvney otniel chatat
-14  um'vonotay hvoliyd [OBJ] usroyoh hvoliyd et-yvoov [OBJ] gey charoshiym que charoshiym porque
-15  uvney kolev filho-de iyru eloh vono'am uvney eloh uqnaz
-16  uvney yhalּelel ziyf vzifoh tiryo vaasarel
-17  uven-'ezroh yeter umered v'efer vyolvon vatahar et-miryom [OBJ] vet-yishboch e-[OBJ] eshtmo'a e-[OBJ]
-18  vishtvo hayhudiּoh yoldoh [OBJ] aviy gdvor vet-chever e-[OBJ] svokhvo vet-yqutiel aviy e-[OBJ] velּeh bney bityoh vat-par'oh filhos-de tomou mored que tomou
-19  uvney eshet hvodiּoh achvot nacham aviy q'iloh hagarmiy veshtmo'a hamּa'akhotiy
-20  uvney shimvon amnvon vrinּoh filho-de *vtvlvn **vtilvon uvney yish'iy zvochet uven-zvochet
-21  filhos-de sheloh filho-de er aviy lekhoh vla'doh aviy moreshoh umishpchvot beyt-'avodat casa-de lveyt ashbe'a
-22  vyvoqiym vanshey khozevo vyvoosh vsorof que lmvoov vyoshuvi lochem vhadvoriym atiqiym
-23  hemּoh hayּvotsriym vyoshvey nto'iym ugderoh com bimlakhtvo yoshvu shom nome
-24  filhos-de shim'von nmuel vyomiyn yoriyv zerach shoul
-25  shalּum bnvo mivsom bnvo mishmo bnvo
-26  uvney mishmo chamּuel bnvo zakur bnvo shim'iy vnvo
-27  ulshim'iy boniym shishּoh dez uvonvot seis ulechoyv eyn boniym rabiym e-tudo mishpachtom não hirbu até filhos-de
-28  vayּeshvu biver-sheva sete vachatsar shu'ol
-29  uvvilhoh uv'etsem uvtvolod
-30  uvivtuel uvchormoh uvtsiyqlog
-31  uvveyt markovvot uvachatsar susiym uvveyt biriy uvsha'aroyim Estas oreyhem até rei
-32  vchatsreyhem eytom vo'ayin rimּvon vtokhen v'oshon oriym cinco
-33  e-todo asher que he'oriym hoelּeh ad-bo'al esta mvoshvotom vhityachsom a-eles
-34  umshvovov vyamlekh vyvoshoh filho-de
-35  vyvoel vyehu filho-de ben-sroyoh filho-de filho-de
-36  velyvo'eynay vya'aqovoh viyshvochoyoh va'asoyoh va'adiel visimiel uvnoyoh
-37  vzizo filho-de ven-alּvon filho-de ven-shimriy filho-de filho-de filho-de
-38  Estas haboiym bshemvot nsiiym bmishpchvotom uveyt avvoteyhem portsu lorvov
-39  vayּelkhu limvvo gdor até lmizrach hagoy lvaqּesh mir'eh ltsonom
-40  vayּimtsu mir'eh shomen votvov E-a-terra rachavat yodayim vshoqetet ushlevoh que de hayּoshviym shom nome
-41  vayּovou Estas haktuviym bshemvot bimey ׀ rei-de melekh-yhudoh vayּaku [OBJ] vet-*hm'ynym e-[OBJ] que nimtsu-shomּoh vayּacharimum ad-hayּvom até vayּeshvu tachteyhem kiy-mir'eh ltsonom porque nome
-42  umehem de filhos-de shim'von holkhu lhar se'iyr anoshiym cinco mevot uflatyoh un'aryoh urfoyoh v'uzּiel filhos-de yish'iy broshom
-43  vayּaku [OBJ] hapletoh la'amoleq vayּeshvu shom até o-dia hazּeh
+filhos-de yhudoh perets chetsrvon vkharmiy vchur vshvovol
+uroyoh filho-de hvoliyd et-yachat [OBJ] holiyd et-achumay vet-lohad Estas mishpchvot e-[OBJ]
+velּeh aviy eytom yizr'el vyishmo vyidbosh vshem achvotom hatslelpvoni
+ufnuel aviy gdor v'ezer aviy chushoh Estas vney-chur bkhvor efrotoh aviy beyt casa
+ulashchur aviy tqvo'a hoyu shtey noshiym cheloh vna'aroh
+vateled a-ele na'aroh [OBJ] vet-chefer e-[OBJ] vet-hoachashtoriy Estas bney e-[OBJ] filhos-de
+uvney cheloh tseret *ytschr
+E-espinhos hvoliyd [OBJ] vet-hatsּovevoh e-[OBJ] acharchel ben-horum filho-de
+e-houve ya'bets nikhbod meechoyv vimּvo qoroh shmvo ya'bets dizendo que yoladti b'otsev
+E-chamou ya'bets lelohey Israel dizendo se abençoou vhirbiyto et-gvuli [OBJ] yodkho imּiy v'osiyto mּero'oh para-não otsbiy e-trouxe Deus E-veio Elohim [OBJ] que
+ukhluv achiy-shuchoh hvoliyd et-mchiyr ele aviy eshtvon
+veshtvon hvoliyd [OBJ] casa vet-posecha e-[OBJ] aviy e-[OBJ] nochosh Estas cidade rekhoh
+uvney qnaz otniel usroyoh uvney otniel chatat
+um'vonotay hvoliyd [OBJ] usroyoh hvoliyd et-yvoov [OBJ] gey charoshiym que charoshiym porque
+uvney kolev filho-de iyru eloh vono'am uvney eloh uqnaz
+uvney yhalּelel ziyf vzifoh tiryo vaasarel
+uven-'ezroh yeter umered v'efer vyolvon vatahar et-miryom [OBJ] vet-yishboch e-[OBJ] eshtmo'a e-[OBJ]
+vishtvo hayhudiּoh yoldoh [OBJ] aviy gdvor vet-chever e-[OBJ] svokhvo vet-yqutiel aviy e-[OBJ] velּeh bney bityoh vat-par'oh filhos-de tomou mored que tomou
+uvney eshet hvodiּoh achvot nacham aviy q'iloh hagarmiy veshtmo'a hamּa'akhotiy
+uvney shimvon amnvon vrinּoh filho-de *vtvlvn **vtilvon uvney yish'iy zvochet uven-zvochet
+filhos-de sheloh filho-de er aviy lekhoh vla'doh aviy moreshoh umishpchvot beyt-'avodat casa-de lveyt ashbe'a
+vyvoqiym vanshey khozevo vyvoosh vsorof que lmvoov vyoshuvi lochem vhadvoriym atiqiym
+hemּoh hayּvotsriym vyoshvey nto'iym ugderoh com bimlakhtvo yoshvu shom nome
+filhos-de shim'von nmuel vyomiyn yoriyv zerach shoul
+shalּum bnvo mivsom bnvo mishmo bnvo
+uvney mishmo chamּuel bnvo zakur bnvo shim'iy vnvo
+ulshim'iy boniym shishּoh dez uvonvot seis ulechoyv eyn boniym rabiym e-tudo mishpachtom não hirbu até filhos-de
+vayּeshvu biver-sheva sete vachatsar shu'ol
+uvvilhoh uv'etsem uvtvolod
+uvivtuel uvchormoh uvtsiyqlog
+uvveyt markovvot uvachatsar susiym uvveyt biriy uvsha'aroyim Estas oreyhem até rei
+vchatsreyhem eytom vo'ayin rimּvon vtokhen v'oshon oriym cinco
+e-todo asher que he'oriym hoelּeh ad-bo'al esta mvoshvotom vhityachsom a-eles
+umshvovov vyamlekh vyvoshoh filho-de
+vyvoel vyehu filho-de ben-sroyoh filho-de filho-de
+velyvo'eynay vya'aqovoh viyshvochoyoh va'asoyoh va'adiel visimiel uvnoyoh
+vzizo filho-de ven-alּvon filho-de ven-shimriy filho-de filho-de filho-de
+Estas haboiym bshemvot nsiiym bmishpchvotom uveyt avvoteyhem portsu lorvov
+vayּelkhu limvvo gdor até lmizrach hagoy lvaqּesh mir'eh ltsonom
+vayּimtsu mir'eh shomen votvov E-a-terra rachavat yodayim vshoqetet ushlevoh que de hayּoshviym shom nome
+vayּovou Estas haktuviym bshemvot bimey ׀ rei-de melekh-yhudoh vayּaku [OBJ] vet-*hm'ynym e-[OBJ] que nimtsu-shomּoh vayּacharimum ad-hayּvom até vayּeshvu tachteyhem kiy-mir'eh ltsonom porque nome
+umehem de filhos-de shim'von holkhu lhar se'iyr anoshiym cinco mevot uflatyoh un'aryoh urfoyoh v'uzּiel filhos-de yish'iy broshom
+vayּaku [OBJ] hapletoh la'amoleq vayּeshvu shom até o-dia hazּeh
 
 ── Capítulo 5 ──
 
-1  uvney ruven bkhvor-yisroel que ele habkhvor uvchalּlvo ytsu'ey seu-pai nitnoh bkhorotvo livney yvosef ben-yisroel filho-de Israel e-não
-2  que yhudoh govar bechoyv ulnogiyd nós vhabkhoroh lyvosef
-3  filhos-de ruven bkhvor Israel chanvokh ufalּu chetsrvon vkharmiy
-4  filhos-de yvoel shma'yoh vnvo gvog bnvo shim'iy vnvo
-5  mikhoh vnvo royoh vnvo ba'al bnvo
-6  beroh vnvo que hegloh tilּgat pilneser rei que ele nosiy loruveniy
-7  vechoyv lmishpchotoyv bhityaches ltoldvotom horosh y'iel uzkharyohu
-8  uvela filho-de ben-shema filho-de ele filho-de ba'aro'er v'ad-nvvo uva'al m'von
-9  vlamּizroch habitou até midboroh lmin-hanּohor prot que miqneyhem porque berets gil'od
-10  uvimey shoul osu milchomoh com vayּiplu byodom vayּeshvu boholeyhem al-kol-pney sobre todo face-de
-11  uvney-god lnegdom yoshvu berets haboshon ad-salkhoh até
-12  yvoel horosh vshofom hamּishneh vya'nay vshofot baboshon
-13  vaacheyhem lveyt avvoteyhem miykhoel umshulּom vsheva vyvoray vya'kon vziy'a vo'ever shiv'oh
-14  Estas filhos-de bney filho-de ben-churiy filho-de ben-gil'od filho-de ben-yshishay filho-de ben-buz filho-de filho-de filho-de
-15  achi filho-de ben-guniy filho-de lveyt cabeça
-16  vayּeshvu bagil'od baboshon uvivnoteyho uvkhol-migrshey shorvon al-tvotsvotom sobre
-17  kulּom hityachsu bimey yvotom rei-de uvimey yorov'om melekh-yisroel rei-de Israel
-18  bney-ruven vgodiy vachatsiy shevet-mnashּeh min-bney-chayil anoshim de mogen vcherev vdorkhey qeshet ulmudey milchomoh arbo'iym varbo'oh elef ushva'-mevot vshishּiym yotsey exército
-19  vayּa'asu milchomoh com vitur vnofiysh vnvodov
-20  vayּe'ozru aleyhem vayּinּotnu vyodom hahagriiym e-tudo she'imּohem que lelohiym zo'aqu bamּilchomoh vna'tvor a-eles porque nele
-21  vayּishbu miqneyhem gmalּeyhem chamishּiym mil vtson motayim vachamishּim mil vachamvoriym alpoyim vnefesh homem cem mil
-22  porque rabim nofolu que porque hamּilchomoh vayּeshvu tachteyhem ad-hagoloh até
-23  uvney chatsi shevet mnashּeh yoshvu boorets miboshon até chermvon usniyr vhar-chermvon hemּoh rovu
-24  velּeh roshey casa-de v'efer vyish'iy veeliel v'azriel vyirmyoh vhvodavyoh vyachdiel anoshim gibvorey chayil anshey shemvot roshiym lveyt avvotom
-25  vayּim'alu belohey avvoteyhem vayּiznu acharey elohey amּey-hoorets a-terra Deus mipneyhem Elohim
-26  vayּo'ar elohey Israel [OBJ] ׀ pul rei-de vet-rucha e-[OBJ] espírito melekh ashּur rei loruveniy vlagodiy vlachatsiy shevet mnashּeh vayviem lachlach vchovvor vhoro unhar gvozon até o-dia até
-27  filhos-de leviy gershvon qhot umroriy
-28  uvney qhot amrom yitshor vchevrvon v'uzּiel
-29  uvney amrom aharon umosheh umiryom s uvney aharon nodov vaavihu el'ozor
-30  el'ozor hvoliyd [OBJ] piynchos holiyd et-avishu'a [OBJ]
-31  vaavishu'a hvoliyd [OBJ] uvuqּiy hvoliyd et-'uzּiy [OBJ]
-32  v'uzּi hvoliyd [OBJ] uzrachyoh hvoliyd et-mroyvot [OBJ]
-33  mroyvot hvoliyd [OBJ] vaamaryoh hvoliyd et-achituv [OBJ]
-34  vaachituv hvoliyd [OBJ] vtsodvoq hvoliyd et-achimo'ats [OBJ]
-35  vaachima'ats hvoliyd [OBJ] va'azaryoh hvoliyd et-yvochonon [OBJ]
-36  vyvochonon hvoliyd [OBJ] ele asher que sacerdote asher-bonoh que birusholo͏im
-37  vayּvoled azaryoh [OBJ] vaamaryoh hvoliyd et-achituv [OBJ]
-38  vaachituv hvoliyd [OBJ] vtsodvoq hvoliyd et-shalּum [OBJ]
-39  vshalּum hvoliyd [OBJ] vchilqiּoh hvoliyd et-'azaryoh [OBJ]
-40  va'azaryoh hvoliyd [OBJ] usroyoh hvoliyd et-yhvotsodoq [OBJ]
-41  vihvotsodoq andar bhaglvot YHWH [OBJ] virusholo͏im byad nvukhadnetsּar
+uvney ruven bkhvor-yisroel que ele habkhvor uvchalּlvo ytsu'ey seu-pai nitnoh bkhorotvo livney yvosef ben-yisroel filho-de Israel e-não
+que yhudoh govar bechoyv ulnogiyd nós vhabkhoroh lyvosef
+filhos-de ruven bkhvor Israel chanvokh ufalּu chetsrvon vkharmiy
+filhos-de yvoel shma'yoh vnvo gvog bnvo shim'iy vnvo
+mikhoh vnvo royoh vnvo ba'al bnvo
+beroh vnvo que hegloh tilּgat pilneser rei que ele nosiy loruveniy
+vechoyv lmishpchotoyv bhityaches ltoldvotom horosh y'iel uzkharyohu
+uvela filho-de ben-shema filho-de ele filho-de ba'aro'er v'ad-nvvo uva'al m'von
+vlamּizroch habitou até midboroh lmin-hanּohor prot que miqneyhem porque berets gil'od
+uvimey shoul osu milchomoh com vayּiplu byodom vayּeshvu boholeyhem al-kol-pney sobre todo face-de
+uvney-god lnegdom yoshvu berets haboshon ad-salkhoh até
+yvoel horosh vshofom hamּishneh vya'nay vshofot baboshon
+vaacheyhem lveyt avvoteyhem miykhoel umshulּom vsheva vyvoray vya'kon vziy'a vo'ever shiv'oh
+Estas filhos-de bney filho-de ben-churiy filho-de ben-gil'od filho-de ben-yshishay filho-de ben-buz filho-de filho-de filho-de
+achi filho-de ben-guniy filho-de lveyt cabeça
+vayּeshvu bagil'od baboshon uvivnoteyho uvkhol-migrshey shorvon al-tvotsvotom sobre
+kulּom hityachsu bimey yvotom rei-de uvimey yorov'om melekh-yisroel rei-de Israel
+bney-ruven vgodiy vachatsiy shevet-mnashּeh min-bney-chayil anoshim de mogen vcherev vdorkhey qeshet ulmudey milchomoh arbo'iym varbo'oh elef ushva'-mevot vshishּiym yotsey exército
+vayּa'asu milchomoh com vitur vnofiysh vnvodov
+vayּe'ozru aleyhem vayּinּotnu vyodom hahagriiym e-tudo she'imּohem que lelohiym zo'aqu bamּilchomoh vna'tvor a-eles porque nele
+vayּishbu miqneyhem gmalּeyhem chamishּiym mil vtson motayim vachamishּim mil vachamvoriym alpoyim vnefesh homem cem mil
+porque rabim nofolu que porque hamּilchomoh vayּeshvu tachteyhem ad-hagoloh até
+uvney chatsi shevet mnashּeh yoshvu boorets miboshon até chermvon usniyr vhar-chermvon hemּoh rovu
+velּeh roshey casa-de v'efer vyish'iy veeliel v'azriel vyirmyoh vhvodavyoh vyachdiel anoshim gibvorey chayil anshey shemvot roshiym lveyt avvotom
+vayּim'alu belohey avvoteyhem vayּiznu acharey elohey amּey-hoorets a-terra Deus mipneyhem Elohim
+vayּo'ar elohey Israel [OBJ] ׀ pul rei-de vet-rucha e-[OBJ] espírito melekh ashּur rei loruveniy vlagodiy vlachatsiy shevet mnashּeh vayviem lachlach vchovvor vhoro unhar gvozon até o-dia até
+filhos-de leviy gershvon qhot umroriy
+uvney qhot amrom yitshor vchevrvon v'uzּiel
+uvney amrom aharon umosheh umiryom s uvney aharon nodov vaavihu el'ozor
+el'ozor hvoliyd [OBJ] piynchos holiyd et-avishu'a [OBJ]
+vaavishu'a hvoliyd [OBJ] uvuqּiy hvoliyd et-'uzּiy [OBJ]
+v'uzּi hvoliyd [OBJ] uzrachyoh hvoliyd et-mroyvot [OBJ]
+mroyvot hvoliyd [OBJ] vaamaryoh hvoliyd et-achituv [OBJ]
+vaachituv hvoliyd [OBJ] vtsodvoq hvoliyd et-achimo'ats [OBJ]
+vaachima'ats hvoliyd [OBJ] va'azaryoh hvoliyd et-yvochonon [OBJ]
+vyvochonon hvoliyd [OBJ] ele asher que sacerdote asher-bonoh que birusholo͏im
+vayּvoled azaryoh [OBJ] vaamaryoh hvoliyd et-achituv [OBJ]
+vaachituv hvoliyd [OBJ] vtsodvoq hvoliyd et-shalּum [OBJ]
+vshalּum hvoliyd [OBJ] vchilqiּoh hvoliyd et-'azaryoh [OBJ]
+va'azaryoh hvoliyd [OBJ] usroyoh hvoliyd et-yhvotsodoq [OBJ]
+vihvotsodoq andar bhaglvot yhwh [OBJ] virusholo͏im byad nvukhadnetsּar
 
 ── Capítulo 6 ──
 
-1  filhos-de leviy gershom qhot umroriy
-2  velּeh shmvot bney-gershvom livniy vshim'iy
-3  uvney qhot amrom vyitshor vchevrvon v'uzּiel
-4  filhos-de mroriy machliy umushiy velּeh mishpchvot halּeviy laavvoteyhem
-5  lgershvom livniy vnvo yachat bnvo zimּoh vnvo
-6  yvooch bnvo idvo vnvo zerach bnvo yotray bnvo
-7  filhos-de qhot amּinodov bnvo qorach bnvo asּiyr bnvo
-8  elqonoh vnvo vevyosof bnvo vasּiyr bnvo
-9  debaixo bnvo uriel bnvo uzּiּoh vnvo vshoul bnvo
-10  uvney elqonoh amosay vaachimvot
-11  elqonoh *vnv **bney elqonoh tsvofay bnvo
-12  eliov bnvo yrochom bnvo elqonoh vnvo
-13  uvney shmuel habkhor vashniy vaaviּoh
-14  filhos-de mroriy machliy livniy vnvo shim'iy vnvo uzּoh vnvo
-15  shim'o vnvo chagiּoh vnvo asoyoh vnvo
-16  velּeh que he'emiyd doviyd sobre beyt YHWH casa YHWH
-17  vayּihyu mshortiym lifney mishkan ohel-mvo'ed bashּiyr ad-bnvot até et-beyt YHWH [OBJ] casa YHWH al-'avvodotom sobre
-18  velּeh ho'omdiym uvneyhem mibney haqּhotiy heymon hamshvorer filho-de ben-shmuel filho-de
-19  filho-de ben-yrochom filho-de ben-tvocha filho-de filho-de
-20  filho-de filho-de ben-elqonoh filho-de ben-'amosoy filho-de
-21  filho-de ben-yvoel filho-de ben-tsfanyoh filho-de filho-de
-22  filho-de ben-asּiyr filho-de ben-qorach filho-de filho-de
-23  filho-de ben-qhot filho-de ben-yisroel filho-de filho-de Israel
-24  vochiyv osof ho'omed sobre osof ben-berekhyohu filho-de filho-de
-25  filho-de ben-ba'aseyoh filho-de filho-de
-26  filho-de ven-zerach filho-de filho-de
-27  filho-de ben-zimּoh filho-de filho-de
-28  filho-de ben-gershom filho-de filho-de
-29  uvney mroriy acheyhem sobre eyton ben-qishiy filho-de ben-malּukh filho-de filho-de
-30  filho-de ven-amatsyoh filho-de filho-de
-31  filho-de ven-boniy filho-de filhos-de filho-de
-32  filho-de ben-mushiy filho-de ben-leviy filho-de filho-de
-33  vaacheyhem halviּim ntuniym para-todo mishkan beyt casa
-34  vaharon uvonoyv maqtiriym sobre ho'voloh v'al-mizbach e-sobre a-todo mlekhet para-todo haqּodoshiym ulkhaper al-yisroel kkhol sobre Israel mosheh que hoelohiym Moisés servo
-35  velּeh filhos-de aharon el'ozor bnvo piynchos bnvo avishu'a bnvo
-36  buqּiy vnvo uzּiy vnvo zrachyoh vnvo
-37  mroyvot bnvo amaryoh vnvo achituv bnvo
-38  tsodvoq bnvo achima'ats bnvo
-39  velּeh mvoshvvotom ltirvotom bigvulom livney aharon lmishpachat haqּhotiy que a-eles ser hagvorol
-40  vayּitnu a-eles [OBJ] berets yhudoh vet-migrosheyho e-[OBJ]
-41  e-[OBJ] ho'iyr vet-chatsereyho e-[OBJ] lkholev ben-yfunּeh filho-de
-42  vlivney aharon notnu [OBJ] hamּiqlot et-chevrvon [OBJ] vet-migrosheyho e-[OBJ] vet-eshtmo'a e-[OBJ] e-[OBJ] e-[OBJ] e-[OBJ]
-43  e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho [OBJ] e-[OBJ]
-44  e-[OBJ] vet-migrosheyho e-[OBJ] shemesh e-[OBJ] casa e-[OBJ]
-45  umimּatּeh vinyomin [OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] shlosh-'esreh e-[OBJ] bmishpchvoteyhem e-[OBJ] todo cidade
-46  vlivney qhot hanּvotoriym mimּishpachat hamּatּeh mimּachatsit matּeh chatsiy mnashּeh bagvorol oriym dez
-47  vlivney gershvom lmishpchvotom mimּatּeh yisoshkhor umimּatּeh que umimּatּeh naftoliy umimּatּeh mnashּeh baboshon oriym três esreh
-48  livney mroriy lmishpchvotom mimּatּeh ruven umimּatּeh-god umimּatּeh zvulun bagvorol oriym shteym esreh
-49  vayּitnu vney-yisroel Israel et-he'oriym [OBJ] e-[OBJ]
-50  vayּitnu vagvorol mimּatּeh vney-yhudoh umimּatּeh vney-shim'von umimּatּeh bney vinyomin filhos-de he'oriym [OBJ] asher-yiqru ethem que
-51  umimּishpchvot filhos-de qhot e-houve orey gvulom mimּatּeh efroyim
-52  vayּitnu a-eles [OBJ] hamּiqlot et-shkhem [OBJ] bhar e-[OBJ] vet-gezer vet-migrosheyho e-[OBJ] e-[OBJ]
-53  e-[OBJ] vet-migrosheyho e-[OBJ] chvorvon e-[OBJ] casa e-[OBJ]
-54  e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
-55  umimּachatsit matּeh mnashּeh [OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] livney-qhot e-[OBJ]
-56  livney gershvom mimּishpachat chatsi matּeh mnashּeh [OBJ] baboshon vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
-57  umimּatּeh yisoshkhor [OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho [OBJ] e-[OBJ]
-58  e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
-59  umimּatּeh que [OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
-60  e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
-61  umimּatּeh naftoliy [OBJ] bagolil vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ] e-[OBJ]
-62  livney mrori hanּvotorim mimּatּeh zvulun [OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho [OBJ] e-[OBJ]
-63  ume'ever lyarden yrechvo lmizrach hayּarden mimּatּeh ruven [OBJ] bamּidbor vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
-64  e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
-65  umimּatּeh-god et-romvot [OBJ] vet-migrosheyho vet-machanayim e-[OBJ] e-[OBJ] e-[OBJ]
-66  e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
+filhos-de leviy gershom qhot umroriy
+velּeh shmvot bney-gershvom livniy vshim'iy
+uvney qhot amrom vyitshor vchevrvon v'uzּiel
+filhos-de mroriy machliy umushiy velּeh mishpchvot halּeviy laavvoteyhem
+lgershvom livniy vnvo yachat bnvo zimּoh vnvo
+yvooch bnvo idvo vnvo zerach bnvo yotray bnvo
+filhos-de qhot amּinodov bnvo qorach bnvo asּiyr bnvo
+elqonoh vnvo vevyosof bnvo vasּiyr bnvo
+debaixo bnvo uriel bnvo uzּiּoh vnvo vshoul bnvo
+uvney elqonoh amosay vaachimvot
+elqonoh *vnv **bney elqonoh tsvofay bnvo
+eliov bnvo yrochom bnvo elqonoh vnvo
+uvney shmuel habkhor vashniy vaaviּoh
+filhos-de mroriy machliy livniy vnvo shim'iy vnvo uzּoh vnvo
+shim'o vnvo chagiּoh vnvo asoyoh vnvo
+velּeh que he'emiyd doviyd sobre beyt yhwh casa yhwh
+vayּihyu mshortiym lifney mishkan ohel-mvo'ed bashּiyr ad-bnvot até et-beyt yhwh [OBJ] casa yhwh al-'avvodotom sobre
+velּeh ho'omdiym uvneyhem mibney haqּhotiy heymon hamshvorer filho-de ben-shmuel filho-de
+filho-de ben-yrochom filho-de ben-tvocha filho-de filho-de
+filho-de filho-de ben-elqonoh filho-de ben-'amosoy filho-de
+filho-de ben-yvoel filho-de ben-tsfanyoh filho-de filho-de
+filho-de ben-asּiyr filho-de ben-qorach filho-de filho-de
+filho-de ben-qhot filho-de ben-yisroel filho-de filho-de Israel
+vochiyv osof ho'omed sobre osof ben-berekhyohu filho-de filho-de
+filho-de ben-ba'aseyoh filho-de filho-de
+filho-de ven-zerach filho-de filho-de
+filho-de ben-zimּoh filho-de filho-de
+filho-de ben-gershom filho-de filho-de
+uvney mroriy acheyhem sobre eyton ben-qishiy filho-de ben-malּukh filho-de filho-de
+filho-de ven-amatsyoh filho-de filho-de
+filho-de ven-boniy filho-de filhos-de filho-de
+filho-de ben-mushiy filho-de ben-leviy filho-de filho-de
+vaacheyhem halviּim ntuniym para-todo mishkan beyt casa
+vaharon uvonoyv maqtiriym sobre ho'voloh v'al-mizbach e-sobre a-todo mlekhet para-todo haqּodoshiym ulkhaper al-yisroel kkhol sobre Israel mosheh que hoelohiym Moisés servo
+velּeh filhos-de aharon el'ozor bnvo piynchos bnvo avishu'a bnvo
+buqּiy vnvo uzּiy vnvo zrachyoh vnvo
+mroyvot bnvo amaryoh vnvo achituv bnvo
+tsodvoq bnvo achima'ats bnvo
+velּeh mvoshvvotom ltirvotom bigvulom livney aharon lmishpachat haqּhotiy que a-eles ser hagvorol
+vayּitnu a-eles [OBJ] berets yhudoh vet-migrosheyho e-[OBJ]
+e-[OBJ] ho'iyr vet-chatsereyho e-[OBJ] lkholev ben-yfunּeh filho-de
+vlivney aharon notnu [OBJ] hamּiqlot et-chevrvon [OBJ] vet-migrosheyho e-[OBJ] vet-eshtmo'a e-[OBJ] e-[OBJ] e-[OBJ] e-[OBJ]
+e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho [OBJ] e-[OBJ]
+e-[OBJ] vet-migrosheyho e-[OBJ] shemesh e-[OBJ] casa e-[OBJ]
+umimּatּeh vinyomin [OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] shlosh-'esreh e-[OBJ] bmishpchvoteyhem e-[OBJ] todo cidade
+vlivney qhot hanּvotoriym mimּishpachat hamּatּeh mimּachatsit matּeh chatsiy mnashּeh bagvorol oriym dez
+vlivney gershvom lmishpchvotom mimּatּeh yisoshkhor umimּatּeh que umimּatּeh naftoliy umimּatּeh mnashּeh baboshon oriym três esreh
+livney mroriy lmishpchvotom mimּatּeh ruven umimּatּeh-god umimּatּeh zvulun bagvorol oriym shteym esreh
+vayּitnu vney-yisroel Israel et-he'oriym [OBJ] e-[OBJ]
+vayּitnu vagvorol mimּatּeh vney-yhudoh umimּatּeh vney-shim'von umimּatּeh bney vinyomin filhos-de he'oriym [OBJ] asher-yiqru ethem que
+umimּishpchvot filhos-de qhot e-houve orey gvulom mimּatּeh efroyim
+vayּitnu a-eles [OBJ] hamּiqlot et-shkhem [OBJ] bhar e-[OBJ] vet-gezer vet-migrosheyho e-[OBJ] e-[OBJ]
+e-[OBJ] vet-migrosheyho e-[OBJ] chvorvon e-[OBJ] casa e-[OBJ]
+e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
+umimּachatsit matּeh mnashּeh [OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] livney-qhot e-[OBJ]
+livney gershvom mimּishpachat chatsi matּeh mnashּeh [OBJ] baboshon vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
+umimּatּeh yisoshkhor [OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho [OBJ] e-[OBJ]
+e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
+umimּatּeh que [OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
+e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
+umimּatּeh naftoliy [OBJ] bagolil vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ] e-[OBJ]
+livney mrori hanּvotorim mimּatּeh zvulun [OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho [OBJ] e-[OBJ]
+ume'ever lyarden yrechvo lmizrach hayּarden mimּatּeh ruven [OBJ] bamּidbor vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
+e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
+umimּatּeh-god et-romvot [OBJ] vet-migrosheyho vet-machanayim e-[OBJ] e-[OBJ] e-[OBJ]
+e-[OBJ] vet-migrosheyho e-[OBJ] vet-migrosheyho e-[OBJ] e-[OBJ]
 
 ── Capítulo 7 ──
 
-1  vlivney yisoshkhor tvolo ufuoh *yshyv **yoshuv
-2  uvney tvolo uzּiy urfoyoh viyriel vyachmay vyivsom ushmuel roshiym lveyt-avvotom ltvolo gibvorey chayil ltoldvotom misporom bimey doviyd esriym-ushnayim elef vshesh mil
-3  uvney uzּiy yizrachyoh uvney yizrachyoh miykhoel v'ovadyoh vyvoel yishּiּoh chamishּoh roshiym kulּom
-4  va'aleyhem ltoldvotom lveyt avvotom gdudey tsvo milchomoh shloshiym vshishּoh mil porque noshiym uvoniym
-5  vaacheyhem a-todo mishpchvot yisoshkhor gibvorey chayoliym shmvoniym vshiv'oh mil hityachsom para-todo
-6  binyomin bela vovekher vidiy'ael shloshoh
-7  uvney vela etsbvon v'uzּiy v'uzּiel virimvot v'iriy chamishּoh roshey casa ovvot gibvorey chayoliym vhityachsom esriym ushnayim mil ushloshiym varbo'oh
-8  uvney vekher zmiroh vyvo'osh veeli'ezer velyvo'eynay v'omri viremvot vaaviּoh va'anotvot v'olomet todo bney-vokher
-9  vhityachsom ltoldvotom roshey casa avvotom gibvorey choyil esriym mil umotoyim
-10  uvney ydi'ael bilhon uvney vilhon *y'ysh **y'ush uvinyomin vehud ukhna'anoh vzeyton
-11  todo bney filhos-de lroshey hoovvot gibvorey chayoliym shiv'oh-'osor elef dez mil exército lamּilchomoh
-12  vshupim vchupim filhos-de cidade chushim filhos-de acher
-13  filhos-de naftoliy yachatsiel vguniy vyetser vshalּum filhos-de vilhoh
-14  filhos-de mnashּeh asriel que yolodoh piylagshvo hoaramּiּoh yoldoh [OBJ] aviy gil'od
-15  umokhiyr tomou mulher lchupiym ulshupiym vshem achotvo ma'akhoh vshem hashּeniy tslofchod vatihyenoh litslofchod bonvot
-16  vateled ma'akhoh eshet-mokhir filho filho shmvo peresh vshem ochiyv shoresh uvonoyv ulom voroqem
-17  uvney ulom bdon Estas filhos-de gil'od filho-de ben-mnashּeh filho-de
-18  vaachotvo hamּolekhet yoldoh [OBJ] vet-avi'ezer e-[OBJ] e-[OBJ]
-19  vayּihyu filhos-de shmido achyon voshekhem vliqchiy vaani'om
-20  uvney efrayim shutolach uvered bnvo vtachat bnvo vel'odoh vnvo vtachat bnvo
-21  vzovod bnvo vshutelach bnvo v'ezer vel'od vaharogum anshey-gat hanּvolodiym boorets que porque loqachat et-miqneyhem [OBJ]
-22  vayּitabel efrayim avihem yomiym rabiym vayּovou echoyv lnachamvo
-23  E-veio a vatahar vateled filho E-chamou E-chamou [OBJ] que vro'oh era bveytvo
-24  uvitvo sheeroh vativen [OBJ] casa-de vet-ho'elyvon e-[OBJ] e-[OBJ] sheeroh e-[OBJ]
-25  vrefach bnvo vreshef vtelach bnvo vtachan bnvo
-26  la'don bnvo amּihud bnvo elishomo bnvo
-27  nvon bnvo yhvoshu'a bnvo
-28  vaachuzּotom umoshvvotom casa-de El vlamּizroch na'aron vlamּa'arov gezer uvnoteyho ushkhem uvnoteyho ad-'ayּoh até
-29  e-sobre vney-mnashּeh beyt-shon uvnoteyho casa-de uvnoteyho mgidvo uvnvoteyho dvor uvnvoteyho belּeh yoshvu bney yvosef ben-yisroel filhos-de filho-de Israel
-30  filhos-de que yimnoh vyishvoh vyishviy uvri'oh vserach achvotom
-31  uvney vri'oh chever umalkiel ele aviy
-32  vchever hvoliyd [OBJ] vet-shvomer e-[OBJ] e-[OBJ] e-[OBJ] achvotom e-[OBJ]
-33  uvney yaflet posakh uvimhol v'ashvot Estas filhos-de yaflet
-34  uvney shomer achiy *vrvhgh
-35  uven-helem ochiyv tsvofach vyimno vshelesh v'omol
-36  filhos-de tsvofoch sucha vcharnefer vshu'ol uveriy vyimroh
-37  betser vohvod vshamּo vshilshoh vyitron uvero
-38  uvney yeter yfunּeh ufispoh varo
-39  uvney ulּo orach vchanּiel vritsyo
-40  todo vney-osher roshey que brurim casa-de chayoliym roshey hanּsiiym vhityachsom batsּovo bamּilchomoh misporom anoshiym esriym vshishּoh olef mil
+vlivney yisoshkhor tvolo ufuoh *yshyv **yoshuv
+uvney tvolo uzּiy urfoyoh viyriel vyachmay vyivsom ushmuel roshiym lveyt-avvotom ltvolo gibvorey chayil ltoldvotom misporom bimey doviyd esriym-ushnayim elef vshesh mil
+uvney uzּiy yizrachyoh uvney yizrachyoh miykhoel v'ovadyoh vyvoel yishּiּoh chamishּoh roshiym kulּom
+va'aleyhem ltoldvotom lveyt avvotom gdudey tsvo milchomoh shloshiym vshishּoh mil porque noshiym uvoniym
+vaacheyhem a-todo mishpchvot yisoshkhor gibvorey chayoliym shmvoniym vshiv'oh mil hityachsom para-todo
+binyomin bela vovekher vidiy'ael shloshoh
+uvney vela etsbvon v'uzּiy v'uzּiel virimvot v'iriy chamishּoh roshey casa ovvot gibvorey chayoliym vhityachsom esriym ushnayim mil ushloshiym varbo'oh
+uvney vekher zmiroh vyvo'osh veeli'ezer velyvo'eynay v'omri viremvot vaaviּoh va'anotvot v'olomet todo bney-vokher
+vhityachsom ltoldvotom roshey casa avvotom gibvorey choyil esriym mil umotoyim
+uvney ydi'ael bilhon uvney vilhon *y'ysh **y'ush uvinyomin vehud ukhna'anoh vzeyton
+todo bney filhos-de lroshey hoovvot gibvorey chayoliym shiv'oh-'osor elef dez mil exército lamּilchomoh
+vshupim vchupim filhos-de cidade chushim filhos-de acher
+filhos-de naftoliy yachatsiel vguniy vyetser vshalּum filhos-de vilhoh
+filhos-de mnashּeh asriel que yolodoh piylagshvo hoaramּiּoh yoldoh [OBJ] aviy gil'od
+umokhiyr tomou mulher lchupiym ulshupiym vshem achotvo ma'akhoh vshem hashּeniy tslofchod vatihyenoh litslofchod bonvot
+vateled ma'akhoh eshet-mokhir filho filho shmvo peresh vshem ochiyv shoresh uvonoyv ulom voroqem
+uvney ulom bdon Estas filhos-de gil'od filho-de ben-mnashּeh filho-de
+vaachotvo hamּolekhet yoldoh [OBJ] vet-avi'ezer e-[OBJ] e-[OBJ]
+vayּihyu filhos-de shmido achyon voshekhem vliqchiy vaani'om
+uvney efrayim shutolach uvered bnvo vtachat bnvo vel'odoh vnvo vtachat bnvo
+vzovod bnvo vshutelach bnvo v'ezer vel'od vaharogum anshey-gat hanּvolodiym boorets que porque loqachat et-miqneyhem [OBJ]
+vayּitabel efrayim avihem yomiym rabiym vayּovou echoyv lnachamvo
+E-veio a vatahar vateled filho E-chamou E-chamou [OBJ] que vro'oh era bveytvo
+uvitvo sheeroh vativen [OBJ] casa-de vet-ho'elyvon e-[OBJ] e-[OBJ] sheeroh e-[OBJ]
+vrefach bnvo vreshef vtelach bnvo vtachan bnvo
+la'don bnvo amּihud bnvo elishomo bnvo
+nvon bnvo yhvoshu'a bnvo
+vaachuzּotom umoshvvotom casa-de El vlamּizroch na'aron vlamּa'arov gezer uvnoteyho ushkhem uvnoteyho ad-'ayּoh até
+e-sobre vney-mnashּeh beyt-shon uvnoteyho casa-de uvnoteyho mgidvo uvnvoteyho dvor uvnvoteyho belּeh yoshvu bney yvosef ben-yisroel filhos-de filho-de Israel
+filhos-de que yimnoh vyishvoh vyishviy uvri'oh vserach achvotom
+uvney vri'oh chever umalkiel ele aviy
+vchever hvoliyd [OBJ] vet-shvomer e-[OBJ] e-[OBJ] e-[OBJ] achvotom e-[OBJ]
+uvney yaflet posakh uvimhol v'ashvot Estas filhos-de yaflet
+uvney shomer achiy *vrvhgh
+uven-helem ochiyv tsvofach vyimno vshelesh v'omol
+filhos-de tsvofoch sucha vcharnefer vshu'ol uveriy vyimroh
+betser vohvod vshamּo vshilshoh vyitron uvero
+uvney yeter yfunּeh ufispoh varo
+uvney ulּo orach vchanּiel vritsyo
+todo vney-osher roshey que brurim casa-de chayoliym roshey hanּsiiym vhityachsom batsּovo bamּilchomoh misporom anoshiym esriym vshishּoh olef mil
 
 ── Capítulo 8 ──
 
-1  uvinyomin hvoliyd [OBJ] bkhorvo ashbel hashּeniy vachrach hashּlishiy
-2  nvochoh o-quarto vrofo hachamishiy
-3  vayּihyu filhos lvola ador vgero vaavihud
-4  vaavishu'a vna'amon vaachvocha
-5  vgero ushfufon vchurom
-6  velּeh filhos-de echud Estas eles roshey ovvot lyvoshvey geva vayּaglum a
-7  vna'amon vaachiּoh vgero ele heglom vhvoliyd [OBJ] vet-achichud e-[OBJ]
-8  vshacharayim hvolid bisdeh mvoov de eles chushiym vet-ba'aro e-[OBJ]
-9  vayּvoled de novo et-yvovov [OBJ] vet-meysho e-[OBJ] e-[OBJ] e-[OBJ]
-10  e-[OBJ] vet-sokhyoh e-[OBJ] Estas e-[OBJ] roshey ovvot
-11  umechushiym hvoliyd [OBJ] vet-elpo'al e-[OBJ]
-12  uvney elpa'al ever umish'om voshomed ele edificar [OBJ] vet-lod e-[OBJ]
-13  uvri'oh voshema hemּoh roshey hoovvot lyvoshvey ayּolvon hemּoh hivriychu [OBJ] gat
-14  vachyvo shoshoq viremvot
-15  uzvadyoh va'arod vo'oder
-16  umikhoel vyishpoh vyvocho filhos-de vri'oh
-17  uzvadyoh umshulּom vchizqiy vochover
-18  vyishmray vyizlioh vyvovov filhos-de elpo'al
-19  vyoqiym vzikhriy vzavdiy
-20  veeli'enay vtsilּtay veeliel
-21  va'adoyoh uvroyoh vshimrot filhos-de shim'iy
-22  vyishpon vo'ever veeliel
-23  v'avdvon vzikhriy vchonon
-24  vachananyoh v'eylom v'antotiּoh
-25  vyifdyoh filhos-de **ufnuel
-26  vshamshray ushcharyoh va'atalyoh
-27  vya'areshyoh veliּoh vzikhriy filhos-de yrochom
-28  Estas roshey ovvot ltoldvotom roshiym Estas yoshvu virusholo͏im
-29  uvgiv'von yoshvu aviy giv'von vshem ishtvo ma'akhoh
-30  uvnvo habkhvor avdvon vtsur vqiysh uva'al vnodov
-31  ugdvor vachyvo vozokher
-32  umiqlvot hvoliyd [OBJ] vaf-hemּoh diante acheyhem yoshvu virushola͏im im-acheyhem com
-33  vner hvoliyd [OBJ] vqiysh hvoliyd et-shoul [OBJ] hvoliyd et-yhvonoton vet-malki-shu'a [OBJ] vet-eshbo'al e-[OBJ] e-[OBJ] e-[OBJ]
-34  uven-yhvonoton mriyv bo'al umriyv ba'al hvoliyd et-mikhoh [OBJ]
-35  uvney mikhoh pitvon vomelekh vtare'a vochoz
-36  vochoz hvoliyd [OBJ] vihvo'adoh hvoliyd et-'olemet [OBJ] vet-zimriy e-[OBJ] hvoliyd e-[OBJ] [OBJ]
-37  umvotso hvoliyd [OBJ] rofoh vnvo el'osoh vnvo otsel bnvo
-38  ulotsel shishּoh filhos velּeh shmvotom azriqom ׀ bokhru vyishmo'el ush'aryoh v'ovadyoh todo kol-elּeh filhos-de otsal
-39  uvney esheq ochiyv ulom bkhorvo y'ush hashּeniy v͏eelifelet hashּlishiy
-40  vayּihyu vney-ulom anoshiym giborey-chayil dorkhey qeshet umarbiym bonim uvney filhos meoh vachamishּiym cem mibney todo
+uvinyomin hvoliyd [OBJ] bkhorvo ashbel hashּeniy vachrach hashּlishiy
+nvochoh o-quarto vrofo hachamishiy
+vayּihyu filhos lvola ador vgero vaavihud
+vaavishu'a vna'amon vaachvocha
+vgero ushfufon vchurom
+velּeh filhos-de echud Estas eles roshey ovvot lyvoshvey geva vayּaglum a
+vna'amon vaachiּoh vgero ele heglom vhvoliyd [OBJ] vet-achichud e-[OBJ]
+vshacharayim hvolid bisdeh mvoov de eles chushiym vet-ba'aro e-[OBJ]
+vayּvoled de novo et-yvovov [OBJ] vet-meysho e-[OBJ] e-[OBJ] e-[OBJ]
+e-[OBJ] vet-sokhyoh e-[OBJ] Estas e-[OBJ] roshey ovvot
+umechushiym hvoliyd [OBJ] vet-elpo'al e-[OBJ]
+uvney elpa'al ever umish'om voshomed ele edificar [OBJ] vet-lod e-[OBJ]
+uvri'oh voshema hemּoh roshey hoovvot lyvoshvey ayּolvon hemּoh hivriychu [OBJ] gat
+vachyvo shoshoq viremvot
+uzvadyoh va'arod vo'oder
+umikhoel vyishpoh vyvocho filhos-de vri'oh
+uzvadyoh umshulּom vchizqiy vochover
+vyishmray vyizlioh vyvovov filhos-de elpo'al
+vyoqiym vzikhriy vzavdiy
+veeli'enay vtsilּtay veeliel
+va'adoyoh uvroyoh vshimrot filhos-de shim'iy
+vyishpon vo'ever veeliel
+v'avdvon vzikhriy vchonon
+vachananyoh v'eylom v'antotiּoh
+vyifdyoh filhos-de **ufnuel
+vshamshray ushcharyoh va'atalyoh
+vya'areshyoh veliּoh vzikhriy filhos-de yrochom
+Estas roshey ovvot ltoldvotom roshiym Estas yoshvu virusholo͏im
+uvgiv'von yoshvu aviy giv'von vshem ishtvo ma'akhoh
+uvnvo habkhvor avdvon vtsur vqiysh uva'al vnodov
+ugdvor vachyvo vozokher
+umiqlvot hvoliyd [OBJ] vaf-hemּoh diante acheyhem yoshvu virushola͏im im-acheyhem com
+vner hvoliyd [OBJ] vqiysh hvoliyd et-shoul [OBJ] hvoliyd et-yhvonoton vet-malki-shu'a [OBJ] vet-eshbo'al e-[OBJ] e-[OBJ] e-[OBJ]
+uven-yhvonoton mriyv bo'al umriyv ba'al hvoliyd et-mikhoh [OBJ]
+uvney mikhoh pitvon vomelekh vtare'a vochoz
+vochoz hvoliyd [OBJ] vihvo'adoh hvoliyd et-'olemet [OBJ] vet-zimriy e-[OBJ] hvoliyd e-[OBJ] [OBJ]
+umvotso hvoliyd [OBJ] rofoh vnvo el'osoh vnvo otsel bnvo
+ulotsel shishּoh filhos velּeh shmvotom azriqom ׀ bokhru vyishmo'el ush'aryoh v'ovadyoh todo kol-elּeh filhos-de otsal
+uvney esheq ochiyv ulom bkhorvo y'ush hashּeniy v͏eelifelet hashּlishiy
+vayּihyu vney-ulom anoshiym giborey-chayil dorkhey qeshet umarbiym bonim uvney filhos meoh vachamishּiym cem mibney todo
 
 ── Capítulo 9 ──
 
-1  e-todo Israel vhinּom ktuviym al-sefer sobre yisroel vihudoh Israel lvovel bma'alom
-2  vhayּvoshvim horishoniym que baachuzּotom b'oreyhem Israel hakohaniym halviּim vhanּtiniym
-3  uvirusholaim yoshvu de filhos-de umin-bney vinyomin filhos-de efrayim umnashּeh filhos-de
-4  utay filho-de ben-'omri filho-de ven-*vnymn-**boniy filho-de ben-yhudoh filho-de filho-de
-5  umin-hashּiylvoniy asoyoh habkhvor uvonoyv
-6  umin-bney-zerach y'uel vaacheyhem shesh-mevot vtish'iym
-7  umin-bney filhos-de salּu ben-mshulּom filho-de ben-hasּnuoh filho-de filho-de
-8  vyivnyoh filho-de veloh ven-'uzּiy filho-de umshulּom filho-de ben-r'uel ben-yivniּoh filho-de filho-de filho-de
-9  vaacheyhem ltoldvotom nove mevot vachamishּiym vshishּoh todo anoshiym roshey ovvot lveyt avoteyhem
-10  umin-hakohaniym yda'yoh vihvoyoriyv vyokhiyn
-11  va'azaryoh filho-de ben-mshulּom filho-de ben-mroyvot filho-de ngiyd filho-de hoelohiym filho-de casa
-12  va'adoyoh filho-de ben-pashchur filho-de uma'say filho-de ben-yachzeroh ben-mshulּom filho-de ben-imּer filho-de filho-de filho-de filho-de disse
-13  vaacheyhem roshim lveyt avvotom mil ushva mevot vshishּiym gibvorey cheyl mlekhet avvodat casa-de
-14  umin-halviּim shma'yoh ven-chashּuv filho-de ben-chashavyoh filho-de mroriy filho-de de filhos-de
-15  uvaqbaqּar cheresh vgolol umatanyoh filho-de ben-zikhriy filho-de filho-de
-16  v'ovadyoh filho-de ben-golol filho-de uverekhyoh filho-de ben-elqonoh hayּvoshev filho-de ntvofotiy filho-de
-17  vhashּo'arim shalּum v'aqּuv vtalmon vaachimon vaachihem shalּum horosh
-18  v'ad-henּoh bsha'ar hamּelekh mizrochoh hemּoh hashּo'ariym lmachanvot bney filhos-de
-19  vshalּum filho-de ben-evyosof filho-de vechoyv filho-de haqּorchiym sobre mlekhet ho'avvodoh shomrey sobre loohel vaavoteyhem al-machaneh YHWH shomrey hamּovvo sobre YHWH
-20  ufiynchos filho-de nogiyd ser foi lfoniym YHWH ׀ imּvo
-21  zkharyoh filho mshelemyoh sho'er petach lohel mvo'ed
-22  kulּom habrurim lsho'ariym basּipiym motayim ushneym dez hemּoh vchatsreyhem hityachsom hemּoh yisּad doviyd ushmuel horoeh beemunotom
-23  vhem uvneyhem sobre lveyt-yhvoh lveyt YHWH lmishmorvot
-24  larba ruchvot yihyu hashּo'ariym mizroch yomּoh tsofvonoh vonegboh
-25  vaacheyhem bchatsreyhem lovvo lshiv'at hayּomiym me'et a im-elּeh com
-26  que veemunoh hemּoh arba'at giborey hashּo'ariym eles halviּim e-sejam sobre v'al e-sobre beyt casa
-27  usvivvot casa-de yoliynu kiy-'aleyhem porque vhem al-hamּaftecha vlaboqer sobre
-28  umehem sobre ho'avvodoh kiy-vmispor porque uvmispor yvotsium
-29  umehem mmunּim sobre v'al e-sobre todo v'al-hasּolet vhayּayin e-sobre vhalּvvonoh vhabsomiym
-30  umin-bney filhos-de roqchey hamּirqachat labsomiym
-31  umatityoh de ele habkhvor lshalּum haqּorchiy beemunoh sobre sobre hachavitiym
-32  umin-bney filhos-de min-acheyhem de hamּa'arokhet sobre shabat shabot
-33  velּeh hamshorrim roshey ovvot lalviּim balּshokhot porque **pturiym kiy-yvomom volayloh aleyhem
-34  Estas roshey hoovvot lalviּim ltoldvotom roshiym Estas yoshvu virusholo͏im
-35  uvgiv'von yoshvu aviy-giv'von *y'vl **y'iel vshem ishtvo
-36  uvnvo habkhvor avdvon vtsur vqiysh uva'al vner vnodov
-37  ugdvor vachyvo uzkharyoh umiqlvot
-38  umiqlvot hvoliyd [OBJ] vaf-hem diante acheyhem yoshvu virushola͏im im-acheyhem com
-39  vner hvoliyd [OBJ] vqiysh hvoliyd et-shoul [OBJ] hvoliyd et-yhvonoton vet-malki-shu'a [OBJ] vet-eshbo'al e-[OBJ] e-[OBJ] e-[OBJ]
-40  uven-yhvonoton mriyv bo'al umri-va'al hvoliyd et-mikhoh [OBJ]
-41  uvney mikhoh pitvon vomelekh vtachre'a
-42  vochoz hvoliyd [OBJ] vya'roh hvoliyd et-'olemet [OBJ] vet-zimriy e-[OBJ] hvoliyd e-[OBJ] [OBJ]
-43  umvotso hvoliyd [OBJ] urfoyoh vnvo el'osoh vnvo otsel bnvo
-44  ulotsel shishּoh filhos velּeh shmvotom azriqom ׀ bokhru vyishmo'el ush'aryoh v'ovadyoh vchonon Estas bney
+e-todo Israel vhinּom ktuviym al-sefer sobre yisroel vihudoh Israel lvovel bma'alom
+vhayּvoshvim horishoniym que baachuzּotom b'oreyhem Israel hakohaniym halviּim vhanּtiniym
+uvirusholaim yoshvu de filhos-de umin-bney vinyomin filhos-de efrayim umnashּeh filhos-de
+utay filho-de ben-'omri filho-de ven-*vnymn-**boniy filho-de ben-yhudoh filho-de filho-de
+umin-hashּiylvoniy asoyoh habkhvor uvonoyv
+umin-bney-zerach y'uel vaacheyhem shesh-mevot vtish'iym
+umin-bney filhos-de salּu ben-mshulּom filho-de ben-hasּnuoh filho-de filho-de
+vyivnyoh filho-de veloh ven-'uzּiy filho-de umshulּom filho-de ben-r'uel ben-yivniּoh filho-de filho-de filho-de
+vaacheyhem ltoldvotom nove mevot vachamishּiym vshishּoh todo anoshiym roshey ovvot lveyt avoteyhem
+umin-hakohaniym yda'yoh vihvoyoriyv vyokhiyn
+va'azaryoh filho-de ben-mshulּom filho-de ben-mroyvot filho-de ngiyd filho-de hoelohiym filho-de casa
+va'adoyoh filho-de ben-pashchur filho-de uma'say filho-de ben-yachzeroh ben-mshulּom filho-de ben-imּer filho-de filho-de filho-de filho-de disse
+vaacheyhem roshim lveyt avvotom mil ushva mevot vshishּiym gibvorey cheyl mlekhet avvodat casa-de
+umin-halviּim shma'yoh ven-chashּuv filho-de ben-chashavyoh filho-de mroriy filho-de de filhos-de
+uvaqbaqּar cheresh vgolol umatanyoh filho-de ben-zikhriy filho-de filho-de
+v'ovadyoh filho-de ben-golol filho-de uverekhyoh filho-de ben-elqonoh hayּvoshev filho-de ntvofotiy filho-de
+vhashּo'arim shalּum v'aqּuv vtalmon vaachimon vaachihem shalּum horosh
+v'ad-henּoh bsha'ar hamּelekh mizrochoh hemּoh hashּo'ariym lmachanvot bney filhos-de
+vshalּum filho-de ben-evyosof filho-de vechoyv filho-de haqּorchiym sobre mlekhet ho'avvodoh shomrey sobre loohel vaavoteyhem al-machaneh yhwh shomrey hamּovvo sobre yhwh
+ufiynchos filho-de nogiyd ser foi lfoniym yhwh ׀ imּvo
+zkharyoh filho mshelemyoh sho'er petach lohel mvo'ed
+kulּom habrurim lsho'ariym basּipiym motayim ushneym dez hemּoh vchatsreyhem hityachsom hemּoh yisּad doviyd ushmuel horoeh beemunotom
+vhem uvneyhem sobre lveyt-yhvoh lveyt yhwh lmishmorvot
+larba ruchvot yihyu hashּo'ariym mizroch yomּoh tsofvonoh vonegboh
+vaacheyhem bchatsreyhem lovvo lshiv'at hayּomiym me'et a im-elּeh com
+que veemunoh hemּoh arba'at giborey hashּo'ariym eles halviּim e-sejam sobre v'al e-sobre beyt casa
+usvivvot casa-de yoliynu kiy-'aleyhem porque vhem al-hamּaftecha vlaboqer sobre
+umehem sobre ho'avvodoh kiy-vmispor porque uvmispor yvotsium
+umehem mmunּim sobre v'al e-sobre todo v'al-hasּolet vhayּayin e-sobre vhalּvvonoh vhabsomiym
+umin-bney filhos-de roqchey hamּirqachat labsomiym
+umatityoh de ele habkhvor lshalּum haqּorchiy beemunoh sobre sobre hachavitiym
+umin-bney filhos-de min-acheyhem de hamּa'arokhet sobre shabat shabot
+velּeh hamshorrim roshey ovvot lalviּim balּshokhot porque **pturiym kiy-yvomom volayloh aleyhem
+Estas roshey hoovvot lalviּim ltoldvotom roshiym Estas yoshvu virusholo͏im
+uvgiv'von yoshvu aviy-giv'von *y'vl **y'iel vshem ishtvo
+uvnvo habkhvor avdvon vtsur vqiysh uva'al vner vnodov
+ugdvor vachyvo uzkharyoh umiqlvot
+umiqlvot hvoliyd [OBJ] vaf-hem diante acheyhem yoshvu virushola͏im im-acheyhem com
+vner hvoliyd [OBJ] vqiysh hvoliyd et-shoul [OBJ] hvoliyd et-yhvonoton vet-malki-shu'a [OBJ] vet-eshbo'al e-[OBJ] e-[OBJ] e-[OBJ]
+uven-yhvonoton mriyv bo'al umri-va'al hvoliyd et-mikhoh [OBJ]
+uvney mikhoh pitvon vomelekh vtachre'a
+vochoz hvoliyd [OBJ] vya'roh hvoliyd et-'olemet [OBJ] vet-zimriy e-[OBJ] hvoliyd e-[OBJ] [OBJ]
+umvotso hvoliyd [OBJ] urfoyoh vnvo el'osoh vnvo otsel bnvo
+ulotsel shishּoh filhos velּeh shmvotom azriqom ׀ bokhru vyishmo'el ush'aryoh v'ovadyoh vchonon Estas bney
 
 ── Capítulo 10 ──
 
-1  uflishtiym nilchamu vyisroel vayּonos iysh-yisroel de-diante-de flishtiym vayּiplu chaloliym bhar gilbo'a
-2  vayּadbqu flishtiym acharey shoul vacharey vonoyv vayּaku flishtiym [OBJ] vet-avinodov e-[OBJ] bney e-[OBJ] filhos-de
-3  vatikhbad hamּilchomoh sobre vayּimtsouhu hamּvoriym baqּoshet vayּochel min-hayּvoriym de
-4  E-disse shoul a kheloyv shlof charbkho ׀ vdoqreni voh pen-yovou ho'areliym hoelּeh vhit'alּlu-viy vlo ovoh e-não kheloyv que temer muito s E-tomou E-tomou et-hacherev [OBJ] oleyho
-5  E-viu nose-kheloyv que porque morreu vayּipol gam-hu também vayּomot sobre E-morreu
-6  E-morreu shoul ushloshet bonoyv e-todo yachdov metu
-7  vayּiru todo homem Israel que nosu porque shoul uvonoyv vayּa'azvu oreyhem vayּonusu vayּovou flishtiym vayּeshvu bohem
-8  e-houve mimּochorot vayּovou flishtiym lfashּet [OBJ] vayּimtsu et-shoul [OBJ] nofliym e-[OBJ] gilbo'a
-9  vayּafshituhu vayּisu [OBJ] vet-keloyv e-[OBJ] verets-flishtiym soviyv lvasּer et-'atsabeyhem vet-ho'om [OBJ] e-[OBJ]
-10  vayּosiymu [OBJ] beyt casa vet-gulgoltvo e-[OBJ] beyt dogvon casa
-11  vayּishm'u todo yoveysh gil'od [OBJ] todo que lshoul
-12  vayּoqumu todo homem vayּisu et-gufat [OBJ] e-[OBJ] gufot e-[OBJ] vayvium yoveyshoh vayּiqbru et-'atsmvoteyhem debaixo [OBJ] byovesh vayּotsumu shiv'at yomiym
-13  E-morreu shoul bma'alvo que mo'al bayhvoh sobre YHWH YHWH que não bovov lidrvosh
-14  e-não bayhvoh vaymitehu vayּasּev et-hamּlukhoh [OBJ] ben-yishoy filho-de
+uflishtiym nilchamu vyisroel vayּonos iysh-yisroel de-diante-de flishtiym vayּiplu chaloliym bhar gilbo'a
+vayּadbqu flishtiym acharey shoul vacharey vonoyv vayּaku flishtiym [OBJ] vet-avinodov e-[OBJ] bney e-[OBJ] filhos-de
+vatikhbad hamּilchomoh sobre vayּimtsouhu hamּvoriym baqּoshet vayּochel min-hayּvoriym de
+E-disse shoul a kheloyv shlof charbkho ׀ vdoqreni voh pen-yovou ho'areliym hoelּeh vhit'alּlu-viy vlo ovoh e-não kheloyv que temer muito s E-tomou E-tomou et-hacherev [OBJ] oleyho
+E-viu nose-kheloyv que porque morreu vayּipol gam-hu também vayּomot sobre E-morreu
+E-morreu shoul ushloshet bonoyv e-todo yachdov metu
+vayּiru todo homem Israel que nosu porque shoul uvonoyv vayּa'azvu oreyhem vayּonusu vayּovou flishtiym vayּeshvu bohem
+e-houve mimּochorot vayּovou flishtiym lfashּet [OBJ] vayּimtsu et-shoul [OBJ] nofliym e-[OBJ] gilbo'a
+vayּafshituhu vayּisu [OBJ] vet-keloyv e-[OBJ] verets-flishtiym soviyv lvasּer et-'atsabeyhem vet-ho'om [OBJ] e-[OBJ]
+vayּosiymu [OBJ] beyt casa vet-gulgoltvo e-[OBJ] beyt dogvon casa
+vayּishm'u todo yoveysh gil'od [OBJ] todo que lshoul
+vayּoqumu todo homem vayּisu et-gufat [OBJ] e-[OBJ] gufot e-[OBJ] vayvium yoveyshoh vayּiqbru et-'atsmvoteyhem debaixo [OBJ] byovesh vayּotsumu shiv'at yomiym
+E-morreu shoul bma'alvo que mo'al bayhvoh sobre yhwh yhwh que não bovov lidrvosh
+e-não bayhvoh vaymitehu vayּasּev et-hamּlukhoh [OBJ] ben-yishoy filho-de
 
 ── Capítulo 11 ──
 
-1  vayּiqּovtsu todo Israel a dizendo eis atsmkho uvsorkho anochnu
-2  também gam-shilshvom também bihyvot também melekh tu rei vhamּeviy et-yisroel E-disse YHWH Israel a-ti tu tir'eh et-'amּi et-yisroel vatoh [OBJ] nogiyd sobre Israel yisroel sobre Israel
-3  vayּovou todo yisroel Israel a vayּikhrot a-eles doviyd briyt bchevrvon lifney YHWH vayּimshchu YHWH lmelekh [OBJ] kidvar YHWH sobre Israel YHWH
-4  E-andou doviyd e-todo Israel hiy yvus vshom hayvusiy yoshvey a-terra a-terra
-5  vayּomru yoshvey yvus ldoviyd não tovvo henּoh vayּilkod dovid [OBJ] tsiּvon hiy iyr cidade
-6  E-disse doviyd todo yvusi borishvonoh será lrosh ulsor vayּa'al borishvonoh yvoov ben-tsruyoh e-houve lrosh E-foi
-7  vayּeshev doviyd bamtsod sobre qoru-lvo iyr doviyd cidade
-8  E-edificou ho'ir misּoviyv de v'ad-hasּoviyv vyvoov ychayּeh et-shor ho'iyr [OBJ]
-9  E-andou doviyd holvokh vgodvol vayhvoh tsvovot imּvo
-10  velּeh roshey hagibvorim que ldoviyd hamּitchazּqiym imּvo vmalkhutvo com todo Israel YHWH al-yisroel YHWH sobre Israel
-11  velּeh mispar hagiboriym que ldoviyd yoshov'om filho-de rosh cabeça **hashּolishiym hu-'vorer [OBJ] al-shlosh-mevot sobre bfa'am echot
-12  vacharoyv el'ozor filho-de hoachvochiy ele bishlvoshoh hagiboriym
-13  hu-hoyoh foi com damּiym vhaplishtim neesfu-shom lamּilchomoh vathiy nome hasּodeh mleoh s'voriym vho'om nosu de-diante-de flishtiym
-14  vayּityatsּvu vtvokh-hachelqoh vayּatsּiluho vayּaku et-plishtiym [OBJ] YHWH tshu'oh YHWH
-15  vayּerdu shlvoshoh de rosh cabeça sobre el-m'orat a umachaneh a chonoh b'emeq rfoiym
-16  vdoviyd oz bamּtsudoh untsiyv plishtiym oz bveyt lochem
-17  *vytv E-disse doviyd vayּomar quem yashqeni águas mibvor que asher
-18  vayּivq'u hashּloshoh bmachaneh flishtiym vayּishavu-mayim águas beyt-lechem casa-de bashּa'ar que vayּoviu el-doviyd vlo-ovoh a lishtvotom e-não eles layhvoh
-19  E-disse choliloh a-mim meelohay me'asvot esta hadam hoanoshim hoelּeh eshteh vnafshvotom que vnafshvotom hevium e-não ovoh lishtvotom Estas osu shloshet hagibvoriym
-20  vavshay achiy-yvoov ele ser foi cabeça vhu vorer et-chanitvo [OBJ] mevot sobre três bashּlvoshoh nome
-21  de vashּnayim nikhbod e-houve a-eles lsor v'ad-hashּlvoshoh lo-vo não veio
-22  bnoyoh filho-de ben-iysh-chayil filho-de min-qavtsel ele hikoh [OBJ] de ariel mvoov vhu [OBJ] segundo et-hoariy no-meio-de habvor byvom hashּoleg [OBJ]
-23  vhu-hikoh et-hoiysh [OBJ] iysh midoh homem chomesh cinco uvyad hamּitsriy chanit kimnvor orgiym vayּered a-ele bashּovet vayּigzol et-hachanit [OBJ] hamּitsriy vayּahargehu bachanitvo
-24  Estas fez bnoyohu filho-de vlvo-shem bishlvoshoh nome
-25  de hinּvo nikhbod ele vel-hashּlvoshoh e-a vaysimehu não veio sobre
-26  vgibvorey hachayoliym asoh-el El yvoov elchonon ben-dvodvo filho-de lochem
-27  shamּvot haharvoriy chelets haplvoniy
-28  iro filho-de hatqvo'iy avi'ezer ho'anּtvotiy
-29  sibkhay hachushotiy ilay hoachvochiy
-30  mahray hanּtofotiy cheled filho-de hanּtvofotiy
-31  itay filho-de migiv'at bney filhos-de s bnoyoh hapir'otoniy
-32  churay minּachaley go'ash s aviel
-33  azmovet habacharumiy elyachbo hashּa'alvoniy
-34  filhos-de hoshem hagizvoniy yvonoton filho-de haharoriy
-35  achiom filho-de haharoriy elifal ben-ur filho-de luz
-36  chefer hamּkherotiy achiּoh haploniy
-37  chetsrvo hakarmliy na'aray filho-de
-38  yvoel achiy deu mivchor filho-de
-39  tseleq ho'amּvoniy nachray haberotiy nose kley yvoov filho-de
-40  iro hayּitriy gorev hayּitriy
-41  uriּoh hachitiy zovod filho-de
-42  adino filho-de horuveniy rosh cabeça v'oloyv shlvoshiym
-43  chonon filho-de vyvoshofot hamּitniy
-44  uziּo ho'ashtrotiy ouviu filhos-de **viy'iel s
-45  ydiy'ael filho-de vyocho ochiyv hatitsiy
-46  eliel hamּachaviym virivay vyvoshavyoh filhos-de elno'am vyitmoh hamּvooviy
-47  eliel v'voved vya'asiel hamּtsovoyoh
+vayּiqּovtsu todo Israel a dizendo eis atsmkho uvsorkho anochnu
+também gam-shilshvom também bihyvot também melekh tu rei vhamּeviy et-yisroel E-disse yhwh Israel a-ti tu tir'eh et-'amּi et-yisroel vatoh [OBJ] nogiyd sobre Israel yisroel sobre Israel
+vayּovou todo yisroel Israel a vayּikhrot a-eles doviyd briyt bchevrvon lifney yhwh vayּimshchu yhwh lmelekh [OBJ] kidvar yhwh sobre Israel yhwh
+E-andou doviyd e-todo Israel hiy yvus vshom hayvusiy yoshvey a-terra a-terra
+vayּomru yoshvey yvus ldoviyd não tovvo henּoh vayּilkod dovid [OBJ] tsiּvon hiy iyr cidade
+E-disse doviyd todo yvusi borishvonoh será lrosh ulsor vayּa'al borishvonoh yvoov ben-tsruyoh e-houve lrosh E-foi
+vayּeshev doviyd bamtsod sobre qoru-lvo iyr doviyd cidade
+E-edificou ho'ir misּoviyv de v'ad-hasּoviyv vyvoov ychayּeh et-shor ho'iyr [OBJ]
+E-andou doviyd holvokh vgodvol vayhvoh tsvovot imּvo
+velּeh roshey hagibvorim que ldoviyd hamּitchazּqiym imּvo vmalkhutvo com todo Israel yhwh al-yisroel yhwh sobre Israel
+velּeh mispar hagiboriym que ldoviyd yoshov'om filho-de rosh cabeça **hashּolishiym hu-'vorer [OBJ] al-shlosh-mevot sobre bfa'am echot
+vacharoyv el'ozor filho-de hoachvochiy ele bishlvoshoh hagiboriym
+hu-hoyoh foi com damּiym vhaplishtim neesfu-shom lamּilchomoh vathiy nome hasּodeh mleoh s'voriym vho'om nosu de-diante-de flishtiym
+vayּityatsּvu vtvokh-hachelqoh vayּatsּiluho vayּaku et-plishtiym [OBJ] yhwh tshu'oh yhwh
+vayּerdu shlvoshoh de rosh cabeça sobre el-m'orat a umachaneh a chonoh b'emeq rfoiym
+vdoviyd oz bamּtsudoh untsiyv plishtiym oz bveyt lochem
+*vytv E-disse doviyd vayּomar quem yashqeni águas mibvor que asher
+vayּivq'u hashּloshoh bmachaneh flishtiym vayּishavu-mayim águas beyt-lechem casa-de bashּa'ar que vayּoviu el-doviyd vlo-ovoh a lishtvotom e-não eles layhvoh
+E-disse choliloh a-mim meelohay me'asvot esta hadam hoanoshim hoelּeh eshteh vnafshvotom que vnafshvotom hevium e-não ovoh lishtvotom Estas osu shloshet hagibvoriym
+vavshay achiy-yvoov ele ser foi cabeça vhu vorer et-chanitvo [OBJ] mevot sobre três bashּlvoshoh nome
+de vashּnayim nikhbod e-houve a-eles lsor v'ad-hashּlvoshoh lo-vo não veio
+bnoyoh filho-de ben-iysh-chayil filho-de min-qavtsel ele hikoh [OBJ] de ariel mvoov vhu [OBJ] segundo et-hoariy no-meio-de habvor byvom hashּoleg [OBJ]
+vhu-hikoh et-hoiysh [OBJ] iysh midoh homem chomesh cinco uvyad hamּitsriy chanit kimnvor orgiym vayּered a-ele bashּovet vayּigzol et-hachanit [OBJ] hamּitsriy vayּahargehu bachanitvo
+Estas fez bnoyohu filho-de vlvo-shem bishlvoshoh nome
+de hinּvo nikhbod ele vel-hashּlvoshoh e-a vaysimehu não veio sobre
+vgibvorey hachayoliym asoh-el El yvoov elchonon ben-dvodvo filho-de lochem
+shamּvot haharvoriy chelets haplvoniy
+iro filho-de hatqvo'iy avi'ezer ho'anּtvotiy
+sibkhay hachushotiy ilay hoachvochiy
+mahray hanּtofotiy cheled filho-de hanּtvofotiy
+itay filho-de migiv'at bney filhos-de s bnoyoh hapir'otoniy
+churay minּachaley go'ash s aviel
+azmovet habacharumiy elyachbo hashּa'alvoniy
+filhos-de hoshem hagizvoniy yvonoton filho-de haharoriy
+achiom filho-de haharoriy elifal ben-ur filho-de luz
+chefer hamּkherotiy achiּoh haploniy
+chetsrvo hakarmliy na'aray filho-de
+yvoel achiy deu mivchor filho-de
+tseleq ho'amּvoniy nachray haberotiy nose kley yvoov filho-de
+iro hayּitriy gorev hayּitriy
+uriּoh hachitiy zovod filho-de
+adino filho-de horuveniy rosh cabeça v'oloyv shlvoshiym
+chonon filho-de vyvoshofot hamּitniy
+uziּo ho'ashtrotiy ouviu filhos-de **viy'iel s
+ydiy'ael filho-de vyocho ochiyv hatitsiy
+eliel hamּachaviym virivay vyvoshavyoh filhos-de elno'am vyitmoh hamּvooviy
+eliel v'voved vya'asiel hamּtsovoyoh
 
 ── Capítulo 12 ──
 
-1  velּeh haboiym a ltsiyqlag vod otsur de-diante-de shoul ben-qiysh filho-de bagibvoriym ozrey hamּilchomoh
-2  noshqey qeshet mayminiym umasmilim boavoniym uvachitsּiym baqּoshet meachey shoul mibinyomin
-3  horosh achi'ezer vyvoosh filhos-de hashּmo'oh hagiv'otiy *vyzvl filhos-de vofelet bney azmovet uvrokhoh
-4  vyishma'yoh hagiv'voniy gibvor bashּloshiym e-sobre
-5  vyirmyoh vyachaziel vyvochonon vyvozovod hagderotiy
-6  el'uzay virimvot uv'alyoh ushmaryohu ushfatyohu
-7  elqonoh vyishiּohu va'azarel vyvo'ezer vyoshov'om haqּorchiym
-8  vyvo'eloh uzvadyoh filhos-de yrochom de
-9  umin-hagodiy nivdlu el-dovid a midboroh giborey hachayil anshey exército lamּilchomoh orkhey tsinּoh voromach ufney aryeh pneyhem vkhitsvoyim al-hehoriym lmaher sobre
-10  auxiliar horosh ovadyoh hashּeniy eliov hashּlishiy
-11  mishmanּoh o-quarto yirmyoh hachamishiy
-12  atay hashּishּiy eliel hashּvi'iy
-13  yvochonon hashּminiy elzovod hatshi'iy
-14  yirmyohu ho'asiriy s makhbanּay dez
-15  Estas mibney-god roshey hatsּovo um um haqּoton vhagodvol lolef
-16  Estas eles que ovru [OBJ] bachodesh horishvon vhu mmalּe al-kol-*gdytyv sobre todo et-kol-ho'amoqiym [OBJ] todo
-17  vayּovou de filhos-de viyhudoh ad-lamtsod até
-18  vayּetse dovid lifneyhem vayּa'an E-disse a-eles se botem elay l'ozreni yihyeh-lּiy aleykhem levov lyochad vim-lramּvotani ltsoray blo chomos bkhapay yere elohey avvoteynu vyvokhach
-19  e-Espírito-de lovshoh [OBJ] rosh cabeça **hashּoli[t**ישִׁים֒] a-ti dovid filho-de ven-yishay sholvom ׀ sholvom a-ti vsholvom porque que azorkho eloheykho vayqablem doviyd vayּitnem broshey
-20  umimּnashּeh noflu sobre bvovo im-plishtiym com lamּilchomoh sobre azorum que e-não shilּchuhu porque flishtim dizendo brosheynu yipvol el-adonoyv shoul a
-21  blekhtvo a noflu oloyv ׀ mimּnashּeh adnach vyvozovod vidiy'ael umikhoel vyvozovod veelihu vtsilּtoy roshey hoalofiym que limnashּeh
-22  vhemּoh ozru com al-hagdud sobre chayil porque vayּihyu soriym batsּovo
-23  que l'et-yvom dia yovou al-doviyd sobre ad-lmachaneh godvol até Deus grande Elohim
-24  velּeh misprey roshey hecholuts latsּovo bou sobre chevrvonoh lhosev malkhut shoul a-ele kfiy YHWH YHWH
-25  filhos-de yhudoh nosey tsinּoh voromach sheshet alofiym ushmvoneh mevot chalutsey exército
-26  de filhos-de gibvorey chayil latsּovo shiv'at alofiym umeoh
-27  de filhos-de arba'at alofiym vshesh mevot
-28  vihvoyodo hanּogiyd laharon v'imּvo shloshet alofiym ushva mevot
-29  vtsodvoq na'ar gibvor choyil uveyt-oviyv soriym esriym ushnoyim
-30  umin-bney filhos-de achey shoul shloshet alofiym v'ad-henּoh marbitom shomriym mishmeret beyt shoul casa
-31  umin-bney filhos-de esriym elef mil mevot gibvorey chayil anshey shemvot lveyt avvotom
-32  umechatsi matּeh mnashּeh shmvonoh dez mil que niqּvu bshemvot lovvo lhamliykh [OBJ]
-33  umibney yisּoshkhor yvod'ey vinoh la'itiym para-conhecer mah-yּa'aseh yisroel Israel motayim vkhol-acheyhem e-todo sobre
-34  mizּvulun yvotsey exército orkhey milchomoh em-todo milchomoh chamishּiym olef mil blo-lev volev coração
-35  uminּaftoliy soriym mil v'imּohem btsinּoh vachaniyt shloshiym vshiv'oh mil
-36  umin-hadoni orkhey milchomoh esriym-ushmvonoh elef vshesh mil
-37  umeosher yvotsey exército la'arokh milchomoh arbo'iym mil
-38  ume'ever layּarden de vhagodiy vachatsiy ׀ shevet mnashּeh em-todo kley tsvo milchomoh cem v'esriym mil
-39  todo anshey milchomoh odrey ma'arokhoh blevov sholem bou chevrvonoh lhamliykh et-doviyd [OBJ] vgam sobre todo Israel um todo et-doviyd Israel coração um [OBJ]
-40  vayּihyu-shom nome com shlvoshoh okhliym vshvotiym kiy-hekhiynu a-eles porque
-41  vgam haqּrvovim-aleyhem ad-yisoshkhor até vnaftoliy mviiym pão bachamvoriym uvagmalּiym uvaprodiym ׀ uvaboqor alimento qemach dveliym vtsimּuqiym vyayin-vshemen uvoqor vtson lorov que simchoh porque
+velּeh haboiym a ltsiyqlag vod otsur de-diante-de shoul ben-qiysh filho-de bagibvoriym ozrey hamּilchomoh
+noshqey qeshet mayminiym umasmilim boavoniym uvachitsּiym baqּoshet meachey shoul mibinyomin
+horosh achi'ezer vyvoosh filhos-de hashּmo'oh hagiv'otiy *vyzvl filhos-de vofelet bney azmovet uvrokhoh
+vyishma'yoh hagiv'voniy gibvor bashּloshiym e-sobre
+vyirmyoh vyachaziel vyvochonon vyvozovod hagderotiy
+el'uzay virimvot uv'alyoh ushmaryohu ushfatyohu
+elqonoh vyishiּohu va'azarel vyvo'ezer vyoshov'om haqּorchiym
+vyvo'eloh uzvadyoh filhos-de yrochom de
+umin-hagodiy nivdlu el-dovid a midboroh giborey hachayil anshey exército lamּilchomoh orkhey tsinּoh voromach ufney aryeh pneyhem vkhitsvoyim al-hehoriym lmaher sobre
+auxiliar horosh ovadyoh hashּeniy eliov hashּlishiy
+mishmanּoh o-quarto yirmyoh hachamishiy
+atay hashּishּiy eliel hashּvi'iy
+yvochonon hashּminiy elzovod hatshi'iy
+yirmyohu ho'asiriy s makhbanּay dez
+Estas mibney-god roshey hatsּovo um um haqּoton vhagodvol lolef
+Estas eles que ovru [OBJ] bachodesh horishvon vhu mmalּe al-kol-*gdytyv sobre todo et-kol-ho'amoqiym [OBJ] todo
+vayּovou de filhos-de viyhudoh ad-lamtsod até
+vayּetse dovid lifneyhem vayּa'an E-disse a-eles se botem elay l'ozreni yihyeh-lּiy aleykhem levov lyochad vim-lramּvotani ltsoray blo chomos bkhapay yere elohey avvoteynu vyvokhach
+e-Espírito-de lovshoh [OBJ] rosh cabeça **hashּoli[t**ישִׁים֒] a-ti dovid filho-de ven-yishay sholvom ׀ sholvom a-ti vsholvom porque que azorkho eloheykho vayqablem doviyd vayּitnem broshey
+umimּnashּeh noflu sobre bvovo im-plishtiym com lamּilchomoh sobre azorum que e-não shilּchuhu porque flishtim dizendo brosheynu yipvol el-adonoyv shoul a
+blekhtvo a noflu oloyv ׀ mimּnashּeh adnach vyvozovod vidiy'ael umikhoel vyvozovod veelihu vtsilּtoy roshey hoalofiym que limnashּeh
+vhemּoh ozru com al-hagdud sobre chayil porque vayּihyu soriym batsּovo
+que l'et-yvom dia yovou al-doviyd sobre ad-lmachaneh godvol até Deus grande Elohim
+velּeh misprey roshey hecholuts latsּovo bou sobre chevrvonoh lhosev malkhut shoul a-ele kfiy yhwh yhwh
+filhos-de yhudoh nosey tsinּoh voromach sheshet alofiym ushmvoneh mevot chalutsey exército
+de filhos-de gibvorey chayil latsּovo shiv'at alofiym umeoh
+de filhos-de arba'at alofiym vshesh mevot
+vihvoyodo hanּogiyd laharon v'imּvo shloshet alofiym ushva mevot
+vtsodvoq na'ar gibvor choyil uveyt-oviyv soriym esriym ushnoyim
+umin-bney filhos-de achey shoul shloshet alofiym v'ad-henּoh marbitom shomriym mishmeret beyt shoul casa
+umin-bney filhos-de esriym elef mil mevot gibvorey chayil anshey shemvot lveyt avvotom
+umechatsi matּeh mnashּeh shmvonoh dez mil que niqּvu bshemvot lovvo lhamliykh [OBJ]
+umibney yisּoshkhor yvod'ey vinoh la'itiym para-conhecer mah-yּa'aseh yisroel Israel motayim vkhol-acheyhem e-todo sobre
+mizּvulun yvotsey exército orkhey milchomoh em-todo milchomoh chamishּiym olef mil blo-lev volev coração
+uminּaftoliy soriym mil v'imּohem btsinּoh vachaniyt shloshiym vshiv'oh mil
+umin-hadoni orkhey milchomoh esriym-ushmvonoh elef vshesh mil
+umeosher yvotsey exército la'arokh milchomoh arbo'iym mil
+ume'ever layּarden de vhagodiy vachatsiy ׀ shevet mnashּeh em-todo kley tsvo milchomoh cem v'esriym mil
+todo anshey milchomoh odrey ma'arokhoh blevov sholem bou chevrvonoh lhamliykh et-doviyd [OBJ] vgam sobre todo Israel um todo et-doviyd Israel coração um [OBJ]
+vayּihyu-shom nome com shlvoshoh okhliym vshvotiym kiy-hekhiynu a-eles porque
+vgam haqּrvovim-aleyhem ad-yisoshkhor até vnaftoliy mviiym pão bachamvoriym uvagmalּiym uvaprodiym ׀ uvaboqor alimento qemach dveliym vtsimּuqiym vyayin-vshemen uvoqor vtson lorov que simchoh porque
 
 ── Capítulo 13 ──
 
-1  vayּiuo'ats doviyd com hoalofiym vhamּevot lkhol-nogiyd para-todo
-2  E-disse doviyd a-todo ׀ Israel se im-'aleykhem bom umin-yhvoh YHWH nifrtsoh nishlchoh al-acheynu sobre bkhol artsvot em-todo v'imּohem Israel vhalviּim b'orey migrsheyhem vyiqּovtsu eleynu
-3  vnoseboh [OBJ] eloheynu eleynu ki-lo porque não shoul
-4  vayּomru todo la'asvot ken kiy-yoshar porque b'eyney khol-ho'om todo
-5  vayּaqhel dovid [OBJ] todo Israel de chamot lhovi et-arvon hoelohiym miqּiryat y'oriym [OBJ]
-6  vayּa'al doviyd e-todo Israel el-qiryat a asher lihudoh que mishּom [OBJ] arvon [OBJ] ׀ YHWH YHWH hakruviym asher-niqro que nome
-7  vayּarkiyvu [OBJ] hoelohim al-'agoloh sobre mibeyt avinodov v'uzּo vachyvo nohagiym bo'agoloh
-8  vdoviyd e-todo Israel lifney hoelohiym bkhol-'oz em-todo uvkhinּorvot uvinvoliym uvtupiym uvimtsiltayim uvachatsotsrvot
-9  vayּovou até kidon vayּishlach uzּo et-yodvo [OBJ] et-hoorvon que [OBJ] haboqor porque
-10  vayּichar-af YHWH YHWH vayּakehu sobre sobre sua-mão enviou vayּomot sobre lifney Deus nome Elohim
-11  vayּichar ldoviyd porque YHWH YHWH b'uzּo E-chamou E-chamou hahu perets uzּo até o-dia hazּeh
-12  vayּiro dovid [OBJ] no-dia hahu dizendo heykh oviy elay [OBJ] [OBJ] hoelohiym
-13  e-não doviyd et-hoorvon a-ele el-'iyr doviyd a cidade oved-edom hagitiy a casa homem
-14  vayּeshev arvon hoelohiym com casa servo homem shloshoh chodoshiym E-abençoou YHWH YHWH [OBJ] casa homem e-[OBJ] todo que
+vayּiuo'ats doviyd com hoalofiym vhamּevot lkhol-nogiyd para-todo
+E-disse doviyd a-todo ׀ Israel se im-'aleykhem bom umin-yhvoh yhwh nifrtsoh nishlchoh al-acheynu sobre bkhol artsvot em-todo v'imּohem Israel vhalviּim b'orey migrsheyhem vyiqּovtsu eleynu
+vnoseboh [OBJ] eloheynu eleynu ki-lo porque não shoul
+vayּomru todo la'asvot ken kiy-yoshar porque b'eyney khol-ho'om todo
+vayּaqhel dovid [OBJ] todo Israel de chamot lhovi et-arvon hoelohiym miqּiryat y'oriym [OBJ]
+vayּa'al doviyd e-todo Israel el-qiryat a asher lihudoh que mishּom [OBJ] arvon [OBJ] ׀ yhwh yhwh hakruviym asher-niqro que nome
+vayּarkiyvu [OBJ] hoelohim al-'agoloh sobre mibeyt avinodov v'uzּo vachyvo nohagiym bo'agoloh
+vdoviyd e-todo Israel lifney hoelohiym bkhol-'oz em-todo uvkhinּorvot uvinvoliym uvtupiym uvimtsiltayim uvachatsotsrvot
+vayּovou até kidon vayּishlach uzּo et-yodvo [OBJ] et-hoorvon que [OBJ] haboqor porque
+vayּichar-af yhwh yhwh vayּakehu sobre sobre sua-mão enviou vayּomot sobre lifney Deus nome Elohim
+vayּichar ldoviyd porque yhwh yhwh b'uzּo E-chamou E-chamou hahu perets uzּo até o-dia hazּeh
+vayּiro dovid [OBJ] no-dia hahu dizendo heykh oviy elay [OBJ] [OBJ] hoelohiym
+e-não doviyd et-hoorvon a-ele el-'iyr doviyd a cidade oved-edom hagitiy a casa homem
+vayּeshev arvon hoelohiym com casa servo homem shloshoh chodoshiym E-abençoou yhwh yhwh [OBJ] casa homem e-[OBJ] todo que
 
 ── Capítulo 14 ──
 
-1  vayּishlach rei-de **churom melekh-tsor a el-dovid va'atsey aroziym vchoroshey qiyr vchoroshey etsiym livnvot a-ele casa
-2  vayּeda doviyd porque YHWH YHWH al-yisroel sobre Israel porque ba'avur amּvo yisroel Israel
-3  E-tomou doviyd vod noshiym birusholo͏im vayּvoled doviyd vod boniym uvonvot
-4  velּeh shmvot hayludiym que hoyu-lvo birusholo͏im shamּu'a vshvovov noton deu
-5  vyivchor veelishu'a velpolet
-6  vnogah vnefeg vyofiy'a
-7  veelishomo uv'elyodo veelifolet
-8  vayּishm'u flishtiym porque doviyd lmelekh al-kol-yisroel sobre todo Israel et-doviyd todo doviyd vayּetse [OBJ] E-ouviu
-9  uflishtiym bou vayּifshtu b'emeq rfoiym
-10  vayּishal doviyd belohim dizendo hae'eleh sobre **plishtiym untatom E-disse E-disse a-ele YHWH folhas-de untatiym
-11  vayּa'alu bva'al-protsim vayּakem shom nome E-disse E-disse porats hoelohiym et-voyvay [OBJ] kferets moyim al-ken águas sobre hahu ba'al protsiym
-12  vayּa'azvu-shom nome E-disse doviyd E-disse boesh
-13  vayּosiyfu vod plishtiym vayּifshtu bo'emeq
-14  vayּishal vod dovid belohiym E-disse a-ele hoelohiym não t͏a'aleh ͏achareyhem hosev me'aleyhem uvoto a-eles mimּul habkhoiym
-15  e-seja kshom'akho [OBJ] hatsּ'odoh broshey habkhoiym oz tetse vamּilchomoh kiy-yotso porque lfoneykho lhakvot et-machaneh flishtiym [OBJ]
-16  E-fez doviyd k͏aasher tsiuohu h͏oelohiym vayּaku [OBJ] flishtiym migiv'von v'ad-gozroh
-17  vayּetse shem-doviyd bkhol-hoarotsvot em-todo dar et-pachdvo deu [OBJ] sobre todo
+vayּishlach rei-de **churom melekh-tsor a el-dovid va'atsey aroziym vchoroshey qiyr vchoroshey etsiym livnvot a-ele casa
+vayּeda doviyd porque yhwh yhwh al-yisroel sobre Israel porque ba'avur amּvo yisroel Israel
+E-tomou doviyd vod noshiym birusholo͏im vayּvoled doviyd vod boniym uvonvot
+velּeh shmvot hayludiym que hoyu-lvo birusholo͏im shamּu'a vshvovov noton deu
+vyivchor veelishu'a velpolet
+vnogah vnefeg vyofiy'a
+veelishomo uv'elyodo veelifolet
+vayּishm'u flishtiym porque doviyd lmelekh al-kol-yisroel sobre todo Israel et-doviyd todo doviyd vayּetse [OBJ] E-ouviu
+uflishtiym bou vayּifshtu b'emeq rfoiym
+vayּishal doviyd belohim dizendo hae'eleh sobre **plishtiym untatom E-disse E-disse a-ele yhwh folhas-de untatiym
+vayּa'alu bva'al-protsim vayּakem shom nome E-disse E-disse porats hoelohiym et-voyvay [OBJ] kferets moyim al-ken águas sobre hahu ba'al protsiym
+vayּa'azvu-shom nome E-disse doviyd E-disse boesh
+vayּosiyfu vod plishtiym vayּifshtu bo'emeq
+vayּishal vod dovid belohiym E-disse a-ele hoelohiym não t͏a'aleh ͏achareyhem hosev me'aleyhem uvoto a-eles mimּul habkhoiym
+e-seja kshom'akho [OBJ] hatsּ'odoh broshey habkhoiym oz tetse vamּilchomoh kiy-yotso porque lfoneykho lhakvot et-machaneh flishtiym [OBJ]
+E-fez doviyd k͏aasher tsiuohu h͏oelohiym vayּaku [OBJ] flishtiym migiv'von v'ad-gozroh
+vayּetse shem-doviyd bkhol-hoarotsvot em-todo dar et-pachdvo deu [OBJ] sobre todo
 
 ── Capítulo 15 ──
 
-1  vayּa'as-lvo votiym b'iyr doviyd vayּokhen lugar l͏aarvon h͏oelohiym vayּet-lvo ohel
-2  oz disse doviyd não loset [OBJ] h͏oelohiym que porque se ׀ porque YHWH loset YHWH YHWH [OBJ] ad-'volom YHWH até
-3  vayּaqhel doviyd [OBJ] todo Israel a YHWH el-mqvomvo [OBJ] a-ele YHWH a que
-4  vayּeesof doviyd [OBJ] filhos-de vet-halviּim e-[OBJ]
-5  livney qhot uriel hasּor vechoyv cem v'esriym
-6  livney mroriy asoyoh hasּor vechoyv motayim v'esriym
-7  livney gershvom yvoel hasּor vechoyv cem ushloshiym
-8  livney eliytsofon shma'yoh hasּor vechoyv motoyim
-9  livney chevrvon eliel hasּor vechoyv shmvoniym
-10  livney uzּiel amּinodov hasּor vechoyv cem ushneym dez
-11  E-chamou doviyd ltsodvoq ulevyotor hakohaniym vlalviּim luriel asoyoh vyvoel shma'yoh veeliel v'amּinodov
-12  E-disse a-eles atem roshey hoovvot lalviּim hitqadshu atem vaacheykhem vha'alitem [OBJ] arvon YHWH elohey Israel a a-ele
-13  que lmaborishvonoh não atem porats YHWH eloheynu bonu porque não kamּishpot
-14  vayּitqadshu hakohaniym vhalviּim lha'alvot [OBJ] YHWH YHWH yisroel Israel
-15  vayּisu vney-halviּim [OBJ] [OBJ] hoelohiym kaasher tsiuoh mosheh Moisés YHWH YHWH bamּotvot aleyhem
-16  E-disse dovid lsorey halviּim lha'amiyd [OBJ] hamshorriym bikhley-shiyr nvoliym vkhinּorvot umtsiltoyim mashmi'iym lhoriym-bqvol lsimchoh
-17  vayּa'amiydu halviּim [OBJ] heymon filho-de umin-echoyv osof ben-berekhyohu s filho-de mrori acheyhem filhos-de ben-qushoyohu filho-de
-18  v'imּohem acheyhem hamּishniym zkharyohu filho vya'aziel ushm͏iromvot vichiel ׀ v'unּiy eliov uvnoyohu uma'aseyohu umatityohu veeliyflehu umiqneyohu homem edom viy'iel
-19  vhamshorriym heymon osof veyton bimtsiltayim nchoshet lhashmiy'a
-20  uzkharyoh va'aziel ushmiyromvot viychiel v'unּiy v͏eeliov uma'aseyohu uvnoyohu binvoliym sobre
-21  umatityohu veeliyflehu umiqneyohu v'oved homem viy'iel va'azazyohu bkhinּorvot sobre lnatsּecha
-22  ukhnanyohu sar-halviּim bmasּo yosor bamּasּo que porque ele
-23  uverekhyoh velqonoh sho'ariym loorvon
-24  ushvanyohu vyvoshofot untanel va'amosay uzkharyohu uvnoyohu v͏eeli'ezer hakohaniym *mchtstsrym **machtsrim bachatsotsrvot lifney arvon homem v'oved edom viychiּoh
-25  e-houve doviyd vziqney Israel vsorey hoalofiym haholkhiym lha'alvot [OBJ] brit-yhvoh min-beyt YHWH de casa homem
-26  v͏ayhi be'zor h͏oelohiym [OBJ] nosey arvon brit-yhvoh vayּizbchu YHWH vshiv'oh eyliym
-27  vdoviyd mkhurbol ׀ bim'iyl e-todo vkhol-halviּim hanּosiym [OBJ] vhamshorriym ukhnanyoh hasּar hamּasּo hamshorriym v'al-doviyd e-sobre bod
-28  e-todo Israel et-arvon [OBJ] bitru'oh uvqvol YHWH uvachatsotsrvot uvimtsiltoyim mashmi'iym binvoliym vkhinּorvot
-29  e-houve arvon briyt YHWH veio até cidade umikhal bat-shoul nishqfoh ׀ b'ad hachalּvon E-viu et-hamּelekh [OBJ] mraqּed umsacheq vativez a-ele bliboh
+vayּa'as-lvo votiym b'iyr doviyd vayּokhen lugar l͏aarvon h͏oelohiym vayּet-lvo ohel
+oz disse doviyd não loset [OBJ] h͏oelohiym que porque se ׀ porque yhwh loset yhwh yhwh [OBJ] ad-'volom yhwh até
+vayּaqhel doviyd [OBJ] todo Israel a yhwh el-mqvomvo [OBJ] a-ele yhwh a que
+vayּeesof doviyd [OBJ] filhos-de vet-halviּim e-[OBJ]
+livney qhot uriel hasּor vechoyv cem v'esriym
+livney mroriy asoyoh hasּor vechoyv motayim v'esriym
+livney gershvom yvoel hasּor vechoyv cem ushloshiym
+livney eliytsofon shma'yoh hasּor vechoyv motoyim
+livney chevrvon eliel hasּor vechoyv shmvoniym
+livney uzּiel amּinodov hasּor vechoyv cem ushneym dez
+E-chamou doviyd ltsodvoq ulevyotor hakohaniym vlalviּim luriel asoyoh vyvoel shma'yoh veeliel v'amּinodov
+E-disse a-eles atem roshey hoovvot lalviּim hitqadshu atem vaacheykhem vha'alitem [OBJ] arvon yhwh elohey Israel a a-ele
+que lmaborishvonoh não atem porats yhwh eloheynu bonu porque não kamּishpot
+vayּitqadshu hakohaniym vhalviּim lha'alvot [OBJ] yhwh yhwh yisroel Israel
+vayּisu vney-halviּim [OBJ] [OBJ] hoelohiym kaasher tsiuoh mosheh Moisés yhwh yhwh bamּotvot aleyhem
+E-disse dovid lsorey halviּim lha'amiyd [OBJ] hamshorriym bikhley-shiyr nvoliym vkhinּorvot umtsiltoyim mashmi'iym lhoriym-bqvol lsimchoh
+vayּa'amiydu halviּim [OBJ] heymon filho-de umin-echoyv osof ben-berekhyohu s filho-de mrori acheyhem filhos-de ben-qushoyohu filho-de
+v'imּohem acheyhem hamּishniym zkharyohu filho vya'aziel ushm͏iromvot vichiel ׀ v'unּiy eliov uvnoyohu uma'aseyohu umatityohu veeliyflehu umiqneyohu homem edom viy'iel
+vhamshorriym heymon osof veyton bimtsiltayim nchoshet lhashmiy'a
+uzkharyoh va'aziel ushmiyromvot viychiel v'unּiy v͏eeliov uma'aseyohu uvnoyohu binvoliym sobre
+umatityohu veeliyflehu umiqneyohu v'oved homem viy'iel va'azazyohu bkhinּorvot sobre lnatsּecha
+ukhnanyohu sar-halviּim bmasּo yosor bamּasּo que porque ele
+uverekhyoh velqonoh sho'ariym loorvon
+ushvanyohu vyvoshofot untanel va'amosay uzkharyohu uvnoyohu v͏eeli'ezer hakohaniym *mchtstsrym **machtsrim bachatsotsrvot lifney arvon homem v'oved edom viychiּoh
+e-houve doviyd vziqney Israel vsorey hoalofiym haholkhiym lha'alvot [OBJ] brit-yhvoh min-beyt yhwh de casa homem
+v͏ayhi be'zor h͏oelohiym [OBJ] nosey arvon brit-yhvoh vayּizbchu yhwh vshiv'oh eyliym
+vdoviyd mkhurbol ׀ bim'iyl e-todo vkhol-halviּim hanּosiym [OBJ] vhamshorriym ukhnanyoh hasּar hamּasּo hamshorriym v'al-doviyd e-sobre bod
+e-todo Israel et-arvon [OBJ] bitru'oh uvqvol yhwh uvachatsotsrvot uvimtsiltoyim mashmi'iym binvoliym vkhinּorvot
+e-houve arvon briyt yhwh veio até cidade umikhal bat-shoul nishqfoh ׀ b'ad hachalּvon E-viu et-hamּelekh [OBJ] mraqּed umsacheq vativez a-ele bliboh
 
 ── Capítulo 16 ──
 
-1  vayּoviyu [OBJ] h͏oelohiym vayatsּiygu ele no-meio-de hoohel asher que doviyd vayּaqriyvu olvot ushlomiym lifney hoelohiym
-2  E-terminou doviyd meha'alvot ho'oloh vhashּlomiym E-abençoou [OBJ] bshem YHWH YHWH
-3  vaychalּeq para-todo homem Israel v'ad-ishּoh lish mulher veshpor vaashishoh
-4  E-colocou lifney arvon YHWH de mshortiym ulhazkir ulhvodvot ulhalּel layhvoh elohey yisroel Israel
-5  osof horosh umishnehu zkharyoh y'iel ushmiyromvot viychiel umatityoh veeliov uvnoyohu v'oved homem v͏i'iel bikhley nvolim uvkhinּorvot vosof bamtsiltayim mashmiy'a
-6  uvnoyohu vyachaziel hakohaniym bachatsotsrvot tomiyd lifney arvon brit-hoelohiym
-7  no-dia hahu oz dar dovid borosh lhodvot layhvoh byad-osof vechoyv
-8  hvodu layhvoh qiru vishmvo hvodiy'u vo'amּiym alilotoyv
-9  shiyru a-ele zamּru-lvo siychu bkhol-niflotoyv em-todo
-10  hith͏allu bshem qodshvo yismach coração mvaqshey YHWH
-11  dirshu YHWH v'uzּvo baqּshu fonoyv tomiyd
-12  zikhru niflotoyv que fez moftoyv umishptey-fiyhu
-13  semente Israel avdvo filhos-de Jacó bchiroyv
-14  ele YHWH eloheynu em-todo a-terra
-15  zikhru l'volom britvo palavra tsiuoh lelef dvor
-16  que korat [OBJ] Abraão lyitschoq
-17  vaya'amideho lya'aqov lchoq lyisroel briyt eternidade
-18  dizendo a-ti eten erets-kno'an chevel nachalatkhem
-19  bihyvotkhem mtey mispor kim'at vgoriym boh
-20  vayּithalּkhu migvoy a nação el-'am a povo
-21  não lish l'oshqom vayּvokhach aleyhem mlokhiym
-22  a bimshichoy uvinviay al-tore'u a
-23  shiyru layhvoh todo a-terra miּvom-el-yvom yshu'otvo a dia
-24  sapru vagvoyim [OBJ] bkhol-ho'amּiym em-todo
-25  que grande YHWH umhulּol muito vnvoro ele sobre todo Elohim
-26  que todo ho'amּim eliliym vayhvoh shomayim céus fez
-27  hvod vhodor lfonoyv oz vchedvoh bimqomvo
-28  hovu layhvoh mishpchvot amּiym hovu layhvoh kovvod vo'oz
-29  hovu layhvoh kvvod shmvo su minchoh uvou lfonoyv hishtachavu layhvoh bhadrat-qodesh
-30  chiylu milּfonoyv todo a-terra tevel bal-timּvot
-31  yismchu os-céus vtogel a-terra vyomru vagvoyim YHWH rei
-32  yir'am o-mar umlvovo ya'alots hasּodeh e-todo que
-33  oz yranּnu atsey hayּo'ar milּifney YHWH porque veio et-hoorets [OBJ] a-terra
-34  hvodu layhvoh que bom que l'volom chasdvo
-35  vimru hvoshi'enu elohey yish'enu vqabtsenu vhatsּilenu de lhodvot lshem qodshekho lhishtabecha bithilּotekho
-36  borukh YHWH elohey Israel de v'ad ho'olom vayּomru khol-ho'om todo vhalּel layhvoh
-37  vayּa'azov-shom nome arvon brit-yhvoh losof YHWH lshoret lifney hoorvon tomiyd lidvar-yvom byvomvo dia
-38  v'oved homem vaacheyhem shishּiym ushmvonoh v'oved homem filho-de vchosoh lsho'ariym
-39  e-[OBJ] ׀ tsodvoq hakohen vechoyv hakohaniym lifney YHWH YHWH que asher
-40  l͏ha'alvot olvot layhvoh sobre ho'oloh tomiyd laboqer vlo'orev ulkhol-hakotuv btvorat YHWH asher YHWH que sobre Israel
-41  v'imּohem heymon viydutun ushor habruriym que niqּvu bshemvot lhodvot layhvoh que l'volom chasdvo
-42  v'imּohem heymon viydutun chatsotsrvot umtsiltayim lmashmi'iym ukhley shiyr hoelohiym uvney ydutun lashּo'ar
-43  vayּelkhu todo iysh homem vayּisּov doviyd lvorekh et-beytvo [OBJ]
+vayּoviyu [OBJ] h͏oelohiym vayatsּiygu ele no-meio-de hoohel asher que doviyd vayּaqriyvu olvot ushlomiym lifney hoelohiym
+E-terminou doviyd meha'alvot ho'oloh vhashּlomiym E-abençoou [OBJ] bshem yhwh yhwh
+vaychalּeq para-todo homem Israel v'ad-ishּoh lish mulher veshpor vaashishoh
+E-colocou lifney arvon yhwh de mshortiym ulhazkir ulhvodvot ulhalּel layhvoh elohey yisroel Israel
+osof horosh umishnehu zkharyoh y'iel ushmiyromvot viychiel umatityoh veeliov uvnoyohu v'oved homem v͏i'iel bikhley nvolim uvkhinּorvot vosof bamtsiltayim mashmiy'a
+uvnoyohu vyachaziel hakohaniym bachatsotsrvot tomiyd lifney arvon brit-hoelohiym
+no-dia hahu oz dar dovid borosh lhodvot layhvoh byad-osof vechoyv
+hvodu layhvoh qiru vishmvo hvodiy'u vo'amּiym alilotoyv
+shiyru a-ele zamּru-lvo siychu bkhol-niflotoyv em-todo
+hith͏allu bshem qodshvo yismach coração mvaqshey yhwh
+dirshu yhwh v'uzּvo baqּshu fonoyv tomiyd
+zikhru niflotoyv que fez moftoyv umishptey-fiyhu
+semente Israel avdvo filhos-de Jacó bchiroyv
+ele yhwh eloheynu em-todo a-terra
+zikhru l'volom britvo palavra tsiuoh lelef dvor
+que korat [OBJ] Abraão lyitschoq
+vaya'amideho lya'aqov lchoq lyisroel briyt eternidade
+dizendo a-ti eten erets-kno'an chevel nachalatkhem
+bihyvotkhem mtey mispor kim'at vgoriym boh
+vayּithalּkhu migvoy a nação el-'am a povo
+não lish l'oshqom vayּvokhach aleyhem mlokhiym
+a bimshichoy uvinviay al-tore'u a
+shiyru layhvoh todo a-terra miּvom-el-yvom yshu'otvo a dia
+sapru vagvoyim [OBJ] bkhol-ho'amּiym em-todo
+que grande yhwh umhulּol muito vnvoro ele sobre todo Elohim
+que todo ho'amּim eliliym vayhvoh shomayim céus fez
+hvod vhodor lfonoyv oz vchedvoh bimqomvo
+hovu layhvoh mishpchvot amּiym hovu layhvoh kovvod vo'oz
+hovu layhvoh kvvod shmvo su minchoh uvou lfonoyv hishtachavu layhvoh bhadrat-qodesh
+chiylu milּfonoyv todo a-terra tevel bal-timּvot
+yismchu os-céus vtogel a-terra vyomru vagvoyim yhwh rei
+yir'am o-mar umlvovo ya'alots hasּodeh e-todo que
+oz yranּnu atsey hayּo'ar milּifney yhwh porque veio et-hoorets [OBJ] a-terra
+hvodu layhvoh que bom que l'volom chasdvo
+vimru hvoshi'enu elohey yish'enu vqabtsenu vhatsּilenu de lhodvot lshem qodshekho lhishtabecha bithilּotekho
+borukh yhwh elohey Israel de v'ad ho'olom vayּomru khol-ho'om todo vhalּel layhvoh
+vayּa'azov-shom nome arvon brit-yhvoh losof yhwh lshoret lifney hoorvon tomiyd lidvar-yvom byvomvo dia
+v'oved homem vaacheyhem shishּiym ushmvonoh v'oved homem filho-de vchosoh lsho'ariym
+e-[OBJ] ׀ tsodvoq hakohen vechoyv hakohaniym lifney yhwh yhwh que asher
+l͏ha'alvot olvot layhvoh sobre ho'oloh tomiyd laboqer vlo'orev ulkhol-hakotuv btvorat yhwh asher yhwh que sobre Israel
+v'imּohem heymon viydutun ushor habruriym que niqּvu bshemvot lhodvot layhvoh que l'volom chasdvo
+v'imּohem heymon viydutun chatsotsrvot umtsiltayim lmashmi'iym ukhley shiyr hoelohiym uvney ydutun lashּo'ar
+vayּelkhu todo iysh homem vayּisּov doviyd lvorekh et-beytvo [OBJ]
 
 ── Capítulo 17 ──
 
-1  e-houve kaasher habitou doviyd bveytvo E-disse doviyd a deu eis eu yvoshev bveyt h͏oaroziym vaarvon brit-yhvoh debaixo YHWH
-2  E-disse deu a kol todo que aseh que porque imּokh
-3  e-houve balּayloh hahu e-houve dvar-elohiym Elohim dizendo deu
-4  lekh vomarto a avdiy koh disse YHWH não tu tivneh-lּiy habayit loshovet
-5  que não yoshavti bvayit de asher que et-yisroel até o-dia até voehyeh meohel el-ohel umimּishkon a
-6  em-todo que bkhol-yisroel em-todo Israel et-achad shoftey [OBJ] um tsiuiyti Israel que dizendo lomּoh [OBJ] liy beyt aroziym não casa
-7  e-agora koh-tomar l'avdiy ldoviyd s koh disse YHWH tsvovot aniy lqachtiykho de min-acharey de lihyvot nogiyd sobre amּiy sobre Israel
-8  voehyeh imּkho em-todo que holakhto voakhriyt [OBJ] todo v'osiytiy a-ti shem kshem nome asher boorets que
-9  vsamtiy lugar l'amּiy Israel unta'tiyhu vshokhan tachtoyv e-não yirgaz vod e-não vney-'avloh lvalּotvo kaasher borishvonoh
-10  ulmiּomiym que tsiuiyti shoftim sobre yisroel Israel et-kol-voyveykho [OBJ] para-ti uvayit yivneh-lּkho YHWH YHWH
-11  vhoyoh porque yomeykho lolekhet im-avoteykho com et-zar'akho achareykho [OBJ] será miboneykho que et-malkhutvo [OBJ]
-12  ele yivneh-lּiy boyit casa et-kisvo [OBJ] até
-13  ani ehyeh-lּvo lov vhu yihyeh-lּiy lven vchasdi lo-osiyr me'imּvo não hasirvoti measher ser lfoneykho foi
-14  vha'amadtiyhu bveytiy uvmalkhutiy até vkhisvo será nokhvon ad-'volom até
-15  kkhol hadvoriym hoelּeh ukhkhol hechozvon hazּeh ken palavra deu a
-16  E-veio hamּelekh doviyd vayּeshev lifney YHWH E-disse miy-aniy YHWH Deus Elohim veytiy que porque ad-halom até
-17  vatiqtan esta b'eyneykho Deus vatdaber sobre casa-de uritani ktvor o-homem hamּa'aloh YHWH Deus YHWH Elohim
-18  mah-yּvosiyf vod doviyd eleykho lkhovvod et-'avdekho [OBJ] et-'avdkho yodo'to [OBJ]
-19  YHWH ba'avur avdkho ukhlibkho osiyto [OBJ] todo hazּot lhodiy'a et-kol-hagdulּvot [OBJ] todo
-20  YHWH eyn komvokho veyn Deus zulotekho em-todo que bozneynu
-21  umi k'amּkho Israel nação um boorets que andar hoelohiym lifdvot a-ele povo losum a-ti nome gdulּvot vnorovot lgoresh de-diante-de amּkho que mimּitsrayim gvoyim
-22  e-deu [OBJ] yisroel ׀ a-ti l'om até vatoh YHWH YHWH a-eles lelohiym
-23  e-agora YHWH hadovor que dibarto sobre v'al-beytvo e-sobre ad-'volom va'aseh até dibarto
-24  vyeomen vyigdal shimkho até dizendo YHWH YHWH elohey yisroel Deus Elohim uveyt-doviyd avdkho nokhvon lfoneykho
-25  que ׀ tu elohay [OBJ] et-ozen avdkho livnvot a-ele casa sobre encontrou avdkho lhitpalּel lfoneykho
-26  e-agora YHWH atoh-hu hoelohiym vatdaber al-'avdkho sobre hazּot
-27  e-agora hvoalto lvorekh [OBJ] casa lihyvot l'volom lfoneykho kiy-atoh YHWH berakhto YHWH l'volom
+e-houve kaasher habitou doviyd bveytvo E-disse doviyd a deu eis eu yvoshev bveyt h͏oaroziym vaarvon brit-yhvoh debaixo yhwh
+E-disse deu a kol todo que aseh que porque imּokh
+e-houve balּayloh hahu e-houve dvar-elohiym Elohim dizendo deu
+lekh vomarto a avdiy koh disse yhwh não tu tivneh-lּiy habayit loshovet
+que não yoshavti bvayit de asher que et-yisroel até o-dia até voehyeh meohel el-ohel umimּishkon a
+em-todo que bkhol-yisroel em-todo Israel et-achad shoftey [OBJ] um tsiuiyti Israel que dizendo lomּoh [OBJ] liy beyt aroziym não casa
+e-agora koh-tomar l'avdiy ldoviyd s koh disse yhwh tsvovot aniy lqachtiykho de min-acharey de lihyvot nogiyd sobre amּiy sobre Israel
+voehyeh imּkho em-todo que holakhto voakhriyt [OBJ] todo v'osiytiy a-ti shem kshem nome asher boorets que
+vsamtiy lugar l'amּiy Israel unta'tiyhu vshokhan tachtoyv e-não yirgaz vod e-não vney-'avloh lvalּotvo kaasher borishvonoh
+ulmiּomiym que tsiuiyti shoftim sobre yisroel Israel et-kol-voyveykho [OBJ] para-ti uvayit yivneh-lּkho yhwh yhwh
+vhoyoh porque yomeykho lolekhet im-avoteykho com et-zar'akho achareykho [OBJ] será miboneykho que et-malkhutvo [OBJ]
+ele yivneh-lּiy boyit casa et-kisvo [OBJ] até
+ani ehyeh-lּvo lov vhu yihyeh-lּiy lven vchasdi lo-osiyr me'imּvo não hasirvoti measher ser lfoneykho foi
+vha'amadtiyhu bveytiy uvmalkhutiy até vkhisvo será nokhvon ad-'volom até
+kkhol hadvoriym hoelּeh ukhkhol hechozvon hazּeh ken palavra deu a
+E-veio hamּelekh doviyd vayּeshev lifney yhwh E-disse miy-aniy yhwh Deus Elohim veytiy que porque ad-halom até
+vatiqtan esta b'eyneykho Deus vatdaber sobre casa-de uritani ktvor o-homem hamּa'aloh yhwh Deus yhwh Elohim
+mah-yּvosiyf vod doviyd eleykho lkhovvod et-'avdekho [OBJ] et-'avdkho yodo'to [OBJ]
+yhwh ba'avur avdkho ukhlibkho osiyto [OBJ] todo hazּot lhodiy'a et-kol-hagdulּvot [OBJ] todo
+yhwh eyn komvokho veyn Deus zulotekho em-todo que bozneynu
+umi k'amּkho Israel nação um boorets que andar hoelohiym lifdvot a-ele povo losum a-ti nome gdulּvot vnorovot lgoresh de-diante-de amּkho que mimּitsrayim gvoyim
+e-deu [OBJ] yisroel ׀ a-ti l'om até vatoh yhwh yhwh a-eles lelohiym
+e-agora yhwh hadovor que dibarto sobre v'al-beytvo e-sobre ad-'volom va'aseh até dibarto
+vyeomen vyigdal shimkho até dizendo yhwh yhwh elohey yisroel Deus Elohim uveyt-doviyd avdkho nokhvon lfoneykho
+que ׀ tu elohay [OBJ] et-ozen avdkho livnvot a-ele casa sobre encontrou avdkho lhitpalּel lfoneykho
+e-agora yhwh atoh-hu hoelohiym vatdaber al-'avdkho sobre hazּot
+e-agora hvoalto lvorekh [OBJ] casa lihyvot l'volom lfoneykho kiy-atoh yhwh berakhto yhwh l'volom
 
 ── Capítulo 18 ──
 
-1  e-houve acharey-khen vayּakh doviyd et-plishtiym [OBJ] E-tomou et-gat E-tomou [OBJ] plishtiym
-2  vayּakh [OBJ] vayּihyu mvoov avodiym ldoviyd nosey minchoh
-3  vayּakh doviyd [OBJ] melekh-tsvovoh rei-de blekhtvo lhatsּiyv sua-mão binhar-prot
-4  vayּilkod doviyd nós mil rekhev vshiv'at alofim poroshiym v'esriym mil homem ragliy vay'aqּer dovid [OBJ] todo nós meoh rokhev cem
-5  E-veio aram darmeseq la'zvor lahadad'ezer rei tsvovoh vayּakh dovid baarom esriym-ushnayim elef mil homem
-6  vayּosem dovid baaram darmeseq e-houve arom ldoviyd avodiym nosey minchoh vayּvosha YHWH ldoviyd em-todo que andou
-7  E-tomou doviyd [OBJ] shiltey o-ouro que hoyu sobre avdey hadad'ozer vayviem yrusholo͏im
-8  umitּivchat umikun orey hadad'ezer tomou doviyd nchoshet multiplicai muito boh fez osoh [OBJ] et-yom hanּchoshet e-[OBJ] e-[OBJ] e-[OBJ] hanּchoshet
-9  E-ouviu to'u rei chamot que hikoh doviyd [OBJ] todo melekh-tsvovoh rei-de
-10  vayּishlach [OBJ] el-hamּelekh-dovid *lshvl-**lishol-lvo a ulvorakhvo sobre asher nilcham bahadad'ezer sobre que milchamvot to'u ser porque e-tudo kley ouro foi unchoshet e-todo
-11  também hiqdiysh hamּelekh dovid layhvoh im-hakesef com asher noso que meedvom de-todo umibney amּvon umiplishtiym ume'amoleq
-12  vavshay filho-de hikoh et-edvom [OBJ] hamּelach shmvonoh osor olef dez mil
-13  vayּosem beedvom ntsiviym vayּihyu todo avodiym ldoviyd vayּvosha YHWH YHWH [OBJ] asher em-todo que andou
-14  vayּimlokh doviyd sobre e-houve Israel E-foi fez lkhol-'amּvo para-todo
-15  vyvoov filho-de al-hatsּovo sobre ben-achilud mazkiyr filho-de
-16  vtsodvoq filho-de vaavimelekh ben-evyotor filho-de vshavsho svofer
-17  uvnoyohu filho-de al-hakretiy sobre uvney-doviyd horishoniym lyad hamּelekh
+e-houve acharey-khen vayּakh doviyd et-plishtiym [OBJ] E-tomou et-gat E-tomou [OBJ] plishtiym
+vayּakh [OBJ] vayּihyu mvoov avodiym ldoviyd nosey minchoh
+vayּakh doviyd [OBJ] melekh-tsvovoh rei-de blekhtvo lhatsּiyv sua-mão binhar-prot
+vayּilkod doviyd nós mil rekhev vshiv'at alofim poroshiym v'esriym mil homem ragliy vay'aqּer dovid [OBJ] todo nós meoh rokhev cem
+E-veio aram darmeseq la'zvor lahadad'ezer rei tsvovoh vayּakh dovid baarom esriym-ushnayim elef mil homem
+vayּosem dovid baaram darmeseq e-houve arom ldoviyd avodiym nosey minchoh vayּvosha yhwh ldoviyd em-todo que andou
+E-tomou doviyd [OBJ] shiltey o-ouro que hoyu sobre avdey hadad'ozer vayviem yrusholo͏im
+umitּivchat umikun orey hadad'ezer tomou doviyd nchoshet multiplicai muito boh fez osoh [OBJ] et-yom hanּchoshet e-[OBJ] e-[OBJ] e-[OBJ] hanּchoshet
+E-ouviu to'u rei chamot que hikoh doviyd [OBJ] todo melekh-tsvovoh rei-de
+vayּishlach [OBJ] el-hamּelekh-dovid *lshvl-**lishol-lvo a ulvorakhvo sobre asher nilcham bahadad'ezer sobre que milchamvot to'u ser porque e-tudo kley ouro foi unchoshet e-todo
+também hiqdiysh hamּelekh dovid layhvoh im-hakesef com asher noso que meedvom de-todo umibney amּvon umiplishtiym ume'amoleq
+vavshay filho-de hikoh et-edvom [OBJ] hamּelach shmvonoh osor olef dez mil
+vayּosem beedvom ntsiviym vayּihyu todo avodiym ldoviyd vayּvosha yhwh yhwh [OBJ] asher em-todo que andou
+vayּimlokh doviyd sobre e-houve Israel E-foi fez lkhol-'amּvo para-todo
+vyvoov filho-de al-hatsּovo sobre ben-achilud mazkiyr filho-de
+vtsodvoq filho-de vaavimelekh ben-evyotor filho-de vshavsho svofer
+uvnoyohu filho-de al-hakretiy sobre uvney-doviyd horishoniym lyad hamּelekh
 
 ── Capítulo 19 ──
 
-1  e-houve acharey-khen vayּomot E-morreu melekh rei vayּimlokh bnvo tachtoyv
-2  E-disse doviyd e'eseh-chesed ׀ com ben-nochosh filho-de seu-pai porque fez vayּishlach doviyd malokhiym lnachamvo al-oviyv vayּovou avdey sobre el-erets bney-'amּvon el-chonun lnachamvo a terra a
-3  vayּomru sorey vney-'amּvon lchonun hamkhabed doviyd et-oviykho [OBJ] kiy-sholach a-ti porque enviou ba'avur lachqor vlahafokh ulragel a-terra bou avodoyv a-terra
-4  E-tomou chonun [OBJ] dovid vaygalּchem vayּikhrot et-madveyhem [OBJ] ad-hamּifso'oh vayshalּchem até
-5  vayּelkhu vayּagiydu ldoviyd sobre vayּishlach liqrotom ki-hoyu porque nikhlomiym muito E-disse hamּelekh E-disse viyrechvo até asher-ytsamּach até que
-6  vayּiru filhos-de amּvon que hitboashu com vayּishlach chonun uvney amּvon elef mil liskor a-eles min-aram naharayim de ma'akhoh umitsּvovoh rekhev uforoshiym
-7  vayּiskru a-eles dois ushloshiym mil rekhev e-[OBJ] rei vet-'amּvo e-[OBJ] vayּachanu lifney meydvo uvney amּvon neesfu me'oreyhem vayּovou lamּilchomoh
-8  E-ouviu doviyd vayּishlach [OBJ] e-[OBJ] e-[OBJ] todo
-9  vayּetsu filhos-de amּvon vayּa'arkhu milchomoh petach ho'iyr vhamּlokhiym que lvadom basּodeh
-10  E-viu yvoov porque fney-hamּilchomoh a-ele poniym vochvor face mikol-bochur byisroel de-todo liqrat arom
-11  e-[OBJ] yeter ho'om dar byad avshay ochiyv vayּa'arkhu liqrat filhos-de amּvon
-12  E-disse se mimּenּi arom vhoyiyto a-mim litshu'oh s vim-bney filhos-de yechezqu mimּkho vhvosha'tiykho
-13  chazaq vnitchazּqoh b'ad-'amּenu uv'ad orey eloheynu vayhvoh hatּvov b'eynoyv ya'aseh
-14  vayּigash yvoov vho'om que lifney arom lamּilchomoh vayּonusu miponoyv
-15  uvney amּvon rou porque arom vayּonusu gam-hem de-diante-de avshay ochiyv vayּovou ho'iyroh vayּovo yvoov E-veio
-16  E-viu arom que nigfu lifney Israel vayּishlchu malokhiym vayּvotsiyu [OBJ] asher que o-rio vshvofakh sar-tsvo hadad'ezer lifneyhem
-17  vayּugad ldoviyd vayּeesof [OBJ] todo Israel vayּovo alehem E-veio alehem vayּa'arokh doviyd liqrat arom milchomoh vayּilּochamu imּvo
-18  vayּonos arom milּifney Israel vayּaharog doviyd mearom shiv'at alofim rekhev varbo'iym mil homem ragliy e-[OBJ] shvofakh sar-hatsּovo hemiyt
-19  vayּiru avdey hadad'ezer que nigfu lifney Israel vayּashliymu com vayּa'avduhu vlo-ovoh e-não lhvoshiy'a et-bney-'amּvon vod [OBJ]
+e-houve acharey-khen vayּomot E-morreu melekh rei vayּimlokh bnvo tachtoyv
+E-disse doviyd e'eseh-chesed ׀ com ben-nochosh filho-de seu-pai porque fez vayּishlach doviyd malokhiym lnachamvo al-oviyv vayּovou avdey sobre el-erets bney-'amּvon el-chonun lnachamvo a terra a
+vayּomru sorey vney-'amּvon lchonun hamkhabed doviyd et-oviykho [OBJ] kiy-sholach a-ti porque enviou ba'avur lachqor vlahafokh ulragel a-terra bou avodoyv a-terra
+E-tomou chonun [OBJ] dovid vaygalּchem vayּikhrot et-madveyhem [OBJ] ad-hamּifso'oh vayshalּchem até
+vayּelkhu vayּagiydu ldoviyd sobre vayּishlach liqrotom ki-hoyu porque nikhlomiym muito E-disse hamּelekh E-disse viyrechvo até asher-ytsamּach até que
+vayּiru filhos-de amּvon que hitboashu com vayּishlach chonun uvney amּvon elef mil liskor a-eles min-aram naharayim de ma'akhoh umitsּvovoh rekhev uforoshiym
+vayּiskru a-eles dois ushloshiym mil rekhev e-[OBJ] rei vet-'amּvo e-[OBJ] vayּachanu lifney meydvo uvney amּvon neesfu me'oreyhem vayּovou lamּilchomoh
+E-ouviu doviyd vayּishlach [OBJ] e-[OBJ] e-[OBJ] todo
+vayּetsu filhos-de amּvon vayּa'arkhu milchomoh petach ho'iyr vhamּlokhiym que lvadom basּodeh
+E-viu yvoov porque fney-hamּilchomoh a-ele poniym vochvor face mikol-bochur byisroel de-todo liqrat arom
+e-[OBJ] yeter ho'om dar byad avshay ochiyv vayּa'arkhu liqrat filhos-de amּvon
+E-disse se mimּenּi arom vhoyiyto a-mim litshu'oh s vim-bney filhos-de yechezqu mimּkho vhvosha'tiykho
+chazaq vnitchazּqoh b'ad-'amּenu uv'ad orey eloheynu vayhvoh hatּvov b'eynoyv ya'aseh
+vayּigash yvoov vho'om que lifney arom lamּilchomoh vayּonusu miponoyv
+uvney amּvon rou porque arom vayּonusu gam-hem de-diante-de avshay ochiyv vayּovou ho'iyroh vayּovo yvoov E-veio
+E-viu arom que nigfu lifney Israel vayּishlchu malokhiym vayּvotsiyu [OBJ] asher que o-rio vshvofakh sar-tsvo hadad'ezer lifneyhem
+vayּugad ldoviyd vayּeesof [OBJ] todo Israel vayּovo alehem E-veio alehem vayּa'arokh doviyd liqrat arom milchomoh vayּilּochamu imּvo
+vayּonos arom milּifney Israel vayּaharog doviyd mearom shiv'at alofim rekhev varbo'iym mil homem ragliy e-[OBJ] shvofakh sar-hatsּovo hemiyt
+vayּiru avdey hadad'ezer que nigfu lifney Israel vayּashliymu com vayּa'avduhu vlo-ovoh e-não lhvoshiy'a et-bney-'amּvon vod [OBJ]
 
 ── Capítulo 20 ──
 
-1  e-houve l'et tshuvat hashּonoh l'et ׀ tset hamּlokhiym vayּinhag [OBJ] et-cheyl hatsּovo vayּashchet [OBJ] terra bney-'amּvon vayּovo E-veio et-raboh [OBJ] multiplicai birusholo͏im habitou yvoov et-raboh vayּeherseho [OBJ] multiplicai
-2  E-tomou doviyd [OBJ] de-cima-de roshvo vayּimtsooh ׀ mishqal kikar-zohov uvoh pedra yqoroh vathiy al-rosh doviyd sobre cabeça hvotsiy harbeh muito
-3  e-[OBJ] asher-boh que vayּosar bamּgeroh uvacharitsey habarzel uvamּgervot vkhen ya'aseh doviyd a-todo orey para-todo vayּoshov doviyd vkhol-ho'om yrusholo͏im e-todo
-4  e-houve acharey[cכֵ֔ן] vata'amod milchomoh com im-plishtiym oz hikoh sibkhay hachushotiy [OBJ] milidey horfoiym vayּikone'u
-5  vathi-'vod milchomoh et-plishtiym [OBJ] elchonon ben-*y'vr **yo'iyr filho-de [OBJ] golyot hagitiy v'ets chanitvo kimnvor orgiym
-6  vathi-'vod milchomoh bgat e-houve ׀ homem midoh vetsb'otoyv shesh-voshesh esriym varba vgam-hu nvolad lhorofo
-7  vaychoref [OBJ] Israel yhvonoton ben-shim'o filho-de doviyd
-8  El nulּdu lhorofo bgat vayּiplu vyad-doviyd uvyad-'avodoyv
+e-houve l'et tshuvat hashּonoh l'et ׀ tset hamּlokhiym vayּinhag [OBJ] et-cheyl hatsּovo vayּashchet [OBJ] terra bney-'amּvon vayּovo E-veio et-raboh [OBJ] multiplicai birusholo͏im habitou yvoov et-raboh vayּeherseho [OBJ] multiplicai
+E-tomou doviyd [OBJ] de-cima-de roshvo vayּimtsooh ׀ mishqal kikar-zohov uvoh pedra yqoroh vathiy al-rosh doviyd sobre cabeça hvotsiy harbeh muito
+e-[OBJ] asher-boh que vayּosar bamּgeroh uvacharitsey habarzel uvamּgervot vkhen ya'aseh doviyd a-todo orey para-todo vayּoshov doviyd vkhol-ho'om yrusholo͏im e-todo
+e-houve acharey[cכֵ֔ן] vata'amod milchomoh com im-plishtiym oz hikoh sibkhay hachushotiy [OBJ] milidey horfoiym vayּikone'u
+vathi-'vod milchomoh et-plishtiym [OBJ] elchonon ben-*y'vr **yo'iyr filho-de [OBJ] golyot hagitiy v'ets chanitvo kimnvor orgiym
+vathi-'vod milchomoh bgat e-houve ׀ homem midoh vetsb'otoyv shesh-voshesh esriym varba vgam-hu nvolad lhorofo
+vaychoref [OBJ] Israel yhvonoton ben-shim'o filho-de doviyd
+El nulּdu lhorofo bgat vayּiplu vyad-doviyd uvyad-'avodoyv
 
 ── Capítulo 21 ──
 
-1  vayּa'amod soton sobre Israel et-doviyd [OBJ] et-yisroel [OBJ] Israel
-2  E-disse doviyd a vel-sorey e-a lkhu sifru et-yisroel miber [OBJ] Israel vhoviyu sete ved'oh et-misporom [OBJ]
-3  E-disse yvoov yvosef YHWH sobre ׀ kohem cem f'omiym halo Adonai hamּelekh kulּom ladoniy la'avodiym lomּoh yvaqּesh esta Adonai lomּoh será lashmoh lyisroel
-4  udvar-hamּelekh chozaq al-yvoov sobre yvoov vayּithalּekh bkhol-yisroel vayּovo em-todo Israel E-veio
-5  E-colocou yvoov [OBJ] mifqad-ho'om el-doviyd e-houve a elef E-foi todo Israel mil sholef espada mil homem mevot vshiv'iym elef quatro sholef chorev mil homem
-6  vlevi uvinyomin não foqad btvokhom porque dvar-hamּelekh et-yvoov [OBJ]
-7  vayּera b'eyney hoelohiym sobre hazּeh vayּakh et-yisroel [OBJ] Israel
-8  E-disse dovid a chototiy muito asher que et-hadovor [OBJ] e-agora ha'aver-no et-'avvon avdkho que [OBJ] muito porque
-9  vaydaber YHWH a chozeh doviyd dizendo
-10  lekh vdibarto a dizendo koh disse YHWH YHWH aniy noteh oleykho bchar-lkho uma mehenּoh ve'eseh-lּokh
-11  E-veio god a E-disse a-ele koh-omar YHWH disse YHWH
-12  se shoniym dois vim-shloshoh chodoshiym nispeh mipney-tsoreykho vcherev voyvekho ׀ lmasּeget vim-shloshet yomim espada YHWH vdever boorets YHWH YHWH mashchiyt bkhol-gvul YHWH e-agora em-todo moh-oshiyv Israel dovor viu [OBJ] palavra
-13  E-disse doviyd a tsar-liy muito eploh-nּo vyad-yhvoh kiy-rabiym rachamoyv muito YHWH porque homem a
-14  E-colocou YHWH palavra byisroel vayּipol miּisroel shiv'iym mil homem
-15  vayּishlach hoelohiym ׀ malokh ׀ liyrusholaim viu YHWH ver YHWH vayּinּochem E-disse E-disse lamּalokh muito rav atoh heref yodekho YHWH YHWH com im-goren ornon hayvusiy
-16  vayּisּo doviyd [OBJ] E-viu E-viu YHWH omed entre a-terra e-entre a-terra vcharbvo os-céus byodvo ntuyoh al-yrusholo͏im vayּipol sobre vhazּqeniym mkhusּiym basּaqּiym al-pneyhem sobre
-17  E-disse doviyd a halo aniy omarti limnvot bo'om vaani-hu asher-chototi vhore'a que velּeh hatsּon meh osu YHWH elohay thiy YHWH yodkho biy uvveyt oviy uv'amּkho não lmagefoh não
-18  umalakh YHWH disse a dizendo ldoviyd que ׀ subia doviyd lhoqiym mizbecha layhvoh bgoren ornon hayvusiy
-19  vayּa'al dovid bidvar-god asher que palavra YHWH YHWH
-20  vayּoshov ornon E-viu [OBJ] varba'at bonoyv imּvo mitchabiym vornon dosh chitּiym
-21  E-veio doviyd até vayּabet ornon E-viu E-viu [OBJ] min-hagoren vayּishtachu de apayim ortsoh
-22  E-disse doviyd a tnoh-lּi mqvom hagoren vevneh-bvo mizbecha layhvoh bkhesef mole tnehu liy enchei hamּagefoh de-cima-de ho'om
-23  E-disse ornon a qach-lokh vya'as adoniy E-fez Adonai b'eynoyv reh dei viu lo'olvot vhamּvorigiym lo'etsiym vhachitּiym lamּinchoh hakol nototi
-24  E-disse hamּelekh dovid lornon não porque eqneh bkhesef mole que porque não layhvoh que voloh chinּom
-25  E-colocou doviyd lornon bamּoqvom shiqley ouro mishqol seis mevot
-26  E-edificou nome doviyd mizbecha layhvoh vayּa'al olvot ushlomiym E-chamou a YHWH voesh min-hashּomayim sobre os-céus sobre
-27  E-disse YHWH lamּalokh vayּoshev charbvo a
-28  bo'et hahiy birvot dovid porque YHWH YHWH ornon hayvusiy vayּizbach shom nome
-29  umishkan YHWH que fez Moisés umizbach ho'voloh bo'et hahiy babomoh bgiv'von
-30  e-não doviyd lolekhet lfonoyv lidrosh Deus que porque de-diante-de espada malakh YHWH YHWH
+vayּa'amod soton sobre Israel et-doviyd [OBJ] et-yisroel [OBJ] Israel
+E-disse doviyd a vel-sorey e-a lkhu sifru et-yisroel miber [OBJ] Israel vhoviyu sete ved'oh et-misporom [OBJ]
+E-disse yvoov yvosef yhwh sobre ׀ kohem cem f'omiym halo Adonai hamּelekh kulּom ladoniy la'avodiym lomּoh yvaqּesh esta Adonai lomּoh será lashmoh lyisroel
+udvar-hamּelekh chozaq al-yvoov sobre yvoov vayּithalּekh bkhol-yisroel vayּovo em-todo Israel E-veio
+E-colocou yvoov [OBJ] mifqad-ho'om el-doviyd e-houve a elef E-foi todo Israel mil sholef espada mil homem mevot vshiv'iym elef quatro sholef chorev mil homem
+vlevi uvinyomin não foqad btvokhom porque dvar-hamּelekh et-yvoov [OBJ]
+vayּera b'eyney hoelohiym sobre hazּeh vayּakh et-yisroel [OBJ] Israel
+E-disse dovid a chototiy muito asher que et-hadovor [OBJ] e-agora ha'aver-no et-'avvon avdkho que [OBJ] muito porque
+vaydaber yhwh a chozeh doviyd dizendo
+lekh vdibarto a dizendo koh disse yhwh yhwh aniy noteh oleykho bchar-lkho uma mehenּoh ve'eseh-lּokh
+E-veio god a E-disse a-ele koh-omar yhwh disse yhwh
+se shoniym dois vim-shloshoh chodoshiym nispeh mipney-tsoreykho vcherev voyvekho ׀ lmasּeget vim-shloshet yomim espada yhwh vdever boorets yhwh yhwh mashchiyt bkhol-gvul yhwh e-agora em-todo moh-oshiyv Israel dovor viu [OBJ] palavra
+E-disse doviyd a tsar-liy muito eploh-nּo vyad-yhvoh kiy-rabiym rachamoyv muito yhwh porque homem a
+E-colocou yhwh palavra byisroel vayּipol miּisroel shiv'iym mil homem
+vayּishlach hoelohiym ׀ malokh ׀ liyrusholaim viu yhwh ver yhwh vayּinּochem E-disse E-disse lamּalokh muito rav atoh heref yodekho yhwh yhwh com im-goren ornon hayvusiy
+vayּisּo doviyd [OBJ] E-viu E-viu yhwh omed entre a-terra e-entre a-terra vcharbvo os-céus byodvo ntuyoh al-yrusholo͏im vayּipol sobre vhazּqeniym mkhusּiym basּaqּiym al-pneyhem sobre
+E-disse doviyd a halo aniy omarti limnvot bo'om vaani-hu asher-chototi vhore'a que velּeh hatsּon meh osu yhwh elohay thiy yhwh yodkho biy uvveyt oviy uv'amּkho não lmagefoh não
+umalakh yhwh disse a dizendo ldoviyd que ׀ subia doviyd lhoqiym mizbecha layhvoh bgoren ornon hayvusiy
+vayּa'al dovid bidvar-god asher que palavra yhwh yhwh
+vayּoshov ornon E-viu [OBJ] varba'at bonoyv imּvo mitchabiym vornon dosh chitּiym
+E-veio doviyd até vayּabet ornon E-viu E-viu [OBJ] min-hagoren vayּishtachu de apayim ortsoh
+E-disse doviyd a tnoh-lּi mqvom hagoren vevneh-bvo mizbecha layhvoh bkhesef mole tnehu liy enchei hamּagefoh de-cima-de ho'om
+E-disse ornon a qach-lokh vya'as adoniy E-fez Adonai b'eynoyv reh dei viu lo'olvot vhamּvorigiym lo'etsiym vhachitּiym lamּinchoh hakol nototi
+E-disse hamּelekh dovid lornon não porque eqneh bkhesef mole que porque não layhvoh que voloh chinּom
+E-colocou doviyd lornon bamּoqvom shiqley ouro mishqol seis mevot
+E-edificou nome doviyd mizbecha layhvoh vayּa'al olvot ushlomiym E-chamou a yhwh voesh min-hashּomayim sobre os-céus sobre
+E-disse yhwh lamּalokh vayּoshev charbvo a
+bo'et hahiy birvot dovid porque yhwh yhwh ornon hayvusiy vayּizbach shom nome
+umishkan yhwh que fez Moisés umizbach ho'voloh bo'et hahiy babomoh bgiv'von
+e-não doviyd lolekhet lfonoyv lidrosh Deus que porque de-diante-de espada malakh yhwh yhwh
 
 ── Capítulo 22 ──
 
-1  E-disse doviyd zeh ele casa YHWH hoelohiym vzeh-mּizbecha l'oloh lyisroel
-2  E-disse doviyd likhnvos [OBJ] asher que yisroel Israel chotsviym lachtsvov avney goziyt livnvot beyt casa
-3  uvarzel ׀ lorov lamּismriym ldaltvot hashּ'oriym vlamchabrvot hekhiyn doviyd unchoshet lorov eyn
-4  va'atsey aroziym leyn mispor porque hatsּiydoniym vhatsּoriym atsey aroziym lorov ldoviyd
-5  E-disse doviyd shlomoh filhos-de na'ar vorokh vhabayit livnvot layhvoh lhagdiyl ׀ lma'loh lshem para-todo lkhol-hoarotsvot okhiynoh nּo a-ele vayּokhen doviyd lorov lifney mvotvo
-6  E-chamou lishlomoh vnvo vaytsauehu livnvot casa layhvoh elohey Israel
-7  E-disse doviyd lishlomoh *vnv foi com ser im-lvoviy casa bayit YHWH YHWH
-8  e-houve olay dvar-yhvoh dizendo dom lorov shofakhto umilchomvot gdolvot osiyto lo-tivneh não lishmiy que domiym porque shofakhto artsoh lfonoy
-9  hinּeh-ven filho para-ti ele será iysh homem vahanichvoti a-ele mikol-voyvoyv de-todo que shlomoh será shmvo vsholvom vosheqet eten al-yisroel byomoyv sobre Israel
-10  hu-yivneh vayit casa vhu yihyeh-lּiy lven vaani-lvo lov vahakhiynvotiy kisּe malkhutvo al-yisroel ad-'volom sobre Israel até
-11  atoh filhos-de haja YHWH imּokh vhitslachto uvoniyto casa YHWH eloheykho kaasher palavra oleykho
-12  akh yiten-lּkho YHWH YHWH uvinoh viytsaukho al-yisroel sobre Israel YHWH [OBJ] YHWH
-13  oz tatsliycha se la'asvot et-hachuqּiym [OBJ] asher e-[OBJ] YHWH que al-yisroel YHWH [OBJ] Moisés sobre Israel a e-a
-14  vhinּeh v'onyiy hakhinvoti lveyt-yhvoh ouro kikoriym meoh-elef vkhesef mil alofim mil vlanּchoshet vlabarzel eyn mishqol que lorov ser v'etsiym foi hakhinvoti va'aleyhem tvosiyf
-15  v'imּkho lorov osey obra chotsviym vchoroshey pedra vo'ets e-todo bkhol-mlokhoh em-todo
-16  lazּohov lakesef vlanּchoshet vlabarzel eyn mispor levantou va'aseh e-seja YHWH imּokh
-17  E-ordenou dovid para-todo yisroel Israel lishlomoh vnvo
-18  halo YHWH eloheykhem imּokhem vheniycha a-vós misּoviyv que deu dar [OBJ] [OBJ] a-terra a-terra a-terra a-terra YHWH YHWH vlifney
-19  atoh tnu lvavkhem vnafshkhem lidrvosh layhvoh eloheykhem vqumu uvnu [OBJ] YHWH YHWH lhoviy et-arvon [OBJ] ukhley qodesh YHWH labayit hanּivneh lshem-yhvoh YHWH
+E-disse doviyd zeh ele casa yhwh hoelohiym vzeh-mּizbecha l'oloh lyisroel
+E-disse doviyd likhnvos [OBJ] asher que yisroel Israel chotsviym lachtsvov avney goziyt livnvot beyt casa
+uvarzel ׀ lorov lamּismriym ldaltvot hashּ'oriym vlamchabrvot hekhiyn doviyd unchoshet lorov eyn
+va'atsey aroziym leyn mispor porque hatsּiydoniym vhatsּoriym atsey aroziym lorov ldoviyd
+E-disse doviyd shlomoh filhos-de na'ar vorokh vhabayit livnvot layhvoh lhagdiyl ׀ lma'loh lshem para-todo lkhol-hoarotsvot okhiynoh nּo a-ele vayּokhen doviyd lorov lifney mvotvo
+E-chamou lishlomoh vnvo vaytsauehu livnvot casa layhvoh elohey Israel
+E-disse doviyd lishlomoh *vnv foi com ser im-lvoviy casa bayit yhwh yhwh
+e-houve olay dvar-yhvoh dizendo dom lorov shofakhto umilchomvot gdolvot osiyto lo-tivneh não lishmiy que domiym porque shofakhto artsoh lfonoy
+hinּeh-ven filho para-ti ele será iysh homem vahanichvoti a-ele mikol-voyvoyv de-todo que shlomoh será shmvo vsholvom vosheqet eten al-yisroel byomoyv sobre Israel
+hu-yivneh vayit casa vhu yihyeh-lּiy lven vaani-lvo lov vahakhiynvotiy kisּe malkhutvo al-yisroel ad-'volom sobre Israel até
+atoh filhos-de haja yhwh imּokh vhitslachto uvoniyto casa yhwh eloheykho kaasher palavra oleykho
+akh yiten-lּkho yhwh yhwh uvinoh viytsaukho al-yisroel sobre Israel yhwh [OBJ] yhwh
+oz tatsliycha se la'asvot et-hachuqּiym [OBJ] asher e-[OBJ] yhwh que al-yisroel yhwh [OBJ] Moisés sobre Israel a e-a
+vhinּeh v'onyiy hakhinvoti lveyt-yhvoh ouro kikoriym meoh-elef vkhesef mil alofim mil vlanּchoshet vlabarzel eyn mishqol que lorov ser v'etsiym foi hakhinvoti va'aleyhem tvosiyf
+v'imּkho lorov osey obra chotsviym vchoroshey pedra vo'ets e-todo bkhol-mlokhoh em-todo
+lazּohov lakesef vlanּchoshet vlabarzel eyn mispor levantou va'aseh e-seja yhwh imּokh
+E-ordenou dovid para-todo yisroel Israel lishlomoh vnvo
+halo yhwh eloheykhem imּokhem vheniycha a-vós misּoviyv que deu dar [OBJ] [OBJ] a-terra a-terra a-terra a-terra yhwh yhwh vlifney
+atoh tnu lvavkhem vnafshkhem lidrvosh layhvoh eloheykhem vqumu uvnu [OBJ] yhwh yhwh lhoviy et-arvon [OBJ] ukhley qodesh yhwh labayit hanּivneh lshem-yhvoh yhwh
 
 ── Capítulo 23 ──
 
-1  vdoviyd zoqen vsova yomiym vayּamlekh [OBJ] vnvo al-yisroel sobre Israel
-2  vayּeesof [OBJ] todo vhakohaniym Israel
-3  vayּisּofru halviּim miben shloshiym shonoh vomo'loh e-houve misporom lgulglotom ligvoriym shloshiym ushmvonoh mil
-4  meelּeh lnatsּecha sobre beyt-yhvoh casa-de YHWH olef vshotriym mil sheshet alofiym
-5  varba'at alofiym sho'ariym varba'at alofim mhalliym layhvoh bakeliym que osiyti lhalּel
-6  vayּecholqem doviyd machlqvot s livney leviy lgershvon qhot
-7  lagershunּiy la'don vshim'iy
-8  filhos-de la'don horosh ychiel vzetom vyvoel shloshoh
-9  filhos-de shim'iy *shlmvt **shlvomiyt vachaziel vhoron shloshoh Estas roshey
-10  uvney shim'iy yachat zino vi'ush uvri'oh Estas vney-shim'iy quatro
-11  vayhi-yachat horosh vzizoh hashּeniy vi'ush uvri'oh lo-hirbu filhos vayּihyu lveyt pai lifqudoh pai
-12  filhos-de qhot amrom yitshor chevrvon v'uzּiel quatro
-13  filhos-de amrom aharon umosheh vayּibodel aharon lhaqdishvo qodesh qodoshiym hu-uvonoyv[t] ad-'volom até lifney YHWH lshortvo YHWH bishmvo ad-'volom até
-14  umosheh homem hoelohiym bonoyv yiqּoru sobre halּeviy
-15  filhos-de Moisés gershom veeli'ezer
-16  filhos-de gershvom shvuel horosh
-17  vayּihyu vney-eli'ezer rchavyoh horosh vlo-hoyoh e-não foi acheriym uvney rchavyoh rovu lmo'loh
-18  filhos-de yitshor shlomiyt horosh
-19  filhos-de chevrvon yriּohu horosh amaryoh hashּeniy yachaziel hashּlishiy viyqam'om o-quarto
-20  filhos-de uzּiel mikhoh horosh vyishּiּoh hashּeniy
-21  filhos-de mrori machliy umushiy filhos-de machliy el'ozor vqiysh
-22  E-morreu el'ozor e-não a-ele boniym que porque se bney-qiysh acheyhem
-23  filhos-de mushiy machliy v'eder viremvot shloshoh
-24  Estas vney-levi lveyt avoteyhem roshey hoovvot lifqudeyhem bmispar shemvot lgulglotom oseh fez la'avodat beyt YHWH YHWH esriym shonoh vomo'loh
-25  que disse doviyd heniycha YHWH elohey-yisroel Israel vayּishkon birushola͏im ad-l'volom até
-26  vgam lalviּim eyn-loset et-hamּishkon [OBJ] la'avodotvo e-[OBJ] todo
-27  que vdivrey dovid hoacharoniym hemּoh mispar bney-leviy miben esriym shonoh ulmo'loh
-28  que ma'amodom lyad-bney filhos-de la'avodat beyt YHWH YHWH sobre v'al-tohorat e-sobre um͏a'aseh e-sobre beyt para-todo casa
-29  ullechem hamּa'arekhet ulsolet lminchoh vlirqiqey hamּatsּvot vlamּachavat vlamּurbokhet ulkhol-msuroh umidoh
-30  vla'amod baboqer baboqer lhodvot ulhalּel layhvoh vkhen lo'orev
-31  ulkhol ha'alvot olvot layhvoh lashּabotvot lechodoshiym vlamּo'adiym bmispor kmishpot aleyhem tomiyd lifney YHWH
-32  vshomru [OBJ] ohel-mvo'ed e-[OBJ] mishmeret e-[OBJ] umishmeret bney aharon filhos-de la'avodat beyt YHWH casa YHWH
+vdoviyd zoqen vsova yomiym vayּamlekh [OBJ] vnvo al-yisroel sobre Israel
+vayּeesof [OBJ] todo vhakohaniym Israel
+vayּisּofru halviּim miben shloshiym shonoh vomo'loh e-houve misporom lgulglotom ligvoriym shloshiym ushmvonoh mil
+meelּeh lnatsּecha sobre beyt-yhvoh casa-de yhwh olef vshotriym mil sheshet alofiym
+varba'at alofiym sho'ariym varba'at alofim mhalliym layhvoh bakeliym que osiyti lhalּel
+vayּecholqem doviyd machlqvot s livney leviy lgershvon qhot
+lagershunּiy la'don vshim'iy
+filhos-de la'don horosh ychiel vzetom vyvoel shloshoh
+filhos-de shim'iy *shlmvt **shlvomiyt vachaziel vhoron shloshoh Estas roshey
+uvney shim'iy yachat zino vi'ush uvri'oh Estas vney-shim'iy quatro
+vayhi-yachat horosh vzizoh hashּeniy vi'ush uvri'oh lo-hirbu filhos vayּihyu lveyt pai lifqudoh pai
+filhos-de qhot amrom yitshor chevrvon v'uzּiel quatro
+filhos-de amrom aharon umosheh vayּibodel aharon lhaqdishvo qodesh qodoshiym hu-uvonoyv[t] ad-'volom até lifney yhwh lshortvo yhwh bishmvo ad-'volom até
+umosheh homem hoelohiym bonoyv yiqּoru sobre halּeviy
+filhos-de Moisés gershom veeli'ezer
+filhos-de gershvom shvuel horosh
+vayּihyu vney-eli'ezer rchavyoh horosh vlo-hoyoh e-não foi acheriym uvney rchavyoh rovu lmo'loh
+filhos-de yitshor shlomiyt horosh
+filhos-de chevrvon yriּohu horosh amaryoh hashּeniy yachaziel hashּlishiy viyqam'om o-quarto
+filhos-de uzּiel mikhoh horosh vyishּiּoh hashּeniy
+filhos-de mrori machliy umushiy filhos-de machliy el'ozor vqiysh
+E-morreu el'ozor e-não a-ele boniym que porque se bney-qiysh acheyhem
+filhos-de mushiy machliy v'eder viremvot shloshoh
+Estas vney-levi lveyt avoteyhem roshey hoovvot lifqudeyhem bmispar shemvot lgulglotom oseh fez la'avodat beyt yhwh yhwh esriym shonoh vomo'loh
+que disse doviyd heniycha yhwh elohey-yisroel Israel vayּishkon birushola͏im ad-l'volom até
+vgam lalviּim eyn-loset et-hamּishkon [OBJ] la'avodotvo e-[OBJ] todo
+que vdivrey dovid hoacharoniym hemּoh mispar bney-leviy miben esriym shonoh ulmo'loh
+que ma'amodom lyad-bney filhos-de la'avodat beyt yhwh yhwh sobre v'al-tohorat e-sobre um͏a'aseh e-sobre beyt para-todo casa
+ullechem hamּa'arekhet ulsolet lminchoh vlirqiqey hamּatsּvot vlamּachavat vlamּurbokhet ulkhol-msuroh umidoh
+vla'amod baboqer baboqer lhodvot ulhalּel layhvoh vkhen lo'orev
+ulkhol ha'alvot olvot layhvoh lashּabotvot lechodoshiym vlamּo'adiym bmispor kmishpot aleyhem tomiyd lifney yhwh
+vshomru [OBJ] ohel-mvo'ed e-[OBJ] mishmeret e-[OBJ] umishmeret bney aharon filhos-de la'avodat beyt yhwh casa yhwh
 
 ── Capítulo 24 ──
 
-1  vlivney aharon machlqvotom filhos-de aharon nodov vaavihu el'ozor vitomor
-2  E-morreu nodov vaavihu lifney avihem uvoniym não a-eles vaykhahanu el'ozor vitomor
-3  vayּecholqem doviyd vtsodvoq de filhos-de vaachimelekh min-bney de filhos-de ba'avodotom
-4  vayּimּotsu vney-el'ozor rabiym lroshey hagvoriym min-bney de filhos-de livney el'ozor roshiym lveyt-ovvot shishּoh osor vlivney itomor dez avvotom shmvonoh
-5  vayּachlqum bgvorolvot Estas com ki-hoyu porque vsorey hoelohiym mibney el'ozor uvivney itomor
-6  v͏ayּikhtvem shma'yoh filho-de hasּvofer min-halּeviy de hamּelekh vhasּorim vtsodvoq hakohen vaachimelekh ben-evyotor vroshey filho-de lakohaniym vlalviּim beyt-ov um ochuz casa-de pai um ochuz litomor
-7  vayּetse hagvorol horishvon lihvoyoriyv liyda'yoh hashּeniy
-8  lchorim hashּlishiy lis'oriym horvi'iy
-9  lmalkiּoh hachamishiy lmiּomin hashּishּiy
-10  lhaqּvots hashּvi'iy laaviּoh hashּminiy
-11  lyeshu'a hatshi'iy lishkhanyohu ho'asiriy
-12  lelyoshiv ashtey dez lyoqiym dois dez
-13  lchupoh shloshoh dez lyeshevov quatro dez
-14  lvilgoh chamishּoh dez limּer shishּoh dez
-15  lchezir shiv'oh dez lhapitsּets shmvonoh dez
-16  liftachyoh tish'oh dez liychezqel ho'esriym
-17  lyokhin um v'esriym lgomul dois v'esriym
-18  lidloyohu shloshoh v'esriym lma'azyohu quatro v'esriym
-19  Estas fqudotom la'avodotom lovvo lveyt-yhvoh YHWH byad aharon avihem kaasher tsiuohu YHWH YHWH yisroel Israel
-20  vlivney leviy hanּvotoriym livney amrom shuvoel livney shuvoel yechdyohu
-21  lirchavyohu livney rchavyohu horosh yishּiּoh
-22  layּitshoriy shlomvot livney shlomvot yochat
-23  uvnoy yriּohu amaryohu hashּeniy yachaziel hashּlishiy yqam'om o-quarto
-24  filhos-de uzּiel mikhoh livney mikhoh
-25  achiy mikhoh yishּiּoh livney yishּiּoh zkharyohu
-26  filhos-de mrori machliy umushiy filhos-de ya'aziּohu vnvo
-27  filhos-de mroriy lya'aziּohu vnvo vshoham vzakur v'ivriy
-28  lmachli el'ozor e-não a-ele boniym
-29  lqiysh bney-qiysh yrachmel
-30  uvney mushiy machliy v'eder virimvot Estas filhos-de halviּim lveyt avoteyhem
-31  vayּapilu também gvorolvot l'umּat ׀ acheyhem bney-aharon lifney doviyd hamּelekh vtsodvoq vaachimelekh vroshey hoovvot lakohaniym vlalviּim ovvot horosh l'umּat ochiyv haqּoton
+vlivney aharon machlqvotom filhos-de aharon nodov vaavihu el'ozor vitomor
+E-morreu nodov vaavihu lifney avihem uvoniym não a-eles vaykhahanu el'ozor vitomor
+vayּecholqem doviyd vtsodvoq de filhos-de vaachimelekh min-bney de filhos-de ba'avodotom
+vayּimּotsu vney-el'ozor rabiym lroshey hagvoriym min-bney de filhos-de livney el'ozor roshiym lveyt-ovvot shishּoh osor vlivney itomor dez avvotom shmvonoh
+vayּachlqum bgvorolvot Estas com ki-hoyu porque vsorey hoelohiym mibney el'ozor uvivney itomor
+v͏ayּikhtvem shma'yoh filho-de hasּvofer min-halּeviy de hamּelekh vhasּorim vtsodvoq hakohen vaachimelekh ben-evyotor vroshey filho-de lakohaniym vlalviּim beyt-ov um ochuz casa-de pai um ochuz litomor
+vayּetse hagvorol horishvon lihvoyoriyv liyda'yoh hashּeniy
+lchorim hashּlishiy lis'oriym horvi'iy
+lmalkiּoh hachamishiy lmiּomin hashּishּiy
+lhaqּvots hashּvi'iy laaviּoh hashּminiy
+lyeshu'a hatshi'iy lishkhanyohu ho'asiriy
+lelyoshiv ashtey dez lyoqiym dois dez
+lchupoh shloshoh dez lyeshevov quatro dez
+lvilgoh chamishּoh dez limּer shishּoh dez
+lchezir shiv'oh dez lhapitsּets shmvonoh dez
+liftachyoh tish'oh dez liychezqel ho'esriym
+lyokhin um v'esriym lgomul dois v'esriym
+lidloyohu shloshoh v'esriym lma'azyohu quatro v'esriym
+Estas fqudotom la'avodotom lovvo lveyt-yhvoh yhwh byad aharon avihem kaasher tsiuohu yhwh yhwh yisroel Israel
+vlivney leviy hanּvotoriym livney amrom shuvoel livney shuvoel yechdyohu
+lirchavyohu livney rchavyohu horosh yishּiּoh
+layּitshoriy shlomvot livney shlomvot yochat
+uvnoy yriּohu amaryohu hashּeniy yachaziel hashּlishiy yqam'om o-quarto
+filhos-de uzּiel mikhoh livney mikhoh
+achiy mikhoh yishּiּoh livney yishּiּoh zkharyohu
+filhos-de mrori machliy umushiy filhos-de ya'aziּohu vnvo
+filhos-de mroriy lya'aziּohu vnvo vshoham vzakur v'ivriy
+lmachli el'ozor e-não a-ele boniym
+lqiysh bney-qiysh yrachmel
+uvney mushiy machliy v'eder virimvot Estas filhos-de halviּim lveyt avoteyhem
+vayּapilu também gvorolvot l'umּat ׀ acheyhem bney-aharon lifney doviyd hamּelekh vtsodvoq vaachimelekh vroshey hoovvot lakohaniym vlalviּim ovvot horosh l'umּat ochiyv haqּoton
 
 ── Capítulo 25 ──
 
-1  E-separou dovid vsorey hatsּovo la'avodoh livney osof vheymon viydutun *hnvy[t[y]*אים] **hanּibiym bkhinּorvot E-foi uvimtsiltoyim e-houve misporom anshey
-2  livney osof zakur vyvosef untanyoh vaasareloh filhos-de osof sobre yad-osof hanibo al-ydey sobre
-3  lidutun filhos-de ydutun gdalyohu utsriy viysha'yohu chashavyohu umatityohu shishּoh sobre ydey avihem ydutun bakinּvor hanּibo sobre vhalּel layhvoh
-4  lheymon filhos-de heymon buqּiּohu matanyohu uzּiel shvuel viyrimvot chananyoh chanoni eliotoh gidalti vromamti ezer yoshbqoshoh malּvoti hvotiyr machazivot
-5  todo filhos lheymon chozeh hamּelekh bdivrey hoelohiym lhoriym qoren E-colocou E-deu lheymon boniym quatro osor dez sholvosh
-6  todo al-ydey sobre bashּiyr beyt YHWH casa YHWH vkhinּorvot la'avodat beyt hoelohiym sobre ydey sobre s osof vidutun vheymon
-7  e-houve misporom com mlumּdey-shiyr layhvoh kol-hamּeviyn motayim todo ushmvonoh
-8  vayּapiylu gvorolvot mishmeret l'umּat kaqּoton kagodvol meviyn com
-9  vayּetse hagvorol horishvon losof lyvosef gdalyohu hashּeniy hu-vechoyv uvonoyv shneym dois dez
-10  hashּlishiy zakur bonoyv vechoyv dois dez
-11  o-quarto layּitsriy bonoyv vechoyv dois dez
-12  hachamishiy ntanyohu bonoyv vechoyv dois dez
-13  hashishּiy vuqּiּohu bonoyv vechoyv dois dez
-14  hashּvi'iy ysareloh bonoyv vechoyv dois dez
-15  hashּminiy ysha'yohu bonoyv vechoyv dois dez
-16  hatshi'iy matanyohu bonoyv vechoyv dois dez
-17  ho'asiriy shim'iy bonoyv vechoyv dois dez
-18  ashtey-'osor dez bonoyv vechoyv shneym dois dez
-19  hashּneym dez lachashavyoh bonoyv vechoyv dois dez
-20  lishloshoh dez shuvoel bonoyv vechoyv dois dez
-21  larbo'oh dez matityohu bonoyv vechoyv dois dez
-22  lachamishּoh dez liyremvot bonoyv vechoyv dois dez
-23  lshishּoh dez lachananyohu bonoyv vechoyv dois dez
-24  lshiv'oh dez lyoshbqoshoh bonoyv vechoyv dois dez
-25  lishmvonoh dez lachanoni bonoyv vechoyv dois dez
-26  ltish'oh dez lmalּvoti bonoyv vechoyv dois dez
-27  l'esrim leeliּotoh bonoyv vechoyv dois dez
-28  lechod v'esrim lhvotiyr bonoyv vechoyv dois dez
-29  lishnayim v'esrim lgidalti bonoyv vechoyv dois dez
-30  lishloshoh v'esrim lmachazivot bonoyv vechoyv dois dez
-31  larbo'oh v'esrim lrvomamti ozer bonoyv vechoyv dois dez
+E-separou dovid vsorey hatsּovo la'avodoh livney osof vheymon viydutun *hnvy[t[y]*אים] **hanּibiym bkhinּorvot E-foi uvimtsiltoyim e-houve misporom anshey
+livney osof zakur vyvosef untanyoh vaasareloh filhos-de osof sobre yad-osof hanibo al-ydey sobre
+lidutun filhos-de ydutun gdalyohu utsriy viysha'yohu chashavyohu umatityohu shishּoh sobre ydey avihem ydutun bakinּvor hanּibo sobre vhalּel layhvoh
+lheymon filhos-de heymon buqּiּohu matanyohu uzּiel shvuel viyrimvot chananyoh chanoni eliotoh gidalti vromamti ezer yoshbqoshoh malּvoti hvotiyr machazivot
+todo filhos lheymon chozeh hamּelekh bdivrey hoelohiym lhoriym qoren E-colocou E-deu lheymon boniym quatro osor dez sholvosh
+todo al-ydey sobre bashּiyr beyt yhwh casa yhwh vkhinּorvot la'avodat beyt hoelohiym sobre ydey sobre s osof vidutun vheymon
+e-houve misporom com mlumּdey-shiyr layhvoh kol-hamּeviyn motayim todo ushmvonoh
+vayּapiylu gvorolvot mishmeret l'umּat kaqּoton kagodvol meviyn com
+vayּetse hagvorol horishvon losof lyvosef gdalyohu hashּeniy hu-vechoyv uvonoyv shneym dois dez
+hashּlishiy zakur bonoyv vechoyv dois dez
+o-quarto layּitsriy bonoyv vechoyv dois dez
+hachamishiy ntanyohu bonoyv vechoyv dois dez
+hashishּiy vuqּiּohu bonoyv vechoyv dois dez
+hashּvi'iy ysareloh bonoyv vechoyv dois dez
+hashּminiy ysha'yohu bonoyv vechoyv dois dez
+hatshi'iy matanyohu bonoyv vechoyv dois dez
+ho'asiriy shim'iy bonoyv vechoyv dois dez
+ashtey-'osor dez bonoyv vechoyv shneym dois dez
+hashּneym dez lachashavyoh bonoyv vechoyv dois dez
+lishloshoh dez shuvoel bonoyv vechoyv dois dez
+larbo'oh dez matityohu bonoyv vechoyv dois dez
+lachamishּoh dez liyremvot bonoyv vechoyv dois dez
+lshishּoh dez lachananyohu bonoyv vechoyv dois dez
+lshiv'oh dez lyoshbqoshoh bonoyv vechoyv dois dez
+lishmvonoh dez lachanoni bonoyv vechoyv dois dez
+ltish'oh dez lmalּvoti bonoyv vechoyv dois dez
+l'esrim leeliּotoh bonoyv vechoyv dois dez
+lechod v'esrim lhvotiyr bonoyv vechoyv dois dez
+lishnayim v'esrim lgidalti bonoyv vechoyv dois dez
+lishloshoh v'esrim lmachazivot bonoyv vechoyv dois dez
+larbo'oh v'esrim lrvomamti ozer bonoyv vechoyv dois dez
 
 ── Capítulo 26 ──
 
-1  lmachlqvot lsho'ariym laqּorchiym mshelemyohu filho-de chamou de filhos-de
-2  vlimshelemyohu boniym zkharyohu habkhvor ydiy'ael hashּeniy zvadyohu hashּlishiy yatniel o-quarto
-3  eylom hachamishi yhvochonon hashּishּiy elyhvo'eynay hashּvi'iy
-4  ul'oved homem boniym shma'yoh habkhvor yhvozovod hashּeniy yvooch hashּlishi vsokhor o-quarto untanel hachamishiy
-5  amּiel hashּishּi yisoshkhor hashּvi'iy p'ulּtay hashּminiy que verakhvo Deus
-6  vlishma'yoh vnvo nvolad boniym hamּimsholiym lveyt avihem porque chayil hemּoh
-7  filhos-de shma'yoh otni urfoel v'voved elzovod echoyv bney-choyil elihu usmakhyohu
-8  todo mibney ׀ servo homem hemּoh uvneyhem vaacheyhem iysh-chayil bakocha la'avodoh shishּiym ushnayim l'oved edom homem
-9  vlimshelemyohu boniym vachiym bney-choyil shmvonoh osor dez
-10  ulchosoh de boniym shimriy horosh que lo-hoyoh porque não foi lrosh
-11  chilqiּohu hashּeni tvalyohu hashּlishiy zkharyohu horvi'iy todo vachiym lchosoh shloshoh osor dez
-12  lelּeh machlqvot hashּo'ariym lroshey hagvoriym mishmorvot l'umּat acheyhem lshoret bveyt YHWH
-13  vayּapiylu gvorolvot kaqּoton kagodvol lveyt avvotom lsha'ar vosho'ar
-14  vayּipol hagvorol mizrochoh lshelemyohu uzkharyohu vnvo yvo'ets ׀ bsekhel hipiylu gvorolvot vayּetse gvorolvo
-15  l'oved homem negboh ulvonoyv casa hoasupiym
-16  lshupiym ulchosoh lamּa'arov povo sha'ar shalּekhet bamsilּoh ho'voloh mishmor l'umּat mishmor
-17  lamּizroch halviּim shishּoh latsּofvonoh layּvom quatro lanּegboh layּvom quatro vloasupiym dois dois
-18  laparbor lamּa'arov quatro lamsilּoh dois laparbor
-19  Estas machlqvot hashּo'ariym livney haqּorchiy vlivney mroriy
-20  vhalviּim achiּoh sobre beyt casa ulotsrvot haqּodoshiym
-21  filhos-de la'don filhos-de hagershunּiy lla'don roshey hoovvot lla'don hagershunּiy ychieliy
-22  filhos-de ychiyeliy zetom vyvoel ochiyv sobre beyt YHWH YHWH
-23  la'amromi layּitshoriy lachevrvoniy lo'ozּieliy
-24  ushvuel filho-de ben-mosheh filho-de Moisés sobre
-25  vechoyv leeli'ezer rchavyohu vnvo viysha'yohu vnvo vyorom bnvo vzikhriy vnvo *vshlmvt
-26  ele shlomvot vechoyv sobre todo haqּodoshim asher que doviyd hamּelekh vroshey hoovvot lsorey-hoalofiym vhamּevot vsorey hatsּovo
-27  de umin-hashּolol hiqdiyshu lchazּeq lveyt YHWH YHWH
-28  e-tudo hahiqdiysh shmuel horoeh vshoul filho-de vavner ben-ner filho-de ben-tsruyoh kol filho-de sobre todo vechoyv sobre
-29  layּitshoriy knanyohu uvonoyv lamּlokhoh hachiytsvonoh sobre Israel ulshoftiym
-30  lachevrvoniy chashavyohu vechoyv bney-chayil elef mil sobre pqudat sobre me'ever Israel ma'rovoh a-todo mlekhet YHWH vla'avodat YHWH
-31  lachevrvoni yriּoh horosh lachevrvoniy ltoldotoyv lovvot bishnat hoarbo'iym lmalkhut dovid nidroshu vayּimּotse vohem gibvorey chayil bya'zeyr gil'od
-32  vechoyv bney-chayil alpayim ushva mevot roshey hoovvot vayּafqidem doviyd hamּelekh al-horuveniy sobre vachatsi shevet hamnashּiy lkhol-dvar hoelohiym para-todo palavra
+lmachlqvot lsho'ariym laqּorchiym mshelemyohu filho-de chamou de filhos-de
+vlimshelemyohu boniym zkharyohu habkhvor ydiy'ael hashּeniy zvadyohu hashּlishiy yatniel o-quarto
+eylom hachamishi yhvochonon hashּishּiy elyhvo'eynay hashּvi'iy
+ul'oved homem boniym shma'yoh habkhvor yhvozovod hashּeniy yvooch hashּlishi vsokhor o-quarto untanel hachamishiy
+amּiel hashּishּi yisoshkhor hashּvi'iy p'ulּtay hashּminiy que verakhvo Deus
+vlishma'yoh vnvo nvolad boniym hamּimsholiym lveyt avihem porque chayil hemּoh
+filhos-de shma'yoh otni urfoel v'voved elzovod echoyv bney-choyil elihu usmakhyohu
+todo mibney ׀ servo homem hemּoh uvneyhem vaacheyhem iysh-chayil bakocha la'avodoh shishּiym ushnayim l'oved edom homem
+vlimshelemyohu boniym vachiym bney-choyil shmvonoh osor dez
+ulchosoh de boniym shimriy horosh que lo-hoyoh porque não foi lrosh
+chilqiּohu hashּeni tvalyohu hashּlishiy zkharyohu horvi'iy todo vachiym lchosoh shloshoh osor dez
+lelּeh machlqvot hashּo'ariym lroshey hagvoriym mishmorvot l'umּat acheyhem lshoret bveyt yhwh
+vayּapiylu gvorolvot kaqּoton kagodvol lveyt avvotom lsha'ar vosho'ar
+vayּipol hagvorol mizrochoh lshelemyohu uzkharyohu vnvo yvo'ets ׀ bsekhel hipiylu gvorolvot vayּetse gvorolvo
+l'oved homem negboh ulvonoyv casa hoasupiym
+lshupiym ulchosoh lamּa'arov povo sha'ar shalּekhet bamsilּoh ho'voloh mishmor l'umּat mishmor
+lamּizroch halviּim shishּoh latsּofvonoh layּvom quatro lanּegboh layּvom quatro vloasupiym dois dois
+laparbor lamּa'arov quatro lamsilּoh dois laparbor
+Estas machlqvot hashּo'ariym livney haqּorchiy vlivney mroriy
+vhalviּim achiּoh sobre beyt casa ulotsrvot haqּodoshiym
+filhos-de la'don filhos-de hagershunּiy lla'don roshey hoovvot lla'don hagershunּiy ychieliy
+filhos-de ychiyeliy zetom vyvoel ochiyv sobre beyt yhwh yhwh
+la'amromi layּitshoriy lachevrvoniy lo'ozּieliy
+ushvuel filho-de ben-mosheh filho-de Moisés sobre
+vechoyv leeli'ezer rchavyohu vnvo viysha'yohu vnvo vyorom bnvo vzikhriy vnvo *vshlmvt
+ele shlomvot vechoyv sobre todo haqּodoshim asher que doviyd hamּelekh vroshey hoovvot lsorey-hoalofiym vhamּevot vsorey hatsּovo
+de umin-hashּolol hiqdiyshu lchazּeq lveyt yhwh yhwh
+e-tudo hahiqdiysh shmuel horoeh vshoul filho-de vavner ben-ner filho-de ben-tsruyoh kol filho-de sobre todo vechoyv sobre
+layּitshoriy knanyohu uvonoyv lamּlokhoh hachiytsvonoh sobre Israel ulshoftiym
+lachevrvoniy chashavyohu vechoyv bney-chayil elef mil sobre pqudat sobre me'ever Israel ma'rovoh a-todo mlekhet yhwh vla'avodat yhwh
+lachevrvoni yriּoh horosh lachevrvoniy ltoldotoyv lovvot bishnat hoarbo'iym lmalkhut dovid nidroshu vayּimּotse vohem gibvorey chayil bya'zeyr gil'od
+vechoyv bney-chayil alpayim ushva mevot roshey hoovvot vayּafqidem doviyd hamּelekh al-horuveniy sobre vachatsi shevet hamnashּiy lkhol-dvar hoelohiym para-todo palavra
 
 ── Capítulo 27 ──
 
-1  uvney yisroel ׀ lmisporom roshey hoovvot vsorey hoalofiym ׀ vhamּevot [OBJ] hamshortiym et-hamּelekh a-todo ׀ dvar hamּachlqvot novo vhayּotset para-todo bchodesh a-todo chodshey hashּonoh hamּachaloqet hoachat mil
-2  sobre hamּachaloqet horishvonoh lachodesh horishvon yoshov'om filho-de v'al e-sobre esriym varbo'oh olef mil
-3  de horosh lkhol-sorey hatsּvovot para-todo horishvon
-4  e-sobre machaloqet ׀ hachodesh hashּeniy dvoday hoachvochi umachaluqtvo umiqlvot e-sobre v'al machaluqtvo esriym mil
-5  sar hatsּovo hashּlishi lachodesh hashּlishiy bnoyohu filho-de hakohen rosh cabeça e-sobre esriym varbo'oh olef mil
-6  ele vnoyohu gibvor hashּloshiym e-sobre umachaluqtvo amּizovod bnvo
-7  o-quarto lachodesh o-quarto asoh-el El yvoov uzvadyoh vnvo acharoyv v'al e-sobre esriym varbo'oh olef mil
-8  hachamishi lachodesh hachamishiy hasּar shamhut hayּizroch e-sobre machaluqtvo esriym varbo'oh mil
-9  hashּishּi lachodesh hashּishּiy iro filho-de hatqvo'iy v'al e-sobre esriym varbo'oh olef mil
-10  hashּvi'i lachodesh hashּvi'iy chelets haplvoniy de filhos-de v'al e-sobre esriym varbo'oh olef mil
-11  hashּmini lachodesh hashּminiy sibkhay hachushotiy lazּarchiy e-sobre machaluqtvo esriym varbo'oh mil
-12  hatshi'i lachodesh hatshi'iy avi'ezer ho'anּtotiy e-sobre **laben ׀ **yminiy mil
-13  ho'asiri lachodesh ho'asiriy mahray hanּtvofotiy lazּarchiy e-sobre machaluqtvo esriym varbo'oh mil
-14  ashtey-'osor dez osor dez bnoyoh hapir'otvoniy min-bney de filhos-de machaluqtvo e-sobre varbo'oh olef mil
-15  hashּneym dez lishneym dez hachodesh chelday hanּtvofotiy l'otniel e-sobre machaluqtvo esriym varbo'oh mil
-16  e-sobre shivtey Israel loruveniy nogiyd eli'ezer filho-de s lashּim'voniy shfatyohu filho-de
-17  lleviy chashavyoh filho-de laharon tsodvoq
-18  liyhudoh elihu meachey doviyd lyisoshkhor omriy filho-de
-19  lizvulun yishma'yohu filho-de lnaftoliy yrimvot ben-'azriel filho-de
-20  livney efrayim hvoshe'a filho-de lachatsi shevet mnashּeh yvoel ben-pdoyohu filho-de
-21  lachatsiy hamnashּeh gil'odoh yidvo filho-de s lvinyomin ya'asiel filho-de
-22  ldon azarel filho-de Estas sorey shivtey yisroel Israel
-23  e-não dovid misporom lmiben esriym shonoh ulmotּoh que disse YHWH YHWH et-yisroel [OBJ] Israel os-céus
-24  yvoov filho-de hechel limnvot vlo e-não e-houve E-foi qetsef al-yisroel sobre subir e-não bmispar divrey-hayּomiym lamּelekh doviyd
-25  e-sobre otsrvot hamּelekh azmovet filho-de s e-sobre hootsorvot basּodeh be'oriym uvakforim uvamּigdolvot yhvonoton filho-de
-26  e-sobre osey mlekhet hasּodeh la'avodat a-terra ezriy filho-de
-27  e-sobre shim'iy horomotiy v'al e-sobre lotsrvot hayּayin zavdiy hashּifmiy
-28  e-sobre vhashּiqmim asher que ba'al chonon hagderiy s e-sobre hashּemen yvo'osh
-29  e-sobre horo'iym bashּorvon *shtry **shirtay e-sobre v'al-haboqor bo'amoqiym shofot filho-de
-30  e-sobre voviyl hayּishm'eliy v'al-hoatonvot e-sobre hamּeronotiy
-31  e-sobre yoziyz hahagriy kol-elּeh todo horkhush asher lamּelekh que
-32  viyhvonoton dvod-dovid yvo'ets ish-meviyn vsvofer ele viychiel ben-chakhmvoniy im-bney filho-de com filhos-de
-33  vaachitofel yvo'ets lamּelekh s vchushay mau re'a
-34  vacharey achitofel yhvoyodo filho-de vevyotor vsar-tsovo lamּelekh yvoov
+uvney yisroel ׀ lmisporom roshey hoovvot vsorey hoalofiym ׀ vhamּevot [OBJ] hamshortiym et-hamּelekh a-todo ׀ dvar hamּachlqvot novo vhayּotset para-todo bchodesh a-todo chodshey hashּonoh hamּachaloqet hoachat mil
+sobre hamּachaloqet horishvonoh lachodesh horishvon yoshov'om filho-de v'al e-sobre esriym varbo'oh olef mil
+de horosh lkhol-sorey hatsּvovot para-todo horishvon
+e-sobre machaloqet ׀ hachodesh hashּeniy dvoday hoachvochi umachaluqtvo umiqlvot e-sobre v'al machaluqtvo esriym mil
+sar hatsּovo hashּlishi lachodesh hashּlishiy bnoyohu filho-de hakohen rosh cabeça e-sobre esriym varbo'oh olef mil
+ele vnoyohu gibvor hashּloshiym e-sobre umachaluqtvo amּizovod bnvo
+o-quarto lachodesh o-quarto asoh-el El yvoov uzvadyoh vnvo acharoyv v'al e-sobre esriym varbo'oh olef mil
+hachamishi lachodesh hachamishiy hasּar shamhut hayּizroch e-sobre machaluqtvo esriym varbo'oh mil
+hashּishּi lachodesh hashּishּiy iro filho-de hatqvo'iy v'al e-sobre esriym varbo'oh olef mil
+hashּvi'i lachodesh hashּvi'iy chelets haplvoniy de filhos-de v'al e-sobre esriym varbo'oh olef mil
+hashּmini lachodesh hashּminiy sibkhay hachushotiy lazּarchiy e-sobre machaluqtvo esriym varbo'oh mil
+hatshi'i lachodesh hatshi'iy avi'ezer ho'anּtotiy e-sobre **laben ׀ **yminiy mil
+ho'asiri lachodesh ho'asiriy mahray hanּtvofotiy lazּarchiy e-sobre machaluqtvo esriym varbo'oh mil
+ashtey-'osor dez osor dez bnoyoh hapir'otvoniy min-bney de filhos-de machaluqtvo e-sobre varbo'oh olef mil
+hashּneym dez lishneym dez hachodesh chelday hanּtvofotiy l'otniel e-sobre machaluqtvo esriym varbo'oh mil
+e-sobre shivtey Israel loruveniy nogiyd eli'ezer filho-de s lashּim'voniy shfatyohu filho-de
+lleviy chashavyoh filho-de laharon tsodvoq
+liyhudoh elihu meachey doviyd lyisoshkhor omriy filho-de
+lizvulun yishma'yohu filho-de lnaftoliy yrimvot ben-'azriel filho-de
+livney efrayim hvoshe'a filho-de lachatsi shevet mnashּeh yvoel ben-pdoyohu filho-de
+lachatsiy hamnashּeh gil'odoh yidvo filho-de s lvinyomin ya'asiel filho-de
+ldon azarel filho-de Estas sorey shivtey yisroel Israel
+e-não dovid misporom lmiben esriym shonoh ulmotּoh que disse yhwh yhwh et-yisroel [OBJ] Israel os-céus
+yvoov filho-de hechel limnvot vlo e-não e-houve E-foi qetsef al-yisroel sobre subir e-não bmispar divrey-hayּomiym lamּelekh doviyd
+e-sobre otsrvot hamּelekh azmovet filho-de s e-sobre hootsorvot basּodeh be'oriym uvakforim uvamּigdolvot yhvonoton filho-de
+e-sobre osey mlekhet hasּodeh la'avodat a-terra ezriy filho-de
+e-sobre shim'iy horomotiy v'al e-sobre lotsrvot hayּayin zavdiy hashּifmiy
+e-sobre vhashּiqmim asher que ba'al chonon hagderiy s e-sobre hashּemen yvo'osh
+e-sobre horo'iym bashּorvon *shtry **shirtay e-sobre v'al-haboqor bo'amoqiym shofot filho-de
+e-sobre voviyl hayּishm'eliy v'al-hoatonvot e-sobre hamּeronotiy
+e-sobre yoziyz hahagriy kol-elּeh todo horkhush asher lamּelekh que
+viyhvonoton dvod-dovid yvo'ets ish-meviyn vsvofer ele viychiel ben-chakhmvoniy im-bney filho-de com filhos-de
+vaachitofel yvo'ets lamּelekh s vchushay mau re'a
+vacharey achitofel yhvoyodo filho-de vevyotor vsar-tsovo lamּelekh yvoov
 
 ── Capítulo 28 ──
 
-1  vayּaqhel doviyd [OBJ] todo sorey Israel vsorey hamּachlqvot hamshortiym et-hamּelekh vsorey [OBJ] vsorey hamּevot vsorey khol-rkhush-umiqneh ׀ lamּelekh todo im-hasּorisiym vhagibvoriym ulkhol-gibvor choyil com a
-2  E-levantou doviyd hamּelekh sobre E-disse E-disse achay v'amּiy aniy im-lvoviy com beyt mnuchoh casa brit-yhvoh vlahadom ragley YHWH vahakhinvoti livnvot
-3  vhoelohim disse liy não vayit casa que porque homem tu vdomiym shofokhto
-4  vayּivchar YHWH elohey Israel biy de-toda casa-de lihyvot lmelekh al-yisroel sobre que viyhudoh porque lnogiyd uvveyt yhudoh beyt oviy casa oviy biy rotsoh lhamliykh al-kol-yisroel sobre todo Israel
-5  umikol-bonay que porque boniym dar deu YHWH YHWH bishlomoh vniy filhos-de al-kisּe sobre YHWH al-yisroel YHWH sobre Israel
-6  E-disse liy shlomoh vinkho hu-yivneh veytiy vachatservotoy ki-vocharti nele li lven vaaniy ehyeh-lּvo lov
-7  vahakhinvotiy [OBJ] ad-l'volom até la'asvot se umishpotay kayּvom hazּeh
-8  e-agora l'eyney todo Israel uvozney YHWH shimru vdirshu kol-mitsvֺt YHWH todo lma'an YHWH et-hoorets hatּvovoh vhinchaltem [OBJ] a-terra ad-'volom até
-9  vatoh shlomoh-vniy filhos-de et-elohey [OBJ] v'ovdehu blev sholem uvnefesh chafetsoh que khol-lvovvot porque YHWH vkhol-yetser machashovvot YHWH e-todo yimּotse para-ti vim-ta'azvenּu se lo'ad
-10  reh ׀ porque YHWH bochar bkho livnvot-bayit casa chazaq va'aseh
-11  E-colocou doviyd lishlomoh vnvo [OBJ] houlom vet-botoyv e-[OBJ] va'aliּotoyv vachadoroyv hapnimiym uveyt hakaporet
-12  vtavniyt todo que ser vorucha imּvo lchatsrvot casa-de YHWH soviyv lotsrvot beyt hoelohiym casa haqּodoshiym
-13  ulmachlqvot hakohaniym vhalviּim ulkhol-mlekhet avvodat beyt-yhvoh casa-de YHWH beyt-yhvoh casa-de YHWH
-14  lazּohov bamּishqol lazּohov para-todo avvodoh va'avvodoh a-todo para-todo hakesef bmishqol lkhol-kley para-todo va'avvodoh
-15  umishqol limnorvot o-ouro vneroteyhem ouro bmishqal-mnvoroh umnvoroh vneroteyho vlimnorvot hakesef bmishqol limnvoroh vneroteyho ka'avvodat mnvoroh umnvoroh
-16  e-[OBJ] mishqol lshulchanvot hamּa'arekhet lshulchan vshulchon vkhesef lshulchanvot hakosef
-17  vhamּizlogvot vhamּizroqvot vhaqּsovֺt ouro tohvor vlikhfvorey o-ouro bmishqol likhfvor ukhfvor vlikhfvorey hakesef bmishqol likhfvor ukhfvor
-18  ulmizbach haqּtoret ouro mzuqּoq bamּishqol ultavniyt hamּerkovoh os-querubins ouro lforsiym vsokhkhiym sobre brit-yhvoh YHWH
-19  hakol bikhtov miּad YHWH olay hiskiyl todo malakhvot hatavniyt
-20  E-disse doviyd lishlomoh vnvo chazaq veemats va'aseh a val-techot que YHWH Deus YHWH Elohim não yarpkho não ya'azveko e-não kol-mlekhet até beyt-yhvoh todo casa-de YHWH
-21  vhinּeh machlqvot hakohaniym vhalviּim para-todo beyt casa v'imּkho vkhol-mlokhoh em-todo bachokhmoh para-todo vhasּoriym vkhol-ho'om para-todo e-todo para-todo
+vayּaqhel doviyd [OBJ] todo sorey Israel vsorey hamּachlqvot hamshortiym et-hamּelekh vsorey [OBJ] vsorey hamּevot vsorey khol-rkhush-umiqneh ׀ lamּelekh todo im-hasּorisiym vhagibvoriym ulkhol-gibvor choyil com a
+E-levantou doviyd hamּelekh sobre E-disse E-disse achay v'amּiy aniy im-lvoviy com beyt mnuchoh casa brit-yhvoh vlahadom ragley yhwh vahakhinvoti livnvot
+vhoelohim disse liy não vayit casa que porque homem tu vdomiym shofokhto
+vayּivchar yhwh elohey Israel biy de-toda casa-de lihyvot lmelekh al-yisroel sobre que viyhudoh porque lnogiyd uvveyt yhudoh beyt oviy casa oviy biy rotsoh lhamliykh al-kol-yisroel sobre todo Israel
+umikol-bonay que porque boniym dar deu yhwh yhwh bishlomoh vniy filhos-de al-kisּe sobre yhwh al-yisroel yhwh sobre Israel
+E-disse liy shlomoh vinkho hu-yivneh veytiy vachatservotoy ki-vocharti nele li lven vaaniy ehyeh-lּvo lov
+vahakhinvotiy [OBJ] ad-l'volom até la'asvot se umishpotay kayּvom hazּeh
+e-agora l'eyney todo Israel uvozney yhwh shimru vdirshu kol-mitsvֺt yhwh todo lma'an yhwh et-hoorets hatּvovoh vhinchaltem [OBJ] a-terra ad-'volom até
+vatoh shlomoh-vniy filhos-de et-elohey [OBJ] v'ovdehu blev sholem uvnefesh chafetsoh que khol-lvovvot porque yhwh vkhol-yetser machashovvot yhwh e-todo yimּotse para-ti vim-ta'azvenּu se lo'ad
+reh ׀ porque yhwh bochar bkho livnvot-bayit casa chazaq va'aseh
+E-colocou doviyd lishlomoh vnvo [OBJ] houlom vet-botoyv e-[OBJ] va'aliּotoyv vachadoroyv hapnimiym uveyt hakaporet
+vtavniyt todo que ser vorucha imּvo lchatsrvot casa-de yhwh soviyv lotsrvot beyt hoelohiym casa haqּodoshiym
+ulmachlqvot hakohaniym vhalviּim ulkhol-mlekhet avvodat beyt-yhvoh casa-de yhwh beyt-yhvoh casa-de yhwh
+lazּohov bamּishqol lazּohov para-todo avvodoh va'avvodoh a-todo para-todo hakesef bmishqol lkhol-kley para-todo va'avvodoh
+umishqol limnorvot o-ouro vneroteyhem ouro bmishqal-mnvoroh umnvoroh vneroteyho vlimnorvot hakesef bmishqol limnvoroh vneroteyho ka'avvodat mnvoroh umnvoroh
+e-[OBJ] mishqol lshulchanvot hamּa'arekhet lshulchan vshulchon vkhesef lshulchanvot hakosef
+vhamּizlogvot vhamּizroqvot vhaqּsovֺt ouro tohvor vlikhfvorey o-ouro bmishqol likhfvor ukhfvor vlikhfvorey hakesef bmishqol likhfvor ukhfvor
+ulmizbach haqּtoret ouro mzuqּoq bamּishqol ultavniyt hamּerkovoh os-querubins ouro lforsiym vsokhkhiym sobre brit-yhvoh yhwh
+hakol bikhtov miּad yhwh olay hiskiyl todo malakhvot hatavniyt
+E-disse doviyd lishlomoh vnvo chazaq veemats va'aseh a val-techot que yhwh Deus yhwh Elohim não yarpkho não ya'azveko e-não kol-mlekhet até beyt-yhvoh todo casa-de yhwh
+vhinּeh machlqvot hakohaniym vhalviּim para-todo beyt casa v'imּkho vkhol-mlokhoh em-todo bachokhmoh para-todo vhasּoriym vkhol-ho'om para-todo e-todo para-todo
 
 ── Capítulo 29 ──
 
-1  E-disse doviyd hamּelekh para-todo shlomoh vniy um um Deus na'ar Elohim vhamּlokhoh gdvoloh que não porque não que layhvoh Deus Elohim
-2  ukhakhol-kochiy hakhinvoti lveyt-elohay o-ouro ׀ lazּohov vhakesef lakesef vhanּchoshet lanּchoshet habarzel labarzel vho'etsiym lo'etsiym avney-shoham umilּuiym avney-fukh vriqmoh e-tudo pedra yqoroh e-todo lorov
-3  v'vod birtsvoti bveyt elohay yesh-liy sgulּoh ouro vokhosef dei lveyt-elohay lma'loh mikol-hakhinvoti lveyt de-todo
-4  shloshet alofiym kikrey ouro mizּhav vofiyr vshiv'at alofiym kikar-kesef mzuqּoq lotucha qirvot habotiym
-5  lazּohov lazּohov vlakesef lakesef ulkhol-mlokhoh byad choroshiym umiy mitnadev lmalּovt sua-mão o-dia layhvoh
-6  vayּitnadvu sorey hoovvot vsorey ׀ Israel yisroel vsorey hoalofim vhamּevot ulsorey mlekhet
-7  vayּitnu la'avvodat casa-de ouro kikoriym chameshet-alofim vaadarkhoniym ribvo vkhesef kikorim aseret alofiym unchoshet ribvo ushmvonat alofiym kikoriym uvarzel meoh-elef kikoriym mil
-8  vhanּimtso itvo avoniym notnu lvotsar casa-de sobre sobre hagershunּiy
-9  vayּismchu ho'om sobre que porque sholem hitnadvu layhvoh vgam doviyd hamּelekh somach simchoh gdvoloh
-10  E-abençoou dovid [OBJ] YHWH kol-haqּohol E-disse doviyd E-disse tu YHWH elohey YHWH oviynu Israel v'ad-'volom
-11  a-ti YHWH hagdulּoh vhagvuroh vhatiferet vhanּetsach vhahvod porque todo uvoorets a-ti YHWH YHWH vhamּitnasּe a-todo ׀ lrosh
-12  vho'osher vhakovvod milּfoneykho vatoh mvoshel em-todo uvyodkho kocha ugvuroh uvyodkho lgadel ulchazּeq para-todo
-13  e-agora eloheynu mvodiym anachnu para-ti umhalliym lshem tifartekho
-14  vkhiy quem ani umiy amּiy porque kocha lhitnadev kozot kiy-mimּkho porque umiּodkho notanּu para-ti
-15  porque anachnu lfoneykho vtvoshoviym kkhol-avoteynu katsּel ׀ yomeynu al-hoorets sobre a-terra
-16  YHWH eloheynu todo hehomvon hazּeh que hakhinonu livnvot-lkho vayit casa qodshekho miּodkho *hy **hu ulkho
-17  vyoda'ti elohay que tu bochen levov umeyshoriym tirtseh aniy byosher lvovi hitnadavti todo e-agora amּkho hanּimtsu-foh roiyti vsimchoh lhitnadev-lokh
-18  YHWH elohey Abraão Isaque vyisroel avoteynu shomroh-zּot l'volom lyetser machshvvot lvav amּekho vhokhen lvovom eleykho
-19  vlishlomoh filhos-de ten levov sholem lishmvor mitsvֺteykho edvֺteykho vchuqּeykho vla'asvot hakol vlivnvot habiroh que
-20  E-disse dovid para-todo borkhu no et-yhvoh [OBJ] YHWH khol-haqּohol layhvoh todo avoteyhem vayּiqּdu vayּishtachavu layhvoh vlamּelekh
-21  vayּizbchu layhvoh ׀ zvochim vayּa'alu olvot layhvoh lmochorat o-dia hahu mil elef mil elef mil elef vniskeyhem uzvochiym para-todo Israel
-22  vayּokhlu vayּishtu lifney YHWH no-dia hahu bsimchoh gdvoloh vayּamliykhu shenit lishlomoh filho-de vayּimshchu layhvoh lnogiyd ultsodvoq lkhohen
-23  vayּeshev shlomoh sobre YHWH ׀ lmelekh tachat-doviyd seu-pai vayּatslach vayּishm'u a-ele kol-yisroel todo Israel
-24  e-todo vhagiboriym vgam kol-bney todo filhos-de notnu mão debaixo mão hamּelekh
-25  vaygadel YHWH [OBJ] lma'loh l'eyney kol-yisroel E-colocou Israel E-deu malkhut asher lo-hoyoh que não foi sobre todo rei sobre Israel
-26  vdovid filho-de molakh rei sobre todo Israel
-27  vhayּomiym que rei sobre Israel shonoh bchevrvon molakh rei sete dois molakh rei vsholvosh
-28  E-morreu bseyvoh tvovoh sete yomiym dez vkhovvod vayּimlokh shlomoh vnvo tachtoyv
-29  vdivrey doviyd hamּelekh horishoniym vhoachroniym hinּom ktuviym sobre shmuel horoeh v'al-divrey e-sobre hanּoviy deu god e-sobre
-30  povo todo ugvurotvo vho'itiym asher que oloyv v'al-yisroel e-sobre Israel e-sobre todo
+E-disse doviyd hamּelekh para-todo shlomoh vniy um um Deus na'ar Elohim vhamּlokhoh gdvoloh que não porque não que layhvoh Deus Elohim
+ukhakhol-kochiy hakhinvoti lveyt-elohay o-ouro ׀ lazּohov vhakesef lakesef vhanּchoshet lanּchoshet habarzel labarzel vho'etsiym lo'etsiym avney-shoham umilּuiym avney-fukh vriqmoh e-tudo pedra yqoroh e-todo lorov
+v'vod birtsvoti bveyt elohay yesh-liy sgulּoh ouro vokhosef dei lveyt-elohay lma'loh mikol-hakhinvoti lveyt de-todo
+shloshet alofiym kikrey ouro mizּhav vofiyr vshiv'at alofiym kikar-kesef mzuqּoq lotucha qirvot habotiym
+lazּohov lazּohov vlakesef lakesef ulkhol-mlokhoh byad choroshiym umiy mitnadev lmalּovt sua-mão o-dia layhvoh
+vayּitnadvu sorey hoovvot vsorey ׀ Israel yisroel vsorey hoalofim vhamּevot ulsorey mlekhet
+vayּitnu la'avvodat casa-de ouro kikoriym chameshet-alofim vaadarkhoniym ribvo vkhesef kikorim aseret alofiym unchoshet ribvo ushmvonat alofiym kikoriym uvarzel meoh-elef kikoriym mil
+vhanּimtso itvo avoniym notnu lvotsar casa-de sobre sobre hagershunּiy
+vayּismchu ho'om sobre que porque sholem hitnadvu layhvoh vgam doviyd hamּelekh somach simchoh gdvoloh
+E-abençoou dovid [OBJ] yhwh kol-haqּohol E-disse doviyd E-disse tu yhwh elohey yhwh oviynu Israel v'ad-'volom
+a-ti yhwh hagdulּoh vhagvuroh vhatiferet vhanּetsach vhahvod porque todo uvoorets a-ti yhwh yhwh vhamּitnasּe a-todo ׀ lrosh
+vho'osher vhakovvod milּfoneykho vatoh mvoshel em-todo uvyodkho kocha ugvuroh uvyodkho lgadel ulchazּeq para-todo
+e-agora eloheynu mvodiym anachnu para-ti umhalliym lshem tifartekho
+vkhiy quem ani umiy amּiy porque kocha lhitnadev kozot kiy-mimּkho porque umiּodkho notanּu para-ti
+porque anachnu lfoneykho vtvoshoviym kkhol-avoteynu katsּel ׀ yomeynu al-hoorets sobre a-terra
+yhwh eloheynu todo hehomvon hazּeh que hakhinonu livnvot-lkho vayit casa qodshekho miּodkho *hy **hu ulkho
+vyoda'ti elohay que tu bochen levov umeyshoriym tirtseh aniy byosher lvovi hitnadavti todo e-agora amּkho hanּimtsu-foh roiyti vsimchoh lhitnadev-lokh
+yhwh elohey Abraão Isaque vyisroel avoteynu shomroh-zּot l'volom lyetser machshvvot lvav amּekho vhokhen lvovom eleykho
+vlishlomoh filhos-de ten levov sholem lishmvor mitsvֺteykho edvֺteykho vchuqּeykho vla'asvot hakol vlivnvot habiroh que
+E-disse dovid para-todo borkhu no et-yhvoh [OBJ] yhwh khol-haqּohol layhvoh todo avoteyhem vayּiqּdu vayּishtachavu layhvoh vlamּelekh
+vayּizbchu layhvoh ׀ zvochim vayּa'alu olvot layhvoh lmochorat o-dia hahu mil elef mil elef mil elef vniskeyhem uzvochiym para-todo Israel
+vayּokhlu vayּishtu lifney yhwh no-dia hahu bsimchoh gdvoloh vayּamliykhu shenit lishlomoh filho-de vayּimshchu layhvoh lnogiyd ultsodvoq lkhohen
+vayּeshev shlomoh sobre yhwh ׀ lmelekh tachat-doviyd seu-pai vayּatslach vayּishm'u a-ele kol-yisroel todo Israel
+e-todo vhagiboriym vgam kol-bney todo filhos-de notnu mão debaixo mão hamּelekh
+vaygadel yhwh [OBJ] lma'loh l'eyney kol-yisroel E-colocou Israel E-deu malkhut asher lo-hoyoh que não foi sobre todo rei sobre Israel
+vdovid filho-de molakh rei sobre todo Israel
+vhayּomiym que rei sobre Israel shonoh bchevrvon molakh rei sete dois molakh rei vsholvosh
+E-morreu bseyvoh tvovoh sete yomiym dez vkhovvod vayּimlokh shlomoh vnvo tachtoyv
+vdivrey doviyd hamּelekh horishoniym vhoachroniym hinּom ktuviym sobre shmuel horoeh v'al-divrey e-sobre hanּoviy deu god e-sobre
+povo todo ugvurotvo vho'itiym asher que oloyv v'al-yisroel e-sobre Israel e-sobre todo
 
 ───────────────────────────────────────────────────────────────────────
 Fim de 1_Crônicas
+
