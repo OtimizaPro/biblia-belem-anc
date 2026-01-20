@@ -7,3 +7,6 @@ references/
 nul
 *.db
 .DS_Store
+
+# Diretório antigo (remover após liberar lock)
+bible-reader/

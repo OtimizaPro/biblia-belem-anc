@@ -1,0 +1,46 @@
+// Adicionar após '/api/v1/translation-info/word/{word}' - antes de 'components:'
+
+'/api/v1/translation-info/editorial-decisions': {
+  get: {
+    summary: 'Decisões editoriais estruturais',
+    tags: ['Tradução'],
+    description: 'Informações sobre decisões estruturais como remoção de versículos',
+    responses: {
+      '200': {
+        description: 'Decisões editoriais e motivos históricos',
+      },
+    },
+  },
+},
+'/api/v1/translation-info/editorial-decisions/verses': {
+  get: {
+    summary: 'Informação sobre remoção de versículos',
+    tags: ['Tradução'],
+    description: 'Explica por que os marcadores de versículos foram removidos',
+    responses: {
+      '200': {
+        description: 'Contexto histórico e motivo da remoção de versículos',
+        content: {
+          'application/json': {
+            schema: {
+              type: 'object',
+              properties: {
+                success: { type: 'boolean' },
+                data: {
+                  type: 'object',
+                  properties: {
+                    decision: {
+                      type: 'object',
+                      description: 'Detalhes sobre a decisão de remover versículos',
+                    },
+                    note: { type: 'string' },
+                  },
+                },
+              },
+            },
+          },
+        },
+      },
+    },
+  },
+},

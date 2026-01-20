@@ -1,0 +1,39 @@
+{
+  "_title": "Decisões Editoriais - Estrutura e Marcadores",
+  "no_verse_markers": {
+    "title": "Sem Marcadores de Versículos",
+    "reason": "Os livros bíblicos originais não possuíam divisão em versículos",
+    "historical_timeline": {
+      "original_codices": "Códices originais - Continuum de texto, sem divisões numéricas",
+      "century_12": "c. 1150 - Estêvão Langton (Stephen Langton) introduz divisão capítular",
+      "century_16": "1551 - Robert Estienne (Robertus Stephanus) introduz divisão em versículos no Novo Testamento Grego",
+      "hebrew_bible": "A Bíblia Hebraica manteve principalmente estrutura capítular até tempos modernos"
+    },
+    "decision": "Estrutura capítular mantida. Marcadores de versículos removidos.",
+    "statistics": {
+      "files_updated": 66,
+      "verse_markers_removed": 31156,
+      "chapters_preserved": true
+    },
+    "philosophy_alignment": "Volta à estrutura original dos códices canônicos, elimina construções interpretativas posteriores",
+    "why_matters": "Preserva a fidelidade histórica do texto enquanto remove camadas de interpretação editorial que não pertencem ao original",
+    "how_to_cite": "Use formato capítular: 'Gênesis, Capítulo 1' ao invés de 'Gênesis 1:1'",
+    "api_impact": "Endpoints continuam funcionando com estrutura capítular. Contagem linear de linhas em cada capítulo.",
+    "examples": [
+      {
+        "book": "Gênesis",
+        "before": "1  No-princípio criou Deus [OBJ] os-céus...",
+        "after": "No-princípio criou Deus [OBJ] os-céus..."
+      }
+    ]
+  },
+  "references": {
+    "works": [
+      "Langton, S. (c. 1150) - Divisão Capítular do Pentateuco",
+      "Estienne, R. (1551) - Divisio in Versus (Novo Testamento Grego)",
+      "Estienne, R. (1555) - Versículos adicionados à Vulgata Latina",
+      "Gail, R. (1581) - Primeiros versículos em Bíblia Hebraica"
+    ],
+    "modern_scholarship": "Os versículos modernos são uma construção editorial, não presente nos originais"
+  }
+}

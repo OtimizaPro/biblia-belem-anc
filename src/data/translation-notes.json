@@ -1,0 +1,78 @@
+{
+  "_description": "Documentação sobre anotações e estratégias de tradução na Bíblia Belém An.C 2025",
+  "philosophy": "Você lê. E a interpretação é sua.",
+  "editorial_markers": {
+    "[OBJ]": {
+      "name": "Objeto Direto",
+      "reason": "Sinaliza a presença de um objeto direto implícito ou elíptico no texto original que não possui equivalente direto em português",
+      "examples": [
+        "Gênesis 2:7 - 'E-formou yhwh Deus [OBJ] pó min-hoadomoh' - O objeto 'homem' está implícito no contexto original",
+        "Gênesis 3:8 - 'vayּishm'u [OBJ] yhwh Deus passeando' - O português exige preposição, mas o hebraico usa elisão"
+      ],
+      "translation_rule": "Preserva a estrutura elíptica do original sem forçar interpretação do leitor"
+    },
+    "[grammatical_ellipsis]": {
+      "name": "Elipse Gramatical",
+      "reason": "Indica omissão proposital de palavras que a gramática original permite, mas que o português requer",
+      "examples": [
+        "Estruturas verbais condensadas do hebraico/grego que perderiam fidelidade se expandidas"
+      ],
+      "translation_rule": "Mantém a concisão original ao invés de expandir"
+    },
+    "[interpretation_needed]": {
+      "name": "Interpretação Necessária",
+      "reason": "Marca pontos onde mesmo a tradução literal rígida requer uma decisão interpretativa mínima",
+      "examples": [
+        "Ambiguidades genuínas do texto original sem disambiguação semântica"
+      ],
+      "translation_rule": "Sinaliza ao leitor que há ambiguidade legítima no original"
+    }
+  },
+  "words_not_translated": {
+    "yhwh": {
+      "original_hebrew": "יהוה",
+      "transliteration": "YHWH",
+      "current_form": "yhwh",
+      "reason_not_translated": "Tetragramaton - Nome sagrado de Deus em hebraico. Mantém-se em minúscula como convenção de literalidade",
+      "historical_context": "Nas bíblias tradicionais, frequentemente substituído por 'Senhor' ou 'Deus', perdendo a identificação com o nome próprio divino",
+      "philosophy_application": "A literalidade rígida preserva a distinção entre o nome próprio (yhwh) e os títulos genéricos (Elohim, Adonai)",
+      "variants": ["Yhwh", "YHWH"],
+      "use_in_api": "yhwh (minúscula em resposta JSON para consistência)"
+    },
+    "Theos": {
+      "original_greek": "Θεός",
+      "transliteration": "Theos",
+      "reason_not_translated": "Referência específica a Deus na teologia grega - mantém distinção de 'theós' (divino genérico) vs 'ho Theos' (Deus específico)",
+      "philosophy_application": "Preserva nuances semânticas do idioma original que traduções genéricas perdem",
+      "context": "Encontrado principalmente no Novo Testamento e textos helenísticos"
+    },
+    "Iesous": {
+      "original_greek": "Ἰησοῦς",
+      "transliteration": "Iesous",
+      "reason_not_translated": "Nome próprio - mantém a forma grega original preservando a identidade histórica",
+      "philosophy_application": "Nomes próprios permanecem no original como regra fundamental de literalidade"
+    },
+    "Christos": {
+      "original_greek": "Χριστός",
+      "transliteration": "Christos",
+      "reason_not_translated": "Título grego - embora traduzível como 'Ungido' ou 'Messias', mantém-se a forma original para preservar a carga semântica completa",
+      "philosophy_application": "Evita interpretações que 'Ungido' ou 'Messias' poderiam carregar, deixando ao leitor a interpretação"
+    }
+  },
+  "translation_layers": {
+    "literal_pt": {
+      "name": "Tradução Literal Rígida",
+      "description": "Palavra por palavra, preservando ordem sintática e estrutura original",
+      "priority": "Máxima fidelidade ao original"
+    },
+    "readable_pt": {
+      "name": "Tradução Legível",
+      "description": "Mantém literalidade mas com melhor fluxo em português",
+      "priority": "Fidelidade com compreensão"
+    }
+  },
+  "api_response_guidance": {
+    "include_translation_info": "Quando disponível, o endpoint /api/v1/translation-info fornece contexto sobre por que cada marcador foi utilizado",
+    "user_interpretation": "O leitor recebe informação completa e toma sua própria interpretação - sem mediação do tradutor"
+  }
+}

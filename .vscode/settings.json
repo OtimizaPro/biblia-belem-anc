@@ -22,5 +22,7 @@
         "source.fixAll.eslint": "explicit"
     },
     "eslint.validate": ["typescript"],
-    "prettier.requireConfig": true
+    "prettier.requireConfig": true,
+    "postman.settings.dotenv-detection-notification-visibility": false,
+    "sarif-viewer.connectToGithubCodeScanning": "off"
 }

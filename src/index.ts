@@ -8,6 +8,7 @@ import books from './routes/books';
 import verses from './routes/verses';
 import tokens from './routes/tokens';
 import glosses from './routes/glosses';
+import translationInfo from './routes/translation-info';
 import { glossaryRoutes } from './routes/glossary';
 import { openApiSpec } from './docs/openapi';
 
@@ -80,6 +81,12 @@ app.get('/', (c) => {
         verse: 'GET /api/v1/glosses/verse/:verseId',
         layers: 'GET /api/v1/glosses/layers',
       },
+      translationInfo: {
+        overview: 'GET /api/v1/translation-info',
+        editorialMarkers: 'GET /api/v1/translation-info/editorial-markers',
+        wordsNotTranslated: 'GET /api/v1/translation-info/words-not-translated',
+        wordDetail: 'GET /api/v1/translation-info/word/:word',
+      },
     },
     sources: [
       'BHSA (Biblia Hebraica Stuttgartensia)',
@@ -98,6 +105,7 @@ app.route('/api/v1/verses', verses);
 app.route('/api/v1/tokens', tokens);
 app.route('/api/v1/glosses', glosses);
 app.route('/api/v1/glossary', glossaryRoutes);
+app.route('/api/v1/translation-info', translationInfo);
 
 // 404 handler
 app.notFound((c) => {

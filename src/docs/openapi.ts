@@ -326,6 +326,88 @@ export const openApiSpec = {
         },
       },
     },
+    '/api/v1/translation-info': {
+      get: {
+        summary: 'Informações sobre anotações de tradução',
+        tags: ['Tradução'],
+        description:
+          'Retorna documentação completa sobre marcadores editoriais e palavras não traduzidas',
+        responses: {
+          '200': {
+            description: 'Informações sobre tradução e filosofia literal rígida',
+            content: {
+              'application/json': {
+                schema: {
+                  type: 'object',
+                  properties: {
+                    success: { type: 'boolean', example: true },
+                    data: {
+                      type: 'object',
+                      properties: {
+                        philosophy: {
+                          type: 'string',
+                          example: 'Você lê. E a interpretação é sua.',
+                        },
+                        editorial_markers: { type: 'object' },
+                        words_not_translated: { type: 'object' },
+                      },
+                    },
+                  },
+                },
+              },
+            },
+          },
+        },
+      },
+    },
+    '/api/v1/translation-info/editorial-markers': {
+      get: {
+        summary: 'Marcadores editoriais',
+        tags: ['Tradução'],
+        description:
+          'Detalhes sobre [OBJ], [elipse], etc - por que cada marcador está em colchetes',
+        responses: {
+          '200': {
+            description: 'Documentação de marcadores editoriais com exemplos',
+          },
+        },
+      },
+    },
+    '/api/v1/translation-info/words-not-translated': {
+      get: {
+        summary: 'Palavras não traduzidas',
+        tags: ['Tradução'],
+        description: 'Explicação de por que yhwh, Theos, Iesous e Christos não são traduzidas',
+        responses: {
+          '200': {
+            description: 'Lista de categorias com motivos, contexto histórico e orientações',
+          },
+        },
+      },
+    },
+    '/api/v1/translation-info/word/{word}': {
+      get: {
+        summary: 'Informação de uma palavra específica',
+        tags: ['Tradução'],
+        parameters: [
+          {
+            name: 'word',
+            in: 'path',
+            required: true,
+            description: 'Palavra ou marcador (ex: yhwh, [OBJ], Theos)',
+            schema: { type: 'string' },
+          },
+        ],
+        responses: {
+          '200': {
+            description: 'Informações detalhadas sobre a palavra',
+          },
+          '404': {
+            description: 'Palavra não encontrada',
+          },
+        },
+      },
+    },
   },
   components: {
     schemas: {
@@ -383,5 +465,9 @@ export const openApiSpec = {
     { name: 'Versículos', description: 'Consulta de versículos' },
     { name: 'Tokens', description: 'Análise morfológica de palavras' },
     { name: 'Glosses', description: 'Camadas de anotação' },
+    {
+      name: 'Tradução',
+      description: 'Informações sobre marcadores editoriais e palavras não traduzidas',
+    },
   ],
 };

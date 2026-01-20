@@ -231,6 +231,77 @@ GET /api/v1/tokens/:verseId/morphology
 
 ---
 
+### Informações sobre Tradução e Marcadores Editoriais
+
+Novos endpoints para documentar por que certos termos não são traduzidos e explicar marcadores como `[OBJ]`:
+
+#### Visão geral completa
+
+```
+GET /api/v1/translation-info
+```
+
+**Resposta:** Documentação completa sobre filosofia, marcadores editoriais e palavras não traduzidas.
+
+#### Marcadores editoriais ([OBJ], etc)
+
+```
+GET /api/v1/translation-info/editorial-markers
+```
+
+Explica por que cada palavra em colchetes está em colchetes e qual é o propósito.
+
+**Exemplo de resposta:**
+```json
+{
+  "success": true,
+  "data": {
+    "philosophy": "Você lê. E a interpretação é sua.",
+    "markers": {
+      "[OBJ]": {
+        "name": "Objeto Direto",
+        "reason": "Sinaliza a presença de um objeto direto implícito ou elíptico no texto original",
+        "examples": [
+          "Gênesis 2:7 - 'E-formou yhwh Deus [OBJ] pó...' - O objeto 'homem' está implícito"
+        ]
+      }
+    }
+  }
+}
+```
+
+#### Palavras não traduzidas (yhwh, Theos, etc)
+
+```
+GET /api/v1/translation-info/words-not-translated
+```
+
+Documenta por que palavras como `yhwh`, `Theos`, `Iesous` e `Christos` não são traduzidas.
+
+**Exemplo:**
+```json
+{
+  "yhwh": {
+    "reason": "Tetragramaton - Nome sagrado de Deus em hebraico",
+    "original_hebrew": "יהוה",
+    "why_not_translated": "Preserva a identidade do nome próprio divino"
+  }
+}
+```
+
+#### Consulta de palavra específica
+
+```
+GET /api/v1/translation-info/word/:word
+```
+
+**Exemplos:**
+- `GET /api/v1/translation-info/word/yhwh`
+- `GET /api/v1/translation-info/word/[OBJ]`
+- `GET /api/v1/translation-info/word/Theos`
+
+---
+
 ### Glosses (Camadas de Anotação)
 
 #### Glosses de um versículo
