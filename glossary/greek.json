@@ -3526,5 +3526,4533 @@
   "αὐτοί": {
     "translation": "eles",
     "source": "claude-code-max"
+  },
+  "τόπων": {
+    "translation": "lugares",
+    "source": "claude-code-max"
+  },
+  "ἐκινήθησαν": {
+    "translation": "foram-movidos",
+    "source": "claude-code-max"
+  },
+  "μεγιστᾶνες": {
+    "translation": "grandes",
+    "source": "claude-code-max"
+  },
+  "χιλίαρχοι": {
+    "translation": "comandantes",
+    "source": "claude-code-max"
+  },
+  "πλούσιοι": {
+    "translation": "ricos",
+    "source": "claude-code-max"
+  },
+  "ἰσχυροὶ": {
+    "translation": "fortes",
+    "source": "claude-code-max"
+  },
+  "ἐλεύθερος": {
+    "translation": "livre",
+    "source": "claude-code-max"
+  },
+  "ἔκρυψαν": {
+    "translation": "esconderam",
+    "source": "claude-code-max"
+  },
+  "σπήλαια": {
+    "translation": "cavernas",
+    "source": "claude-code-max"
+  },
+  "πέτρας": {
+    "translation": "rochas",
+    "source": "claude-code-max"
+  },
+  "ὀρέων": {
+    "translation": "montes",
+    "source": "claude-code-max"
+  },
+  "ὄρεσιν": {
+    "translation": "montes",
+    "source": "claude-code-max"
+  },
+  "πέτραις": {
+    "translation": "rochas",
+    "source": "claude-code-max"
+  },
+  "Πέσετε": {
+    "translation": "caí",
+    "source": "claude-code-max"
+  },
+  "κρύψατε": {
+    "translation": "escondei",
+    "source": "claude-code-max"
+  },
+  "προσώπου": {
+    "translation": "face",
+    "source": "claude-code-max"
+  },
+  "τίς": {
+    "translation": "quem",
+    "source": "claude-code-max"
+  },
+  "σταθῆναι": {
+    "translation": "ficar-de-pé",
+    "source": "claude-code-max"
+  },
+  "ἑστῶτας": {
+    "translation": "de-pé",
+    "source": "claude-code-max"
+  },
+  "γωνίας": {
+    "translation": "cantos",
+    "source": "claude-code-max"
+  },
+  "ἀνέμους": {
+    "translation": "ventos",
+    "source": "claude-code-max"
+  },
+  "πνέῃ": {
+    "translation": "sopre",
+    "source": "claude-code-max"
+  },
+  "ἄνεμος": {
+    "translation": "vento",
+    "source": "claude-code-max"
+  },
+  "μήτε": {
+    "translation": "nem",
+    "source": "claude-code-max"
+  },
+  "δένδρον": {
+    "translation": "árvore",
+    "source": "claude-code-max"
+  },
+  "ἀναβαίνοντα": {
+    "translation": "subindo",
+    "source": "claude-code-max"
+  },
+  "ἀνατολῆς": {
+    "translation": "oriente",
+    "source": "claude-code-max"
+  },
+  "ζῶντος": {
+    "translation": "vivente",
+    "source": "claude-code-max"
+  },
+  "τέσσαρσιν": {
+    "translation": "quatro",
+    "source": "claude-code-max"
+  },
+  "ἀδικήσητε": {
+    "translation": "danifiqueis",
+    "source": "claude-code-max"
+  },
+  "δένδρα": {
+    "translation": "árvores",
+    "source": "claude-code-max"
+  },
+  "σφραγίσωμεν": {
+    "translation": "selemos",
+    "source": "claude-code-max"
+  },
+  "μετώπων": {
+    "translation": "testas",
+    "source": "claude-code-max"
+  },
+  "ἐσφραγισμένων": {
+    "translation": "selados",
+    "source": "claude-code-max"
+  },
+  "ἐσφραγισμένοι": {
+    "translation": "selados",
+    "source": "claude-code-max"
+  },
+  "Ῥουβὴν": {
+    "translation": "Rúben",
+    "source": "claude-code-max"
+  },
+  "Γὰδ": {
+    "translation": "Gade",
+    "source": "claude-code-max"
+  },
+  "Ἀσὴρ": {
+    "translation": "Aser",
+    "source": "claude-code-max"
+  },
+  "Νεφθαλεὶμ": {
+    "translation": "Naftali",
+    "source": "claude-code-max"
+  },
+  "Μανασσῆ": {
+    "translation": "Manassés",
+    "source": "claude-code-max"
+  },
+  "Συμεὼν": {
+    "translation": "Simeão",
+    "source": "claude-code-max"
+  },
+  "Λευεὶ": {
+    "translation": "Levi",
+    "source": "claude-code-max"
+  },
+  "Ἰσσαχὰρ": {
+    "translation": "Issacar",
+    "source": "claude-code-max"
+  },
+  "Ζαβουλὼν": {
+    "translation": "Zebulom",
+    "source": "claude-code-max"
+  },
+  "Ἰωσὴφ": {
+    "translation": "José",
+    "source": "claude-code-max"
+  },
+  "Βενιαμεὶν": {
+    "translation": "Benjamim",
+    "source": "claude-code-max"
+  },
+  "ὄχλος": {
+    "translation": "multidão",
+    "source": "claude-code-max"
+  },
+  "ἀριθμῆσαι": {
+    "translation": "contar",
+    "source": "claude-code-max"
+  },
+  "παντὸς": {
+    "translation": "todo",
+    "source": "claude-code-max"
+  },
+  "φυλῶν": {
+    "translation": "tribos",
+    "source": "claude-code-max"
+  },
+  "λαῶν": {
+    "translation": "povos",
+    "source": "claude-code-max"
+  },
+  "γλωσσῶν": {
+    "translation": "línguas",
+    "source": "claude-code-max"
+  },
+  "ἑστῶτες": {
+    "translation": "de-pé",
+    "source": "claude-code-max"
+  },
+  "στολὰς": {
+    "translation": "vestes",
+    "source": "claude-code-max"
+  },
+  "λευκάς": {
+    "translation": "brancas",
+    "source": "claude-code-max"
+  },
+  "φοίνικες": {
+    "translation": "palmas",
+    "source": "claude-code-max"
+  },
+  "χερσὶν": {
+    "translation": "mãos",
+    "source": "claude-code-max"
+  },
+  "κράζουσιν": {
+    "translation": "clamam",
+    "source": "claude-code-max"
+  },
+  "σωτηρία": {
+    "translation": "salvação",
+    "source": "claude-code-max"
+  },
+  "εἱστήκεισαν": {
+    "translation": "estavam-de-pé",
+    "source": "claude-code-max"
+  },
+  "πρόσωπα": {
+    "translation": "faces",
+    "source": "claude-code-max"
+  },
+  "σοφία": {
+    "translation": "sabedoria",
+    "source": "claude-code-max"
+  },
+  "εὐχαριστία": {
+    "translation": "ação-de-graças",
+    "source": "claude-code-max"
+  },
+  "ἰσχὺς": {
+    "translation": "força",
+    "source": "claude-code-max"
+  },
+  "ἀπεκρίθη": {
+    "translation": "respondeu",
+    "source": "claude-code-max"
+  },
+  "περιβεβλημένοι": {
+    "translation": "vestidos",
+    "source": "claude-code-max"
+  },
+  "λευκὰς": {
+    "translation": "brancas",
+    "source": "claude-code-max"
+  },
+  "τίνες": {
+    "translation": "quem",
+    "source": "claude-code-max"
+  },
+  "ἦλθον": {
+    "translation": "vieram",
+    "source": "claude-code-max"
+  },
+  "εἴρηκα": {
+    "translation": "disse",
+    "source": "claude-code-max"
+  },
+  "Κύριέ": {
+    "translation": "Senhor",
+    "source": "claude-code-max"
+  },
+  "εἶπέν": {
+    "translation": "disse",
+    "source": "claude-code-max"
+  },
+  "Οὗτοί": {
+    "translation": "estes",
+    "source": "claude-code-max"
+  },
+  "ἐρχόμενοι": {
+    "translation": "vindos",
+    "source": "claude-code-max"
+  },
+  "θλίψεως": {
+    "translation": "tribulação",
+    "source": "claude-code-max"
+  },
+  "ἔπλυναν": {
+    "translation": "lavaram",
+    "source": "claude-code-max"
+  },
+  "ἐλεύκαναν": {
+    "translation": "embranqueceram",
+    "source": "claude-code-max"
+  },
+  "αὐτὰς": {
+    "translation": "elas",
+    "source": "claude-code-max"
+  },
+  "τοῦτό": {
+    "translation": "isto",
+    "source": "claude-code-max"
+  },
+  "λατρεύουσιν": {
+    "translation": "servem",
+    "source": "claude-code-max"
+  },
+  "σκηνώσει": {
+    "translation": "habitará",
+    "source": "claude-code-max"
+  },
+  "πεινάσουσιν": {
+    "translation": "terão-fome",
+    "source": "claude-code-max"
+  },
+  "διψήσουσιν": {
+    "translation": "terão-sede",
+    "source": "claude-code-max"
+  },
+  "πέσῃ": {
+    "translation": "caia",
+    "source": "claude-code-max"
+  },
+  "καῦμα": {
+    "translation": "calor",
+    "source": "claude-code-max"
+  },
+  "μέσον": {
+    "translation": "meio",
+    "source": "claude-code-max"
+  },
+  "ὁδηγήσει": {
+    "translation": "guiará",
+    "source": "claude-code-max"
+  },
+  "πηγὰς": {
+    "translation": "fontes",
+    "source": "claude-code-max"
+  },
+  "ἐξαλείψει": {
+    "translation": "apagará",
+    "source": "claude-code-max"
+  },
+  "δάκρυον": {
+    "translation": "lágrima",
+    "source": "claude-code-max"
+  },
+  "ἑβδόμην": {
+    "translation": "sétima",
+    "source": "claude-code-max"
+  },
+  "σιγὴ": {
+    "translation": "silêncio",
+    "source": "claude-code-max"
+  },
+  "ἡμιώριον": {
+    "translation": "meia-hora",
+    "source": "claude-code-max"
+  },
+  "ἑστήκασιν": {
+    "translation": "estão-de-pé",
+    "source": "claude-code-max"
+  },
+  "ἐδόθησαν": {
+    "translation": "foram-dadas",
+    "source": "claude-code-max"
+  },
+  "σάλπιγγες": {
+    "translation": "trombetas",
+    "source": "claude-code-max"
+  },
+  "ἐστάθη": {
+    "translation": "colocou-se",
+    "source": "claude-code-max"
+  },
+  "λιβανωτὸν": {
+    "translation": "incensário",
+    "source": "claude-code-max"
+  },
+  "θυμιάματα": {
+    "translation": "incensos",
+    "source": "claude-code-max"
+  },
+  "πολλὰ": {
+    "translation": "muitos",
+    "source": "claude-code-max"
+  },
+  "δώσει": {
+    "translation": "dará",
+    "source": "claude-code-max"
+  },
+  "προσευχαῖς": {
+    "translation": "orações",
+    "source": "claude-code-max"
+  },
+  "πάντων": {
+    "translation": "todos",
+    "source": "claude-code-max"
+  },
+  "θυσιαστήριον": {
+    "translation": "altar",
+    "source": "claude-code-max"
+  },
+  "ἀνέβη": {
+    "translation": "subiu",
+    "source": "claude-code-max"
+  },
+  "χειρὸς": {
+    "translation": "mão",
+    "source": "claude-code-max"
+  },
+  "λιβανωτόν": {
+    "translation": "incensário",
+    "source": "claude-code-max"
+  },
+  "ἐγέμισεν": {
+    "translation": "encheu",
+    "source": "claude-code-max"
+  },
+  "βρονταὶ": {
+    "translation": "trovões",
+    "source": "claude-code-max"
+  },
+  "σεισμός": {
+    "translation": "terremoto",
+    "source": "claude-code-max"
+  },
+  "σάλπιγγας": {
+    "translation": "trombetas",
+    "source": "claude-code-max"
+  },
+  "ἡτοίμασαν": {
+    "translation": "prepararam",
+    "source": "claude-code-max"
+  },
+  "αὑτοὺς": {
+    "translation": "a-si-mesmos",
+    "source": "claude-code-max"
+  },
+  "σαλπίσωσιν": {
+    "translation": "tocarem",
+    "source": "claude-code-max"
+  },
+  "χάλαζα": {
+    "translation": "granizo",
+    "source": "claude-code-max"
+  },
+  "μεμιγμένα": {
+    "translation": "misturado",
+    "source": "claude-code-max"
+  },
+  "κατεκάη": {
+    "translation": "foi-queimado",
+    "source": "claude-code-max"
+  },
+  "δένδρων": {
+    "translation": "árvores",
+    "source": "claude-code-max"
+  },
+  "χόρτος": {
+    "translation": "erva",
+    "source": "claude-code-max"
+  },
+  "χλωρὸς": {
+    "translation": "verde",
+    "source": "claude-code-max"
+  },
+  "καιόμενον": {
+    "translation": "ardendo",
+    "source": "claude-code-max"
+  },
+  "κτισμάτων": {
+    "translation": "criaturas",
+    "source": "claude-code-max"
+  },
+  "θαλάσσῃ": {
+    "translation": "mar",
+    "source": "claude-code-max"
+  },
+  "ψυχάς": {
+    "translation": "almas",
+    "source": "claude-code-max"
+  },
+  "πλοίων": {
+    "translation": "navios",
+    "source": "claude-code-max"
+  },
+  "διεφθάρησαν": {
+    "translation": "foram-destruídos",
+    "source": "claude-code-max"
+  },
+  "τρίτος": {
+    "translation": "terceiro",
+    "source": "claude-code-max"
+  },
+  "ἀστὴρ": {
+    "translation": "estrela",
+    "source": "claude-code-max"
+  },
+  "καιόμενος": {
+    "translation": "ardendo",
+    "source": "claude-code-max"
+  },
+  "λαμπάς": {
+    "translation": "tocha",
+    "source": "claude-code-max"
+  },
+  "ποταμῶν": {
+    "translation": "rios",
+    "source": "claude-code-max"
+  },
+  "ἀστέρος": {
+    "translation": "estrela",
+    "source": "claude-code-max"
+  },
+  "λέγεται": {
+    "translation": "é-chamado",
+    "source": "claude-code-max"
+  },
+  "Ἄψινθος": {
+    "translation": "Absinto",
+    "source": "claude-code-max"
+  },
+  "ἄψινθον": {
+    "translation": "absinto",
+    "source": "claude-code-max"
+  },
+  "πολλοὶ": {
+    "translation": "muitos",
+    "source": "claude-code-max"
+  },
+  "ἀπέθανον": {
+    "translation": "morreram",
+    "source": "claude-code-max"
+  },
+  "ἐπικράνθησαν": {
+    "translation": "tornaram-se-amargos",
+    "source": "claude-code-max"
+  },
+  "τέταρτος": {
+    "translation": "quarto",
+    "source": "claude-code-max"
+  },
+  "ἐπλήγη": {
+    "translation": "foi-ferido",
+    "source": "claude-code-max"
+  },
+  "σελήνης": {
+    "translation": "lua",
+    "source": "claude-code-max"
+  },
+  "σκοτισθῇ": {
+    "translation": "seja-escurecido",
+    "source": "claude-code-max"
+  },
+  "φάνῃ": {
+    "translation": "brilhe",
+    "source": "claude-code-max"
+  },
+  "νὺξ": {
+    "translation": "noite",
+    "source": "claude-code-max"
+  },
+  "ἀετοῦ": {
+    "translation": "águia",
+    "source": "claude-code-max"
+  },
+  "πετομένου": {
+    "translation": "voando",
+    "source": "claude-code-max"
+  },
+  "μεσουρανήματι": {
+    "translation": "meio-do-céu",
+    "source": "claude-code-max"
+  },
+  "οὐαὶ": {
+    "translation": "ai",
+    "source": "claude-code-max"
+  },
+  "λοιπῶν": {
+    "translation": "restantes",
+    "source": "claude-code-max"
+  },
+  "φωνῶν": {
+    "translation": "vozes",
+    "source": "claude-code-max"
+  },
+  "τριῶν": {
+    "translation": "três",
+    "source": "claude-code-max"
+  },
+  "μελλόντων": {
+    "translation": "estando-para",
+    "source": "claude-code-max"
+  },
+  "σαλπίζειν": {
+    "translation": "tocar-trombeta",
+    "source": "claude-code-max"
+  },
+  "πέμπτος": {
+    "translation": "quinto",
+    "source": "claude-code-max"
+  },
+  "πεπτωκότα": {
+    "translation": "caído",
+    "source": "claude-code-max"
+  },
+  "κλεὶς": {
+    "translation": "chave",
+    "source": "claude-code-max"
+  },
+  "φρέατος": {
+    "translation": "poço",
+    "source": "claude-code-max"
+  },
+  "φρέαρ": {
+    "translation": "poço",
+    "source": "claude-code-max"
+  },
+  "καμίνου": {
+    "translation": "fornalha",
+    "source": "claude-code-max"
+  },
+  "ἐσκοτώθη": {
+    "translation": "foi-escurecido",
+    "source": "claude-code-max"
+  },
+  "ἀὴρ": {
+    "translation": "ar",
+    "source": "claude-code-max"
+  },
+  "καπνοῦ": {
+    "translation": "fumaça",
+    "source": "claude-code-max"
+  },
+  "ἐξῆλθον": {
+    "translation": "saíram",
+    "source": "claude-code-max"
+  },
+  "ἀκρίδες": {
+    "translation": "gafanhotos",
+    "source": "claude-code-max"
+  },
+  "σκορπίοι": {
+    "translation": "escorpiões",
+    "source": "claude-code-max"
+  },
+  "ἀδικήσουσιν": {
+    "translation": "danificarão",
+    "source": "claude-code-max"
+  },
+  "χόρτον": {
+    "translation": "erva",
+    "source": "claude-code-max"
+  },
+  "χλωρὸν": {
+    "translation": "verde",
+    "source": "claude-code-max"
+  },
+  "ἀποκτείνωσιν": {
+    "translation": "matem",
+    "source": "claude-code-max"
+  },
+  "βασανισθήσονται": {
+    "translation": "serão-atormentados",
+    "source": "claude-code-max"
+  },
+  "μῆνας": {
+    "translation": "meses",
+    "source": "claude-code-max"
+  },
+  "πέντε": {
+    "translation": "cinco",
+    "source": "claude-code-max"
+  },
+  "βασανισμὸς": {
+    "translation": "tormento",
+    "source": "claude-code-max"
+  },
+  "σκορπίου": {
+    "translation": "escorpião",
+    "source": "claude-code-max"
+  },
+  "παίσῃ": {
+    "translation": "ferisse",
+    "source": "claude-code-max"
+  },
+  "ἐκείναις": {
+    "translation": "aqueles",
+    "source": "claude-code-max"
+  },
+  "ζητήσουσιν": {
+    "translation": "buscarão",
+    "source": "claude-code-max"
+  },
+  "ἄνθρωποι": {
+    "translation": "homens",
+    "source": "claude-code-max"
+  },
+  "θάνατον": {
+    "translation": "morte",
+    "source": "claude-code-max"
+  },
+  "εὑρήσουσιν": {
+    "translation": "acharão",
+    "source": "claude-code-max"
+  },
+  "ἐπιθυμήσουσιν": {
+    "translation": "desejarão",
+    "source": "claude-code-max"
+  },
+  "φεύγει": {
+    "translation": "foge",
+    "source": "claude-code-max"
+  },
+  "ὁμοιώματα": {
+    "translation": "semelhanças",
+    "source": "claude-code-max"
+  },
+  "ἀκρίδων": {
+    "translation": "gafanhotos",
+    "source": "claude-code-max"
+  },
+  "ἡτοιμασμένοις": {
+    "translation": "preparados",
+    "source": "claude-code-max"
+  },
+  "στέφανοι": {
+    "translation": "coroas",
+    "source": "claude-code-max"
+  },
+  "χρυσῷ": {
+    "translation": "ouro",
+    "source": "claude-code-max"
+  },
+  "εἶχαν": {
+    "translation": "tinham",
+    "source": "claude-code-max"
+  },
+  "τρίχας": {
+    "translation": "cabelos",
+    "source": "claude-code-max"
+  },
+  "γυναικῶν": {
+    "translation": "mulheres",
+    "source": "claude-code-max"
+  },
+  "ὀδόντες": {
+    "translation": "dentes",
+    "source": "claude-code-max"
+  },
+  "λεόντων": {
+    "translation": "leões",
+    "source": "claude-code-max"
+  },
+  "θώρακας": {
+    "translation": "couraças",
+    "source": "claude-code-max"
+  },
+  "σιδηροῦς": {
+    "translation": "ferro",
+    "source": "claude-code-max"
+  },
+  "πτερύγων": {
+    "translation": "asas",
+    "source": "claude-code-max"
+  },
+  "ἁρμάτων": {
+    "translation": "carros",
+    "source": "claude-code-max"
+  },
+  "τρεχόντων": {
+    "translation": "correndo",
+    "source": "claude-code-max"
+  },
+  "οὐρὰς": {
+    "translation": "caudas",
+    "source": "claude-code-max"
+  },
+  "ὁμοίας": {
+    "translation": "semelhantes",
+    "source": "claude-code-max"
+  },
+  "σκορπίοις": {
+    "translation": "escorpiões",
+    "source": "claude-code-max"
+  },
+  "κέντρα": {
+    "translation": "ferrões",
+    "source": "claude-code-max"
+  },
+  "οὐραῖς": {
+    "translation": "caudas",
+    "source": "claude-code-max"
+  },
+  "βασιλέα": {
+    "translation": "rei",
+    "source": "claude-code-max"
+  },
+  "Ἑβραϊστί": {
+    "translation": "em-hebraico",
+    "source": "claude-code-max"
+  },
+  "Ἀβαδδών": {
+    "translation": "Abadom",
+    "source": "claude-code-max"
+  },
+  "Ἑλληνικῇ": {
+    "translation": "em-grego",
+    "source": "claude-code-max"
+  },
+  "Ἀπολλύων": {
+    "translation": "Apoliom",
+    "source": "claude-code-max"
+  },
+  "μία": {
+    "translation": "uma",
+    "source": "claude-code-max"
+  },
+  "ἕκτος": {
+    "translation": "sexto",
+    "source": "claude-code-max"
+  },
+  "κεράτων": {
+    "translation": "chifres",
+    "source": "claude-code-max"
+  },
+  "λέγοντα": {
+    "translation": "dizendo",
+    "source": "claude-code-max"
+  },
+  "ἕκτῳ": {
+    "translation": "sexto",
+    "source": "claude-code-max"
+  },
+  "σάλπιγγα": {
+    "translation": "trombeta",
+    "source": "claude-code-max"
+  },
+  "Λῦσον": {
+    "translation": "solta",
+    "source": "claude-code-max"
+  },
+  "δεδεμένους": {
+    "translation": "presos",
+    "source": "claude-code-max"
+  },
+  "ποταμῷ": {
+    "translation": "rio",
+    "source": "claude-code-max"
+  },
+  "μεγάλῳ": {
+    "translation": "grande",
+    "source": "claude-code-max"
+  },
+  "Εὐφράτῃ": {
+    "translation": "Eufrates",
+    "source": "claude-code-max"
+  },
+  "ἐλύθησαν": {
+    "translation": "foram-soltos",
+    "source": "claude-code-max"
+  },
+  "ἡτοιμασμένοι": {
+    "translation": "preparados",
+    "source": "claude-code-max"
+  },
+  "μῆνα": {
+    "translation": "mês",
+    "source": "claude-code-max"
+  },
+  "ἐνιαυτόν": {
+    "translation": "ano",
+    "source": "claude-code-max"
+  },
+  "στρατευμάτων": {
+    "translation": "exércitos",
+    "source": "claude-code-max"
+  },
+  "ἱππικοῦ": {
+    "translation": "cavalaria",
+    "source": "claude-code-max"
+  },
+  "δισμυριάδες": {
+    "translation": "vinte-mil",
+    "source": "claude-code-max"
+  },
+  "πυρίνους": {
+    "translation": "de-fogo",
+    "source": "claude-code-max"
+  },
+  "ὑακινθίνους": {
+    "translation": "jacinto",
+    "source": "claude-code-max"
+  },
+  "θειώδεις": {
+    "translation": "enxofre",
+    "source": "claude-code-max"
+  },
+  "κεφαλαὶ": {
+    "translation": "cabeças",
+    "source": "claude-code-max"
+  },
+  "στομάτων": {
+    "translation": "bocas",
+    "source": "claude-code-max"
+  },
+  "θεῖον": {
+    "translation": "enxofre",
+    "source": "claude-code-max"
+  },
+  "πληγῶν": {
+    "translation": "pragas",
+    "source": "claude-code-max"
+  },
+  "τούτων": {
+    "translation": "estas",
+    "source": "claude-code-max"
+  },
+  "θείου": {
+    "translation": "enxofre",
+    "source": "claude-code-max"
+  },
+  "ἐκπορευομένου": {
+    "translation": "saindo",
+    "source": "claude-code-max"
+  },
+  "στόματι": {
+    "translation": "boca",
+    "source": "claude-code-max"
+  },
+  "οὐραὶ": {
+    "translation": "caudas",
+    "source": "claude-code-max"
+  },
+  "ὅμοιαι": {
+    "translation": "semelhantes",
+    "source": "claude-code-max"
+  },
+  "ὄφεσιν": {
+    "translation": "serpentes",
+    "source": "claude-code-max"
+  },
+  "ἔχουσαι": {
+    "translation": "tendo",
+    "source": "claude-code-max"
+  },
+  "κεφαλάς": {
+    "translation": "cabeças",
+    "source": "claude-code-max"
+  },
+  "αὐταῖς": {
+    "translation": "elas",
+    "source": "claude-code-max"
+  },
+  "ἀδικοῦσιν": {
+    "translation": "danificam",
+    "source": "claude-code-max"
+  },
+  "λοιποὶ": {
+    "translation": "restantes",
+    "source": "claude-code-max"
+  },
+  "πληγαῖς": {
+    "translation": "pragas",
+    "source": "claude-code-max"
+  },
+  "ταύταις": {
+    "translation": "estas",
+    "source": "claude-code-max"
+  },
+  "μετενόησαν": {
+    "translation": "arrependeram-se",
+    "source": "claude-code-max"
+  },
+  "χειρῶν": {
+    "translation": "mãos",
+    "source": "claude-code-max"
+  },
+  "δαιμόνια": {
+    "translation": "demônios",
+    "source": "claude-code-max"
+  },
+  "εἴδωλα": {
+    "translation": "ídolos",
+    "source": "claude-code-max"
+  },
+  "ἀργυρᾶ": {
+    "translation": "prata",
+    "source": "claude-code-max"
+  },
+  "χαλκᾶ": {
+    "translation": "bronze",
+    "source": "claude-code-max"
+  },
+  "λίθινα": {
+    "translation": "pedra",
+    "source": "claude-code-max"
+  },
+  "ξύλινα": {
+    "translation": "madeira",
+    "source": "claude-code-max"
+  },
+  "δύνανται": {
+    "translation": "podem",
+    "source": "claude-code-max"
+  },
+  "ἀκούειν": {
+    "translation": "ouvir",
+    "source": "claude-code-max"
+  },
+  "περιπατεῖν": {
+    "translation": "andar",
+    "source": "claude-code-max"
+  },
+  "φόνων": {
+    "translation": "homicídios",
+    "source": "claude-code-max"
+  },
+  "φαρμακιῶν": {
+    "translation": "feitiçarias",
+    "source": "claude-code-max"
+  },
+  "κλεμμάτων": {
+    "translation": "furtos",
+    "source": "claude-code-max"
+  },
+  "καταβαίνοντα": {
+    "translation": "descendo",
+    "source": "claude-code-max"
+  },
+  "περιβεβλημένον": {
+    "translation": "vestido",
+    "source": "claude-code-max"
+  },
+  "νεφέλην": {
+    "translation": "nuvem",
+    "source": "claude-code-max"
+  },
+  "κεφαλὴν": {
+    "translation": "cabeça",
+    "source": "claude-code-max"
+  },
+  "βιβλαρίδιον": {
+    "translation": "livrinho",
+    "source": "claude-code-max"
+  },
+  "ἠνεῳγμένον": {
+    "translation": "aberto",
+    "source": "claude-code-max"
+  },
+  "πόδα": {
+    "translation": "pé",
+    "source": "claude-code-max"
+  },
+  "δεξιὸν": {
+    "translation": "direito",
+    "source": "claude-code-max"
+  },
+  "εὐώνυμον": {
+    "translation": "esquerdo",
+    "source": "claude-code-max"
+  },
+  "ὥσπερ": {
+    "translation": "como",
+    "source": "claude-code-max"
+  },
+  "λέων": {
+    "translation": "leão",
+    "source": "claude-code-max"
+  },
+  "μυκᾶται": {
+    "translation": "ruge",
+    "source": "claude-code-max"
+  },
+  "ἐλάλησαν": {
+    "translation": "falaram",
+    "source": "claude-code-max"
+  },
+  "ἑαυτῶν": {
+    "translation": "suas-próprias",
+    "source": "claude-code-max"
+  },
+  "φωνάς": {
+    "translation": "vozes",
+    "source": "claude-code-max"
+  },
+  "ἤμελλον": {
+    "translation": "estava-para",
+    "source": "claude-code-max"
+  },
+  "γράφειν": {
+    "translation": "escrever",
+    "source": "claude-code-max"
+  },
+  "Σφράγισον": {
+    "translation": "sela",
+    "source": "claude-code-max"
+  },
+  "αὐτὰ": {
+    "translation": "elas",
+    "source": "claude-code-max"
+  },
+  "γράψῃς": {
+    "translation": "escrevas",
+    "source": "claude-code-max"
+  },
+  "ἑστῶτα": {
+    "translation": "de-pé",
+    "source": "claude-code-max"
+  },
+  "ἦρεν": {
+    "translation": "levantou",
+    "source": "claude-code-max"
+  },
+  "χεῖρα": {
+    "translation": "mão",
+    "source": "claude-code-max"
+  },
+  "οὐρανόν": {
+    "translation": "céu",
+    "source": "claude-code-max"
+  },
+  "ὤμοσεν": {
+    "translation": "jurou",
+    "source": "claude-code-max"
+  },
+  "καιροὺς": {
+    "translation": "tempos",
+    "source": "claude-code-max"
+  },
+  "καιροῦ": {
+    "translation": "tempo",
+    "source": "claude-code-max"
+  },
+  "ὄφεως": {
+    "translation": "serpente",
+    "source": "claude-code-max"
+  },
+  "ποταμόν": {
+    "translation": "rio",
+    "source": "claude-code-max"
+  },
+  "ποταμοφόρητον": {
+    "translation": "levada-pelo-rio",
+    "source": "claude-code-max"
+  },
+  "ποιήσῃ": {
+    "translation": "faça",
+    "source": "claude-code-max"
+  },
+  "ἐβοήθησεν": {
+    "translation": "ajudou",
+    "source": "claude-code-max"
+  },
+  "γυναικί": {
+    "translation": "mulher",
+    "source": "claude-code-max"
+  },
+  "κατέπιεν": {
+    "translation": "engoliu",
+    "source": "claude-code-max"
+  },
+  "ποταμὸν": {
+    "translation": "rio",
+    "source": "claude-code-max"
+  },
+  "ὠργίσθη": {
+    "translation": "irou-se",
+    "source": "claude-code-max"
+  },
+  "σπέρματος": {
+    "translation": "semente",
+    "source": "claude-code-max"
+  },
+  "τηρούντων": {
+    "translation": "guardando",
+    "source": "claude-code-max"
+  },
+  "ἐντολὰς": {
+    "translation": "mandamentos",
+    "source": "claude-code-max"
+  },
+  "ἄμμον": {
+    "translation": "areia",
+    "source": "claude-code-max"
+  },
+  "ἔχον": {
+    "translation": "tendo",
+    "source": "claude-code-max"
+  },
+  "βλασφημίας": {
+    "translation": "blasfêmias",
+    "source": "claude-code-max"
+  },
+  "παρδάλει": {
+    "translation": "leopardo",
+    "source": "claude-code-max"
+  },
+  "ἄρκου": {
+    "translation": "urso",
+    "source": "claude-code-max"
+  },
+  "λέοντος": {
+    "translation": "leão",
+    "source": "claude-code-max"
+  },
+  "κεφαλῶν": {
+    "translation": "cabeças",
+    "source": "claude-code-max"
+  },
+  "ἐσφαγμένην": {
+    "translation": "morta",
+    "source": "claude-code-max"
+  },
+  "πληγὴ": {
+    "translation": "ferida",
+    "source": "claude-code-max"
+  },
+  "ἐθεραπεύθη": {
+    "translation": "foi-curada",
+    "source": "claude-code-max"
+  },
+  "ἐθαυμάσθη": {
+    "translation": "foi-maravilhada",
+    "source": "claude-code-max"
+  },
+  "δράκοντι": {
+    "translation": "dragão",
+    "source": "claude-code-max"
+  },
+  "λαλοῦν": {
+    "translation": "falando",
+    "source": "claude-code-max"
+  },
+  "μεγάλα": {
+    "translation": "grandes",
+    "source": "claude-code-max"
+  },
+  "βλασφημῆσαι": {
+    "translation": "blasfemar",
+    "source": "claude-code-max"
+  },
+  "σκηνὴν": {
+    "translation": "tabernáculo",
+    "source": "claude-code-max"
+  },
+  "σκηνοῦντας": {
+    "translation": "habitando",
+    "source": "claude-code-max"
+  },
+  "νικῆσαι": {
+    "translation": "vencer",
+    "source": "claude-code-max"
+  },
+  "φυλὴν": {
+    "translation": "tribo",
+    "source": "claude-code-max"
+  },
+  "λαὸν": {
+    "translation": "povo",
+    "source": "claude-code-max"
+  },
+  "γλῶσσαν": {
+    "translation": "língua",
+    "source": "claude-code-max"
+  },
+  "ἔθνος": {
+    "translation": "nação",
+    "source": "claude-code-max"
+  },
+  "γέγραπται": {
+    "translation": "está-escrito",
+    "source": "claude-code-max"
+  },
+  "βιβλίῳ": {
+    "translation": "livro",
+    "source": "claude-code-max"
+  },
+  "ἐσφαγμένου": {
+    "translation": "morto",
+    "source": "claude-code-max"
+  },
+  "καταβολῆς": {
+    "translation": "fundação",
+    "source": "claude-code-max"
+  },
+  "αἰχμαλωσίαν": {
+    "translation": "cativeiro",
+    "source": "claude-code-max"
+  },
+  "ὑπάγει": {
+    "translation": "vai",
+    "source": "claude-code-max"
+  },
+  "μαχαίρῃ": {
+    "translation": "espada",
+    "source": "claude-code-max"
+  },
+  "Ὧδέ": {
+    "translation": "aqui",
+    "source": "claude-code-max"
+  },
+  "ὑπομονὴ": {
+    "translation": "perseverança",
+    "source": "claude-code-max"
+  },
+  "εἶχεν": {
+    "translation": "tinha",
+    "source": "claude-code-max"
+  },
+  "ὅμοια": {
+    "translation": "semelhantes",
+    "source": "claude-code-max"
+  },
+  "ἀρνίῳ": {
+    "translation": "cordeiro",
+    "source": "claude-code-max"
+  },
+  "σημεῖα": {
+    "translation": "sinais",
+    "source": "claude-code-max"
+  },
+  "ποιῇ": {
+    "translation": "faça",
+    "source": "claude-code-max"
+  },
+  "καταβαίνειν": {
+    "translation": "descer",
+    "source": "claude-code-max"
+  },
+  "κατοικοῦσιν": {
+    "translation": "habitam",
+    "source": "claude-code-max"
+  },
+  "εἰκόνα": {
+    "translation": "imagem",
+    "source": "claude-code-max"
+  },
+  "πληγὴν": {
+    "translation": "ferida",
+    "source": "claude-code-max"
+  },
+  "μαχαίρης": {
+    "translation": "espada",
+    "source": "claude-code-max"
+  },
+  "εἰκόνι": {
+    "translation": "imagem",
+    "source": "claude-code-max"
+  },
+  "λαλήσῃ": {
+    "translation": "fale",
+    "source": "claude-code-max"
+  },
+  "εἰκὼν": {
+    "translation": "imagem",
+    "source": "claude-code-max"
+  },
+  "προσκυνήσωσιν": {
+    "translation": "adorem",
+    "source": "claude-code-max"
+  },
+  "ἀποκτανθῶσιν": {
+    "translation": "sejam-mortos",
+    "source": "claude-code-max"
+  },
+  "πάντας": {
+    "translation": "todos",
+    "source": "claude-code-max"
+  },
+  "μικροὺς": {
+    "translation": "pequenos",
+    "source": "claude-code-max"
+  },
+  "μεγάλους": {
+    "translation": "grandes",
+    "source": "claude-code-max"
+  },
+  "πλουσίους": {
+    "translation": "ricos",
+    "source": "claude-code-max"
+  },
+  "πτωχούς": {
+    "translation": "pobres",
+    "source": "claude-code-max"
+  },
+  "ἐλευθέρους": {
+    "translation": "livres",
+    "source": "claude-code-max"
+  },
+  "δῶσιν": {
+    "translation": "deem",
+    "source": "claude-code-max"
+  },
+  "μέτωπον": {
+    "translation": "testa",
+    "source": "claude-code-max"
+  },
+  "δύνηται": {
+    "translation": "possa",
+    "source": "claude-code-max"
+  },
+  "πωλῆσαι": {
+    "translation": "vender",
+    "source": "claude-code-max"
+  },
+  "Ὧδε": {
+    "translation": "aqui",
+    "source": "claude-code-max"
+  },
+  "νοῦν": {
+    "translation": "entendimento",
+    "source": "claude-code-max"
+  },
+  "ψηφισάτω": {
+    "translation": "calcule",
+    "source": "claude-code-max"
+  },
+  "ἑξακόσιοι": {
+    "translation": "seiscentos",
+    "source": "claude-code-max"
+  },
+  "ἑστὸς": {
+    "translation": "de-pé",
+    "source": "claude-code-max"
+  },
+  "Σιών": {
+    "translation": "Sião",
+    "source": "claude-code-max"
+  },
+  "κιθαρῳδῶν": {
+    "translation": "harpistas",
+    "source": "claude-code-max"
+  },
+  "κιθαριζόντων": {
+    "translation": "tocando-harpa",
+    "source": "claude-code-max"
+  },
+  "κιθάραις": {
+    "translation": "harpas",
+    "source": "claude-code-max"
+  },
+  "μαθεῖν": {
+    "translation": "aprender",
+    "source": "claude-code-max"
+  },
+  "ἠγορασμένοι": {
+    "translation": "comprados",
+    "source": "claude-code-max"
+  },
+  "οὗτοί": {
+    "translation": "estes",
+    "source": "claude-code-max"
+  },
+  "ἐμολύνθησαν": {
+    "translation": "mancharam-se",
+    "source": "claude-code-max"
+  },
+  "παρθένοι": {
+    "translation": "virgens",
+    "source": "claude-code-max"
+  },
+  "γάρ": {
+    "translation": "pois",
+    "source": "claude-code-max"
+  },
+  "ἀκολουθοῦντες": {
+    "translation": "seguindo",
+    "source": "claude-code-max"
+  },
+  "ὑπάγῃ": {
+    "translation": "vá",
+    "source": "claude-code-max"
+  },
+  "ἠγοράσθησαν": {
+    "translation": "foram-comprados",
+    "source": "claude-code-max"
+  },
+  "ἀπαρχὴ": {
+    "translation": "primícias",
+    "source": "claude-code-max"
+  },
+  "ἄμωμοί": {
+    "translation": "sem-mancha",
+    "source": "claude-code-max"
+  },
+  "πετόμενον": {
+    "translation": "voando",
+    "source": "claude-code-max"
+  },
+  "εὐαγγέλιον": {
+    "translation": "evangelho",
+    "source": "claude-code-max"
+  },
+  "εὐαγγελίσαι": {
+    "translation": "evangelizar",
+    "source": "claude-code-max"
+  },
+  "λαόν": {
+    "translation": "povo",
+    "source": "claude-code-max"
+  },
+  "Φοβήθητε": {
+    "translation": "temei",
+    "source": "claude-code-max"
+  },
+  "δότε": {
+    "translation": "dai",
+    "source": "claude-code-max"
+  },
+  "κρίσεως": {
+    "translation": "julgamento",
+    "source": "claude-code-max"
+  },
+  "προσκυνήσατε": {
+    "translation": "adorai",
+    "source": "claude-code-max"
+  },
+  "ποιήσαντι": {
+    "translation": "que-fez",
+    "source": "claude-code-max"
+  },
+  "ἠκολούθησεν": {
+    "translation": "seguiu",
+    "source": "claude-code-max"
+  },
+  "πεπότικεν": {
+    "translation": "deu-de-beber",
+    "source": "claude-code-max"
+  },
+  "προσκυνεῖ": {
+    "translation": "adora",
+    "source": "claude-code-max"
+  },
+  "μετώπου": {
+    "translation": "testa",
+    "source": "claude-code-max"
+  },
+  "πίεται": {
+    "translation": "beberá",
+    "source": "claude-code-max"
+  },
+  "κεκερασμένου": {
+    "translation": "misturado",
+    "source": "claude-code-max"
+  },
+  "ἀκράτου": {
+    "translation": "puro",
+    "source": "claude-code-max"
+  },
+  "ποτηρίῳ": {
+    "translation": "cálice",
+    "source": "claude-code-max"
+  },
+  "βασανισθήσεται": {
+    "translation": "será-atormentado",
+    "source": "claude-code-max"
+  },
+  "θείῳ": {
+    "translation": "enxofre",
+    "source": "claude-code-max"
+  },
+  "βασανισμοῦ": {
+    "translation": "tormento",
+    "source": "claude-code-max"
+  },
+  "ἀναβαίνει": {
+    "translation": "sobe",
+    "source": "claude-code-max"
+  },
+  "προσκυνοῦντες": {
+    "translation": "adorando",
+    "source": "claude-code-max"
+  },
+  "Γράψον": {
+    "translation": "escreve",
+    "source": "claude-code-max"
+  },
+  "Μακάριοι": {
+    "translation": "bem-aventurados",
+    "source": "claude-code-max"
+  },
+  "νεκροὶ": {
+    "translation": "mortos",
+    "source": "claude-code-max"
+  },
+  "ἀποθνῄσκοντες": {
+    "translation": "morrendo",
+    "source": "claude-code-max"
+  },
+  "ἀπάρτι": {
+    "translation": "desde-agora",
+    "source": "claude-code-max"
+  },
+  "ἀναπαήσονται": {
+    "translation": "descansarão",
+    "source": "claude-code-max"
+  },
+  "κόπων": {
+    "translation": "trabalhos",
+    "source": "claude-code-max"
+  },
+  "ἀκολουθεῖ": {
+    "translation": "segue",
+    "source": "claude-code-max"
+  },
+  "νεφέλη": {
+    "translation": "nuvem",
+    "source": "claude-code-max"
+  },
+  "καθήμενον": {
+    "translation": "sentado",
+    "source": "claude-code-max"
+  },
+  "ὀξύ": {
+    "translation": "afiada",
+    "source": "claude-code-max"
+  },
+  "κράζων": {
+    "translation": "clamando",
+    "source": "claude-code-max"
+  },
+  "νεφέλης": {
+    "translation": "nuvem",
+    "source": "claude-code-max"
+  },
+  "Πέμψον": {
+    "translation": "envia",
+    "source": "claude-code-max"
+  },
+  "δρέπανόν": {
+    "translation": "foice",
+    "source": "claude-code-max"
+  },
+  "θέρισον": {
+    "translation": "ceifa",
+    "source": "claude-code-max"
+  },
+  "θερίσαι": {
+    "translation": "ceifar",
+    "source": "claude-code-max"
+  },
+  "ἐξηράνθη": {
+    "translation": "secou",
+    "source": "claude-code-max"
+  },
+  "θερισμὸς": {
+    "translation": "colheita",
+    "source": "claude-code-max"
+  },
+  "ἐθερίσθη": {
+    "translation": "foi-ceifada",
+    "source": "claude-code-max"
+  },
+  "ἐφώνησεν": {
+    "translation": "clamou",
+    "source": "claude-code-max"
+  },
+  "ἔχοντι": {
+    "translation": "tendo",
+    "source": "claude-code-max"
+  },
+  "ὀξὺ": {
+    "translation": "afiada",
+    "source": "claude-code-max"
+  },
+  "τρύγησον": {
+    "translation": "vindima",
+    "source": "claude-code-max"
+  },
+  "βότρυας": {
+    "translation": "cachos",
+    "source": "claude-code-max"
+  },
+  "ἀμπέλου": {
+    "translation": "videira",
+    "source": "claude-code-max"
+  },
+  "ἤκμασαν": {
+    "translation": "amadureceram",
+    "source": "claude-code-max"
+  },
+  "σταφυλαὶ": {
+    "translation": "uvas",
+    "source": "claude-code-max"
+  },
+  "ἐτρύγησεν": {
+    "translation": "vindimou",
+    "source": "claude-code-max"
+  },
+  "ἄμπελον": {
+    "translation": "videira",
+    "source": "claude-code-max"
+  },
+  "ληνὸν": {
+    "translation": "lagar",
+    "source": "claude-code-max"
+  },
+  "ἐπατήθη": {
+    "translation": "foi-pisado",
+    "source": "claude-code-max"
+  },
+  "ληνὸς": {
+    "translation": "lagar",
+    "source": "claude-code-max"
+  },
+  "ληνοῦ": {
+    "translation": "lagar",
+    "source": "claude-code-max"
+  },
+  "χαλινῶν": {
+    "translation": "freios",
+    "source": "claude-code-max"
+  },
+  "σταδίων": {
+    "translation": "estádios",
+    "source": "claude-code-max"
+  },
+  "χιλίων": {
+    "translation": "mil",
+    "source": "claude-code-max"
+  },
+  "ἑξακοσίων": {
+    "translation": "seiscentos",
+    "source": "claude-code-max"
+  },
+  "θαυμαστόν": {
+    "translation": "maravilhoso",
+    "source": "claude-code-max"
+  },
+  "πληγὰς": {
+    "translation": "pragas",
+    "source": "claude-code-max"
+  },
+  "ἐσχάτας": {
+    "translation": "últimas",
+    "source": "claude-code-max"
+  },
+  "θυμὸς": {
+    "translation": "ira",
+    "source": "claude-code-max"
+  },
+  "ὑαλίνην": {
+    "translation": "vidro",
+    "source": "claude-code-max"
+  },
+  "μεμιγμένην": {
+    "translation": "misturada",
+    "source": "claude-code-max"
+  },
+  "νικῶντας": {
+    "translation": "vencedores",
+    "source": "claude-code-max"
+  },
+  "εἰκόνος": {
+    "translation": "imagem",
+    "source": "claude-code-max"
+  },
+  "ἀριθμοῦ": {
+    "translation": "número",
+    "source": "claude-code-max"
+  },
+  "κιθάρας": {
+    "translation": "harpas",
+    "source": "claude-code-max"
+  },
+  "Μωϋσέως": {
+    "translation": "Moisés",
+    "source": "claude-code-max"
+  },
+  "δούλου": {
+    "translation": "servo",
+    "source": "claude-code-max"
+  },
+  "Μεγάλα": {
+    "translation": "grandes",
+    "source": "claude-code-max"
+  },
+  "θαυμαστὰ": {
+    "translation": "maravilhosas",
+    "source": "claude-code-max"
+  },
+  "Θεός": {
+    "translation": "Deus",
+    "source": "claude-code-max"
+  },
+  "δίκαιαι": {
+    "translation": "justos",
+    "source": "claude-code-max"
+  },
+  "ἀληθιναὶ": {
+    "translation": "verdadeiros",
+    "source": "claude-code-max"
+  },
+  "ὁδοί": {
+    "translation": "caminhos",
+    "source": "claude-code-max"
+  },
+  "Βασιλεὺς": {
+    "translation": "Rei",
+    "source": "claude-code-max"
+  },
+  "φοβηθῇ": {
+    "translation": "tema",
+    "source": "claude-code-max"
+  },
+  "δοξάσει": {
+    "translation": "glorifique",
+    "source": "claude-code-max"
+  },
+  "ὅσιος": {
+    "translation": "santo",
+    "source": "claude-code-max"
+  },
+  "δικαιώματά": {
+    "translation": "juízos",
+    "source": "claude-code-max"
+  },
+  "ἐφανερώθησαν": {
+    "translation": "foram-manifestados",
+    "source": "claude-code-max"
+  },
+  "σκηνῆς": {
+    "translation": "tabernáculo",
+    "source": "claude-code-max"
+  },
+  "μαρτυρίου": {
+    "translation": "testemunho",
+    "source": "claude-code-max"
+  },
+  "ἐνδεδυμένοι": {
+    "translation": "vestidos",
+    "source": "claude-code-max"
+  },
+  "λίνον": {
+    "translation": "linho",
+    "source": "claude-code-max"
+  },
+  "καθαρὸν": {
+    "translation": "limpo",
+    "source": "claude-code-max"
+  },
+  "λαμπρὸν": {
+    "translation": "resplandecente",
+    "source": "claude-code-max"
+  },
+  "περιεζωσμένοι": {
+    "translation": "cingidos",
+    "source": "claude-code-max"
+  },
+  "στήθη": {
+    "translation": "peitos",
+    "source": "claude-code-max"
+  },
+  "ζώνας": {
+    "translation": "cintos",
+    "source": "claude-code-max"
+  },
+  "ἐγεμίσθη": {
+    "translation": "encheu-se",
+    "source": "claude-code-max"
+  },
+  "εἰσελθεῖν": {
+    "translation": "entrar",
+    "source": "claude-code-max"
+  },
+  "τελεσθῶσιν": {
+    "translation": "sejam-completadas",
+    "source": "claude-code-max"
+  },
+  "πληγαὶ": {
+    "translation": "pragas",
+    "source": "claude-code-max"
+  },
+  "Ὑπάγετε": {
+    "translation": "ide",
+    "source": "claude-code-max"
+  },
+  "ἐκχέετε": {
+    "translation": "derramai",
+    "source": "claude-code-max"
+  },
+  "ἕλκος": {
+    "translation": "ferida",
+    "source": "claude-code-max"
+  },
+  "νεκροῦ": {
+    "translation": "morto",
+    "source": "claude-code-max"
+  },
+  "ψυχὴ": {
+    "translation": "alma",
+    "source": "claude-code-max"
+  },
+  "ποταμοὺς": {
+    "translation": "rios",
+    "source": "claude-code-max"
+  },
+  "Ὅσιος": {
+    "translation": "Santo",
+    "source": "claude-code-max"
+  },
+  "ἔκρινας": {
+    "translation": "julgaste",
+    "source": "claude-code-max"
+  },
+  "προφητῶν": {
+    "translation": "profetas",
+    "source": "claude-code-max"
+  },
+  "ἐξέχεαν": {
+    "translation": "derramaram",
+    "source": "claude-code-max"
+  },
+  "δέδωκας": {
+    "translation": "deste",
+    "source": "claude-code-max"
+  },
+  "πεῖν": {
+    "translation": "beber",
+    "source": "claude-code-max"
+  },
+  "Ναί": {
+    "translation": "sim",
+    "source": "claude-code-max"
+  },
+  "κρίσεις": {
+    "translation": "julgamentos",
+    "source": "claude-code-max"
+  },
+  "καυματίσαι": {
+    "translation": "queimar",
+    "source": "claude-code-max"
+  },
+  "ἐκαυματίσθησαν": {
+    "translation": "foram-queimados",
+    "source": "claude-code-max"
+  },
+  "ἐβλασφήμησαν": {
+    "translation": "blasfemaram",
+    "source": "claude-code-max"
+  },
+  "ἔχοντος": {
+    "translation": "tendo",
+    "source": "claude-code-max"
+  },
+  "ταύτας": {
+    "translation": "estas",
+    "source": "claude-code-max"
+  },
+  "ἐσκοτωμένη": {
+    "translation": "escurecida",
+    "source": "claude-code-max"
+  },
+  "ἐμασῶντο": {
+    "translation": "mordiam",
+    "source": "claude-code-max"
+  },
+  "γλώσσας": {
+    "translation": "línguas",
+    "source": "claude-code-max"
+  },
+  "πόνου": {
+    "translation": "dor",
+    "source": "claude-code-max"
+  },
+  "πόνων": {
+    "translation": "dores",
+    "source": "claude-code-max"
+  },
+  "ἑλκῶν": {
+    "translation": "feridas",
+    "source": "claude-code-max"
+  },
+  "Εὐφράτην": {
+    "translation": "Eufrates",
+    "source": "claude-code-max"
+  },
+  "ἑτοιμασθῇ": {
+    "translation": "seja-preparado",
+    "source": "claude-code-max"
+  },
+  "ψευδοπροφήτου": {
+    "translation": "falso-profeta",
+    "source": "claude-code-max"
+  },
+  "πνεύματα": {
+    "translation": "espíritos",
+    "source": "claude-code-max"
+  },
+  "τρία": {
+    "translation": "três",
+    "source": "claude-code-max"
+  },
+  "ἀκάθαρτα": {
+    "translation": "imundos",
+    "source": "claude-code-max"
+  },
+  "βάτραχοι": {
+    "translation": "rãs",
+    "source": "claude-code-max"
+  },
+  "δαιμονίων": {
+    "translation": "demônios",
+    "source": "claude-code-max"
+  },
+  "ποιοῦντα": {
+    "translation": "fazendo",
+    "source": "claude-code-max"
+  },
+  "συναγαγεῖν": {
+    "translation": "reunir",
+    "source": "claude-code-max"
+  },
+  "σκεῦος": {
+    "translation": "vaso",
+    "source": "claude-code-max"
+  },
+  "ἐλεφάντινον": {
+    "translation": "marfim",
+    "source": "claude-code-max"
+  },
+  "τιμιωτάτου": {
+    "translation": "preciosíssima",
+    "source": "claude-code-max"
+  },
+  "χαλκοῦ": {
+    "translation": "bronze",
+    "source": "claude-code-max"
+  },
+  "σιδήρου": {
+    "translation": "ferro",
+    "source": "claude-code-max"
+  },
+  "μαρμάρου": {
+    "translation": "mármore",
+    "source": "claude-code-max"
+  },
+  "κιννάμωμον": {
+    "translation": "canela",
+    "source": "claude-code-max"
+  },
+  "ἄμωμον": {
+    "translation": "amomo",
+    "source": "claude-code-max"
+  },
+  "μύρον": {
+    "translation": "mirra",
+    "source": "claude-code-max"
+  },
+  "λίβανον": {
+    "translation": "olíbano",
+    "source": "claude-code-max"
+  },
+  "σεμίδαλιν": {
+    "translation": "flor-de-farinha",
+    "source": "claude-code-max"
+  },
+  "σῖτον": {
+    "translation": "trigo",
+    "source": "claude-code-max"
+  },
+  "κτήνη": {
+    "translation": "gados",
+    "source": "claude-code-max"
+  },
+  "πρόβατα": {
+    "translation": "ovelhas",
+    "source": "claude-code-max"
+  },
+  "ῥεδῶν": {
+    "translation": "carros",
+    "source": "claude-code-max"
+  },
+  "σωμάτων": {
+    "translation": "corpos",
+    "source": "claude-code-max"
+  },
+  "ὀπώρα": {
+    "translation": "frutos",
+    "source": "claude-code-max"
+  },
+  "ἐπιθυμίας": {
+    "translation": "desejos",
+    "source": "claude-code-max"
+  },
+  "ψυχῆς": {
+    "translation": "alma",
+    "source": "claude-code-max"
+  },
+  "λιπαρὰ": {
+    "translation": "gorduras",
+    "source": "claude-code-max"
+  },
+  "λαμπρὰ": {
+    "translation": "esplêndidas",
+    "source": "claude-code-max"
+  },
+  "ἀπώλετο": {
+    "translation": "pereceram",
+    "source": "claude-code-max"
+  },
+  "πλουτήσαντες": {
+    "translation": "enriquecidos",
+    "source": "claude-code-max"
+  },
+  "ἀπ'": {
+    "translation": "de",
+    "source": "claude-code-max"
+  },
+  "στήσονται": {
+    "translation": "ficarão-de-pé",
+    "source": "claude-code-max"
+  },
+  "κλαίοντες": {
+    "translation": "chorando",
+    "source": "claude-code-max"
+  },
+  "πενθοῦντες": {
+    "translation": "lamentando",
+    "source": "claude-code-max"
+  },
+  "βύσσινον": {
+    "translation": "linho-fino",
+    "source": "claude-code-max"
+  },
+  "μαργαρίτῃ": {
+    "translation": "pérola",
+    "source": "claude-code-max"
+  },
+  "ἠρημώθη": {
+    "translation": "foi-devastada",
+    "source": "claude-code-max"
+  },
+  "τοσοῦτος": {
+    "translation": "tão-grande",
+    "source": "claude-code-max"
+  },
+  "κυβερνήτης": {
+    "translation": "piloto",
+    "source": "claude-code-max"
+  },
+  "πλέων": {
+    "translation": "navegando",
+    "source": "claude-code-max"
+  },
+  "ναῦται": {
+    "translation": "marinheiros",
+    "source": "claude-code-max"
+  },
+  "ἐργάζονται": {
+    "translation": "trabalham",
+    "source": "claude-code-max"
+  },
+  "ἔκραζον": {
+    "translation": "clamavam",
+    "source": "claude-code-max"
+  },
+  "βλέποντες": {
+    "translation": "vendo",
+    "source": "claude-code-max"
+  },
+  "πόλει": {
+    "translation": "cidade",
+    "source": "claude-code-max"
+  },
+  "ἔβαλον": {
+    "translation": "lançaram",
+    "source": "claude-code-max"
+  },
+  "χοῦν": {
+    "translation": "pó",
+    "source": "claude-code-max"
+  },
+  "πλοῖα": {
+    "translation": "navios",
+    "source": "claude-code-max"
+  },
+  "τιμιότητος": {
+    "translation": "preciosidade",
+    "source": "claude-code-max"
+  },
+  "Εὐφραίνου": {
+    "translation": "alegra-te",
+    "source": "claude-code-max"
+  },
+  "οὐρανέ": {
+    "translation": "céu",
+    "source": "claude-code-max"
+  },
+  "ἅγιοι": {
+    "translation": "santos",
+    "source": "claude-code-max"
+  },
+  "ἀπόστολοι": {
+    "translation": "apóstolos",
+    "source": "claude-code-max"
+  },
+  "ἔκρινεν": {
+    "translation": "julgou",
+    "source": "claude-code-max"
+  },
+  "λίθον": {
+    "translation": "pedra",
+    "source": "claude-code-max"
+  },
+  "μύλινον": {
+    "translation": "mó",
+    "source": "claude-code-max"
+  },
+  "Οὕτως": {
+    "translation": "assim",
+    "source": "claude-code-max"
+  },
+  "ὁρμήματι": {
+    "translation": "ímpeto",
+    "source": "claude-code-max"
+  },
+  "βληθήσεται": {
+    "translation": "será-lançada",
+    "source": "claude-code-max"
+  },
+  "εὑρεθῇ": {
+    "translation": "seja-encontrada",
+    "source": "claude-code-max"
+  },
+  "μουσικῶν": {
+    "translation": "músicos",
+    "source": "claude-code-max"
+  },
+  "αὐλητῶν": {
+    "translation": "flautistas",
+    "source": "claude-code-max"
+  },
+  "σαλπιστῶν": {
+    "translation": "trombeteiros",
+    "source": "claude-code-max"
+  },
+  "ἀκουσθῇ": {
+    "translation": "seja-ouvido",
+    "source": "claude-code-max"
+  },
+  "τεχνίτης": {
+    "translation": "artífice",
+    "source": "claude-code-max"
+  },
+  "τέχνης": {
+    "translation": "arte",
+    "source": "claude-code-max"
+  },
+  "μύλου": {
+    "translation": "moinho",
+    "source": "claude-code-max"
+  },
+  "φῶς": {
+    "translation": "luz",
+    "source": "claude-code-max"
+  },
+  "λύχνου": {
+    "translation": "lâmpada",
+    "source": "claude-code-max"
+  },
+  "νυμφίου": {
+    "translation": "noivo",
+    "source": "claude-code-max"
+  },
+  "νύμφης": {
+    "translation": "noiva",
+    "source": "claude-code-max"
+  },
+  "ἔμποροί": {
+    "translation": "mercadores",
+    "source": "claude-code-max"
+  },
+  "φαρμακίᾳ": {
+    "translation": "feitiçaria",
+    "source": "claude-code-max"
+  },
+  "ἐπλανήθησαν": {
+    "translation": "foram-enganados",
+    "source": "claude-code-max"
+  },
+  "ὄχλου": {
+    "translation": "multidão",
+    "source": "claude-code-max"
+  },
+  "πολλοῦ": {
+    "translation": "grande",
+    "source": "claude-code-max"
+  },
+  "ἔφθειρεν": {
+    "translation": "corrompeu",
+    "source": "claude-code-max"
+  },
+  "πορνείᾳ": {
+    "translation": "imoralidade",
+    "source": "claude-code-max"
+  },
+  "ἐξεδίκησεν": {
+    "translation": "vingou",
+    "source": "claude-code-max"
+  },
+  "δούλων": {
+    "translation": "servos",
+    "source": "claude-code-max"
+  },
+  "εἴρηκαν": {
+    "translation": "disseram",
+    "source": "claude-code-max"
+  },
+  "Αἰνεῖτε": {
+    "translation": "louvai",
+    "source": "claude-code-max"
+  },
+  "δοῦλοι": {
+    "translation": "servos",
+    "source": "claude-code-max"
+  },
+  "φοβούμενοι": {
+    "translation": "tementes",
+    "source": "claude-code-max"
+  },
+  "μικροὶ": {
+    "translation": "pequenos",
+    "source": "claude-code-max"
+  },
+  "μεγάλοι": {
+    "translation": "grandes",
+    "source": "claude-code-max"
+  },
+  "βροντῶν": {
+    "translation": "trovões",
+    "source": "claude-code-max"
+  },
+  "ἰσχυρῶν": {
+    "translation": "fortes",
+    "source": "claude-code-max"
+  },
+  "ἐβασίλευσεν": {
+    "translation": "reinou",
+    "source": "claude-code-max"
+  },
+  "χαίρωμεν": {
+    "translation": "alegremo-nos",
+    "source": "claude-code-max"
+  },
+  "ἀγαλλιῶμεν": {
+    "translation": "regozijemo-nos",
+    "source": "claude-code-max"
+  },
+  "δώσομεν": {
+    "translation": "demos",
+    "source": "claude-code-max"
+  },
+  "γάμος": {
+    "translation": "bodas",
+    "source": "claude-code-max"
+  },
+  "ἡτοίμασεν": {
+    "translation": "preparou",
+    "source": "claude-code-max"
+  },
+  "ἑαυτήν": {
+    "translation": "a-si-mesma",
+    "source": "claude-code-max"
+  },
+  "περιβάληται": {
+    "translation": "vista-se",
+    "source": "claude-code-max"
+  },
+  "καθαρόν": {
+    "translation": "limpo",
+    "source": "claude-code-max"
+  },
+  "δικαιώματα": {
+    "translation": "atos-justos",
+    "source": "claude-code-max"
+  },
+  "δεῖπνον": {
+    "translation": "ceia",
+    "source": "claude-code-max"
+  },
+  "γάμου": {
+    "translation": "bodas",
+    "source": "claude-code-max"
+  },
+  "κεκλημένοι": {
+    "translation": "chamados",
+    "source": "claude-code-max"
+  },
+  "Οὗτοι": {
+    "translation": "estas",
+    "source": "claude-code-max"
+  },
+  "ἀληθινοὶ": {
+    "translation": "verdadeiras",
+    "source": "claude-code-max"
+  },
+  "προσκυνῆσαι": {
+    "translation": "adorar",
+    "source": "claude-code-max"
+  },
+  "Ὅρα": {
+    "translation": "veja",
+    "source": "claude-code-max"
+  },
+  "σύνδουλός": {
+    "translation": "conservo",
+    "source": "claude-code-max"
+  },
+  "σού": {
+    "translation": "teu",
+    "source": "claude-code-max"
+  },
+  "προσκύνησον": {
+    "translation": "adora",
+    "source": "claude-code-max"
+  },
+  "Ἀληθινός": {
+    "translation": "Verdadeiro",
+    "source": "claude-code-max"
+  },
+  "δικαιοσύνῃ": {
+    "translation": "justiça",
+    "source": "claude-code-max"
+  },
+  "κρίνει": {
+    "translation": "julga",
+    "source": "claude-code-max"
+  },
+  "πολεμεῖ": {
+    "translation": "guerreia",
+    "source": "claude-code-max"
+  },
+  "πολλά": {
+    "translation": "muitos",
+    "source": "claude-code-max"
+  },
+  "περιβεβλημένος": {
+    "translation": "vestido",
+    "source": "claude-code-max"
+  },
+  "ἱμάτιον": {
+    "translation": "manto",
+    "source": "claude-code-max"
+  },
+  "βεβαμμένον": {
+    "translation": "tingido",
+    "source": "claude-code-max"
+  },
+  "κέκληται": {
+    "translation": "é-chamado",
+    "source": "claude-code-max"
+  },
+  "στρατεύματα": {
+    "translation": "exércitos",
+    "source": "claude-code-max"
+  },
+  "λευκὸν": {
+    "translation": "branco",
+    "source": "claude-code-max"
+  },
+  "πατάξῃ": {
+    "translation": "fira",
+    "source": "claude-code-max"
+  },
+  "πατεῖ": {
+    "translation": "pisa",
+    "source": "claude-code-max"
+  },
+  "μηρὸν": {
+    "translation": "coxa",
+    "source": "claude-code-max"
+  },
+  "ΒΑΣΙΛΕΥΣ": {
+    "translation": "REI",
+    "source": "claude-code-max"
+  },
+  "ΒΑΣΙΛΕΩΝ": {
+    "translation": "REIS",
+    "source": "claude-code-max"
+  },
+  "ΚΥΡΙΟΣ": {
+    "translation": "SENHOR",
+    "source": "claude-code-max"
+  },
+  "ΚΥΡΙΩΝ": {
+    "translation": "SENHORES",
+    "source": "claude-code-max"
+  },
+  "ἕνα": {
+    "translation": "um",
+    "source": "claude-code-max"
+  },
+  "πᾶσιν": {
+    "translation": "todos",
+    "source": "claude-code-max"
+  },
+  "ὀρνέοις": {
+    "translation": "aves",
+    "source": "claude-code-max"
+  },
+  "πετομένοις": {
+    "translation": "voando",
+    "source": "claude-code-max"
+  },
+  "Δεῦτε": {
+    "translation": "vinde",
+    "source": "claude-code-max"
+  },
+  "συνάχθητε": {
+    "translation": "ajuntai-vos",
+    "source": "claude-code-max"
+  },
+  "φάγητε": {
+    "translation": "comei",
+    "source": "claude-code-max"
+  },
+  "χιλιάρχων": {
+    "translation": "comandantes",
+    "source": "claude-code-max"
+  },
+  "καθημένων": {
+    "translation": "montados",
+    "source": "claude-code-max"
+  },
+  "ἐλευθέρων": {
+    "translation": "livres",
+    "source": "claude-code-max"
+  },
+  "μικρῶν": {
+    "translation": "pequenos",
+    "source": "claude-code-max"
+  },
+  "μεγάλων": {
+    "translation": "grandes",
+    "source": "claude-code-max"
+  },
+  "συνηγμένα": {
+    "translation": "reunidos",
+    "source": "claude-code-max"
+  },
+  "στρατεύματος": {
+    "translation": "exército",
+    "source": "claude-code-max"
+  },
+  "ἐπιάσθη": {
+    "translation": "foi-presa",
+    "source": "claude-code-max"
+  },
+  "ψευδοπροφήτης": {
+    "translation": "falso-profeta",
+    "source": "claude-code-max"
+  },
+  "ποιήσας": {
+    "translation": "tendo-feito",
+    "source": "claude-code-max"
+  },
+  "ἐπλάνησεν": {
+    "translation": "enganou",
+    "source": "claude-code-max"
+  },
+  "λαβόντας": {
+    "translation": "recebendo",
+    "source": "claude-code-max"
+  },
+  "ζῶντες": {
+    "translation": "vivos",
+    "source": "claude-code-max"
+  },
+  "λίμνην": {
+    "translation": "lago",
+    "source": "claude-code-max"
+  },
+  "καιομένης": {
+    "translation": "ardendo",
+    "source": "claude-code-max"
+  },
+  "ἐξελθούσῃ": {
+    "translation": "saindo",
+    "source": "claude-code-max"
+  },
+  "ὄρνεα": {
+    "translation": "aves",
+    "source": "claude-code-max"
+  },
+  "ἐχορτάσθησαν": {
+    "translation": "fartaram-se",
+    "source": "claude-code-max"
+  },
+  "σαρκῶν": {
+    "translation": "carnes",
+    "source": "claude-code-max"
+  },
+  "ἅλυσιν": {
+    "translation": "cadeia",
+    "source": "claude-code-max"
+  },
+  "ἐκράτησεν": {
+    "translation": "prendeu",
+    "source": "claude-code-max"
+  },
+  "δράκοντα": {
+    "translation": "dragão",
+    "source": "claude-code-max"
+  },
+  "ἔδησεν": {
+    "translation": "amarrou",
+    "source": "claude-code-max"
+  },
+  "ἔκλεισεν": {
+    "translation": "fechou",
+    "source": "claude-code-max"
+  },
+  "ἐσφράγισεν": {
+    "translation": "selou",
+    "source": "claude-code-max"
+  },
+  "πλανήσῃ": {
+    "translation": "engane",
+    "source": "claude-code-max"
+  },
+  "τελεσθῇ": {
+    "translation": "sejam-completados",
+    "source": "claude-code-max"
+  },
+  "λυθῆναι": {
+    "translation": "ser-solto",
+    "source": "claude-code-max"
+  },
+  "μικρὸν": {
+    "translation": "pouco",
+    "source": "claude-code-max"
+  },
+  "ἐκάθισαν": {
+    "translation": "sentaram-se",
+    "source": "claude-code-max"
+  },
+  "πεπελεκισμένων": {
+    "translation": "decapitados",
+    "source": "claude-code-max"
+  },
+  "ἔζησαν": {
+    "translation": "viveram",
+    "source": "claude-code-max"
+  },
+  "ἐβασίλευσαν": {
+    "translation": "reinaram",
+    "source": "claude-code-max"
+  },
+  "ἀνάστασις": {
+    "translation": "ressurreição",
+    "source": "claude-code-max"
+  },
+  "μέρος": {
+    "translation": "parte",
+    "source": "claude-code-max"
+  },
+  "ἀναστάσει": {
+    "translation": "ressurreição",
+    "source": "claude-code-max"
+  },
+  "ἔσονται": {
+    "translation": "serão",
+    "source": "claude-code-max"
+  },
+  "λυθήσεται": {
+    "translation": "será-solto",
+    "source": "claude-code-max"
+  },
+  "φυλακῆς": {
+    "translation": "prisão",
+    "source": "claude-code-max"
+  },
+  "ἐξελεύσεται": {
+    "translation": "sairá",
+    "source": "claude-code-max"
+  },
+  "πλανῆσαι": {
+    "translation": "enganar",
+    "source": "claude-code-max"
+  },
+  "γωνίαις": {
+    "translation": "cantos",
+    "source": "claude-code-max"
+  },
+  "Γὼγ": {
+    "translation": "Gogue",
+    "source": "claude-code-max"
+  },
+  "Μαγώγ": {
+    "translation": "Magogue",
+    "source": "claude-code-max"
+  },
+  "ἄμμος": {
+    "translation": "areia",
+    "source": "claude-code-max"
+  },
+  "πλάτος": {
+    "translation": "largura",
+    "source": "claude-code-max"
+  },
+  "ἐκύκλευσαν": {
+    "translation": "cercaram",
+    "source": "claude-code-max"
+  },
+  "παρεμβολὴν": {
+    "translation": "acampamento",
+    "source": "claude-code-max"
+  },
+  "ἠγαπημένην": {
+    "translation": "amada",
+    "source": "claude-code-max"
+  },
+  "κατέφαγεν": {
+    "translation": "devorou",
+    "source": "claude-code-max"
+  },
+  "νεκρούς": {
+    "translation": "mortos",
+    "source": "claude-code-max"
+  },
+  "μικρούς": {
+    "translation": "pequenos",
+    "source": "claude-code-max"
+  },
+  "βιβλία": {
+    "translation": "livros",
+    "source": "claude-code-max"
+  },
+  "ἠνοίχθησαν": {
+    "translation": "foram-abertos",
+    "source": "claude-code-max"
+  },
+  "ἠνοίχθη": {
+    "translation": "foi-aberto",
+    "source": "claude-code-max"
+  },
+  "ἐκρίθησαν": {
+    "translation": "foram-julgados",
+    "source": "claude-code-max"
+  },
+  "γεγραμμένων": {
+    "translation": "escritas",
+    "source": "claude-code-max"
+  },
+  "βιβλίοις": {
+    "translation": "livros",
+    "source": "claude-code-max"
+  },
+  "νεκροὺς": {
+    "translation": "mortos",
+    "source": "claude-code-max"
+  },
+  "δεύτερός": {
+    "translation": "segundo",
+    "source": "claude-code-max"
+  },
+  "λίμνη": {
+    "translation": "lago",
+    "source": "claude-code-max"
+  },
+  "βίβλῳ": {
+    "translation": "livro",
+    "source": "claude-code-max"
+  },
+  "γεγραμμένος": {
+    "translation": "escrito",
+    "source": "claude-code-max"
+  },
+  "καινήν": {
+    "translation": "nova",
+    "source": "claude-code-max"
+  },
+  "ἀπῆλθαν": {
+    "translation": "passaram",
+    "source": "claude-code-max"
+  },
+  "καταβαίνουσαν": {
+    "translation": "descendo",
+    "source": "claude-code-max"
+  },
+  "ἡτοιμασμένην": {
+    "translation": "preparada",
+    "source": "claude-code-max"
+  },
+  "νύμφην": {
+    "translation": "noiva",
+    "source": "claude-code-max"
+  },
+  "κεκοσμημένην": {
+    "translation": "adornada",
+    "source": "claude-code-max"
+  },
+  "ἀνδρὶ": {
+    "translation": "marido",
+    "source": "claude-code-max"
+  },
+  "σκηνὴ": {
+    "translation": "tabernáculo",
+    "source": "claude-code-max"
+  },
+  "κραυγὴ": {
+    "translation": "clamor",
+    "source": "claude-code-max"
+  },
+  "πόνος": {
+    "translation": "dor",
+    "source": "claude-code-max"
+  },
+  "καινὰ": {
+    "translation": "novas",
+    "source": "claude-code-max"
+  },
+  "ποιῶ": {
+    "translation": "faço",
+    "source": "claude-code-max"
+  },
+  "πιστοὶ": {
+    "translation": "fiéis",
+    "source": "claude-code-max"
+  },
+  "ἀληθινοί": {
+    "translation": "verdadeiros",
+    "source": "claude-code-max"
+  },
+  "Γέγοναν": {
+    "translation": "está-feito",
+    "source": "claude-code-max"
+  },
+  "τέλος": {
+    "translation": "fim",
+    "source": "claude-code-max"
+  },
+  "διψῶντι": {
+    "translation": "sedento",
+    "source": "claude-code-max"
+  },
+  "πηγῆς": {
+    "translation": "fonte",
+    "source": "claude-code-max"
+  },
+  "δωρεάν": {
+    "translation": "de-graça",
+    "source": "claude-code-max"
+  },
+  "κληρονομήσει": {
+    "translation": "herdará",
+    "source": "claude-code-max"
+  },
+  "ἔσομαι": {
+    "translation": "serei",
+    "source": "claude-code-max"
+  },
+  "δειλοῖς": {
+    "translation": "covardes",
+    "source": "claude-code-max"
+  },
+  "ἀπίστοις": {
+    "translation": "incrédulos",
+    "source": "claude-code-max"
+  },
+  "ἐβδελυγμένοις": {
+    "translation": "abomináveis",
+    "source": "claude-code-max"
+  },
+  "φονεῦσιν": {
+    "translation": "homicidas",
+    "source": "claude-code-max"
+  },
+  "πόρνοις": {
+    "translation": "imorais",
+    "source": "claude-code-max"
+  },
+  "φαρμάκοις": {
+    "translation": "feiticeiros",
+    "source": "claude-code-max"
+  },
+  "εἰδωλολάτραις": {
+    "translation": "idólatras",
+    "source": "claude-code-max"
+  },
+  "ψευδέσιν": {
+    "translation": "mentirosos",
+    "source": "claude-code-max"
+  },
+  "λίμνῃ": {
+    "translation": "lago",
+    "source": "claude-code-max"
+  },
+  "καιομένῃ": {
+    "translation": "ardendo",
+    "source": "claude-code-max"
+  },
+  "γεμόντων": {
+    "translation": "cheias",
+    "source": "claude-code-max"
+  },
+  "ἐσχάτων": {
+    "translation": "últimas",
+    "source": "claude-code-max"
+  },
+  "ἀρνίου": {
+    "translation": "cordeiro",
+    "source": "claude-code-max"
+  },
+  "ὑψηλόν": {
+    "translation": "alto",
+    "source": "claude-code-max"
+  },
+  "ἔδειξέν": {
+    "translation": "mostrou",
+    "source": "claude-code-max"
+  },
+  "ἔχουσαν": {
+    "translation": "tendo",
+    "source": "claude-code-max"
+  },
+  "φωστὴρ": {
+    "translation": "luminária",
+    "source": "claude-code-max"
+  },
+  "τιμιωτάτῳ": {
+    "translation": "preciosíssima",
+    "source": "claude-code-max"
+  },
+  "κρυσταλλίζοντι": {
+    "translation": "cristalino",
+    "source": "claude-code-max"
+  },
+  "τεῖχος": {
+    "translation": "muro",
+    "source": "claude-code-max"
+  },
+  "συνήγαγεν": {
+    "translation": "reuniu",
+    "source": "claude-code-max-6"
+  },
+  "ἔφυγεν": {
+    "translation": "fugiu",
+    "source": "claude-code-max-6"
+  },
+  "εὑρέθησαν": {
+    "translation": "foram-encontrados",
+    "source": "claude-code-max-6"
+  },
+  "καταβαίνει": {
+    "translation": "desce",
+    "source": "claude-code-max-6"
+  },
+  "περιπατῇ": {
+    "translation": "ande",
+    "source": "claude-code-max-6"
+  },
+  "βλέπωσιν": {
+    "translation": "vejam",
+    "source": "claude-code-max-6"
+  },
+  "ἐμνήσθη": {
+    "translation": "lembrou",
+    "source": "claude-code-max-6"
+  },
+  "δράκοντος": {
+    "translation": "dragão",
+    "source": "claude-code-max-6"
+  },
+  "ἡμέρας": {
+    "translation": "dia",
+    "source": "claude-code-max-6"
+  },
+  "Παντοκράτορος": {
+    "translation": "Todo-Poderoso",
+    "source": "claude-code-max-6"
+  },
+  "μακάριος": {
+    "translation": "bem-aventurado",
+    "source": "claude-code-max-6"
+  },
+  "γυμνὸς": {
+    "translation": "nu",
+    "source": "claude-code-max-6"
+  },
+  "ἀσχημοσύνην": {
+    "translation": "vergonha",
+    "source": "claude-code-max-6"
+  },
+  "τόπον": {
+    "translation": "lugar",
+    "source": "claude-code-max-6"
+  },
+  "καλούμενον": {
+    "translation": "chamado",
+    "source": "claude-code-max-6"
+  },
+  "Ἑβραϊστὶ": {
+    "translation": "em-hebraico",
+    "source": "claude-code-max-6"
+  },
+  "Ἁρμαγεδών": {
+    "translation": "Armagedom",
+    "source": "claude-code-max-6"
+  },
+  "ἕβδομος": {
+    "translation": "sétimo",
+    "source": "claude-code-max-6"
+  },
+  "ἀέρα": {
+    "translation": "ar",
+    "source": "claude-code-max-6"
+  },
+  "οἷος": {
+    "translation": "tal-qual",
+    "source": "claude-code-max-6"
+  },
+  "ἄνθρωπος": {
+    "translation": "homem",
+    "source": "claude-code-max-6"
+  },
+  "τηλικοῦτος": {
+    "translation": "tão-grande",
+    "source": "claude-code-max-6"
+  },
+  "μέρη": {
+    "translation": "partes",
+    "source": "claude-code-max-6"
+  },
+  "πόλεις": {
+    "translation": "cidades",
+    "source": "claude-code-max-6"
+  },
+  "ποτήριον": {
+    "translation": "cálice",
+    "source": "claude-code-max-6"
+  },
+  "νῆσος": {
+    "translation": "ilha",
+    "source": "claude-code-max-6"
+  },
+  "ὄρη": {
+    "translation": "montes",
+    "source": "claude-code-max-6"
+  },
+  "ταλαντιαία": {
+    "translation": "de-talento",
+    "source": "claude-code-max-6"
+  },
+  "σφόδρα": {
+    "translation": "extremamente",
+    "source": "claude-code-max-6"
+  },
+  "τί": {
+    "translation": "que",
+    "source": "claude-code-max-6"
+  },
+  "ὅπου": {
+    "translation": "onde",
+    "source": "claude-code-max-6"
+  },
+  "ὅπως": {
+    "translation": "para-que",
+    "source": "claude-code-max-6"
+  },
+  "ὥστε": {
+    "translation": "de-modo-que",
+    "source": "claude-code-max-6"
+  },
+  "εἶπεν": {
+    "translation": "disse",
+    "source": "claude-code-max-6"
+  },
+  "λέγει": {
+    "translation": "diz",
+    "source": "claude-code-max-6"
+  },
+  "ἔρχεται": {
+    "translation": "vem",
+    "source": "claude-code-max-6"
+  },
+  "ἦλθεν": {
+    "translation": "veio",
+    "source": "claude-code-max-6"
+  },
+  "ἐλθέ": {
+    "translation": "vem",
+    "source": "claude-code-max-6"
+  },
+  "ἔδωκεν": {
+    "translation": "deu",
+    "source": "claude-code-max-6"
+  },
+  "ἔχει": {
+    "translation": "tem",
+    "source": "claude-code-max-6"
+  },
+  "ποιεῖ": {
+    "translation": "faz",
+    "source": "claude-code-max-6"
+  },
+  "ἐποίησεν": {
+    "translation": "fez",
+    "source": "claude-code-max-6"
+  },
+  "γέγονεν": {
+    "translation": "aconteceu",
+    "source": "claude-code-max-6"
+  },
+  "γενέσθαι": {
+    "translation": "acontecer",
+    "source": "claude-code-max-6"
+  },
+  "ἐστιν": {
+    "translation": "é",
+    "source": "claude-code-max-6"
+  },
+  "ἦν": {
+    "translation": "era",
+    "source": "claude-code-max-6"
+  },
+  "ἔσται": {
+    "translation": "será",
+    "source": "claude-code-max-6"
+  },
+  "ὦσιν": {
+    "translation": "sejam",
+    "source": "claude-code-max-6"
+  },
+  "ἀγγέλου": {
+    "translation": "anjo",
+    "source": "claude-code-max-6"
+  },
+  "ἄγγελοι": {
+    "translation": "anjos",
+    "source": "claude-code-max-6"
+  },
+  "ἀγγέλων": {
+    "translation": "anjos",
+    "source": "claude-code-max-6"
+  },
+  "ἀγγέλους": {
+    "translation": "anjos",
+    "source": "claude-code-max-6"
+  },
+  "ἐκκλησίας": {
+    "translation": "assembleia",
+    "source": "claude-code-max-6"
+  },
+  "ἐκκλησίᾳ": {
+    "translation": "assembleia",
+    "source": "claude-code-max-6"
+  },
+  "ἐκκλησιῶν": {
+    "translation": "assembleias",
+    "source": "claude-code-max-6"
+  },
+  "οὐρανῷ": {
+    "translation": "céu",
+    "source": "claude-code-max-6"
+  },
+  "γῆς": {
+    "translation": "terra",
+    "source": "claude-code-max-6"
+  },
+  "ὕδωρ": {
+    "translation": "água",
+    "source": "claude-code-max-6"
+  },
+  "ὕδατος": {
+    "translation": "água",
+    "source": "claude-code-max-6"
+  },
+  "ὑδάτων": {
+    "translation": "águas",
+    "source": "claude-code-max-6"
+  },
+  "πυρός": {
+    "translation": "fogo",
+    "source": "claude-code-max-6"
+  },
+  "πυρὶ": {
+    "translation": "fogo",
+    "source": "claude-code-max-6"
+  },
+  "αἷμα": {
+    "translation": "sangue",
+    "source": "claude-code-max-6"
+  },
+  "αἵματος": {
+    "translation": "sangue",
+    "source": "claude-code-max-6"
+  },
+  "αἵματι": {
+    "translation": "sangue",
+    "source": "claude-code-max-6"
+  },
+  "φωνήν": {
+    "translation": "voz",
+    "source": "claude-code-max-6"
+  },
+  "φωναί": {
+    "translation": "vozes",
+    "source": "claude-code-max-6"
+  },
+  "λόγον": {
+    "translation": "palavra",
+    "source": "claude-code-max-6"
+  },
+  "λόγου": {
+    "translation": "palavra",
+    "source": "claude-code-max-6"
+  },
+  "λόγοι": {
+    "translation": "palavras",
+    "source": "claude-code-max-6"
+  },
+  "λόγων": {
+    "translation": "palavras",
+    "source": "claude-code-max-6"
+  },
+  "ὀνόματι": {
+    "translation": "nome",
+    "source": "claude-code-max-6"
+  },
+  "ὀνόματος": {
+    "translation": "nome",
+    "source": "claude-code-max-6"
+  },
+  "χειρός": {
+    "translation": "mão",
+    "source": "claude-code-max-6"
+  },
+  "χεῖρες": {
+    "translation": "mãos",
+    "source": "claude-code-max-6"
+  },
+  "ὀφθαλμός": {
+    "translation": "olho",
+    "source": "claude-code-max-6"
+  },
+  "ὀφθαλμοί": {
+    "translation": "olhos",
+    "source": "claude-code-max-6"
+  },
+  "πούς": {
+    "translation": "pé",
+    "source": "claude-code-max-6"
+  },
+  "κεφαλῆς": {
+    "translation": "cabeça",
+    "source": "claude-code-max-6"
+  },
+  "κεφαλαί": {
+    "translation": "cabeças",
+    "source": "claude-code-max-6"
+  },
+  "σῶμα": {
+    "translation": "corpo",
+    "source": "claude-code-max-6"
+  },
+  "σώματα": {
+    "translation": "corpos",
+    "source": "claude-code-max-6"
+  },
+  "ψυχή": {
+    "translation": "alma",
+    "source": "claude-code-max-6"
+  },
+  "ψυχῶν": {
+    "translation": "almas",
+    "source": "claude-code-max-6"
+  },
+  "πνεύματος": {
+    "translation": "espírito",
+    "source": "claude-code-max-6"
+  },
+  "πνεύματι": {
+    "translation": "espírito",
+    "source": "claude-code-max-6"
+  },
+  "δυνάμεως": {
+    "translation": "poder",
+    "source": "claude-code-max-6"
+  },
+  "δόξης": {
+    "translation": "glória",
+    "source": "claude-code-max-6"
+  },
+  "δόξαν": {
+    "translation": "glória",
+    "source": "claude-code-max-6"
+  },
+  "βασιλείαν": {
+    "translation": "reino",
+    "source": "claude-code-max-6"
+  },
+  "βασιλείας": {
+    "translation": "reino",
+    "source": "claude-code-max-6"
+  },
+  "βασιλέως": {
+    "translation": "rei",
+    "source": "claude-code-max-6"
+  },
+  "θρόνοι": {
+    "translation": "tronos",
+    "source": "claude-code-max-6"
+  },
+  "ναός": {
+    "translation": "templo",
+    "source": "claude-code-max-6"
+  },
+  "ναόν": {
+    "translation": "templo",
+    "source": "claude-code-max-6"
+  },
+  "νικήσας": {
+    "translation": "venceu",
+    "source": "claude-code-max-6"
+  },
+  "νίκη": {
+    "translation": "vitória",
+    "source": "claude-code-max-6"
+  },
+  "μάρτυρες": {
+    "translation": "testemunhas",
+    "source": "claude-code-max-6"
+  },
+  "μαρτυρίας": {
+    "translation": "testemunho",
+    "source": "claude-code-max-6"
+  },
+  "ἀληθείας": {
+    "translation": "verdade",
+    "source": "claude-code-max-6"
+  },
+  "ἀληθινόν": {
+    "translation": "verdadeiro",
+    "source": "claude-code-max-6"
+  },
+  "πιστοί": {
+    "translation": "fiéis",
+    "source": "claude-code-max-6"
+  },
+  "δίκαιος": {
+    "translation": "justo",
+    "source": "claude-code-max-6"
+  },
+  "δικαίως": {
+    "translation": "justamente",
+    "source": "claude-code-max-6"
+  },
+  "ἁγίους": {
+    "translation": "santos",
+    "source": "claude-code-max-6"
+  },
+  "ἁγία": {
+    "translation": "santa",
+    "source": "claude-code-max-6"
+  },
+  "ἁγίᾳ": {
+    "translation": "santa",
+    "source": "claude-code-max-6"
+  },
+  "καινός": {
+    "translation": "novo",
+    "source": "claude-code-max-6"
+  },
+  "καινά": {
+    "translation": "novas",
+    "source": "claude-code-max-6"
+  },
+  "αἰώνιος": {
+    "translation": "eterno",
+    "source": "claude-code-max-6"
+  },
+  "αἰωνίου": {
+    "translation": "eterno",
+    "source": "claude-code-max-6"
+  },
+  "αἰώνια": {
+    "translation": "eterna",
+    "source": "claude-code-max-6"
+  },
+  "μεγάλη": {
+    "translation": "grande",
+    "source": "claude-code-max-6"
+  },
+  "μικρός": {
+    "translation": "pequeno",
+    "source": "claude-code-max-6"
+  },
+  "πολλοί": {
+    "translation": "muitos",
+    "source": "claude-code-max-6"
+  },
+  "πολλάς": {
+    "translation": "muitas",
+    "source": "claude-code-max-6"
+  },
+  "πᾶς": {
+    "translation": "todo",
+    "source": "claude-code-max-6"
+  },
+  "ἄλλην": {
+    "translation": "outra",
+    "source": "claude-code-max-6"
+  },
+  "ἕτερος": {
+    "translation": "outro",
+    "source": "claude-code-max-6"
+  },
+  "πρῶτος": {
+    "translation": "primeiro",
+    "source": "claude-code-max-6"
+  },
+  "πρώτη": {
+    "translation": "primeira",
+    "source": "claude-code-max-6"
+  },
+  "πρῶτον": {
+    "translation": "primeiro",
+    "source": "claude-code-max-6"
+  },
+  "δευτέρα": {
+    "translation": "segunda",
+    "source": "claude-code-max-6"
+  },
+  "τρίτη": {
+    "translation": "terceira",
+    "source": "claude-code-max-6"
+  },
+  "τετάρτη": {
+    "translation": "quarta",
+    "source": "claude-code-max-6"
+  },
+  "πέμπτη": {
+    "translation": "quinta",
+    "source": "claude-code-max-6"
+  },
+  "ἔσχατος": {
+    "translation": "último",
+    "source": "claude-code-max-6"
+  },
+  "ἐσχάτη": {
+    "translation": "última",
+    "source": "claude-code-max-6"
+  },
+  "ἔσχατον": {
+    "translation": "último",
+    "source": "claude-code-max-6"
+  },
+  "ἐπί": {
+    "translation": "sobre",
+    "source": "claude-code-max-6"
+  },
+  "ὑπό": {
+    "translation": "por",
+    "source": "claude-code-max-6"
+  },
+  "παρά": {
+    "translation": "junto-a",
+    "source": "claude-code-max-6"
+  },
+  "περί": {
+    "translation": "acerca-de",
+    "source": "claude-code-max-6"
+  },
+  "πρός": {
+    "translation": "para",
+    "source": "claude-code-max-6"
+  },
+  "ὑπέρ": {
+    "translation": "acima-de",
+    "source": "claude-code-max-6"
+  },
+  "κατά": {
+    "translation": "conforme",
+    "source": "claude-code-max-6"
+  },
+  "διά": {
+    "translation": "através",
+    "source": "claude-code-max-6"
+  },
+  "ἀντί": {
+    "translation": "em-vez-de",
+    "source": "claude-code-max-6"
+  },
+  "ἀπό": {
+    "translation": "de",
+    "source": "claude-code-max-6"
+  },
+  "σύν": {
+    "translation": "com",
+    "source": "claude-code-max-6"
+  },
+  "ἀλλά": {
+    "translation": "mas",
+    "source": "claude-code-max-6"
+  },
+  "δέ": {
+    "translation": "mas/e",
+    "source": "claude-code-max-6"
+  },
+  "οὐδέ": {
+    "translation": "nem",
+    "source": "claude-code-max-6"
+  },
+  "μηδέ": {
+    "translation": "nem",
+    "source": "claude-code-max-6"
+  },
+  "εἴτε": {
+    "translation": "seja",
+    "source": "claude-code-max-6"
+  },
+  "ἄνω": {
+    "translation": "acima",
+    "source": "claude-code-max-6"
+  },
+  "κάτω": {
+    "translation": "abaixo",
+    "source": "claude-code-max-6"
+  },
+  "ἔσω": {
+    "translation": "dentro",
+    "source": "claude-code-max-6"
+  },
+  "οὐχί": {
+    "translation": "não",
+    "source": "claude-code-max-6"
+  },
+  "οὐχ": {
+    "translation": "não",
+    "source": "claude-code-max-6"
+  },
+  "ἕν": {
+    "translation": "um",
+    "source": "claude-code-max-6"
+  },
+  "τέσσαρα": {
+    "translation": "quatro",
+    "source": "claude-code-max-6"
+  },
+  "ὀκτώ": {
+    "translation": "oito",
+    "source": "claude-code-max-6"
+  },
+  "ἐννέα": {
+    "translation": "nove",
+    "source": "claude-code-max-6"
+  },
+  "ἑκατόν": {
+    "translation": "cem",
+    "source": "claude-code-max-6"
+  },
+  "χίλιοι": {
+    "translation": "mil",
+    "source": "claude-code-max-6"
+  },
+  "ἀρνίον": {
+    "translation": "Cordeiro",
+    "source": "claude-code-max-6"
+  },
+  "βίβλος": {
+    "translation": "livro",
+    "source": "claude-code-max-6"
+  },
+  "σαλπίσῃ": {
+    "translation": "tocar-trombeta",
+    "source": "claude-code-max-6"
+  },
+  "φιαλῶν": {
+    "translation": "taças",
+    "source": "claude-code-max-6"
+  },
+  "πληγή": {
+    "translation": "praga",
+    "source": "claude-code-max-6"
+  },
+  "πληγῆς": {
+    "translation": "praga",
+    "source": "claude-code-max-6"
+  },
+  "πληγαί": {
+    "translation": "pragas",
+    "source": "claude-code-max-6"
+  },
+  "θανάτου": {
+    "translation": "morte",
+    "source": "claude-code-max-6"
+  },
+  "Ἅιδης": {
+    "translation": "Hades",
+    "source": "claude-code-max-6"
+  },
+  "ᾅδου": {
+    "translation": "Hades",
+    "source": "claude-code-max-6"
+  },
+  "ᾅδῃ": {
+    "translation": "Hades",
+    "source": "claude-code-max-6"
+  },
+  "ζωῆς": {
+    "translation": "vida",
+    "source": "claude-code-max-6"
+  },
+  "νεκροί": {
+    "translation": "mortos",
+    "source": "claude-code-max-6"
+  },
+  "κρίσις": {
+    "translation": "julgamento",
+    "source": "claude-code-max-6"
+  },
+  "χάριτος": {
+    "translation": "graça",
+    "source": "claude-code-max-6"
+  },
+  "ἀγάπη": {
+    "translation": "amor",
+    "source": "claude-code-max-6"
+  },
+  "ἀγάπην": {
+    "translation": "amor",
+    "source": "claude-code-max-6"
+  },
+  "ἐλπίς": {
+    "translation": "esperança",
+    "source": "claude-code-max-6"
+  },
+  "ἐλπίδα": {
+    "translation": "esperança",
+    "source": "claude-code-max-6"
+  },
+  "πίστις": {
+    "translation": "fé",
+    "source": "claude-code-max-6"
+  },
+  "πίστεως": {
+    "translation": "fé",
+    "source": "claude-code-max-6"
+  },
+  "πίστιν": {
+    "translation": "fé",
+    "source": "claude-code-max-6"
+  },
+  "προσευχή": {
+    "translation": "oração",
+    "source": "claude-code-max-6"
+  },
+  "προσευχῶν": {
+    "translation": "orações",
+    "source": "claude-code-max-6"
+  },
+  "ὕμνος": {
+    "translation": "hino",
+    "source": "claude-code-max-6"
+  },
+  "ᾠδή": {
+    "translation": "cântico",
+    "source": "claude-code-max-6"
+  },
+  "ᾠδήν": {
+    "translation": "cântico",
+    "source": "claude-code-max-6"
+  },
+  "ἀλληλούια": {
+    "translation": "aleluia",
+    "source": "claude-code-max-6"
+  },
+  "Ἰησοῦ": {
+    "translation": "Jesus",
+    "source": "claude-code-max-6"
+  },
+  "Ἰησοῦς": {
+    "translation": "Jesus",
+    "source": "claude-code-max-6"
+  },
+  "Ἰησοῦν": {
+    "translation": "Jesus",
+    "source": "claude-code-max-6"
+  },
+  "Χριστός": {
+    "translation": "Cristo",
+    "source": "claude-code-max-6"
+  },
+  "Χριστοῦ": {
+    "translation": "Cristo",
+    "source": "claude-code-max-6"
+  },
+  "Χριστῷ": {
+    "translation": "Cristo",
+    "source": "claude-code-max-6"
+  },
+  "Χριστόν": {
+    "translation": "Cristo",
+    "source": "claude-code-max-6"
+  },
+  "Πατήρ": {
+    "translation": "Pai",
+    "source": "claude-code-max-6"
+  },
+  "Πατέρα": {
+    "translation": "Pai",
+    "source": "claude-code-max-6"
+  },
+  "Πνεῦμα": {
+    "translation": "Espírito",
+    "source": "claude-code-max-6"
+  },
+  "Πνεύματος": {
+    "translation": "Espírito",
+    "source": "claude-code-max-6"
+  },
+  "Ἰωάνου": {
+    "translation": "João",
+    "source": "claude-code-max-6"
+  },
+  "Ἰωάνην": {
+    "translation": "João",
+    "source": "claude-code-max-6"
+  },
+  "Ἰερουσαλήμ": {
+    "translation": "Jerusalém",
+    "source": "claude-code-max-6"
+  },
+  "Βαβυλών": {
+    "translation": "Babilônia",
+    "source": "claude-code-max-6"
+  },
+  "Βαβυλῶνος": {
+    "translation": "Babilônia",
+    "source": "claude-code-max-6"
+  },
+  "διαβόλου": {
+    "translation": "diabo",
+    "source": "claude-code-max-6"
+  },
+  "Ἔφεσος": {
+    "translation": "Éfeso",
+    "source": "claude-code-max-6"
+  },
+  "Ἐφέσῳ": {
+    "translation": "Éfeso",
+    "source": "claude-code-max-6"
+  },
+  "Σμύρνα": {
+    "translation": "Esmirna",
+    "source": "claude-code-max-6"
+  },
+  "Πέργαμος": {
+    "translation": "Pérgamo",
+    "source": "claude-code-max-6"
+  },
+  "Φιλαδέλφεια": {
+    "translation": "Filadélfia",
+    "source": "claude-code-max-6"
+  },
+  "Φιλαδελφείᾳ": {
+    "translation": "Filadélfia",
+    "source": "claude-code-max-6"
+  },
+  "Λαοδίκεια": {
+    "translation": "Laodiceia",
+    "source": "claude-code-max-6"
+  },
+  "Λαοδικείᾳ": {
+    "translation": "Laodiceia",
+    "source": "claude-code-max-6"
+  },
+  "πένθος": {
+    "translation": "luto",
+    "source": "claude-code-max-7"
+  },
+  "ναὸς": {
+    "translation": "templo",
+    "source": "claude-code-max-7"
+  },
+  "ναὸν": {
+    "translation": "templo",
+    "source": "claude-code-max-7"
+  },
+  "μιᾷ": {
+    "translation": "uma",
+    "source": "claude-code-max-7"
+  },
+  "κατοικοῦντες": {
+    "translation": "habitando",
+    "source": "claude-code-max-7"
+  },
+  "ὤφθη": {
+    "translation": "apareceu",
+    "source": "claude-code-max-7"
+  },
+  "ὄφις": {
+    "translation": "serpente",
+    "source": "claude-code-max-7"
+  },
+  "ἥμισυ": {
+    "translation": "metade",
+    "source": "claude-code-max-7"
+  },
+  "ἔρημον": {
+    "translation": "deserto",
+    "source": "claude-code-max-7"
+  },
+  "ἔξωθεν": {
+    "translation": "de-fora",
+    "source": "claude-code-max-7"
+  },
+  "ἔμποροι": {
+    "translation": "mercadores",
+    "source": "claude-code-max-7"
+  },
+  "ἔλαβον": {
+    "translation": "receberam",
+    "source": "claude-code-max-7"
+  },
+  "ἑξήκοντα": {
+    "translation": "sessenta",
+    "source": "claude-code-max-7"
+  },
+  "ἐφ": {
+    "translation": "sobre",
+    "source": "claude-code-max-7"
+  },
+  "ἐβλήθησαν": {
+    "translation": "foram-lançados",
+    "source": "claude-code-max-7"
+  },
+  "ἁγίαν": {
+    "translation": "santa",
+    "source": "claude-code-max-7"
+  },
+  "ἀναβαῖνον": {
+    "translation": "subindo",
+    "source": "claude-code-max-7"
+  },
+  "ἀδελφῶν": {
+    "translation": "irmãos",
+    "source": "claude-code-max-7"
+  },
+  "φωτὸς": {
+    "translation": "luz",
+    "source": "claude-code-max-7"
+  },
+  "τιμίῳ": {
+    "translation": "precioso",
+    "source": "claude-code-max-7"
+  },
+  "σημεῖον": {
+    "translation": "sinal",
+    "source": "claude-code-max-7"
+  },
+  "προσκυνοῦντας": {
+    "translation": "adorando",
+    "source": "claude-code-max-7"
+  },
+  "περιβεβλημένη": {
+    "translation": "vestida",
+    "source": "claude-code-max-7"
+  },
+  "οὐκέτι": {
+    "translation": "não-mais",
+    "source": "claude-code-max-7"
+  },
+  "οὐαί": {
+    "translation": "ai",
+    "source": "claude-code-max-7"
+  },
+  "ξύλον": {
+    "translation": "madeira/árvore",
+    "source": "claude-code-max-7"
+  },
+  "μακρόθεν": {
+    "translation": "de-longe",
+    "source": "claude-code-max-7"
+  },
+  "κόκκινον": {
+    "translation": "escarlate",
+    "source": "claude-code-max-7"
+  },
+  "κρίμα": {
+    "translation": "julgamento",
+    "source": "claude-code-max-7"
+  },
+  "διαδήματα": {
+    "translation": "diademas",
+    "source": "claude-code-max-7"
+  },
+  "γυναικὸς": {
+    "translation": "mulher",
+    "source": "claude-code-max-7"
+  },
+  "γνώμην": {
+    "translation": "opinião",
+    "source": "claude-code-max-7"
+  },
+  "ὅλη": {
+    "translation": "toda",
+    "source": "claude-code-max-7"
+  },
+  "ὀλίγον": {
+    "translation": "pouco",
+    "source": "claude-code-max-7"
+  },
+  "ἴασπις": {
+    "translation": "jaspe",
+    "source": "claude-code-max-7"
+  },
+  "ἰσχυρὸς": {
+    "translation": "forte",
+    "source": "claude-code-max-7"
+  },
+  "ἠνοίγη": {
+    "translation": "abriu-se",
+    "source": "claude-code-max-7"
+  },
+  "ἔτεκεν": {
+    "translation": "deu-à-luz",
+    "source": "claude-code-max-7"
+  },
+  "ἔστησαν": {
+    "translation": "estavam-de-pé",
+    "source": "claude-code-max-7"
+  },
+  "ἔθνεσιν": {
+    "translation": "nações",
+    "source": "claude-code-max-7"
+  },
+  "ἔδωκαν": {
+    "translation": "deram",
+    "source": "claude-code-max-7"
+  },
+  "ἐτελέσθη": {
+    "translation": "completou-se",
+    "source": "claude-code-max-7"
+  },
+  "ἀκούει": {
+    "translation": "ouve",
+    "source": "claude-code-max-7"
+  },
+  "ἀκούσας": {
+    "translation": "ouvindo",
+    "source": "claude-code-max-7"
+  },
+  "ἀκούσατε": {
+    "translation": "ouvi",
+    "source": "claude-code-max-7"
+  },
+  "βλέπει": {
+    "translation": "vê",
+    "source": "claude-code-max-7"
+  },
+  "βλέπων": {
+    "translation": "vendo",
+    "source": "claude-code-max-7"
+  },
+  "δοθῆναι": {
+    "translation": "ser-dado",
+    "source": "claude-code-max-7"
+  },
+  "δοθήσεται": {
+    "translation": "será-dado",
+    "source": "claude-code-max-7"
+  },
+  "ἔρχου": {
+    "translation": "vem",
+    "source": "claude-code-max-7"
+  },
+  "ἐρχόμενον": {
+    "translation": "vindo",
+    "source": "claude-code-max-7"
+  },
+  "ζῇ": {
+    "translation": "vive",
+    "source": "claude-code-max-7"
+  },
+  "ζήσονται": {
+    "translation": "viverão",
+    "source": "claude-code-max-7"
+  },
+  "θέλω": {
+    "translation": "quero",
+    "source": "claude-code-max-7"
+  },
+  "θέλει": {
+    "translation": "quer",
+    "source": "claude-code-max-7"
+  },
+  "θέλῃ": {
+    "translation": "queira",
+    "source": "claude-code-max-7"
+  },
+  "καλέω": {
+    "translation": "chamo",
+    "source": "claude-code-max-7"
+  },
+  "καλεῖται": {
+    "translation": "chama-se",
+    "source": "claude-code-max-7"
+  },
+  "καλουμένη": {
+    "translation": "chamada",
+    "source": "claude-code-max-7"
+  },
+  "λαμβάνω": {
+    "translation": "recebo",
+    "source": "claude-code-max-7"
+  },
+  "λαμβάνει": {
+    "translation": "recebe",
+    "source": "claude-code-max-7"
+  },
+  "λάβε": {
+    "translation": "toma",
+    "source": "claude-code-max-7"
+  },
+  "λαβεῖν": {
+    "translation": "receber",
+    "source": "claude-code-max-7"
+  },
+  "λαβών": {
+    "translation": "tendo-recebido",
+    "source": "claude-code-max-7"
+  },
+  "εἶπον": {
+    "translation": "disseram",
+    "source": "claude-code-max-7"
+  },
+  "εἰπόντος": {
+    "translation": "tendo-dito",
+    "source": "claude-code-max-7"
+  },
+  "μένω": {
+    "translation": "permaneço",
+    "source": "claude-code-max-7"
+  },
+  "μένει": {
+    "translation": "permanece",
+    "source": "claude-code-max-7"
+  },
+  "μένειν": {
+    "translation": "permanecer",
+    "source": "claude-code-max-7"
+  },
+  "νικᾷ": {
+    "translation": "vence",
+    "source": "claude-code-max-7"
+  },
+  "οἶδα": {
+    "translation": "sei",
+    "source": "claude-code-max-7"
+  },
+  "οἴδαμεν": {
+    "translation": "sabemos",
+    "source": "claude-code-max-7"
+  },
+  "πίνω": {
+    "translation": "bebo",
+    "source": "claude-code-max-7"
+  },
+  "πίνει": {
+    "translation": "bebe",
+    "source": "claude-code-max-7"
+  },
+  "πίῃ": {
+    "translation": "beba",
+    "source": "claude-code-max-7"
+  },
+  "πιεῖν": {
+    "translation": "beber",
+    "source": "claude-code-max-7"
+  },
+  "ποιεῖν": {
+    "translation": "fazer",
+    "source": "claude-code-max-7"
+  },
+  "πορεύομαι": {
+    "translation": "vou",
+    "source": "claude-code-max-7"
+  },
+  "πορεύεται": {
+    "translation": "vai",
+    "source": "claude-code-max-7"
+  },
+  "τηρέω": {
+    "translation": "guardo",
+    "source": "claude-code-max-7"
+  },
+  "τηρεῖ": {
+    "translation": "guarda",
+    "source": "claude-code-max-7"
+  },
+  "φοβέω": {
+    "translation": "temo",
+    "source": "claude-code-max-7"
+  },
+  "φοβεῖσθε": {
+    "translation": "temei",
+    "source": "claude-code-max-7"
+  },
+  "φοβήθητε": {
+    "translation": "temei",
+    "source": "claude-code-max-7"
+  },
+  "ἐφοβήθην": {
+    "translation": "temi",
+    "source": "claude-code-max-7"
+  },
+  "ἄγγελον": {
+    "translation": "anjo",
+    "source": "claude-code-max-7"
+  },
+  "ἀνήρ": {
+    "translation": "homem",
+    "source": "claude-code-max-7"
+  },
+  "ἄνδρα": {
+    "translation": "homem",
+    "source": "claude-code-max-7"
+  },
+  "ἀνδρός": {
+    "translation": "homem",
+    "source": "claude-code-max-7"
+  },
+  "ἄνδρες": {
+    "translation": "homens",
+    "source": "claude-code-max-7"
+  },
+  "ἀνδρῶν": {
+    "translation": "homens",
+    "source": "claude-code-max-7"
+  },
+  "ἀνθρώπος": {
+    "translation": "ser-humano",
+    "source": "claude-code-max-7"
+  },
+  "ἄνθρωπον": {
+    "translation": "ser-humano",
+    "source": "claude-code-max-7"
+  },
+  "ἀνθρώπου": {
+    "translation": "ser-humano",
+    "source": "claude-code-max-7"
+  },
+  "ἀνθρώπῳ": {
+    "translation": "ser-humano",
+    "source": "claude-code-max-7"
+  },
+  "ἀνθρώπων": {
+    "translation": "seres-humanos",
+    "source": "claude-code-max-7"
+  },
+  "γυνή": {
+    "translation": "mulher",
+    "source": "claude-code-max-7"
+  },
+  "γυναικός": {
+    "translation": "mulher",
+    "source": "claude-code-max-7"
+  },
+  "γυναῖκες": {
+    "translation": "mulheres",
+    "source": "claude-code-max-7"
+  },
+  "ἡμέραν": {
+    "translation": "dia",
+    "source": "claude-code-max-7"
+  },
+  "ἡμέραι": {
+    "translation": "dias",
+    "source": "claude-code-max-7"
+  },
+  "λόγῳ": {
+    "translation": "palavra",
+    "source": "claude-code-max-7"
+  },
+  "νύξ": {
+    "translation": "noite",
+    "source": "claude-code-max-7"
+  },
+  "νύκτα": {
+    "translation": "noite",
+    "source": "claude-code-max-7"
+  },
+  "νυκτός": {
+    "translation": "noite",
+    "source": "claude-code-max-7"
+  },
+  "οὐρανοῦ": {
+    "translation": "céu",
+    "source": "claude-code-max-7"
+  },
+  "οὐρανοί": {
+    "translation": "céus",
+    "source": "claude-code-max-7"
+  },
+  "πνευμάτων": {
+    "translation": "espíritos",
+    "source": "claude-code-max-7"
+  },
+  "πόλεων": {
+    "translation": "cidades",
+    "source": "claude-code-max-7"
+  },
+  "τέκνον": {
+    "translation": "filho",
+    "source": "claude-code-max-7"
+  },
+  "τέκνων": {
+    "translation": "filhos",
+    "source": "claude-code-max-7"
+  },
+  "υἱόν": {
+    "translation": "filho",
+    "source": "claude-code-max-7"
+  },
+  "υἱοῦ": {
+    "translation": "filho",
+    "source": "claude-code-max-7"
+  },
+  "υἱῷ": {
+    "translation": "filho",
+    "source": "claude-code-max-7"
+  },
+  "υἱοί": {
+    "translation": "filhos",
+    "source": "claude-code-max-7"
+  },
+  "ψυχήν": {
+    "translation": "alma",
+    "source": "claude-code-max-7"
+  },
+  "ψυχαί": {
+    "translation": "almas",
+    "source": "claude-code-max-7"
+  },
+  "ἅγιον": {
+    "translation": "santo",
+    "source": "claude-code-max-7"
+  },
+  "ἀληθινή": {
+    "translation": "verdadeira",
+    "source": "claude-code-max-7"
+  },
+  "δικαία": {
+    "translation": "justa",
+    "source": "claude-code-max-7"
+  },
+  "δίκαιον": {
+    "translation": "justo",
+    "source": "claude-code-max-7"
+  },
+  "δικαιοσύνη": {
+    "translation": "justiça",
+    "source": "claude-code-max-7"
+  },
+  "δικαιοσύνης": {
+    "translation": "justiça",
+    "source": "claude-code-max-7"
+  },
+  "καινή": {
+    "translation": "nova",
+    "source": "claude-code-max-7"
+  },
+  "λευκά": {
+    "translation": "brancos",
+    "source": "claude-code-max-7"
+  },
+  "μεγάλου": {
+    "translation": "grande",
+    "source": "claude-code-max-7"
+  },
+  "πασῶν": {
+    "translation": "todas",
+    "source": "claude-code-max-7"
+  },
+  "πολλή": {
+    "translation": "muita",
+    "source": "claude-code-max-7"
+  },
+  "πολύ": {
+    "translation": "muito",
+    "source": "claude-code-max-7"
+  },
+  "πρό": {
+    "translation": "antes",
+    "source": "claude-code-max-7"
+  },
+  "καί": {
+    "translation": "e",
+    "source": "claude-code-max-7"
+  },
+  "ἐμέ": {
+    "translation": "me",
+    "source": "claude-code-max-7"
+  },
+  "ἐμοί": {
+    "translation": "me",
+    "source": "claude-code-max-7"
+  },
+  "σύ": {
+    "translation": "tu",
+    "source": "claude-code-max-7"
+  },
+  "σου": {
+    "translation": "teu",
+    "source": "claude-code-max-7"
+  },
+  "σοι": {
+    "translation": "te",
+    "source": "claude-code-max-7"
+  },
+  "αὐτή": {
+    "translation": "ela",
+    "source": "claude-code-max-7"
+  },
+  "αὐτῆς": {
+    "translation": "dela",
+    "source": "claude-code-max-7"
+  },
+  "αὐτῇ": {
+    "translation": "lhe",
+    "source": "claude-code-max-7"
+  },
+  "αὐτοῖς": {
+    "translation": "lhes",
+    "source": "claude-code-max-7"
+  },
+  "αὐταί": {
+    "translation": "elas",
+    "source": "claude-code-max-7"
+  },
+  "αὐτάς": {
+    "translation": "elas",
+    "source": "claude-code-max-7"
+  },
+  "ἡμεῖς": {
+    "translation": "nós",
+    "source": "claude-code-max-7"
+  },
+  "ἡμῖν": {
+    "translation": "nos",
+    "source": "claude-code-max-7"
+  },
+  "ὑμεῖς": {
+    "translation": "vós",
+    "source": "claude-code-max-7"
+  },
+  "ὑμᾶς": {
+    "translation": "vos",
+    "source": "claude-code-max-7"
+  },
+  "ὅς": {
+    "translation": "o-qual",
+    "source": "claude-code-max-7"
+  },
+  "ἥ": {
+    "translation": "a-qual",
+    "source": "claude-code-max-7"
+  },
+  "ὅ": {
+    "translation": "o-qual",
+    "source": "claude-code-max-7"
+  },
+  "οὗ": {
+    "translation": "do-qual",
+    "source": "claude-code-max-7"
+  },
+  "ᾧ": {
+    "translation": "ao-qual",
+    "source": "claude-code-max-7"
+  },
+  "ὅν": {
+    "translation": "o-qual",
+    "source": "claude-code-max-7"
+  },
+  "ἥν": {
+    "translation": "a-qual",
+    "source": "claude-code-max-7"
+  },
+  "οἵ": {
+    "translation": "os-quais",
+    "source": "claude-code-max-7"
+  },
+  "αἵ": {
+    "translation": "as-quais",
+    "source": "claude-code-max-7"
+  },
+  "ἅ": {
+    "translation": "as-quais",
+    "source": "claude-code-max-7"
+  },
+  "ὧν": {
+    "translation": "dos-quais",
+    "source": "claude-code-max-7"
+  },
+  "οἷς": {
+    "translation": "aos-quais",
+    "source": "claude-code-max-7"
+  },
+  "οὕς": {
+    "translation": "os-quais",
+    "source": "claude-code-max-7"
+  },
+  "ἅς": {
+    "translation": "as-quais",
+    "source": "claude-code-max-7"
+  },
+  "τοῦτον": {
+    "translation": "este",
+    "source": "claude-code-max-7"
+  },
+  "αὗται": {
+    "translation": "estas",
+    "source": "claude-code-max-7"
+  },
+  "τούτοις": {
+    "translation": "nestes",
+    "source": "claude-code-max-7"
+  },
+  "τούτους": {
+    "translation": "estes",
+    "source": "claude-code-max-7"
+  },
+  "ἐκείνη": {
+    "translation": "aquela",
+    "source": "claude-code-max-7"
+  },
+  "ἐκεῖνο": {
+    "translation": "aquilo",
+    "source": "claude-code-max-7"
+  },
+  "ἐκείνης": {
+    "translation": "daquela",
+    "source": "claude-code-max-7"
+  },
+  "ἐκείνου": {
+    "translation": "daquele",
+    "source": "claude-code-max-7"
+  },
+  "ἐκείνῳ": {
+    "translation": "naquele",
+    "source": "claude-code-max-7"
+  },
+  "ἐκεῖνον": {
+    "translation": "aquele",
+    "source": "claude-code-max-7"
+  },
+  "ἐκείνην": {
+    "translation": "aquela",
+    "source": "claude-code-max-7"
+  },
+  "τό": {
+    "translation": "o",
+    "source": "claude-code-max-7"
+  },
+  "τῇ": {
+    "translation": "à",
+    "source": "claude-code-max-7"
+  },
+  "τόν": {
+    "translation": "o",
+    "source": "claude-code-max-7"
+  },
+  "τήν": {
+    "translation": "a",
+    "source": "claude-code-max-7"
+  },
+  "τά": {
+    "translation": "os",
+    "source": "claude-code-max-7"
+  },
+  "τούς": {
+    "translation": "os",
+    "source": "claude-code-max-7"
+  },
+  "τάς": {
+    "translation": "as",
+    "source": "claude-code-max-7"
+  },
+  "ἕνδεκα": {
+    "translation": "onze",
+    "source": "claude-code-max-7"
+  },
+  "τριάκοντα": {
+    "translation": "trinta",
+    "source": "claude-code-max-7"
+  },
+  "διακόσιοι": {
+    "translation": "duzentos",
+    "source": "claude-code-max-7"
+  },
+  "τριακόσιοι": {
+    "translation": "trezentos",
+    "source": "claude-code-max-7"
+  },
+  "μύριοι": {
+    "translation": "dez-mil",
+    "source": "claude-code-max-7"
+  },
+  "πληγήν": {
+    "translation": "praga",
+    "source": "claude-code-max-7"
+  },
+  "ζωήν": {
+    "translation": "vida",
+    "source": "claude-code-max-7"
+  },
+  "Ἀλληλούια": {
+    "translation": "Aleluia",
+    "source": "claude-code-max-7"
   }
 }

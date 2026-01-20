@@ -1,23 +1,43 @@
 {
-  "_description": "Palavras que NÃO devem ser traduzidas - permanecem no original",
+  "_description": "Palavras que NÃO devem ser traduzidas - permanecem no original. Cada categoria inclui o motivo.",
+  "philosophy": "Você lê. E a interpretação é sua.",
   "categories": {
+    "yhwh": {
+      "reason": "Tetragramaton - Nome sagrado de Deus em hebraico (יהוה). Não é traduzido pois é um nome próprio divino. Mantém a distinção fundamental entre o nome próprio de Deus e títulos genéricos como 'Elohim'",
+      "original_hebrew": "יהוה",
+      "common_translations": "Senhor, Deus (em traduções tradicionais - perdendo a identidade do nome próprio)",
+      "why_not_translated": "A literalidade rígida preserva a identidade do nome próprio divino que o leitor pode interpretar livremente",
+      "words": ["yhwh", "Yhwh"]
+    },
     "Theos": {
-      "reason": "Referência a Deus - manter original grego",
+      "reason": "Referência a Deus na teologia grega (Θεός). Mantém a forma original para preservar a distinção entre 'theós' (divino genérico) e 'ho Theos' (Deus específico)",
+      "original_greek": "Θεός",
+      "why_not_translated": "Preserva nuances semânticas do idioma original que traduções como 'Deus' perdem",
       "words": ["Θεός", "Θεοῦ", "Θεόν", "Θεῷ", "Θεέ", "θεός", "θεοῦ", "θεόν", "θεῷ"]
     },
     "Iesous": {
-      "reason": "Nome de Jesus - manter original grego",
+      "reason": "Nome próprio - Jesus em grego (Ἰησοῦς). Nomes próprios permanecem no original como regra fundamental de literalidade",
+      "original_greek": "Ἰησοῦς",
+      "why_not_translated": "Mantém a forma grega original preservando a identidade histórica",
       "words": ["Ἰησοῦς", "Ἰησοῦ", "Ἰησοῦν"]
     },
     "Christos": {
-      "reason": "Cristo/Messias - manter original grego",
+      "reason": "Título grego (Χριστός) - embora traduzível como 'Ungido' ou 'Messias', mantém-se a forma original para preservar a carga semântica completa",
+      "original_greek": "Χριστός",
+      "common_translations": "Ungido, Messias (em traduções tradicionais - adicionando interpretação)",
+      "why_not_translated": "Evita interpretações que 'Ungido' ou 'Messias' poderiam carregar, deixando ao leitor a interpretação integral",
       "words": ["Χριστός", "Χριστοῦ", "Χριστόν", "Χριστῷ"]
     }
   },
   "all_words": [
+    "yhwh", "Yhwh",
     "Θεός", "Θεοῦ", "Θεόν", "Θεῷ", "Θεέ",
     "θεός", "θεοῦ", "θεόν", "θεῷ",
     "Ἰησοῦς", "Ἰησοῦ", "Ἰησοῦν",
     "Χριστός", "Χριστοῦ", "Χριστόν", "Χριστῷ"
-  ]
+  ],
+  "editorial_guidelines": {
+    "brackets_usage": "[OBJ] para Objeto Direto - sinaliza presença de objeto direto implícito ou elíptico no texto original",
+    "minuscule_convention": "Palavras não traduzidas aparecem em minúscula (yhwh, Theos) para consistência nas respostas da API"
+  }
 }
