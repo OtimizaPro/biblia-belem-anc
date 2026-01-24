@@ -43,7 +43,7 @@ books.get('/', async (c) => {
 // GET /api/v1/books/:code - Detalhes de um livro
 books.get('/:code', async (c) => {
   try {
-    const code = c.req.param('code').toUpperCase();
+    const code = c.req.param('code').toUpperCase().replace(/[^A-Z0-9]/g, '');
 
     const result = await c.env.DB.prepare('SELECT * FROM books WHERE code = ?')
       .bind(code)
@@ -52,7 +52,7 @@ books.get('/:code', async (c) => {
     if (!result) {
       const response: ApiResponse<null> = {
         success: false,
-        error: `Livro '${code}' não encontrado`,
+        error: `Livro não encontrado`,
       };
       return c.json(response, 404);
     }

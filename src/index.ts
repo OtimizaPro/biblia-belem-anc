@@ -20,11 +20,19 @@ app.use(
   '*',
   cors({
     origin: '*',
-    allowMethods: ['GET', 'OPTIONS'],
+    allowMethods: ['GET', 'OPTIONS', 'POST'],
     allowHeaders: ['Content-Type'],
     maxAge: 86400,
   })
 );
+
+// Security headers
+app.use('*', async (c, next) => {
+  await next();
+  c.res.headers.set('X-Content-Type-Options', 'nosniff');
+  c.res.headers.set('X-Frame-Options', 'DENY');
+  c.res.headers.set('X-XSS-Protection', '1; mode=block');
+});
 
 // Cache para respostas (1 hora para dados estáticos)
 app.use(
@@ -121,14 +129,13 @@ app.notFound((c) => {
   );
 });
 
-// Error handler
+// Error handler - não expõe detalhes internos em produção
 app.onError((err, c) => {
   console.error('API Error:', err);
   return c.json(
     {
       success: false,
       error: 'Erro interno do servidor',
-      message: err.message,
     },
     500
   );

@@ -6,7 +6,7 @@ const verses = new Hono<{ Bindings: Env }>();
 // GET /api/v1/verses/:book/:chapter - Lista versos de um capítulo
 verses.get('/:book/:chapter', async (c) => {
   try {
-    const bookCode = c.req.param('book').toUpperCase();
+    const bookCode = c.req.param('book').toUpperCase().replace(/[^A-Z0-9]/g, '');
     const chapter = parseInt(c.req.param('chapter'));
 
     if (isNaN(chapter) || chapter < 1) {
@@ -28,7 +28,7 @@ verses.get('/:book/:chapter', async (c) => {
       return c.json(
         {
           success: false,
-          error: `Livro '${bookCode}' não encontrado`,
+          error: 'Livro não encontrado',
         },
         404
       );
@@ -50,7 +50,7 @@ verses.get('/:book/:chapter', async (c) => {
       return c.json(
         {
           success: false,
-          error: `Capítulo ${chapter} não encontrado em ${bookCode}`,
+          error: 'Capítulo não encontrado',
         },
         404
       );
@@ -79,7 +79,7 @@ verses.get('/:book/:chapter', async (c) => {
 // GET /api/v1/verses/:book/:chapter/:verse - Verso único com tokens
 verses.get('/:book/:chapter/:verse', async (c) => {
   try {
-    const bookCode = c.req.param('book').toUpperCase();
+    const bookCode = c.req.param('book').toUpperCase().replace(/[^A-Z0-9]/g, '');
     const chapter = parseInt(c.req.param('chapter'));
     const verseNum = parseInt(c.req.param('verse'));
 
@@ -102,7 +102,7 @@ verses.get('/:book/:chapter/:verse', async (c) => {
       return c.json(
         {
           success: false,
-          error: `Livro '${bookCode}' não encontrado`,
+          error: 'Livro não encontrado',
         },
         404
       );
@@ -124,7 +124,7 @@ verses.get('/:book/:chapter/:verse', async (c) => {
       return c.json(
         {
           success: false,
-          error: `Versículo ${bookCode} ${chapter}:${verseNum} não encontrado`,
+          error: 'Versículo não encontrado',
         },
         404
       );

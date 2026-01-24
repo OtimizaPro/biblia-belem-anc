@@ -105,7 +105,7 @@ translationInfo.get('/word/:word', (c) => {
   return c.json(
     {
       success: false,
-      error: `Palavra '${word}' não encontrada na base de dados de notas de tradução`,
+      error: 'Palavra não encontrada na base de dados de notas de tradução',
     },
     404
   );
