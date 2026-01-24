@@ -104,7 +104,7 @@ search.get('/', async (c) => {
       FROM verses v
       JOIN books b ON v.book_id = b.id
       WHERE ${whereClause}
-      ORDER BY b.order_num, v.chapter, v.verse
+      ORDER BY b.canon_order, v.chapter, v.verse
       LIMIT ?
     `;
 
