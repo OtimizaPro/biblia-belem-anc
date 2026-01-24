@@ -1,97 +1,294 @@
-# Contribuindo para a API Bíblia Belem An.C
+# Contribuindo para a Bíblia Belém An.C 2025
 
-Obrigado por seu interesse em contribuir!
+Obrigado por seu interesse em contribuir para uma tradução bíblica literal e open source!
 
-## Tipos de Contribuição
+> **Filosofia:** "Você lê. E a interpretação é sua."
 
-### Para Desenvolvedores
+---
 
-1. **Bug Fixes** - Correções de bugs na API
-2. **Features** - Novas funcionalidades
-3. **Performance** - Otimizações
-4. **Docs** - Melhorias na documentação
+## Tipos de Contribuidores
 
-### Para Tradutores
+### Desenvolvedores TypeScript/JavaScript
 
-Para sugestões de tradução, contribua no repositório [glossary-belem](https://github.com/OtimizaPro/glossary-belem).
+Contribua com a API REST, melhorias de performance, novos endpoints.
 
-## Setup de Desenvolvimento
+**Requisitos:**
+
+- Node.js 20+
+- Familiaridade com TypeScript e Hono
+- Conhecimento básico de Cloudflare Workers (opcional)
+
+### Estudiosos de Grego/Hebraico
+
+Contribua com traduções literais, revisões etimológicas, sugestões de glossário.
+
+**Requisitos:**
+
+- Conhecimento de grego koiné ou hebraico bíblico
+- Familiaridade com Strong's Concordance
+- Capacidade de fornecer justificativas acadêmicas
+
+### Tradutores
+
+Ajude na revisão e consistência das traduções existentes.
+
+**Requisitos:**
+
+- Domínio do português brasileiro
+- Entendimento dos princípios de tradução literal
+- Atenção a detalhes
+
+### Documentadores
+
+Melhore a documentação, tutoriais, exemplos de uso.
+
+**Requisitos:**
+
+- Boa escrita em português ou inglês
+- Familiaridade com Markdown
+
+---
+
+## Princípios Inegociáveis
+
+Toda contribuição **deve** respeitar estes princípios:
+
+| Princípio | Descrição |
+|-----------|-----------|
+| **Literalidade** | Palavra-por-palavra sempre que possível |
+| **Transparência** | Intervenções editoriais marcadas com `[ ]` |
+| **Consistência** | Mesma palavra original = mesma tradução |
+| **Neutralidade** | Zero viés denominacional ou teológico |
+| **Etimologia** | Priorizar raiz etimológica sobre uso moderno |
+
+### Palavras que NÃO Traduzimos
+
+| Original | Motivo |
+|----------|--------|
+| yhwh | Tetragrama - Nome próprio divino |
+| Theos | Preserva distinção do grego |
+| Iesous | Nome próprio em grego |
+| Christos | Título grego (ungido) |
+
+---
+
+## Como Contribuir: Código
+
+### Setup de Desenvolvimento
 
 ```bash
-# Clone o repositório
-git clone https://github.com/OtimizaPro/biblia-belem-anc.git
+# 1. Fork e clone
+git clone https://github.com/SEU-USUARIO/biblia-belem-anc.git
 cd biblia-belem-anc
 
-# Instale dependências
+# 2. Instale dependências
 npm install
 
-# Configure variáveis de ambiente
-cp .env.example .env
+# 3. Execute em desenvolvimento (conecta ao D1 remoto)
+npm run dev:remote
 
-# Execute em desenvolvimento
-npm run dev
+# 4. Acesse
+# http://localhost:8787/health
+# http://localhost:8787/api/v1/books
+
+# 5. Verifique qualidade antes de commitar
+npm run lint
+npm run format:check
+npm run typecheck
 ```
 
-## Estrutura do Projeto
+### Estrutura do Projeto
 
 ```
 src/
-├── index.ts          # Entry point
-├── types.ts          # TypeScript types
+├── index.ts          # Entry point da API
+├── types.ts          # TypeScript interfaces
 ├── routes/
-│   ├── books.ts      # /books endpoints
-│   ├── verses.ts     # /verses endpoints
-│   ├── tokens.ts     # /tokens endpoints
-│   ├── glosses.ts    # /glosses endpoints
-│   └── glossary.ts   # /glossary endpoints
+│   ├── books.ts      # GET /api/v1/books
+│   ├── verses.ts     # GET /api/v1/verses
+│   ├── tokens.ts     # GET /api/v1/tokens
+│   ├── glosses.ts    # GET /api/v1/glosses
+│   └── glossary.ts   # GET /api/v1/glossary
 └── docs/
-    └── openapi.ts    # API documentation
+    └── openapi.ts    # Documentação OpenAPI
 ```
 
-## Padrões de Código
+### Processo de Pull Request
 
-- **TypeScript** - Tipagem estrita
-- **ESLint** - Linting (execute `npm run lint`)
-- **Prettier** - Formatação (execute `npm run format`)
+1. **Crie uma branch** a partir de `main`:
+   - `feature/descricao` - Para novas funcionalidades
+   - `fix/descricao` - Para correções de bugs
+   - `docs/descricao` - Para documentação
 
-## Processo de Pull Request
+2. **Faça commits semânticos:**
+
+   ```
+   feat: adiciona endpoint de busca avançada
+   fix: corrige parsing de tokens gregos
+   docs: atualiza documentação da API
+   refactor: reorganiza rotas de versículos
+   chore: atualiza dependências
+   ```
+
+3. **Execute verificações locais:**
+
+   ```bash
+   npm run lint && npm run format:check && npm run typecheck
+   ```
+
+4. **Abra PR para branch `main`**
+
+5. **Aguarde revisão** (mínimo 1 aprovação)
+
+---
+
+## Como Contribuir: Tradução
+
+### Via Issue (Recomendado para Iniciantes)
+
+1. Acesse [Issues](https://github.com/OtimizaPro/biblia-belem-anc/issues)
+2. Clique "New Issue"
+3. Escolha o template **"Sugestão de Tradução"**
+4. Preencha todos os campos obrigatórios:
+   - Palavra original (grego/hebraico)
+   - Transliteração
+   - Número Strong's
+   - Tradução sugerida
+   - Justificativa etimológica
+   - Exemplos bíblicos
+5. Aguarde revisão de um mantenedor
+
+### Via Pull Request (Contribuidores Experientes)
 
 1. Fork o repositório
-2. Crie branch: `feature/descricao` ou `fix/descricao`
-3. Faça commits descritivos
-4. Execute testes e linting
-5. Abra PR para branch `develop`
-6. Aguarde revisão
+2. Edite `glossary/greek.json` ou `glossary/hebrew.json`
+3. Use o formato:
 
-## Commits
-
-Use commits semânticos:
-
-```
-feat: adiciona endpoint de busca
-fix: corrige parsing de tokens gregos
-docs: atualiza documentação da API
-refactor: reorganiza rotas
+```json
+{
+  "palavra_original": "tradução_literal"
+}
 ```
 
-## Testes
+Ou formato estendido com metadados:
 
-```bash
-# Executar testes
-npm test
-
-# Executar com coverage
-npm run test:coverage
+```json
+{
+  "G3056": {
+    "original": "λόγος",
+    "transliteration": "logos",
+    "literal": "palavra",
+    "notes": "Raiz etimológica indica 'o que é dito'"
+  }
+}
 ```
 
-## Deploy
+4. Valide o JSON:
 
-O deploy para Cloudflare Workers é automático via GitHub Actions quando merge para `main`.
+   ```bash
+   # Windows PowerShell
+   Get-Content glossary/greek.json | ConvertFrom-Json
 
-## Dúvidas
+   # Linux/Mac
+   jq empty glossary/greek.json
+   ```
 
-Abra uma **Discussion** ou **Issue** para dúvidas.
+5. Abra PR com justificativa completa
+
+---
+
+## Processo de Revisão
+
+```
+1. CI Automatizado
+   └── Lint, Format, Typecheck
+
+2. Revisão por Mantenedor
+   └── Verificação de princípios
+
+3. Revisão por Especialista (traduções)
+   └── Validação etimológica
+
+4. Merge
+   └── Após 1+ aprovações
+
+5. Deploy Automático
+   └── Cloudflare Workers
+```
+
+---
+
+## Recursos Úteis
+
+### Ferramentas de Estudo
+
+| Ferramenta | URL | Uso |
+|------------|-----|-----|
+| Blue Letter Bible | https://www.blueletterbible.org | Concordância Strong's |
+| STEPBible | https://www.stepbible.org | Análise interlinear |
+| Perseus Digital Library | http://www.perseus.tufts.edu | Léxicos gregos |
+| Biblia Hebraica | https://tanach.us | Texto hebraico |
+
+### Léxicos Acadêmicos
+
+- **BDAG** - Bauer-Danker Greek-English Lexicon
+- **HALOT** - Hebrew and Aramaic Lexicon of the OT
+- **Louw-Nida** - Greek-English Lexicon of the NT
+- **BDB** - Brown-Driver-Briggs Hebrew Lexicon
+
+### Documentação do Projeto
+
+- [README.md](README.md) - Documentação da API
+- [glossary/README.md](glossary/README.md) - Sistema de glossário
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) - Código de conduta
+
+---
+
+## Boas Práticas
+
+### Para Código
+
+- ✅ Mantenha funções pequenas e focadas
+- ✅ Use TypeScript estrito (sem `any`)
+- ✅ Documente endpoints novos no OpenAPI
+- ✅ Siga o padrão de resposta existente (`success`, `data`, `meta`)
+- ❌ Não introduza dependências desnecessárias
+- ❌ Não altere comportamento de endpoints existentes sem discussão
+
+### Para Traduções
+
+- ✅ Priorize a raiz etimológica
+- ✅ Mantenha consistência (mesma palavra = mesma tradução)
+- ✅ Forneça referências acadêmicas
+- ✅ Considere o contexto original
+- ❌ Não traduza com base em tradições denominacionais
+- ❌ Não priorize fluidez sobre literalidade
+- ❌ Não insira interpretações no texto
+
+---
+
+## Dúvidas?
+
+| Canal | Uso |
+|-------|-----|
+| **Issues** | Bugs, sugestões de features |
+| **Discussions** | Perguntas gerais, ideias |
+| **Pull Requests** | Contribuições de código/tradução |
+
+---
+
+## Reconhecimento
+
+Contribuidores são reconhecidos em:
+
+- README.md (seção Contributors)
+- Release notes
+- Créditos da tradução
 
 ---
 
 **Ecossistema A Culpa é das Ovelhas**
+
+> "Você lê. E a interpretação é sua."
+
+*Porque as ovelhas precisam conhecer a voz do Pastor*

@@ -22,6 +22,43 @@ A **Bíblia Belém An.C 2025** é uma tradução literal rígida orientada diret
 
 ---
 
+## Quick Start
+
+### Usuários da API (sem instalação)
+
+```bash
+# Testar conexão
+curl https://biblia.aculpaedasovelhas.org/health
+
+# Listar livros
+curl https://biblia.aculpaedasovelhas.org/api/v1/books
+
+# Gênesis capítulo 1
+curl https://biblia.aculpaedasovelhas.org/api/v1/verses/GEN/1
+
+# Buscar "amor" no Novo Testamento
+curl "https://biblia.aculpaedasovelhas.org/api/v1/verses/search?q=amor&testament=NT"
+```
+
+### Desenvolvedores
+
+```bash
+git clone https://github.com/OtimizaPro/biblia-belem-anc.git
+cd biblia-belem-anc
+npm install
+npm run dev:remote
+# Acesse: http://localhost:8787/health
+```
+
+### Contribuidores de Tradução
+
+1. Leia os [Princípios Metodológicos](#princípios-metodológicos)
+2. Consulte o [Guia de Contribuição](CONTRIBUTING.md)
+3. Veja o [Glossário](glossary/README.md) para entender o formato
+4. Abra uma Issue usando o template "Sugestão de Tradução"
+
+---
+
 ## URLs de Produção
 
 | Serviço | URL |
@@ -552,5 +589,18 @@ Para contribuir com traduções, veja [glossary/README.md](glossary/README.md).
 
 ## Licença
 
-Proprietário - A Culpa é das Ovelhas
-Copyright 2025 Anderson Costa Belem
+Este projeto está licenciado sob [CC BY 4.0](LICENSE) - Creative Commons Attribution 4.0 International.
+
+Você pode usar, copiar, modificar e distribuir livremente, desde que atribua crédito ao autor original.
+
+**Copyright 2025 Anderson Costa Belem - A Culpa é das Ovelhas**
+
+### Atribuição
+
+Ao usar este projeto, inclua:
+
+```
+Bíblia Belém An.C 2025 - Tradução literal por Anderson Costa Belem
+https://github.com/OtimizaPro/biblia-belem-anc
+Licenciado sob CC BY 4.0
+```

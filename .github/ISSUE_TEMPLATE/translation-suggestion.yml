@@ -1,0 +1,117 @@
+name: "Sugestão de Tradução"
+description: "Sugerir tradução literal para uma palavra grega ou hebraica"
+title: "[TRADUÇÃO] "
+labels: ["translation", "glossary", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Sugestão de Tradução Literal
+
+        Obrigado por contribuir com a Bíblia Belém An.C 2025!
+
+        > **Lembre-se:** "Você lê. E a interpretação é sua."
+
+        Esta tradução prioriza **literalidade rígida** sobre fluidez. Sua sugestão deve ser justificada etimologicamente.
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Idioma Original
+      options:
+        - Grego (koiné)
+        - Hebraico (bíblico)
+        - Aramaico
+    validations:
+      required: true
+
+  - type: input
+    id: original-word
+    attributes:
+      label: Palavra Original
+      description: Escreva a palavra no alfabeto original (grego ou hebraico)
+      placeholder: "Ex: λόγος ou בְּרֵאשִׁית"
+    validations:
+      required: true
+
+  - type: input
+    id: transliteration
+    attributes:
+      label: Transliteração
+      description: Como a palavra é pronunciada em caracteres latinos
+      placeholder: "Ex: logos ou bereshit"
+    validations:
+      required: true
+
+  - type: input
+    id: strongs
+    attributes:
+      label: Número Strong's
+      description: Código Strong's Concordance (G para grego, H para hebraico)
+      placeholder: "Ex: G3056 ou H7225"
+    validations:
+      required: true
+
+  - type: input
+    id: suggested-translation
+    attributes:
+      label: Tradução Literal Sugerida
+      description: Sua sugestão de tradução literal em português
+      placeholder: "Ex: palavra, verbo, discurso"
+    validations:
+      required: true
+
+  - type: textarea
+    id: etymology
+    attributes:
+      label: Justificativa Etimológica
+      description: Por que esta tradução é mais literal? Cite raízes, cognatos, evolução semântica.
+      placeholder: |
+        Exemplo:
+        - Raiz: λέγω (legō) = "falar, dizer"
+        - Cognatos: λόγιον (logion), λογικός (logikos)
+        - Significado primário: "o que é dito/falado"
+    validations:
+      required: true
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Exemplos Bíblicos (2-3 versículos)
+      description: Cite versículos onde esta tradução seria aplicada e como ficaria
+      placeholder: |
+        - João 1:1 - "No princípio era a palavra..." (atual) → "No princípio era o verbo..."
+        - Gênesis 1:1 - "No princípio criou Deus..." (mantém)
+    validations:
+      required: true
+
+  - type: input
+    id: current-translation
+    attributes:
+      label: Tradução Atual (se existir)
+      description: Qual é a tradução atual no glossário? Deixe em branco se não existe.
+      placeholder: "Ex: palavra"
+
+  - type: textarea
+    id: references
+    attributes:
+      label: Referências Acadêmicas
+      description: Cite léxicos, dicionários ou estudos que suportam sua sugestão
+      placeholder: |
+        - BDAG (Bauer-Danker Greek-English Lexicon)
+        - HALOT (Hebrew and Aramaic Lexicon of the OT)
+        - Louw-Nida Greek-English Lexicon
+        - Artigo: "Etymology of λόγος" - Journal of Biblical Studies
+
+  - type: checkboxes
+    id: principles
+    attributes:
+      label: Confirmação de Princípios
+      description: Confirme que sua sugestão segue os princípios do projeto
+      options:
+        - label: Esta tradução prioriza literalidade sobre fluidez
+          required: true
+        - label: Não estou tentando inserir viés interpretativo ou doutrinário
+          required: true
+        - label: Forneci justificativa etimológica baseada em fontes acadêmicas
+          required: true
