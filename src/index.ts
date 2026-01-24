@@ -10,6 +10,7 @@ import tokens from './routes/tokens';
 import glosses from './routes/glosses';
 import translationInfo from './routes/translation-info';
 import { glossaryRoutes } from './routes/glossary';
+import search from './routes/search';
 import { openApiSpec } from './docs/openapi';
 
 const app = new Hono<{ Bindings: Env }>();
@@ -106,6 +107,7 @@ app.route('/api/v1/tokens', tokens);
 app.route('/api/v1/glosses', glosses);
 app.route('/api/v1/glossary', glossaryRoutes);
 app.route('/api/v1/translation-info', translationInfo);
+app.route('/api/v1/search', search);
 
 // 404 handler
 app.notFound((c) => {
