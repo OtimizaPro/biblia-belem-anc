@@ -43,7 +43,10 @@ books.get('/', async (c) => {
 // GET /api/v1/books/:code - Detalhes de um livro
 books.get('/:code', async (c) => {
   try {
-    const code = c.req.param('code').toUpperCase().replace(/[^A-Z0-9]/g, '');
+    const code = c.req
+      .param('code')
+      .toUpperCase()
+      .replace(/[^A-Z0-9]/g, '');
 
     const result = await c.env.DB.prepare('SELECT * FROM books WHERE code = ?')
       .bind(code)

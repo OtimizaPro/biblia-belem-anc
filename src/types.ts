@@ -58,9 +58,17 @@ export interface ApiResponse<T> {
   success: boolean;
   data?: T;
   error?: string;
+  /**
+   * Metadados opcionais da resposta.
+   *
+   * Observação: alguns endpoints retornam campos extras (ex.: `layers`,
+   * `description`). Mantemos este tipo flexível para não travar a evolução
+   * da API, preservando ao mesmo tempo os campos comuns.
+   */
   meta?: {
     count?: number;
     page?: number;
     total?: number;
+    [key: string]: unknown;
   };
 }

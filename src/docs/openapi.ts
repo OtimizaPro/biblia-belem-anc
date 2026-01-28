@@ -385,6 +385,30 @@ export const openApiSpec = {
         },
       },
     },
+    '/api/v1/translation-info/editorial-decisions': {
+      get: {
+        summary: 'Decisões editoriais estruturais',
+        tags: ['Tradução'],
+        description: 'Informações sobre decisões estruturais como remoção de versículos',
+        responses: {
+          '200': {
+            description: 'Decisões editoriais e motivos históricos',
+          },
+        },
+      },
+    },
+    '/api/v1/translation-info/editorial-decisions/verses': {
+      get: {
+        summary: 'Informação sobre remoção de versículos',
+        tags: ['Tradução'],
+        description: 'Explica por que os marcadores de versículos foram removidos',
+        responses: {
+          '200': {
+            description: 'Contexto histórico e motivo da remoção de versículos',
+          },
+        },
+      },
+    },
     '/api/v1/translation-info/word/{word}': {
       get: {
         summary: 'Informação de uma palavra específica',
@@ -405,6 +429,128 @@ export const openApiSpec = {
           '404': {
             description: 'Palavra não encontrada',
           },
+        },
+      },
+    },
+
+    '/api/v1/search': {
+      get: {
+        summary: 'Buscar no texto traduzido',
+        tags: ['Busca'],
+        description:
+          'Busca simples em `verses.text_translated`. Retorna trechos com highlight em HTML (<mark>).',
+        parameters: [
+          {
+            name: 'q',
+            in: 'query',
+            required: true,
+            description: 'Termo de busca (mínimo 2, máximo 200 caracteres)',
+            schema: { type: 'string' },
+          },
+          {
+            name: 'book',
+            in: 'query',
+            required: false,
+            description: 'Filtrar por livro (código, ex.: GEN, MAT)',
+            schema: { type: 'string' },
+          },
+          {
+            name: 'limit',
+            in: 'query',
+            required: false,
+            description: 'Limite de resultados (padrão: 20; máx: 100)',
+            schema: { type: 'integer', default: 20, maximum: 100 },
+          },
+        ],
+        responses: {
+          '200': {
+            description: 'Resultados da busca',
+          },
+          '400': { description: 'Parâmetros inválidos' },
+        },
+      },
+    },
+
+    '/api/v1/glossary': {
+      get: {
+        summary: 'Listar entradas do glossário',
+        tags: ['Glossário'],
+        responses: {
+          '200': { description: 'Lista de entradas do glossário' },
+        },
+      },
+    },
+    '/api/v1/glossary/{word}': {
+      get: {
+        summary: 'Detalhe de uma palavra no glossário',
+        tags: ['Glossário'],
+        parameters: [
+          {
+            name: 'word',
+            in: 'path',
+            required: true,
+            description: 'Palavra (URL encoded)',
+            schema: { type: 'string' },
+          },
+        ],
+        responses: {
+          '200': { description: 'Entrada do glossário' },
+          '404': { description: 'Palavra não encontrada' },
+        },
+      },
+    },
+    '/api/v1/glossary/suggest': {
+      post: {
+        summary: 'Sugerir tradução/atualização de glossário',
+        tags: ['Glossário'],
+        requestBody: {
+          required: true,
+          content: {
+            'application/json': {
+              schema: {
+                type: 'object',
+                required: ['word', 'translation'],
+                properties: {
+                  word: { type: 'string' },
+                  translation: { type: 'string' },
+                  strongs: { type: 'string', nullable: true },
+                  notes: { type: 'string', nullable: true },
+                  contributor: { type: 'string', nullable: true },
+                },
+              },
+            },
+          },
+        },
+        responses: {
+          '200': { description: 'Sugestão registrada (pendente de revisão)' },
+          '400': { description: 'Campos obrigatórios ausentes' },
+        },
+      },
+    },
+    '/api/v1/glossary/missing/{book}': {
+      get: {
+        summary: 'Listar palavras sem tradução (por livro)',
+        tags: ['Glossário'],
+        parameters: [
+          {
+            name: 'book',
+            in: 'path',
+            required: true,
+            description: 'Código do livro (ex.: GEN)',
+            schema: { type: 'string' },
+          },
+        ],
+        responses: {
+          '200': { description: 'Lista de palavras faltantes no glossário' },
+        },
+      },
+    },
+    '/api/v1/glossary/stats/overview': {
+      get: {
+        summary: 'Estatísticas do glossário',
+        tags: ['Glossário'],
+        responses: {
+          '200': { description: 'Estatísticas (total, aprovadas, pendentes, contribuidores)' },
         },
       },
     },
@@ -469,5 +615,7 @@ export const openApiSpec = {
       name: 'Tradução',
       description: 'Informações sobre marcadores editoriais e palavras não traduzidas',
     },
+    { name: 'Busca', description: 'Busca textual simples' },
+    { name: 'Glossário', description: 'Contribuição comunitária para traduções' },
   ],
 };

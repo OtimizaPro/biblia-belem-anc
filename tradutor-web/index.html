@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bíblia Tradutor - Ollama + CUDA</title>
+  <style>
+    :root {
+      --bg-primary: #0f0f1a;
+      --bg-secondary: #1a1a2e;
+      --bg-tertiary: #252542;
+      --bg-card: #1e1e35;
+      --text-primary: #ffffff;
+      --text-secondary: #a0a0b0;
+      --text-muted: #6a6a7a;
+      --accent-primary: #6366f1;
+      --accent-secondary: #818cf8;
+      --accent-success: #22c55e;
+      --accent-warning: #f59e0b;
+      --accent-danger: #ef4444;
+      --border-color: #2a2a4a;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.5rem 2rem;
+      background: var(--bg-secondary);
+      border-bottom: 1px solid var(--border-color);
+      margin-bottom: 2rem;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .logo-icon { font-size: 2.5rem; }
+    .logo h1 { font-size: 1.5rem; }
+    .logo .subtitle { font-size: 0.85rem; color: var(--text-secondary); }
+
+    .status-badges {
+      display: flex;
+      gap: 1rem;
+    }
+
+    .badge {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1rem;
+      background: var(--bg-tertiary);
+      border-radius: 20px;
+      font-size: 0.85rem;
+    }
+
+    .badge .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--text-muted);
+    }
+
+    .badge .dot.online { background: var(--accent-success); box-shadow: 0 0 8px var(--accent-success); }
+    .badge .dot.offline { background: var(--accent-danger); }
+
+    .tabs {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 2rem;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 1rem;
+    }
+
+    .tab-btn {
+      padding: 0.75rem 1.5rem;
+      background: transparent;
+      border: none;
+      border-radius: 8px;
+      color: var(--text-secondary);
+      font-size: 1rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .tab-btn:hover { background: var(--bg-tertiary); color: var(--text-primary); }
+    .tab-btn.active { background: var(--accent-primary); color: white; }
+
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .stat-card {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1.5rem;
+      background: var(--bg-card);
+      border-radius: 12px;
+      border: 1px solid var(--border-color);
+    }
+
+    .stat-card .icon { font-size: 2rem; }
+    .stat-card .value { font-size: 1.75rem; font-weight: 700; }
+    .stat-card .label { font-size: 0.85rem; color: var(--text-secondary); }
+
+    .section {
+      background: var(--bg-card);
+      border-radius: 12px;
+      border: 1px solid var(--border-color);
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .section h3 {
+      margin-bottom: 1rem;
+      color: var(--text-secondary);
+      font-size: 1rem;
+    }
+
+    .controls {
+      display: flex;
+      gap: 1rem;
+      align-items: flex-end;
+      flex-wrap: wrap;
+    }
+
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .control-group label {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+
+    select, input[type="text"] {
+      padding: 0.75rem 1rem;
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      color: var(--text-primary);
+      font-size: 1rem;
+      min-width: 200px;
+    }
+
+    select:focus, input:focus {
+      outline: none;
+      border-color: var(--accent-primary);
+    }
+
+    .btn {
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    .btn-primary { background: var(--accent-primary); color: white; }
+    .btn-primary:hover:not(:disabled) { background: var(--accent-secondary); }
+    .btn-danger { background: var(--accent-danger); color: white; }
+    .btn-secondary { background: var(--bg-tertiary); color: var(--text-primary); border: 1px solid var(--border-color); }
+
+    .console {
+      height: 300px;
+      padding: 1rem;
+      background: #0a0a12;
+      border-radius: 8px;
+      font-family: 'Consolas', monospace;
+      font-size: 0.85rem;
+      color: #22c55e;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      word-break: break-all;
+    }
+
+    .books-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 0.75rem;
+      max-height: 300px;
+      overflow-y: auto;
+    }
+
+    .book-item {
+      padding: 0.75rem;
+      background: var(--bg-tertiary);
+      border-radius: 8px;
+      text-align: center;
+    }
+
+    .book-name {
+      font-size: 0.85rem;
+      margin-bottom: 0.5rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .progress-bar {
+      height: 4px;
+      background: var(--bg-secondary);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+
+    .progress-bar .fill {
+      height: 100%;
+      background: var(--accent-success);
+      transition: width 0.3s;
+    }
+
+    .book-percentage {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-top: 0.25rem;
+    }
+
+    .quick-translate {
+      display: flex;
+      gap: 1rem;
+      align-items: flex-end;
+      flex-wrap: wrap;
+    }
+
+    .quick-translate input {
+      min-width: 300px;
+      font-size: 1.2rem;
+    }
+
+    .radio-group {
+      display: flex;
+      gap: 1.5rem;
+    }
+
+    .radio-label {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      cursor: pointer;
+      color: var(--text-secondary);
+    }
+
+    .result-box {
+      min-height: 150px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .result-original { font-size: 2rem; color: var(--text-secondary); margin-bottom: 0.5rem; }
+    .result-arrow { font-size: 1.5rem; color: var(--text-muted); margin: 0.5rem 0; }
+    .result-translation { font-size: 2.5rem; font-weight: 700; color: var(--accent-secondary); }
+    .result-placeholder { color: var(--text-muted); }
+
+    .examples {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-top: 1rem;
+    }
+
+    .example-btn {
+      padding: 0.5rem 1rem;
+      background: var(--bg-tertiary);
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .example-btn:hover {
+      background: var(--accent-primary);
+      color: white;
+      border-color: var(--accent-primary);
+    }
+
+    .loading { animation: pulse 1.5s infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+
+    .glossary-info {
+      display: flex;
+      gap: 2rem;
+      flex-wrap: wrap;
+    }
+
+    .glossary-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .glossary-count {
+      font-weight: 600;
+      color: var(--accent-secondary);
+    }
+
+    ::-webkit-scrollbar { width: 8px; }
+    ::-webkit-scrollbar-track { background: var(--bg-secondary); }
+    ::-webkit-scrollbar-thumb { background: var(--bg-tertiary); border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: var(--accent-primary); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <span class="logo-icon">📜</span>
+      <div>
+        <h1>Bíblia Belém An.C 2025</h1>
+        <span class="subtitle">Tradutor Local Ollama + CUDA</span>
+      </div>
+    </div>
+    <div class="status-badges">
+      <div class="badge">
+        <span class="dot" id="ollama-dot"></span>
+        <span>Ollama</span>
+      </div>
+      <div class="badge">
+        <span class="dot" id="gpu-dot"></span>
+        <span id="gpu-name">GPU</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="tabs">
+      <button class="tab-btn active" data-tab="dashboard">📊 Dashboard</button>
+      <button class="tab-btn" data-tab="translate">🔄 Traduzir</button>
+      <button class="tab-btn" data-tab="quick">⚡ Tradução Rápida</button>
+    </div>
+
+    <!-- Dashboard -->
+    <div class="tab-content active" id="tab-dashboard">
+      <div class="stats-grid">
+        <div class="stat-card">
+          <span class="icon">📚</span>
+          <div>
+            <div class="value" id="stat-total">-</div>
+            <div class="label">Tokens Totais</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <span class="icon">✅</span>
+          <div>
+            <div class="value" id="stat-translated">-</div>
+            <div class="label">Traduzidos</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <span class="icon">📈</span>
+          <div>
+            <div class="value" id="stat-percentage">-</div>
+            <div class="label">Progresso</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <span class="icon">🎮</span>
+          <div>
+            <div class="value" id="stat-gpu">-</div>
+            <div class="label">VRAM</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <h3>Glossários Carregados</h3>
+        <div class="glossary-info">
+          <div class="glossary-item">
+            <span>🇬🇷 Grego:</span>
+            <span class="glossary-count" id="glossary-greek">-</span>
+          </div>
+          <div class="glossary-item">
+            <span>🇮🇱 Hebraico:</span>
+            <span class="glossary-count" id="glossary-hebrew">-</span>
+          </div>
+          <div class="glossary-item">
+            <span>🔒 Manter Original:</span>
+            <span class="glossary-count" id="glossary-keep">-</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <h3>Modelos Disponíveis</h3>
+        <div id="models-list">Carregando...</div>
+      </div>
+    </div>
+
+    <!-- Traduzir -->
+    <div class="tab-content" id="tab-translate">
+      <div class="section">
+        <h3>Configuração</h3>
+        <div class="controls">
+          <div class="control-group">
+            <label>Livro</label>
+            <select id="book-select">
+              <option value="ALL">Todos os Livros</option>
+            </select>
+          </div>
+          <div class="control-group">
+            <label>Modelo</label>
+            <select id="model-select">
+              <option value="qwen2.5:14b">qwen2.5:14b (Recomendado)</option>
+              <option value="llama3.2:8b">llama3.2:8b (Rápido)</option>
+              <option value="mistral:7b">mistral:7b (Leve)</option>
+            </select>
+          </div>
+          <button class="btn btn-primary" id="btn-start">▶️ Iniciar</button>
+          <button class="btn btn-danger" id="btn-stop" disabled>⏹️ Parar</button>
+        </div>
+      </div>
+
+      <div class="section">
+        <h3>Progresso por Livro</h3>
+        <div class="books-grid" id="books-grid">Carregando...</div>
+      </div>
+
+      <div class="section">
+        <h3>Log de Tradução</h3>
+        <div class="console" id="console">O log aparecerá aqui...</div>
+      </div>
+    </div>
+
+    <!-- Tradução Rápida -->
+    <div class="tab-content" id="tab-quick">
+      <div class="section">
+        <div class="quick-translate">
+          <div class="control-group">
+            <label>Palavra Original</label>
+            <input type="text" id="quick-word" placeholder="Digite em grego ou hebraico...">
+          </div>
+          <div class="control-group">
+            <label>Idioma</label>
+            <div class="radio-group">
+              <label class="radio-label">
+                <input type="radio" name="language" value="greek" checked>
+                <span>🇬🇷 Grego</span>
+              </label>
+              <label class="radio-label">
+                <input type="radio" name="language" value="hebrew">
+                <span>🇮🇱 Hebraico</span>
+              </label>
+            </div>
+          </div>
+          <button class="btn btn-primary" id="btn-quick">🔄 Traduzir</button>
+        </div>
+        <div class="examples">
+          <button class="example-btn" data-word="λόγος" data-lang="greek">λόγος</button>
+          <button class="example-btn" data-word="ἀγάπη" data-lang="greek">ἀγάπη</button>
+          <button class="example-btn" data-word="πίστις" data-lang="greek">πίστις</button>
+          <button class="example-btn" data-word="χάρις" data-lang="greek">χάρις</button>
+          <button class="example-btn" data-word="דָּבָר" data-lang="hebrew">דָּבָר</button>
+          <button class="example-btn" data-word="שָׁלוֹם" data-lang="hebrew">שָׁלוֹם</button>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="result-box" id="result-box">
+          <div class="result-placeholder">Digite uma palavra e clique em "Traduzir"</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const API = '/api';
+    let pollInterval = null;
+
+    // ═══════════════════════════════════════════════════════════════════
+    // Inicialização
+    // ═══════════════════════════════════════════════════════════════════
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      setupTabs();
+      setupEvents();
+      await loadStatus();
+      await loadBooks();
+    });
+
+    function setupTabs() {
+      document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+          document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+          btn.classList.add('active');
+          document.getElementById(`tab-${btn.dataset.tab}`).classList.add('active');
+        });
+      });
+    }
+
+    function setupEvents() {
+      document.getElementById('btn-start').addEventListener('click', startTranslation);
+      document.getElementById('btn-stop').addEventListener('click', stopTranslation);
+      document.getElementById('btn-quick').addEventListener('click', quickTranslate);
+      document.getElementById('quick-word').addEventListener('keypress', e => {
+        if (e.key === 'Enter') quickTranslate();
+      });
+
+      document.querySelectorAll('.example-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.getElementById('quick-word').value = btn.dataset.word;
+          document.querySelector(`input[name="language"][value="${btn.dataset.lang}"]`).checked = true;
+          quickTranslate();
+        });
+      });
+    }
+
+    // ═══════════════════════════════════════════════════════════════════
+    // Status
+    // ═══════════════════════════════════════════════════════════════════
+
+    async function loadStatus() {
+      try {
+        const res = await fetch(`${API}/status`);
+        const data = await res.json();
+
+        // Ollama
+        const ollamaDot = document.getElementById('ollama-dot');
+        ollamaDot.classList.toggle('online', data.ollama.online);
+        ollamaDot.classList.toggle('offline', !data.ollama.online);
+
+        // GPU
+        const gpuDot = document.getElementById('gpu-dot');
+        gpuDot.classList.toggle('online', data.gpu.available);
+        gpuDot.classList.toggle('offline', !data.gpu.available);
+
+        if (data.gpu.available) {
+          document.getElementById('gpu-name').textContent = data.gpu.name.split(' ').pop();
+          document.getElementById('stat-gpu').textContent = `${((data.gpu.memoryTotal - data.gpu.memoryUsed) / 1024).toFixed(1)} GB`;
+        }
+
+        // Stats
+        document.getElementById('stat-total').textContent = data.db.total.toLocaleString();
+        document.getElementById('stat-translated').textContent = data.db.translated.toLocaleString();
+        document.getElementById('stat-percentage').textContent = data.db.percentage + '%';
+
+        // Glossaries
+        document.getElementById('glossary-greek').textContent = data.glossary.greek.toLocaleString() + ' entradas';
+        document.getElementById('glossary-hebrew').textContent = data.glossary.hebrew.toLocaleString() + ' entradas';
+        document.getElementById('glossary-keep').textContent = data.glossary.keep.toLocaleString() + ' palavras';
+
+        // Models
+        if (data.ollama.models.length > 0) {
+          document.getElementById('models-list').innerHTML = data.ollama.models.map(m =>
+            `<span style="margin-right: 1rem; padding: 0.25rem 0.5rem; background: var(--bg-tertiary); border-radius: 4px;">${m.name}</span>`
+          ).join('');
+        } else {
+          document.getElementById('models-list').textContent = 'Nenhum modelo instalado';
+        }
+
+      } catch (e) {
+        console.error('Erro ao carregar status:', e);
+      }
+    }
+
+    async function loadBooks() {
+      try {
+        const res = await fetch(`${API}/books`);
+        const data = await res.json();
+
+        if (data.success) {
+          // Select
+          const select = document.getElementById('book-select');
+          select.innerHTML = '<option value="ALL">Todos os Livros</option>';
+          data.books.forEach(book => {
+            const pct = book.total_tokens > 0 ? ((book.translated_tokens / book.total_tokens) * 100).toFixed(0) : 0;
+            select.innerHTML += `<option value="${book.code}">${book.name_pt} (${pct}%)</option>`;
+          });
+
+          // Grid
+          document.getElementById('books-grid').innerHTML = data.books.map(book => {
+            const pct = book.total_tokens > 0 ? ((book.translated_tokens / book.total_tokens) * 100).toFixed(0) : 0;
+            return `
+              <div class="book-item">
+                <div class="book-name" title="${book.name_pt}">${book.name_pt}</div>
+                <div class="progress-bar"><div class="fill" style="width: ${pct}%"></div></div>
+                <div class="book-percentage">${pct}%</div>
+              </div>
+            `;
+          }).join('');
+        }
+      } catch (e) {
+        console.error('Erro ao carregar livros:', e);
+      }
+    }
+
+    // ═══════════════════════════════════════════════════════════════════
+    // Tradução em Lote
+    // ═══════════════════════════════════════════════════════════════════
+
+    async function startTranslation() {
+      const bookCode = document.getElementById('book-select').value;
+      const model = document.getElementById('model-select').value;
+      const console = document.getElementById('console');
+
+      console.textContent = 'Iniciando tradução...\n';
+
+      document.getElementById('btn-start').disabled = true;
+      document.getElementById('btn-stop').disabled = false;
+
+      await fetch(`${API}/start-translation`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ bookCode, model })
+      });
+
+      // Poll output
+      pollInterval = setInterval(async () => {
+        const res = await fetch(`${API}/translation-output`);
+        const data = await res.json();
+        console.textContent = data.output || 'Aguardando output...';
+        console.scrollTop = console.scrollHeight;
+
+        if (!data.isRunning) {
+          clearInterval(pollInterval);
+          document.getElementById('btn-start').disabled = false;
+          document.getElementById('btn-stop').disabled = true;
+          loadStatus();
+          loadBooks();
+        }
+      }, 1000);
+    }
+
+    async function stopTranslation() {
+      await fetch(`${API}/stop-translation`, { method: 'POST' });
+      clearInterval(pollInterval);
+      document.getElementById('btn-start').disabled = false;
+      document.getElementById('btn-stop').disabled = true;
+    }
+
+    // ═══════════════════════════════════════════════════════════════════
+    // Tradução Rápida
+    // ═══════════════════════════════════════════════════════════════════
+
+    async function quickTranslate() {
+      const word = document.getElementById('quick-word').value.trim();
+      const language = document.querySelector('input[name="language"]:checked').value;
+      const resultBox = document.getElementById('result-box');
+
+      if (!word) {
+        resultBox.innerHTML = '<div class="result-placeholder">Digite uma palavra</div>';
+        return;
+      }
+
+      resultBox.innerHTML = '<div class="result-placeholder loading">Traduzindo...</div>';
+
+      try {
+        const res = await fetch(`${API}/translate-word`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ word, language })
+        });
+        const data = await res.json();
+
+        if (data.success) {
+          resultBox.innerHTML = `
+            <div>
+              <div class="result-original">${word}</div>
+              <div class="result-arrow">↓</div>
+              <div class="result-translation">${data.translation}</div>
+            </div>
+          `;
+        } else {
+          resultBox.innerHTML = `<div class="result-placeholder" style="color: var(--accent-danger);">Erro: ${data.error}</div>`;
+        }
+      } catch (e) {
+        resultBox.innerHTML = `<div class="result-placeholder" style="color: var(--accent-danger);">Erro de conexão</div>`;
+      }
+    }
+  </script>
+</body>
+</html>

@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.2",
+    "applicationinsights": "^3.13.0",
     "dotenv": "^17.2.3",
     "hono": "^4.6.0"
   },

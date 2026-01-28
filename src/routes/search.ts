@@ -1,5 +1,5 @@
 import { Hono } from 'hono';
-import type { Env } from '../types';
+import type { Env, ApiResponse } from '../types';
 
 const search = new Hono<{ Bindings: Env }>();
 
@@ -65,8 +65,13 @@ search.get('/', async (c) => {
     const searchTerm = q.trim();
     const limitNum = Math.min(parseInt(limit) || 20, MAX_LIMIT);
 
+    // Observação importante sobre o schema real do D1:
+    // - A tabela `verses` (remota) não possui colunas de texto (ex.: text_translated).
+    // - O texto traduzido está em `tokens.pt_literal`.
+    // Então, a busca aqui é feita em `tokens.pt_literal`, agregando o verso via GROUP_CONCAT.
+
     // Base query conditions
-    let whereClause = 'v.text_translated LIKE ?';
+    let whereClause = `t.pt_literal LIKE ?`;
     const params: (string | number)[] = [`%${searchTerm}%`];
 
     if (book) {
@@ -86,9 +91,10 @@ search.get('/', async (c) => {
 
     // Contar total de resultados
     const countSql = `
-      SELECT COUNT(v.id) as total
+      SELECT COUNT(DISTINCT v.id) as total
       FROM verses v
       JOIN books b ON v.book_id = b.id
+      JOIN tokens t ON t.verse_id = v.id
       WHERE ${whereClause}
     `;
 
@@ -100,10 +106,17 @@ search.get('/', async (c) => {
 
     // Buscar resultados paginados
     const sql = `
-      SELECT v.chapter, v.verse, v.text_translated, b.code as book_code
+      SELECT
+        v.chapter,
+        v.verse,
+        b.code as book_code,
+        -- Monta o verso a partir dos tokens já traduzidos (pt_literal)
+        GROUP_CONCAT(t.pt_literal, ' ') as text_translated
       FROM verses v
       JOIN books b ON v.book_id = b.id
+      JOIN tokens t ON t.verse_id = v.id
       WHERE ${whereClause}
+      GROUP BY v.id
       ORDER BY b.canon_order, v.chapter, v.verse
       LIMIT ?
     `;
@@ -130,12 +143,17 @@ search.get('/', async (c) => {
       highlight: highlightText(item.text_translated, searchTerm),
     }));
 
-    return c.json({
+    const response: ApiResponse<SearchResult[]> = {
       success: true,
-      results,
-      total,
-      query: searchTerm,
-    });
+      data: results,
+      meta: {
+        count: results.length,
+        total,
+        query: searchTerm,
+      },
+    };
+
+    return c.json(response);
   } catch (error) {
     console.error('Search error:', error);
     return c.json(
@@ -149,4 +167,3 @@ search.get('/', async (c) => {
 });
 
 export default search;
-

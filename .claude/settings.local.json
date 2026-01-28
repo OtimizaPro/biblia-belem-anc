@@ -91,7 +91,17 @@
       "Bash(git add:*)",
       "Bash(git commit -m \"$\\(cat <<''EOF''\nExpand Greek glossary with 4500+ new entries\n\n- Add comprehensive Greek-to-Portuguese translations\n- Update keep_original.json with sacred terms preservation\n- Greek glossary now covers major NT vocabulary\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
       "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd translation and rebuild scripts\n\n- claude-translations.mjs: Manual translations for frequent words\n- rebuild-verse-translations.mjs: Reconstruct verse translations from tokens\n- add-translations-*.mjs: Batch processing scripts\n- replace-yhwh.mjs: YHWH standardization\n- remove-verse-markers.mjs: Cleanup utility\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(powershell:*)",
+      "Bash(npm start)",
+      "Bash(npx electron:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npm run deploy:*)",
+      "Bash(git pull:*)",
+      "Bash(git stash:*)",
+      "Bash(git push:*)",
+      "Bash(curl.exe:*)",
+      "Bash(tasklist:*)"
     ],
     "additionalDirectories": [
       "v:\\Projetos\\Ecossistema aculpaedasovelhas\\Bible Belem AnC 2025",

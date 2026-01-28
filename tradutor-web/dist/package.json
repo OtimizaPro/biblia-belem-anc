@@ -1,0 +1,12 @@
+{
+  "name": "biblia-tradutor",
+  "version": "1.0.0",
+  "bin": "server.cjs",
+  "pkg": {
+    "targets": [
+      "node18-win-x64"
+    ],
+    "outputPath": ".",
+    "assets": []
+  }
+}

@@ -1,77 +1,75 @@
-# CLAUDE.md - Bible Belem AnC 2025
+# CLAUDE.md - Biblia Belem AnC 2025
 
 > LEIA ESTE ARQUIVO ANTES DE QUALQUER ACAO NESTE MODULO
 
-**Atualizado:** 22 de Janeiro de 2026
+**Atualizado:** 26 de Janeiro de 2026
 
 ---
 
-Projeto de traducao literal rigida da Biblia do grego koine e hebraico biblico para portugues brasileiro.
+## Resumo Executivo
 
-> **Filosofia:** "Voce le. E a interpretacao e sua."
-
-**Posicao no Ecossistema:** `Site -> Blog -> Podcast -> Livrinho -> **Biblia** -> Comunidade -> Exeg.AI`
-
-**Branch de Producao:** `main`
-
-**Credenciais:** 1Password CLI (`op`)
+| Item | Valor |
+|------|-------|
+| **Projeto** | API REST da traducao biblica literal rigida |
+| **Filosofia** | "Voce le. E a interpretacao e sua." |
+| **Ecossistema** | Site -> Blog -> Podcast -> Livrinho -> **Biblia** -> Comunidade -> Exeg.AI |
+| **Branch** | `main` |
+| **Credenciais** | 1Password CLI (`op`) |
+| **Progresso** | ~57% traduzido |
 
 ---
 
-## Inicializacao do Projeto
+## Inicializacao Rapida
 
 ```bash
-# 1. Instalar dependencias (se necessario)
-npm install
-
-# 2. Iniciar API (conecta D1 producao)
-npm run dev:remote
-
-# 3. Iniciar Leitor Kindle (em outro terminal)
-cd leitor-kindle && npm run dev
-
-# 4. Abrir no browser
-# API: http://localhost:8787
-# Leitor: http://localhost:4321
+npm install                              # Instalar deps
+npm run dev:remote                       # API (porta 8787)
+cd leitor-kindle && npm run dev          # Leitor (porta 4321)
 ```
 
 ---
 
-## Documentacao Detalhada (Atalhos)
+## Atalhos para Documentacao
 
-| Arquivo | Descricao |
-|---------|-----------|
-| [README.md](README.md) | Documentacao completa da API (557 linhas) |
-| [glossary/README.md](glossary/README.md) | Guia do sistema de glossario (139 linhas) |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | Guia de contribuicao para desenvolvedores |
-| [CHANGELOG_TRANSLATION_NOTES.md](CHANGELOG_TRANSLATION_NOTES.md) | Historico de alteracoes nas notas de traducao |
-| [CHANGELOG_VERSE_REMOVAL.md](CHANGELOG_VERSE_REMOVAL.md) | Decisao historica: remocao de marcadores de versiculos |
-| [docs/OPENAPI_NEW_ENDPOINTS.txt](docs/OPENAPI_NEW_ENDPOINTS.txt) | Novos endpoints OpenAPI |
-| [.AnC Documentos/Registro tecnico do projeto.txt](.AnC%20Documentos/Registro%20tecnico%20do%20projeto.txt) | Registro tecnico completo (130 linhas) |
-| [.AnC Documentos/Repos.txt](.AnC%20Documentos/Repos.txt) | Links, URLs e comandos uteis (77 linhas) |
+> **IMPORTANTE:** Use estes atalhos em vez de duplicar conteudo aqui
+
+| Categoria | Arquivo | Linhas | Conteudo |
+|-----------|---------|--------|----------|
+| **API Completa** | [README.md](README.md) | 607 | Endpoints, exemplos, respostas |
+| **Glossario** | [glossary/README.md](glossary/README.md) | 139 | Sistema de traducao literal |
+| **Contribuicao** | [CONTRIBUTING.md](CONTRIBUTING.md) | 295 | Setup dev, PRs, tradutores |
+| **Roadmap** | [ROADMAP.md](ROADMAP.md) | 162 | Planejamento Q1-Q4 2026 |
+| **Seguranca** | [SECURITY.md](SECURITY.md) | 114 | Politica de vulnerabilidades |
+| **Auditoria** | [SECURITY-AUDIT.md](SECURITY-AUDIT.md) | 363 | SQL injection, XSS, deps |
+| **Changelog Notas** | [CHANGELOG_TRANSLATION_NOTES.md](CHANGELOG_TRANSLATION_NOTES.md) | 123 | Marcadores [OBJ], yhwh |
+| **Changelog Versiculos** | [CHANGELOG_VERSE_REMOVAL.md](CHANGELOG_VERSE_REMOVAL.md) | 84 | Decisao remocao de versiculos |
+| **OpenAPI Novos** | [docs/OPENAPI_NEW_ENDPOINTS.txt](docs/OPENAPI_NEW_ENDPOINTS.txt) | 50 | Endpoints editorial-decisions |
+| **Registro Tecnico** | [.AnC Documentos/Registro tecnico do projeto.txt](.AnC%20Documentos/Registro%20tecnico%20do%20projeto.txt) | 130 | Stack, objetivo, licenca |
+| **Repos/URLs** | [.AnC Documentos/Repos.txt](.AnC%20Documentos/Repos.txt) | 77 | Cloudflare, GitHub, URLs |
+| **Wiki** | [wiki-content/Home.md](wiki-content/Home.md) | 50 | Navegacao wiki |
 
 ---
 
-## Comandos Rapidos
+## Comandos Essenciais
 
 | Acao | Comando |
 |------|---------|
-| **API Dev Local** | `npm run dev` (porta 8787) |
-| **API Dev Remoto** | `npm run dev:remote` (conecta D1 producao) |
-| **API Deploy** | `npm run deploy` |
-| **Tradutor Web** | `node tradutor-web/server.mjs` (porta 3333) |
-| **Leitor Kindle** | `cd leitor-kindle && npm run dev` (porta 4321) |
-| **Lint** | `npm run lint` |
-| **Format** | `npm run format` |
-| **Logs** | `npm run tail` |
+| API Dev (remoto) | `npm run dev:remote` |
+| API Deploy | `npm run deploy` |
+| Leitor Kindle | `cd leitor-kindle && npm run dev` |
+| Tradutor Web | `node tradutor-web/server.mjs` |
+| Lint/Format | `npm run lint && npm run format` |
+| Logs Workers | `npm run tail` |
 
-### Deploy
+---
+
+## Deploy
 
 ```bash
-# Deploy API para Cloudflare Workers
+# API (Cloudflare Workers)
 npm run deploy
 
-# Deploy Site (leitor em producao) - executar no modulo Site
+# Site (Cloudflare Pages) - executar no modulo Site
 cd "../Site aculpaedasovelhas.org"
 wrangler pages deploy . --project-name=aculpaedasovelhas --branch=master --commit-dirty=true
 ```
@@ -80,108 +78,92 @@ wrangler pages deploy . --project-name=aculpaedasovelhas --branch=master --commi
 
 ## Banco de Dados D1
 
-- **Nome**: `biblia-belem`
-- **ID**: `c068f4c2-6086-4755-a312-c3a5c5685345`
-- **CLI**: `npx wrangler d1 execute biblia-belem --remote --command "SQL"`
+| Item | Valor |
+|------|-------|
+| Nome | `biblia-belem` |
+| ID | `c068f4c2-6086-4755-a312-c3a5c5685345` |
+| CLI | `npx wrangler d1 execute biblia-belem --remote --command "SQL"` |
 
-| Tabela | Descricao |
-|--------|-----------|
-| `books` | 66 livros da Biblia |
-| `verses` | Versiculos (~31.156) |
-| `tokens` | Palavras/tokens (~441.646) |
-| `glossary` | Glossario de traducoes |
-
-**Progresso atual**: ~57% traduzido
+| Tabela | Quantidade |
+|--------|------------|
+| books | 66 |
+| verses | 31.156 |
+| tokens | 441.646 |
+| glossary | variavel |
 
 ---
 
-## Estrutura Principal
+## Estrutura do Projeto
 
 ```
-src/                    # API Cloudflare Workers (Hono + TypeScript)
+src/                    # API Hono + TypeScript (Cloudflare Workers)
   index.ts             # Entry point
   types.ts             # TypeScript types
   routes/              # books, verses, tokens, glossary, glosses, translation-info
   data/                # translation-notes.json, editorial-decisions.json
   docs/                # openapi.ts
 glossary/              # greek.json, hebrew.json, keep_original.json
-scripts/               # Scripts de traducao e utilitarios
-tradutor-web/          # Interface web + executavel Windows (porta 3333)
-leitor-kindle/         # Leitor React estilo Kindle (porta 4321)
-migrations/            # Migracoes do banco D1
-.AnC Documentos/       # Documentacao tecnica interna
+scripts/               # Traducao: claude-translations.mjs, ollama-translate.mjs, etc
+tradutor-web/          # Interface web (porta 3333)
+leitor-kindle/         # Leitor React Kindle-style (porta 4321)
+migrations/            # Migracoes D1
+.AnC Documentos/       # Documentacao interna
 ```
 
 ---
 
-## Scripts de Traducao (scripts/)
+## Endpoints Principais
+
+| Metodo | Endpoint | Uso |
+|--------|----------|-----|
+| GET | `/health` | Health check |
+| GET | `/docs` | OpenAPI spec |
+| GET | `/api/v1/books` | Listar livros |
+| GET | `/api/v1/verses/:book/:chapter` | Versiculos |
+| GET | `/api/v1/verses/search?q=termo` | Busca |
+| GET | `/api/v1/tokens/:verseId` | Tokens |
+| GET | `/api/v1/glossary` | Glossario |
+| GET | `/api/v1/translation-info` | Notas traducao |
+
+> **Documentacao completa:** Ver [README.md](README.md) secao Endpoints
+
+---
+
+## Scripts de Traducao
 
 | Script | Uso |
 |--------|-----|
-| `claude-translations.mjs [BOOK]` | Traducao via Claude API |
-| `ollama-translate.mjs [BOOK]` | Traducao local (Ollama + GPU) |
-| `auto-translate.mjs` | Traducao automatica em lote |
-| `batch-translate-db.mjs` | Traducao batch direto no D1 |
-| `apply-glossary.mjs` | Aplicar glossario existente |
-| `list-untranslated.mjs` | Listar palavras nao traduzidas |
-| `export-all-books.mjs` | Exportar todos os livros |
-| `rebuild-verse-translations.mjs` | Reconstruir traducoes |
-| `import-glossary-to-d1.mjs` | Importar glossario para D1 |
-| `ollama-benchmark.mjs` | Benchmark de modelos Ollama |
+| `claude-translations.mjs [BOOK]` | Claude API |
+| `ollama-translate.mjs [BOOK]` | Ollama local |
+| `batch-translate-db.mjs` | Batch D1 |
+| `apply-glossary.mjs` | Aplicar glossario |
+| `list-untranslated.mjs` | Listar pendentes |
+| `export-all-books.mjs` | Exportar livros |
 
 ---
 
-## API Endpoints
+## URLs de Producao
 
-### Livros e Versiculos
-
-| Metodo | Endpoint | Descricao |
-|--------|----------|-----------|
-| GET | `/health` | Health check |
-| GET | `/docs` | Documentacao OpenAPI |
-| GET | `/api/v1/books` | Listar livros |
-| GET | `/api/v1/books/:code` | Detalhes de um livro |
-| GET | `/api/v1/verses/:book/:chapter` | Versiculos do capitulo |
-| GET | `/api/v1/verses/:book/:chapter/:verse` | Versiculo unico + tokens |
-| GET | `/api/v1/verses/search?q=termo` | Busca textual |
-
-### Tokens e Analise
-
-| Metodo | Endpoint | Descricao |
-|--------|----------|-----------|
-| GET | `/api/v1/tokens/:verseId` | Tokens de um versiculo |
-| GET | `/api/v1/tokens/:verseId/interlinear` | Vista interlinear |
-| GET | `/api/v1/tokens/:verseId/morphology` | Analise morfologica |
-| GET | `/api/v1/glosses/verse/:verseId` | Glosses de versiculo |
-| GET | `/api/v1/glosses/layers` | Camadas disponiveis (N0-N5) |
-
-### Glossario
-
-| Metodo | Endpoint | Descricao |
-|--------|----------|-----------|
-| GET | `/api/v1/glossary` | Listar glossario |
-| GET | `/api/v1/glossary/:word` | Buscar traducao de palavra |
-| GET | `/api/v1/glossary/search` | Buscar no glossario |
-| POST | `/api/v1/glossary/suggest` | Sugerir nova traducao |
-
-### Informacoes de Traducao
-
-| Metodo | Endpoint | Descricao |
-|--------|----------|-----------|
-| GET | `/api/v1/translation-info` | Notas de traducao |
-| GET | `/api/v1/translation-info/editorial-markers` | Marcadores editoriais ([OBJ], etc) |
-| GET | `/api/v1/translation-info/words-not-translated` | Palavras nao traduzidas |
-| GET | `/api/v1/translation-info/word/:word` | Consulta palavra especifica |
+| Servico | URL |
+|---------|-----|
+| API Workers | https://biblia-belem-api.anderson-282.workers.dev |
+| API Custom | https://biblia.aculpaedasovelhas.org |
+| Leitor | https://aculpaedasovelhas.org/ler-biblia.html |
+| Docs | https://biblia.aculpaedasovelhas.org/docs |
+| GitHub | https://github.com/OtimizaPro/biblia-belem-anc |
 
 ---
 
-## Configuracao Tecnica
+## Stack Tecnica
 
-| Item            | Valor                                    |
-|-----------------|------------------------------------------|
-| **Cache**       | 1 hora (3600s) no edge Cloudflare        |
-| **CORS**        | Aceita qualquer origem (`*`)             |
-| **Autenticacao**| Nenhuma (API publica, somente leitura)   |
+| Item | Valor |
+|------|-------|
+| Runtime | Cloudflare Workers |
+| Framework | Hono 4.6.0 |
+| Linguagem | TypeScript 5.7.0 |
+| Banco | Cloudflare D1 (SQLite) |
+| CLI | Wrangler 4.0.0 |
+| Traducao | Anthropic SDK 0.71.2 |
 
 ---
 
@@ -190,106 +172,44 @@ migrations/            # Migracoes do banco D1
 1. **Literalidade rigida** - Palavra por palavra
 2. **Fidelidade ao codice** - Sem suavizacao
 3. **Zero interpretacao** - Sem interferencia do tradutor
-4. **Transparencia** - Intervencoes sinalizadas com `[ ]`
+4. **Transparencia** - Intervencoes com `[ ]`
 5. **Sem versiculos** - Estrutura capitular original
 
----
-
-## Palavras Nao Traduzidas
+### Palavras Nao Traduzidas
 
 | Palavra | Motivo |
 |---------|--------|
-| `yhwh` | Tetragramaton hebraico |
-| `Theos` | Termo grego para Deus |
-| `Iesous` | Nome grego de Jesus |
-| `Christos` | Titulo grego (ungido) |
+| yhwh | Tetragramaton hebraico |
+| Theos | Termo grego - Deus |
+| Iesous | Nome grego - Jesus |
+| Christos | Titulo grego - ungido |
+
+### Fontes Textuais
+
+BHSA, WLC, SBLGNT, TR1550, Nestle1904
 
 ---
 
-## URLs de Producao
+## Aprendizados da IA
 
-| Servico               | URL                                                      |
-|-----------------------|----------------------------------------------------------|
-| **API (Workers)**     | <https://biblia-belem-api.anderson-282.workers.dev>      |
-| **Leitor Biblia**     | <https://aculpaedasovelhas.org/ler-biblia>               |
-| **Leitor Biblia Alt** | <https://aculpaedasovelhas.org/biblia-belem.html>        |
-| **Documentacao API**  | <https://biblia-belem-api.anderson-282.workers.dev/docs> |
-| **GitHub**            | <https://github.com/OtimizaPro/biblia-belem-anc>         |
+### API vs Leitor (Confusao Comum)
 
----
+| Componente | Comando | Porta | Tipo |
+|------------|---------|-------|------|
+| API | `npm run dev:remote` | 8787 | Backend JSON |
+| Leitor | `cd leitor-kindle && npm run dev` | 4321 | Frontend React |
 
-## Fontes Textuais
+**Regra:** Interface visual = `leitor-kindle/` (localhost:4321)
 
-| Codigo | Fonte |
-|--------|-------|
-| BHSA | Biblia Hebraica Stuttgartensia |
-| WLC | Westminster Leningrad Codex |
-| SBLGNT | SBL Greek New Testament |
-| TR1550 | Textus Receptus 1550 |
-| Nestle1904 | Critica textual |
+### Deploy Branches
 
----
-
-## Dependencias Principais
-
-| Pacote         | Versao | Uso                         |
-|----------------|--------|-----------------------------|
-| Hono           | 4.6.0  | Framework web para Workers  |
-| TypeScript     | 5.7.0  | Tipagem estatica            |
-| Wrangler       | 4.0.0  | CLI Cloudflare              |
-| Anthropic SDK  | 0.71.2 | Traducao via Claude API     |
-| Cloudflare D1  | -      | Banco de dados SQLite       |
-
----
-
-## Aprendizados da IA (Erros e Correcoes)
-
-### 2026-01-22: Confusao API vs Leitor
-
-**Erro:** Ao iniciar o projeto, abri a URL da API (`biblia-belem-api.anderson-282.workers.dev`) ao inves do Leitor Kindle.
-
-**Causa:** Nao distingui corretamente entre:
-
-- **API** = Backend REST (porta 8787) - retorna JSON
-- **Leitor** = Frontend React (porta 4321) - interface visual
-
-**Correcao:**
-
-| Componente    | Comando                            | Porta | Tipo     |
-|---------------|------------------------------------|-------|----------|
-| API           | `npm run dev:remote`               | 8787  | Backend  |
-| Leitor Kindle | `cd leitor-kindle && npm run dev`  | 4321  | Frontend |
-
-**Regra:** Para abrir interface cliente, usar `leitor-kindle/` (localhost:4321), NAO a URL da API.
-
-### 2026-01-22: Deploy Cloudflare Pages - Branch Correto
-
-**Erro:** Site com ERR_TOO_MANY_REDIRECTS apos push para `main`.
-
-**Causa:** Cloudflare Pages estava configurado com Production Branch = `master`, nao `main`.
-
-**Solucao:**
-
-```bash
-# Deploy manual para branch correto (master = production)
-wrangler pages deploy . --project-name=aculpaedasovelhas --branch=master --commit-dirty=true
-```
-
-**Regra:** Sempre verificar qual branch e o Production antes de fazer push:
-
-```bash
-wrangler pages project list  # Ver configuracao
-```
-
-| Projeto           | Production Branch |
-|-------------------|-------------------|
-| aculpaedasovelhas | master            |
-| biblia-belem-anc  | main              |
+| Projeto | Production Branch |
+|---------|-------------------|
+| aculpaedasovelhas (Pages) | master |
+| biblia-belem-anc (Workers) | main |
 
 ---
 
 ## Licenca
 
-CC BY 4.0 - Atribuicao requerida
-
-Copyright 2025 Anderson Costa Belem - A Culpa e das Ovelhas
+CC BY 4.0 - Copyright 2025 Anderson Costa Belem

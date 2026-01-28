@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline';">
+  <title>Bíblia Tradutor - Ollama + CUDA</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <!-- Header -->
+    <header class="header">
+      <div class="logo">
+        <span class="logo-icon">📜</span>
+        <div class="logo-text">
+          <h1>Bíblia Belém An.C 2025</h1>
+          <span class="subtitle">Tradutor Local Ollama + CUDA</span>
+        </div>
+      </div>
+      <div class="status-indicators">
+        <div class="status-item" id="ollama-status">
+          <span class="status-dot"></span>
+          <span class="status-text">Ollama</span>
+        </div>
+        <div class="status-item" id="gpu-status">
+          <span class="status-dot"></span>
+          <span class="status-text">GPU</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+      <!-- Sidebar -->
+      <aside class="sidebar">
+        <nav class="nav">
+          <button class="nav-item active" data-tab="dashboard">
+            <span class="nav-icon">📊</span>
+            Dashboard
+          </button>
+          <button class="nav-item" data-tab="translate">
+            <span class="nav-icon">🔄</span>
+            Traduzir
+          </button>
+          <button class="nav-item" data-tab="quick">
+            <span class="nav-icon">⚡</span>
+            Tradução Rápida
+          </button>
+          <button class="nav-item" data-tab="settings">
+            <span class="nav-icon">⚙️</span>
+            Configurações
+          </button>
+        </nav>
+      </aside>
+
+      <!-- Content Area -->
+      <div class="content">
+        <!-- Dashboard Tab -->
+        <section class="tab-content active" id="tab-dashboard">
+          <h2>Dashboard</h2>
+
+          <div class="stats-grid">
+            <div class="stat-card">
+              <div class="stat-icon">📚</div>
+              <div class="stat-info">
+                <span class="stat-value" id="stat-total">-</span>
+                <span class="stat-label">Tokens Totais</span>
+              </div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-icon">✅</div>
+              <div class="stat-info">
+                <span class="stat-value" id="stat-translated">-</span>
+                <span class="stat-label">Traduzidos</span>
+              </div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-icon">📈</div>
+              <div class="stat-info">
+                <span class="stat-value" id="stat-percentage">-</span>
+                <span class="stat-label">Progresso</span>
+              </div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-icon">🎮</div>
+              <div class="stat-info">
+                <span class="stat-value" id="stat-gpu">-</span>
+                <span class="stat-label">GPU</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="section">
+            <h3>Glossários Carregados</h3>
+            <div class="glossary-info">
+              <div class="glossary-item">
+                <span class="glossary-lang">🇬🇷 Grego</span>
+                <span class="glossary-count" id="glossary-greek">-</span>
+              </div>
+              <div class="glossary-item">
+                <span class="glossary-lang">🇮🇱 Hebraico</span>
+                <span class="glossary-count" id="glossary-hebrew">-</span>
+              </div>
+              <div class="glossary-item">
+                <span class="glossary-lang">🔒 Manter Original</span>
+                <span class="glossary-count" id="glossary-keep">-</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="section">
+            <h3>Sistema</h3>
+            <div class="system-info" id="system-info">
+              <p>Carregando informações do sistema...</p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Translate Tab -->
+        <section class="tab-content" id="tab-translate">
+          <h2>Tradução em Lote</h2>
+
+          <div class="translate-controls">
+            <div class="control-group">
+              <label>Livro</label>
+              <select id="book-select">
+                <option value="ALL">Todos os Livros</option>
+              </select>
+            </div>
+            <div class="control-group">
+              <label>Modelo</label>
+              <select id="model-select">
+                <option value="qwen2.5:14b">qwen2.5:14b (Recomendado)</option>
+                <option value="llama3.2:8b">llama3.2:8b (Rápido)</option>
+                <option value="mistral:7b">mistral:7b (Leve)</option>
+              </select>
+            </div>
+            <div class="control-buttons">
+              <button class="btn btn-primary" id="btn-start">
+                <span>▶️</span> Iniciar Tradução
+              </button>
+              <button class="btn btn-danger" id="btn-stop" disabled>
+                <span>⏹️</span> Parar
+              </button>
+            </div>
+          </div>
+
+          <div class="books-list" id="books-list">
+            <h3>Progresso por Livro</h3>
+            <div class="books-grid" id="books-grid">
+              <p>Carregando livros...</p>
+            </div>
+          </div>
+
+          <div class="output-section">
+            <h3>Log de Tradução</h3>
+            <div class="output-console" id="output-console">
+              <p class="output-placeholder">O log de tradução aparecerá aqui...</p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Quick Translation Tab -->
+        <section class="tab-content" id="tab-quick">
+          <h2>Tradução Rápida</h2>
+
+          <div class="quick-translate">
+            <div class="input-group">
+              <label>Palavra Original</label>
+              <input type="text" id="quick-word" placeholder="Digite uma palavra em grego ou hebraico...">
+            </div>
+            <div class="input-group">
+              <label>Idioma</label>
+              <div class="radio-group">
+                <label class="radio-label">
+                  <input type="radio" name="language" value="greek" checked>
+                  <span>🇬🇷 Grego</span>
+                </label>
+                <label class="radio-label">
+                  <input type="radio" name="language" value="hebrew">
+                  <span>🇮🇱 Hebraico</span>
+                </label>
+              </div>
+            </div>
+            <button class="btn btn-primary" id="btn-quick-translate">
+              <span>🔄</span> Traduzir
+            </button>
+          </div>
+
+          <div class="quick-result" id="quick-result">
+            <div class="result-placeholder">
+              <p>Digite uma palavra e clique em "Traduzir"</p>
+            </div>
+          </div>
+
+          <div class="quick-examples">
+            <h3>Exemplos</h3>
+            <div class="examples-grid">
+              <button class="example-btn" data-word="λόγος" data-lang="greek">λόγος (logos)</button>
+              <button class="example-btn" data-word="ἀγάπη" data-lang="greek">ἀγάπη (agape)</button>
+              <button class="example-btn" data-word="πίστις" data-lang="greek">πίστις (pistis)</button>
+              <button class="example-btn" data-word="דָּבָר" data-lang="hebrew">דָּבָר (dabar)</button>
+              <button class="example-btn" data-word="אַהֲבָה" data-lang="hebrew">אַהֲבָה (ahava)</button>
+              <button class="example-btn" data-word="שָׁלוֹם" data-lang="hebrew">שָׁלוֹם (shalom)</button>
+            </div>
+          </div>
+        </section>
+
+        <!-- Settings Tab -->
+        <section class="tab-content" id="tab-settings">
+          <h2>Configurações</h2>
+
+          <div class="settings-section">
+            <h3>Ollama</h3>
+            <div class="setting-item">
+              <div class="setting-info">
+                <span class="setting-label">Status do Serviço</span>
+                <span class="setting-value" id="ollama-status-text">Verificando...</span>
+              </div>
+              <button class="btn btn-secondary" id="btn-start-ollama">Iniciar Ollama</button>
+            </div>
+            <div class="setting-item">
+              <div class="setting-info">
+                <span class="setting-label">URL do Servidor</span>
+                <span class="setting-value" id="ollama-url">http://localhost:11434</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="settings-section">
+            <h3>Modelos Instalados</h3>
+            <div id="models-list" class="models-list">
+              <p>Carregando modelos...</p>
+            </div>
+            <div class="model-actions">
+              <select id="model-to-pull">
+                <option value="qwen2.5:14b">qwen2.5:14b (9GB)</option>
+                <option value="llama3.2:8b">llama3.2:8b (5GB)</option>
+                <option value="mistral:7b">mistral:7b (4GB)</option>
+                <option value="gemma2:9b">gemma2:9b (5GB)</option>
+              </select>
+              <button class="btn btn-secondary" id="btn-pull-model">Baixar Modelo</button>
+            </div>
+            <div class="pull-progress" id="pull-progress" style="display: none;">
+              <p id="pull-progress-text">Baixando...</p>
+            </div>
+          </div>
+
+          <div class="settings-section">
+            <h3>GPU NVIDIA</h3>
+            <div id="gpu-info" class="gpu-info">
+              <p>Carregando informações da GPU...</p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <span>© 2025 A Culpa é das Ovelhas</span>
+      <span>•</span>
+      <span>Tradução Literal Rígida</span>
+      <span>•</span>
+      <span id="footer-status">Pronto</span>
+    </footer>
+  </div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "name": "biblia-tradutor",
+  "version": "1.0.0",
+  "description": "Tradutor Local Ollama + CUDA - Bíblia Belém An.C 2025",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win",
+    "build:portable": "electron-builder --win portable"
+  },
+  "author": "A Culpa é das Ovelhas",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "build": {
+    "appId": "org.aculpaedasovelhas.biblia-tradutor",
+    "productName": "Bíblia Tradutor",
+    "win": {
+      "target": ["nsis", "portable"],
+      "icon": "assets/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    },
+    "files": [
+      "**/*",
+      "!node_modules/.cache"
+    ],
+    "extraResources": [
+      {
+        "from": "../glossary",
+        "to": "glossary"
+      }
+    ]
+  }
+}

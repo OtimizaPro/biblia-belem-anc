@@ -1,0 +1,11 @@
+{
+  "name": "biblia-tradutor-web",
+  "version": "1.0.0",
+  "description": "Tradutor Local Ollama - Interface Web",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  },
+  "dependencies": {}
+}

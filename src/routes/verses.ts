@@ -6,7 +6,10 @@ const verses = new Hono<{ Bindings: Env }>();
 // GET /api/v1/verses/:book/:chapter - Lista versos de um capítulo
 verses.get('/:book/:chapter', async (c) => {
   try {
-    const bookCode = c.req.param('book').toUpperCase().replace(/[^A-Z0-9]/g, '');
+    const bookCode = c.req
+      .param('book')
+      .toUpperCase()
+      .replace(/[^A-Z0-9]/g, '');
     const chapter = parseInt(c.req.param('chapter'));
 
     if (isNaN(chapter) || chapter < 1) {
@@ -79,7 +82,10 @@ verses.get('/:book/:chapter', async (c) => {
 // GET /api/v1/verses/:book/:chapter/:verse - Verso único com tokens
 verses.get('/:book/:chapter/:verse', async (c) => {
   try {
-    const bookCode = c.req.param('book').toUpperCase().replace(/[^A-Z0-9]/g, '');
+    const bookCode = c.req
+      .param('book')
+      .toUpperCase()
+      .replace(/[^A-Z0-9]/g, '');
     const chapter = parseInt(c.req.param('chapter'));
     const verseNum = parseInt(c.req.param('verse'));
 
@@ -192,7 +198,8 @@ verses.get('/search', async (c) => {
       params.push(testament.toUpperCase());
     }
 
-    query += ` ORDER BY b.order_num, v.chapter, v.verse LIMIT ?`;
+    // Ordenação canônica consistente com o endpoint de livros
+    query += ` ORDER BY b.canon_order, v.chapter, v.verse LIMIT ?`;
     params.push(parseInt(limit));
 
     const result = await c.env.DB.prepare(query)

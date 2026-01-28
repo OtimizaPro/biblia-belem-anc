@@ -4,8 +4,9 @@
  */
 
 import { Hono } from 'hono';
+import type { Env, ApiResponse } from '../types';
 
-const glossaryRoutes = new Hono();
+const glossaryRoutes = new Hono<{ Bindings: Env }>();
 
 // Listar todas as entradas do glossário
 glossaryRoutes.get('/', async (c) => {
@@ -22,11 +23,15 @@ glossaryRoutes.get('/', async (c) => {
       )
       .all();
 
-    return c.json({
+    const response: ApiResponse<typeof results> = {
       success: true,
       data: results,
-      total: results.length,
-    });
+      meta: {
+        count: results.length,
+      },
+    };
+
+    return c.json(response);
   } catch (_error) {
     return c.json(
       {
@@ -65,10 +70,12 @@ glossaryRoutes.get('/:word', async (c) => {
       );
     }
 
-    return c.json({
+    const response: ApiResponse<typeof result> = {
       success: true,
       data: result,
-    });
+    };
+
+    return c.json(response);
   } catch (_error) {
     return c.json(
       {
@@ -122,8 +129,10 @@ glossaryRoutes.post('/suggest', async (c) => {
 
       return c.json({
         success: true,
-        message: 'Sugestão de atualização registrada para revisão',
-        status: 'pending_review',
+        data: {
+          message: 'Sugestão de atualização registrada para revisão',
+          status: 'pending_review',
+        },
       });
     }
 
@@ -140,8 +149,10 @@ glossaryRoutes.post('/suggest', async (c) => {
 
     return c.json({
       success: true,
-      message: 'Sugestão de tradução registrada para revisão',
-      status: 'pending_review',
+      data: {
+        message: 'Sugestão de tradução registrada para revisão',
+        status: 'pending_review',
+      },
     });
   } catch (_error) {
     return c.json(
@@ -180,12 +191,16 @@ glossaryRoutes.get('/missing/:book', async (c) => {
       .bind(bookCode)
       .all();
 
-    return c.json({
+    const response: ApiResponse<typeof results> = {
       success: true,
-      book: bookCode,
       data: results,
-      total: results.length,
-    });
+      meta: {
+        count: results.length,
+        book: bookCode,
+      },
+    };
+
+    return c.json(response);
   } catch (_error) {
     return c.json(
       {
@@ -202,26 +217,35 @@ glossaryRoutes.get('/stats/overview', async (c) => {
   const db = c.env.DB;
 
   try {
-    const total = await db.prepare(`SELECT COUNT(*) as count FROM glossary`).first();
+    const total = await db
+      .prepare(`SELECT COUNT(*) as count FROM glossary`)
+      .first<{ count: number }>();
     const approved = await db
       .prepare(`SELECT COUNT(*) as count FROM glossary WHERE status = 'approved'`)
-      .first();
+      .first<{ count: number }>();
     const pending = await db
       .prepare(`SELECT COUNT(*) as count FROM glossary WHERE status = 'pending'`)
-      .first();
+      .first<{ count: number }>();
     const contributors = await db
       .prepare(`SELECT COUNT(DISTINCT contributor) as count FROM glossary`)
-      .first();
+      .first<{ count: number }>();
 
-    return c.json({
+    const response: ApiResponse<{
+      total_entries: number;
+      approved: number;
+      pending_review: number;
+      contributors: number;
+    }> = {
       success: true,
-      stats: {
-        total_entries: total?.count || 0,
-        approved: approved?.count || 0,
-        pending_review: pending?.count || 0,
-        contributors: contributors?.count || 0,
+      data: {
+        total_entries: Number(total?.count || 0),
+        approved: Number(approved?.count || 0),
+        pending_review: Number(pending?.count || 0),
+        contributors: Number(contributors?.count || 0),
       },
-    });
+    };
+
+    return c.json(response);
   } catch (_error) {
     return c.json(
       {

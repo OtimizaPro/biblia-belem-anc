@@ -8054,5 +8054,2129 @@
   "Ἀλληλούια": {
     "translation": "Aleluia",
     "source": "claude-code-max-7"
+  },
+  "ἕκτην": {
+    "translation": "sexta",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:38:26.715Z"
+  },
+  "σάκκος": {
+    "translation": "saco",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:38:26.717Z"
+  },
+  "τρίχινος": {
+    "translation": "de-pelo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:38:26.717Z"
+  },
+  "σελήνη": {
+    "translation": "lua",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:38:26.717Z"
+  },
+  "συκῆ": {
+    "translation": "figueira",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:38:26.717Z"
+  },
+  "βάλλει": {
+    "translation": "lança",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:38:26.717Z"
+  },
+  "ὀλύνθους": {
+    "translation": "olintos-de",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:38:26.717Z"
+  },
+  "ἀνέμου": {
+    "translation": "do-vento",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:38:26.717Z"
+  },
+  "σειομένη": {
+    "translation": "tremendo-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:38:26.717Z"
+  },
+  "ἀπεχωρίσθη": {
+    "translation": "se-separou",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:38:26.717Z"
+  },
+  "ἑλισσόμενον": {
+    "translation": "girando-se",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:39:43.497Z"
+  },
+  "ἔκτισεν": {
+    "translation": "criou",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:39:43.497Z"
+  },
+  "χρόνος": {
+    "translation": "tempo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:39:43.497Z"
+  },
+  "ἑβδόμου": {
+    "translation": "do-sétimo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:39:43.497Z"
+  },
+  "μέλλῃ": {
+    "translation": "virá-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:39:43.497Z"
+  },
+  "εὐηγγέλισεν": {
+    "translation": "evangelizou-o",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:39:43.497Z"
+  },
+  "λαλοῦσαν": {
+    "translation": "falando-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:39:43.497Z"
+  },
+  "Ὕπαγε": {
+    "translation": "Vai-te",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:39:43.497Z"
+  },
+  "ἑστῶτος": {
+    "translation": "estando-estacionado",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:39:43.497Z"
+  },
+  "ἀπῆλθα": {
+    "translation": "parti-eu",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:39:43.497Z"
+  },
+  "δοῦναί": {
+    "translation": "dar",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:40:34.576Z"
+  },
+  "κατάφαγε": {
+    "translation": "comer-em",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:40:34.576Z"
+  },
+  "πικρανεῖ": {
+    "translation": "fazer-amargo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:40:34.576Z"
+  },
+  "κοιλίαν": {
+    "translation": "estômago",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:40:34.576Z"
+  },
+  "στόματί": {
+    "translation": "boca-com",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:40:34.576Z"
+  },
+  "γλυκὺ": {
+    "translation": "doce",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:40:34.576Z"
+  },
+  "μέλι": {
+    "translation": "mel",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:40:34.576Z"
+  },
+  "κατέφαγον": {
+    "translation": "comeram",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:40:34.576Z"
+  },
+  "γλυκύ": {
+    "translation": "doce",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:41:29.223Z"
+  },
+  "ἐπικράνθη": {
+    "translation": "foi-metido-em",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:41:29.223Z"
+  },
+  "κοιλία": {
+    "translation": "ventre",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:41:29.223Z"
+  },
+  "λέγουσίν": {
+    "translation": "dizem-lhes",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:41:29.223Z"
+  },
+  "προφητεῦσαι": {
+    "translation": "profetizar",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:41:29.223Z"
+  },
+  "λαοῖς": {
+    "translation": "povos-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:41:29.223Z"
+  },
+  "βασιλεῦσιν": {
+    "translation": "reis-em",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:41:29.223Z"
+  },
+  "πολλοῖς": {
+    "translation": "muitos-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:41:29.223Z"
+  },
+  "κάλαμος": {
+    "translation": "cálamo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:41:29.223Z"
+  },
+  "Ἔγειρε": {
+    "translation": "Levanta-te",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:41:29.223Z"
+  },
+  "μέτρησον": {
+    "translation": "mede-o",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:42:24.046Z"
+  },
+  "αὐλὴν": {
+    "translation": "átrio",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:42:24.046Z"
+  },
+  "ἔκβαλε": {
+    "translation": "expulsa",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:42:24.046Z"
+  },
+  "μετρήσῃς": {
+    "translation": "você-medirá",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:42:24.046Z"
+  },
+  "πατήσουσιν": {
+    "translation": "pisarão",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:42:24.046Z"
+  },
+  "δυσὶν": {
+    "translation": "com-dois",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:42:24.046Z"
+  },
+  "μάρτυσίν": {
+    "translation": "testemunhas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:42:24.046Z"
+  },
+  "προφητεύσουσιν": {
+    "translation": "profetizarão",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:42:24.046Z"
+  },
+  "χιλίας": {
+    "translation": "milhares",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:42:24.046Z"
+  },
+  "διακοσίας": {
+    "translation": "duzentas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:42:24.046Z"
+  },
+  "σάκκους": {
+    "translation": "saco",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:43:14.238Z"
+  },
+  "ἐλαῖαι": {
+    "translation": "oliveiras",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:43:14.238Z"
+  },
+  "κατεσθίει": {
+    "translation": "devora",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:43:14.238Z"
+  },
+  "ἐχθροὺς": {
+    "translation": "inimigos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:43:14.238Z"
+  },
+  "θελήσῃ": {
+    "translation": "quererá",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:43:14.238Z"
+  },
+  "ἀποκτανθῆναι": {
+    "translation": "ser-matado",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:43:14.238Z"
+  },
+  "ὑετὸς": {
+    "translation": "chuva",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:43:14.238Z"
+  },
+  "βρέχῃ": {
+    "translation": "torrencia",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:43:14.238Z"
+  },
+  "στρέφειν": {
+    "translation": "virar",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:43:14.238Z"
+  },
+  "πατάξαι": {
+    "translation": "golpear",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:43:14.238Z"
+  },
+  "πληγῇ": {
+    "translation": "em-ferimento",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:04.162Z"
+  },
+  "ὁσάκις": {
+    "translation": "quando-seja",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:04.162Z"
+  },
+  "θελήσωσιν": {
+    "translation": "quererão",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:04.162Z"
+  },
+  "τελέσωσιν": {
+    "translation": "completarão",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:04.162Z"
+  },
+  "νικήσει": {
+    "translation": "vencerá",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:04.162Z"
+  },
+  "ἀποκτενεῖ": {
+    "translation": "matará",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:04.162Z"
+  },
+  "πτῶμα": {
+    "translation": "corpo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:04.162Z"
+  },
+  "πλατείας": {
+    "translation": "largura",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:04.162Z"
+  },
+  "πνευματικῶς": {
+    "translation": "espiritualmente",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:04.162Z"
+  },
+  "Σόδομα": {
+    "translation": "Sodoma",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:04.162Z"
+  },
+  "Αἴγυπτος": {
+    "translation": "Egito",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:54.106Z"
+  },
+  "ἐσταυρώθη": {
+    "translation": "foi-crucificado",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:54.106Z"
+  },
+  "βλέπουσιν": {
+    "translation": "vêem",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:54.106Z"
+  },
+  "πτώματα": {
+    "translation": "corpos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:54.106Z"
+  },
+  "ἀφίουσιν": {
+    "translation": "deixam-eles",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:54.106Z"
+  },
+  "τεθῆναι": {
+    "translation": "para-ser-colocado",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:54.106Z"
+  },
+  "μνῆμα": {
+    "translation": "tumba",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:54.106Z"
+  },
+  "χαίρουσιν": {
+    "translation": "alegram-se",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:54.106Z"
+  },
+  "εὐφραίνονται": {
+    "translation": "regozijam-se",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:44:54.106Z"
+  },
+  "δῶρα": {
+    "translation": "douros",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:45:42.982Z"
+  },
+  "πέμψουσιν": {
+    "translation": "enviarão",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:45:42.982Z"
+  },
+  "ἐβασάνισαν": {
+    "translation": "tormentaram",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:45:42.982Z"
+  },
+  "ἐπέπεσεν": {
+    "translation": "caiu",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:45:42.982Z"
+  },
+  "θεωροῦντας": {
+    "translation": "observando",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:45:42.982Z"
+  },
+  "Ἀνάβατε": {
+    "translation": "Subiam",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:45:42.982Z"
+  },
+  "ἀνέβησαν": {
+    "translation": "subiram",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:45:42.982Z"
+  },
+  "νεφέλῃ": {
+    "translation": "nuvem-",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:45:42.982Z"
+  },
+  "ἐθεώρησαν": {
+    "translation": "viram",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:45:42.982Z"
+  },
+  "ἐχθροὶ": {
+    "translation": "inimigos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:45:42.982Z"
+  },
+  "δέκατον": {
+    "translation": "décimo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:46:36.803Z"
+  },
+  "σεισμῷ": {
+    "translation": "terremoto-em",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:46:36.803Z"
+  },
+  "ἔμφοβοι": {
+    "translation": "em-freados",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:46:36.803Z"
+  },
+  "μεγάλαι": {
+    "translation": "grandes-as",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:46:36.803Z"
+  },
+  "βασιλεύσει": {
+    "translation": "reinará",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:46:36.803Z"
+  },
+  "καθήμενοι": {
+    "translation": "sentados-os",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:46:36.803Z"
+  },
+  "Εὐχαριστοῦμέν": {
+    "translation": "agradecemos-nos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:46:36.803Z"
+  },
+  "δύναμίν": {
+    "translation": "poder-em",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:46:36.803Z"
+  },
+  "ἐβασίλευσας": {
+    "translation": "reinaste-vós",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:46:36.803Z"
+  },
+  "ὠργίσθησαν": {
+    "translation": "irados-foram",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:46:36.803Z"
+  },
+  "ὀργή": {
+    "translation": "ira",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:47:27.584Z"
+  },
+  "κριθῆναι": {
+    "translation": "julgados",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:47:27.584Z"
+  },
+  "προφήταις": {
+    "translation": "profetas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:47:27.584Z"
+  },
+  "φοβουμένοις": {
+    "translation": "temendo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:47:27.584Z"
+  },
+  "μικροῖς": {
+    "translation": "pequenos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:47:27.584Z"
+  },
+  "μεγάλοις": {
+    "translation": "grandes",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:47:27.584Z"
+  },
+  "διαφθεῖραι": {
+    "translation": "corromper",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:47:27.584Z"
+  },
+  "διαφθείροντας": {
+    "translation": "corrompendo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:47:27.584Z"
+  },
+  "κιβωτὸς": {
+    "translation": "arca",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:47:27.584Z"
+  },
+  "γαστρὶ": {
+    "translation": "com-a-ventre",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:48:15.155Z"
+  },
+  "κράζει": {
+    "translation": "grita",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:48:15.155Z"
+  },
+  "ὠδίνουσα": {
+    "translation": "dolorida",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:48:15.155Z"
+  },
+  "βασανιζομένη": {
+    "translation": "martirizada",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:48:15.155Z"
+  },
+  "τεκεῖν": {
+    "translation": "para-parir",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:48:15.155Z"
+  },
+  "οὐρὰ": {
+    "translation": "coda",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:48:15.155Z"
+  },
+  "σύρει": {
+    "translation": "arrasta",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:48:15.155Z"
+  },
+  "ἕστηκεν": {
+    "translation": "está-estacionada",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:48:15.155Z"
+  },
+  "τέκῃ": {
+    "translation": "parto",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:48:15.155Z"
+  },
+  "καταφάγῃ": {
+    "translation": "comer-e",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:49:09.817Z"
+  },
+  "ἄρσεν": {
+    "translation": "macho",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:49:09.817Z"
+  },
+  "ποιμαίνειν": {
+    "translation": "pastorear",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:49:09.817Z"
+  },
+  "ἡρπάσθη": {
+    "translation": "foi-arrebatado",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:49:09.817Z"
+  },
+  "ἡτοιμασμένον": {
+    "translation": "preparado",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:49:09.817Z"
+  },
+  "τρέφωσιν": {
+    "translation": "nutrem-no-os",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:49:09.817Z"
+  },
+  "Μιχαὴλ": {
+    "translation": "Micae-l",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:49:09.817Z"
+  },
+  "πολεμῆσαι": {
+    "translation": "lutar-contra",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:49:09.817Z"
+  },
+  "ἐπολέμησεν": {
+    "translation": "fez-guerra",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:04.378Z"
+  },
+  "ἴσχυσαν": {
+    "translation": "forçaram",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:04.378Z"
+  },
+  "ἀρχαῖος": {
+    "translation": "antigo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:04.378Z"
+  },
+  "καλούμενος": {
+    "translation": "chamado",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:04.378Z"
+  },
+  "πλανῶν": {
+    "translation": "enganando",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:04.378Z"
+  },
+  "οἰκουμένην": {
+    "translation": "habitação",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:04.378Z"
+  },
+  "Ἄρτι": {
+    "translation": "Agora",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:04.378Z"
+  },
+  "κατήγωρ": {
+    "translation": "acusador",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:04.378Z"
+  },
+  "κατηγορῶν": {
+    "translation": "acusando",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:04.378Z"
+  },
+  "ἐνίκησαν": {
+    "translation": "venceram",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:04.378Z"
+  },
+  "ἠγάπησαν": {
+    "translation": "amaram",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:57.663Z"
+  },
+  "εὐφραίνεσθε": {
+    "translation": "alegrai-vos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:57.663Z"
+  },
+  "οὐρανοὶ": {
+    "translation": "céus",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:57.663Z"
+  },
+  "σκηνοῦντες": {
+    "translation": "acampando",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:57.663Z"
+  },
+  "θυμὸν": {
+    "translation": "ira",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:57.663Z"
+  },
+  "ἐδίωξεν": {
+    "translation": "perseguiu",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:57.663Z"
+  },
+  "ἄρσενα": {
+    "translation": "homem",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:57.663Z"
+  },
+  "γυναικὶ": {
+    "translation": "mulher-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:57.663Z"
+  },
+  "πτέρυγες": {
+    "translation": "asas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:57.663Z"
+  },
+  "πέτηται": {
+    "translation": "voa",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:50:57.663Z"
+  },
+  "τρέφεται": {
+    "translation": "é-nutrido",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:51:58.079Z"
+  },
+  "χαλάζης": {
+    "translation": "de-tormenta",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:51:58.079Z"
+  },
+  "Δεῦρο": {
+    "translation": "Aqui",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:51:58.079Z"
+  },
+  "πόρνης": {
+    "translation": "Prostituta",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:51:58.079Z"
+  },
+  "καθημένης": {
+    "translation": "sentada",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:51:58.079Z"
+  },
+  "ἐπόρνευσαν": {
+    "translation": "cometeram-prostituição",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:51:58.079Z"
+  },
+  "ἐμεθύσθησαν": {
+    "translation": "for-intoxicados",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:51:58.079Z"
+  },
+  "ἀπήνεγκέν": {
+    "translation": "levou-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:52:57.422Z"
+  },
+  "καθημένην": {
+    "translation": "sentada",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:52:57.422Z"
+  },
+  "κεχρυσωμένη": {
+    "translation": "em-o-ouro",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:52:57.422Z"
+  },
+  "χρυσίῳ": {
+    "translation": "de-o-ouro",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:52:57.422Z"
+  },
+  "μαργαρίταις": {
+    "translation": "com-as-perolas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:52:57.422Z"
+  },
+  "γέμον": {
+    "translation": "cheia-de",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:52:57.422Z"
+  },
+  "βδελυγμάτων": {
+    "translation": "das-abominações",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:52:57.422Z"
+  },
+  "ΒΑBYΛΩΝ": {
+    "translation": "Babilônia",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:52:57.422Z"
+  },
+  "ΜΕΓΑΛΗ": {
+    "translation": "Grande",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:52:57.422Z"
+  },
+  "ΜΗΤΗΡ": {
+    "translation": "Mãe",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:52:57.422Z"
+  },
+  "ΠΟΡΝΩΝ": {
+    "translation": "de-pornos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:53:53.195Z"
+  },
+  "ΚΑΙ": {
+    "translation": "e",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:53:53.195Z"
+  },
+  "ΒΔΕΛΥΓΜΑΤΩΝ": {
+    "translation": "de-bdelugma",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:53:53.195Z"
+  },
+  "ΓΗΣ": {
+    "translation": "da-gees",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:53:53.195Z"
+  },
+  "μεθύουσαν": {
+    "translation": "estavam-intoxicando-se",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:53:53.195Z"
+  },
+  "μαρτύρων": {
+    "translation": "testemunhas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:53:53.195Z"
+  },
+  "ἐθαύμασα": {
+    "translation": "maravilhei-me",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:53:53.195Z"
+  },
+  "θαῦμα": {
+    "translation": "maravilha",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:53:53.195Z"
+  },
+  "ἐθαύμασας": {
+    "translation": "maravilhaste-te",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:53:53.195Z"
+  },
+  "ἐρῶ": {
+    "translation": "darei-testemunho",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:53:53.195Z"
+  },
+  "βαστάζοντος": {
+    "translation": "levando-o",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:54:53.675Z"
+  },
+  "ἀναβαίνειν": {
+    "translation": "subir",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:54:53.675Z"
+  },
+  "ἀπώλειαν": {
+    "translation": "perdição",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:54:53.675Z"
+  },
+  "θαυμασθήσονται": {
+    "translation": "serão-maravilhados",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:54:53.675Z"
+  },
+  "βλεπόντων": {
+    "translation": "veendo-os",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:54:53.675Z"
+  },
+  "παρέσται": {
+    "translation": "estará-aqui",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:54:53.675Z"
+  },
+  "νοῦς": {
+    "translation": "mente",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:54:53.675Z"
+  },
+  "κάθηται": {
+    "translation": "está-se-assentando",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:54:53.675Z"
+  },
+  "μεῖναι": {
+    "translation": "permanecer",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:54:53.675Z"
+  },
+  "ὄγδοός": {
+    "translation": "oitavo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:54:53.675Z"
+  },
+  "λαμβάνουσιν": {
+    "translation": "recebem-deles",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:55:52.322Z"
+  },
+  "διδόασιν": {
+    "translation": "dão-a-eles",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:55:52.322Z"
+  },
+  "πολεμήσουσιν": {
+    "translation": "guerra-fará",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:55:52.322Z"
+  },
+  "κυρίων": {
+    "translation": "senhores-de",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:55:52.322Z"
+  },
+  "κλητοὶ": {
+    "translation": "chamados-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:55:52.322Z"
+  },
+  "ἐκλεκτοὶ": {
+    "translation": "elegidos-os",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:55:52.322Z"
+  },
+  "πόρνη": {
+    "translation": "meretriz-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:55:52.322Z"
+  },
+  "λαοὶ": {
+    "translation": "povos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:56:49.698Z"
+  },
+  "γλῶσσαι": {
+    "translation": "línguas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:56:49.698Z"
+  },
+  "μισήσουσιν": {
+    "translation": "odiarão",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:56:49.698Z"
+  },
+  "πόρνην": {
+    "translation": "meretriz",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:56:49.698Z"
+  },
+  "ἠρημωμένην": {
+    "translation": "deserta",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:56:49.698Z"
+  },
+  "ποιήσουσιν": {
+    "translation": "fazerão",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:56:49.698Z"
+  },
+  "γυμνήν": {
+    "translation": "nua",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:56:49.698Z"
+  },
+  "φάγονται": {
+    "translation": "comerão",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:56:49.698Z"
+  },
+  "κατακαύσουσιν": {
+    "translation": "queimarão",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:56:49.698Z"
+  },
+  "τελεσθήσονται": {
+    "translation": "serão cumpridas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:56:49.698Z"
+  },
+  "ἐφωτίσθη": {
+    "translation": "foi-iluminado",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:57:41.238Z"
+  },
+  "ἰσχυρᾷ": {
+    "translation": "com-forte",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:57:41.238Z"
+  },
+  "κατοικητήριον": {
+    "translation": "morada-em",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:57:41.238Z"
+  },
+  "φυλακὴ": {
+    "translation": "guarda-",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:57:41.238Z"
+  },
+  "ἀκαθάρτου": {
+    "translation": "de-imundo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:57:41.238Z"
+  },
+  "ὀρνέου": {
+    "translation": "de-pássaro",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:57:41.238Z"
+  },
+  "μεμισημένου": {
+    "translation": "marcado-contra",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:57:41.238Z"
+  },
+  "πέπωκαν": {
+    "translation": "for-amassados",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:57:41.238Z"
+  },
+  "στρήνους": {
+    "translation": "gastadores",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:58:39.740Z"
+  },
+  "ἐπλούτησαν": {
+    "translation": "enriqueceram-se",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:58:39.740Z"
+  },
+  "Ἐξέλθατε": {
+    "translation": "saiam",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:58:39.740Z"
+  },
+  "λαός": {
+    "translation": "povo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:58:39.740Z"
+  },
+  "συνκοινωνήσητε": {
+    "translation": "comunicai-vos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:58:39.740Z"
+  },
+  "ἁμαρτίαις": {
+    "translation": "pecados",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:58:39.740Z"
+  },
+  "λάβητε": {
+    "translation": "tomais",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:58:39.740Z"
+  },
+  "ἐκολλήθησαν": {
+    "translation": "coligaram-se",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:58:39.740Z"
+  },
+  "ἐμνημόνευσεν": {
+    "translation": "lembrara",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:58:39.740Z"
+  },
+  "ἀδικήματα": {
+    "translation": "injustiças",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:59:36.666Z"
+  },
+  "ἀπόδοτε": {
+    "translation": "repassai",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:59:36.666Z"
+  },
+  "ἀπέδωκεν": {
+    "translation": "repassou",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:59:36.666Z"
+  },
+  "διπλώσατε": {
+    "translation": "duplicais",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:59:36.666Z"
+  },
+  "διπλᾶ": {
+    "translation": "dobro",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:59:36.666Z"
+  },
+  "ἐκέρασεν": {
+    "translation": "espremeu",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:59:36.666Z"
+  },
+  "κεράσατε": {
+    "translation": "espremem",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:59:36.666Z"
+  },
+  "διπλοῦν": {
+    "translation": "duplicando",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:59:36.666Z"
+  },
+  "ἐδόξασεν": {
+    "translation": "glorificou",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:59:36.666Z"
+  },
+  "ἐστρηνίασεν": {
+    "translation": "estendeu",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T16:59:36.666Z"
+  },
+  "τοσοῦτον": {
+    "translation": "tanto-assim",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:00:35.116Z"
+  },
+  "βασανισμὸν": {
+    "translation": "tormento-em",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:00:35.116Z"
+  },
+  "Κάθημαι": {
+    "translation": "Sento-me",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:00:35.116Z"
+  },
+  "βασίλισσα": {
+    "translation": "rainha-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:00:35.116Z"
+  },
+  "χήρα": {
+    "translation": "viúva-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:00:35.116Z"
+  },
+  "ἴδω": {
+    "translation": "vejo-eu",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:00:35.116Z"
+  },
+  "λιμός": {
+    "translation": "fome-o",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:00:35.116Z"
+  },
+  "κατακαυθήσεται": {
+    "translation": "queimará-se-fora",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:00:35.116Z"
+  },
+  "κρίνας": {
+    "translation": "julgando-você",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:00:35.116Z"
+  },
+  "κλαύσουσιν": {
+    "translation": "chorarão-eles",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:00:35.116Z"
+  },
+  "πορνεύσαντες": {
+    "translation": "prostituindo-se",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:01:34.106Z"
+  },
+  "στρηνιάσαντες": {
+    "translation": "desperdiçando-se",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:01:34.106Z"
+  },
+  "καπνὸν": {
+    "translation": "fumo-",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:01:34.106Z"
+  },
+  "πυρώσεως": {
+    "translation": "queimadura-",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:01:34.106Z"
+  },
+  "ἑστηκότες": {
+    "translation": "estando-parados",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:01:34.106Z"
+  },
+  "ἰσχυρά": {
+    "translation": "fortes",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:01:34.106Z"
+  },
+  "κλαίουσιν": {
+    "translation": "choram",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:01:34.106Z"
+  },
+  "πενθοῦσιν": {
+    "translation": "lamentam-se",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:01:34.106Z"
+  },
+  "γόμον": {
+    "translation": "goma-",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:01:34.106Z"
+  },
+  "ἀγοράζει": {
+    "translation": "compra",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:01:34.106Z"
+  },
+  "χρυσοῦ": {
+    "translation": "de-ouro",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:02:31.431Z"
+  },
+  "ἀργύρου": {
+    "translation": "de-prata",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:02:31.431Z"
+  },
+  "λίθου": {
+    "translation": "de-pedra",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:02:31.431Z"
+  },
+  "τιμίου": {
+    "translation": "precioso",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:02:31.431Z"
+  },
+  "μαργαριτῶν": {
+    "translation": "de-perola",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:02:31.431Z"
+  },
+  "βυσσίνου": {
+    "translation": "de-linho",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:02:31.431Z"
+  },
+  "πορφύρας": {
+    "translation": "púrpura",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:02:31.431Z"
+  },
+  "σιρικοῦ": {
+    "translation": "sírio-de",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:02:31.431Z"
+  },
+  "κοκκίνου": {
+    "translation": "carmesim-de",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:02:31.431Z"
+  },
+  "θύϊνον": {
+    "translation": "oferta-vaporosa",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:03:26.286Z"
+  },
+  "πυλῶνας": {
+    "translation": "portas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:04:22.531Z"
+  },
+  "πυλῶσιν": {
+    "translation": "portando",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:04:22.531Z"
+  },
+  "ἐπιγεγραμμένα": {
+    "translation": "escritos-em",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:04:22.531Z"
+  },
+  "βορρᾶ": {
+    "translation": "norte",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:04:22.531Z"
+  },
+  "νότου": {
+    "translation": "do-sul",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:04:22.531Z"
+  },
+  "δυσμῶν": {
+    "translation": "do-poente",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:05:21.727Z"
+  },
+  "θεμελίους": {
+    "translation": "fundamentos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:05:21.727Z"
+  },
+  "μέτρον": {
+    "translation": "medida",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:05:21.727Z"
+  },
+  "κάλαμον": {
+    "translation": "cálamo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:05:21.727Z"
+  },
+  "μετρήσῃ": {
+    "translation": "medirás",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:05:21.727Z"
+  },
+  "τετράγωνος": {
+    "translation": "quadrado",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:05:21.727Z"
+  },
+  "κεῖται": {
+    "translation": "está-deitado",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:05:21.727Z"
+  },
+  "μῆκος": {
+    "translation": "comprimento",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:05:21.727Z"
+  },
+  "ἐμέτρησεν": {
+    "translation": "mediu",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:05:21.727Z"
+  },
+  "καλάμῳ": {
+    "translation": "com-espada-de-cana",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:06:19.701Z"
+  },
+  "ὕψος": {
+    "translation": "altura",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:06:19.701Z"
+  },
+  "ἴσα": {
+    "translation": "igual",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:06:19.701Z"
+  },
+  "πηχῶν": {
+    "translation": "côvados-de-homem",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:06:19.701Z"
+  },
+  "ἐνδώμησις": {
+    "translation": "a-forração",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:06:19.701Z"
+  },
+  "τείχους": {
+    "translation": "das-paredes",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:06:19.701Z"
+  },
+  "ὑάλῳ": {
+    "translation": "de-vidro",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:06:19.701Z"
+  },
+  "καθαρῷ": {
+    "translation": "puro",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:07:17.734Z"
+  },
+  "θεμέλιοι": {
+    "translation": "fundamentos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:07:17.734Z"
+  },
+  "κεκοσμημένοι": {
+    "translation": "ornamentados",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:07:17.734Z"
+  },
+  "θεμέλιος": {
+    "translation": "fundamento",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:07:17.734Z"
+  },
+  "σάπφειρος": {
+    "translation": "sapfo-íris",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:07:17.734Z"
+  },
+  "χαλκηδών": {
+    "translation": "calcedônia",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:07:17.734Z"
+  },
+  "σμάραγδος": {
+    "translation": "esmeralda",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:07:17.734Z"
+  },
+  "σαρδόνυξ": {
+    "translation": "sardônix",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:07:17.734Z"
+  },
+  "σάρδιον": {
+    "translation": "saradion",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:07:17.734Z"
+  },
+  "ἀμέθυστος": {
+    "translation": "ametista",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:08:48.364Z"
+  },
+  "μαργαρῖται": {
+    "translation": "pérolas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:08:48.364Z"
+  },
+  "πυλώνων": {
+    "translation": "portões",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:08:48.364Z"
+  },
+  "μαργαρίτου": {
+    "translation": "da-pérola",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:08:48.364Z"
+  },
+  "πλατεῖα": {
+    "translation": "praça",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:08:48.364Z"
+  },
+  "ὕαλος": {
+    "translation": "vidro",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:08:48.364Z"
+  },
+  "διαυγής": {
+    "translation": "claro",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:08:48.364Z"
+  },
+  "φαίνωσιν": {
+    "translation": "iluminação",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:08:48.364Z"
+  },
+  "ἐφώτισεν": {
+    "translation": "iluminou",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:08:48.364Z"
+  },
+  "λύχνος": {
+    "translation": "candeia",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:08:48.364Z"
+  },
+  "φέρουσιν": {
+    "translation": "trazem",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:09:48.973Z"
+  },
+  "κλεισθῶσιν": {
+    "translation": "sejam-fechados",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:09:48.973Z"
+  },
+  "οἴσουσιν": {
+    "translation": "trarão",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:09:48.973Z"
+  },
+  "εἰσέλθῃ": {
+    "translation": "entre",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:09:48.973Z"
+  },
+  "κοινὸν": {
+    "translation": "comum",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:09:48.973Z"
+  },
+  "βδέλυγμα": {
+    "translation": "abominação",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:09:48.973Z"
+  },
+  "γεγραμμένοι": {
+    "translation": "escritos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:09:48.973Z"
+  },
+  "κρύσταλλον": {
+    "translation": "crystallo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:09:48.973Z"
+  },
+  "ἐκπορευόμενον": {
+    "translation": "saindo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:09:48.973Z"
+  },
+  "ποταμοῦ": {
+    "translation": "do-río",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:10:44.258Z"
+  },
+  "ἐντεῦθεν": {
+    "translation": "dali-de",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:10:44.258Z"
+  },
+  "ποιοῦν": {
+    "translation": "fazendo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:10:44.259Z"
+  },
+  "καρποὺς": {
+    "translation": "frutos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:10:44.259Z"
+  },
+  "ἀποδιδοῦν": {
+    "translation": "dando-em-retornar",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:10:44.259Z"
+  },
+  "φύλλα": {
+    "translation": "folhas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:10:44.259Z"
+  },
+  "θεραπείαν": {
+    "translation": "cura",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:10:44.259Z"
+  },
+  "κατάθεμα": {
+    "translation": "maldição",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:10:44.259Z"
+  },
+  "λατρεύσουσιν": {
+    "translation": "servirão-a",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:10:44.259Z"
+  },
+  "ὄψονται": {
+    "translation": "verão",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:10:44.259Z"
+  },
+  "φωτίσει": {
+    "translation": "iluminará",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:11:43.158Z"
+  },
+  "ἔβλεψα": {
+    "translation": "vi-ou",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:11:43.158Z"
+  },
+  "δεικνύοντός": {
+    "translation": "mostrando-os",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:11:43.158Z"
+  },
+  "σφραγίσῃς": {
+    "translation": "selarás",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:11:43.158Z"
+  },
+  "ἀδικῶν": {
+    "translation": "injusto",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:11:43.158Z"
+  },
+  "ἀδικησάτω": {
+    "translation": "faça-injúria",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:11:43.158Z"
+  },
+  "ῥυπαρὸς": {
+    "translation": "sujo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:11:43.158Z"
+  },
+  "ῥυπανθήτω": {
+    "translation": "torne-se-sujo",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:11:43.158Z"
+  },
+  "ποιησάτω": {
+    "translation": "faça-o",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:11:43.158Z"
+  },
+  "ἁγιασθήτω": {
+    "translation": "seja-santificado",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:11:43.158Z"
+  },
+  "μισθός": {
+    "translation": "salário",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:12:38.512Z"
+  },
+  "ἀποδοῦναι": {
+    "translation": "dar-lhe",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:12:38.512Z"
+  },
+  "πλύνοντες": {
+    "translation": "lavando-os",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:12:38.512Z"
+  },
+  "εἰσέλθωσιν": {
+    "translation": "entrem-eles",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:12:38.512Z"
+  },
+  "κύνες": {
+    "translation": "cães",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:12:38.512Z"
+  },
+  "φάρμακοι": {
+    "translation": "feiticeiros",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:12:38.512Z"
+  },
+  "πόρνοι": {
+    "translation": "meretrizes",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:12:38.512Z"
+  },
+  "φονεῖς": {
+    "translation": "assassinos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:12:38.512Z"
+  },
+  "εἰδωλολάτραι": {
+    "translation": "adoradoras-de-idolos",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:12:38.512Z"
+  },
+  "φιλῶν": {
+    "translation": "amando",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:13:30.161Z"
+  },
+  "ἔπεμψα": {
+    "translation": "enviei",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:13:30.161Z"
+  },
+  "μαρτυρῆσαι": {
+    "translation": "para-martirizar-se",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:13:30.161Z"
+  },
+  "ῥίζα": {
+    "translation": "raiz",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:13:30.161Z"
+  },
+  "γένος": {
+    "translation": "gênero",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:13:30.161Z"
+  },
+  "λαμπρός": {
+    "translation": "brilhante",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:13:30.161Z"
+  },
+  "πρωϊνός": {
+    "translation": "matinal",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:13:30.161Z"
+  },
+  "νύμφη": {
+    "translation": "noiva",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:13:30.161Z"
+  },
+  "εἰπάτω": {
+    "translation": "que-fale",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:13:30.161Z"
+  },
+  "διψῶν": {
+    "translation": "sedente",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:13:30.161Z"
+  },
+  "ἐρχέσθω": {
+    "translation": "venha",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:14:26.767Z"
+  },
+  "λαβέτω": {
+    "translation": "tome",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:14:26.767Z"
+  },
+  "Μαρτυρῶ": {
+    "translation": "testifico",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:14:26.767Z"
+  },
+  "ἀκούοντι": {
+    "translation": "ouvinte",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:14:26.767Z"
+  },
+  "ἐπιθῇ": {
+    "translation": "ponha",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:14:26.767Z"
+  },
+  "ἐπιθήσει": {
+    "translation": "põe",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:14:26.767Z"
+  },
+  "γεγραμμένας": {
+    "translation": "escritas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:14:26.767Z"
+  },
+  "ἀφέλῃ": {
+    "translation": "remova",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:14:26.767Z"
+  },
+  "ἀφελεῖ": {
+    "translation": "retirará",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:14:26.767Z"
+  },
+  "ἁγίας": {
+    "translation": "santas",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:14:26.767Z"
+  },
+  "palavra_original": {
+    "translation": "μαρτυρῶν",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:15:01.708Z"
+  },
+  "tradução_literal": {
+    "translation": "testemunhando",
+    "source": "ollama",
+    "model": "qwen2.5:14b",
+    "added": "2026-01-22T17:15:01.708Z"
   }
 }
