@@ -25,13 +25,11 @@
 
 ## O Que é a Bíblia Belém An.C?
 
-A Bíblia que você tem em mãos é uma **tradução de traduções de traduções**. Os textos originais — escritos em hebraico, aramaico e grego koiné — foram primeiro vertidos para o latim (um idioma que **não faz parte de nenhum texto bíblico original**), depois do latim para o inglês, para o português, para o espanhol... cada etapa acumulando interpretações, suavizações, normalizações e decisões teológicas de quem traduziu.
+Um **movimento Tecnológico Open Source Mundial** que objetiva traduzir os códices públicos dos idiomas originais para **TODOS os idiomas em todo o Mundo** utilizando IA.
 
-O que chega ao leitor não é a Palavra. É **"sabor Palavra"** — algo artificial, carregado de séculos de interesses institucionais e ruído humano.
+Anderson Belem, autor de *"O Livrinho"*, traduziu para o seu idioma a primeira tradução realmente fiel aos códices nos idiomas originais para o PT-BR, idioma do seu país, o Brasil — e chama a todos os defensores da Verdade em Todo o Mundo para apoiar não apenas os ajustes necessários no seu projeto PT-BR, bem como na ampliação para todos os **+7.000 idiomas em todo o Planeta!**
 
-**A Bíblia Belém An.C 2025 existe para acabar com isso.**
-
-Este é o primeiro projeto do mundo que se propõe a criar uma tradução bíblica **ipsis litteris** — palavra por palavra, rigidamente fiel aos códices canônicos mais antigos — e disponibilizá-la **gratuitamente, em código aberto, para todos os idiomas do planeta**.
+A tradução Belém An.C-2025 preserva a estrutura e o sentido literal do texto original, sem as normalizações e interpretações comuns nas versões existentes.
 
 ---
 
@@ -62,7 +60,7 @@ Códices Originais (Hebraico / Aramaico / Grego)
          ├──→ Português Brasileiro (ativo)
          ├──→ English (planejado)
          ├──→ Español (planejado)
-         ├──→ Seu idioma (contribua!)
+         ├──→ +7.000 idiomas — Seu idioma aqui (contribua!)
          │
     Zero intermediários. Zero latim. Zero teologia imposta.
 ```
