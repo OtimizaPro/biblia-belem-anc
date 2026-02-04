@@ -1,36 +1,157 @@
-# Bíblia Belém An.C 2025 - API
+<div align="center">
 
-API REST para consulta da tradução bíblica literal rígida (ipsis litteris).
+# Bíblia Belém An.C 2025
 
-> **Filosofia:** "Você lê. E a interpretação é sua."
+### A primeira tradução bíblica do mundo livre de teologia, livre de ruídos, livre de interesses — direto dos códices para TODOS os idiomas da Terra.
+
+[![API Status](https://img.shields.io/badge/API-Online-brightgreen?style=for-the-badge)](https://biblia.aculpaedasovelhas.org)
+[![Docs](https://img.shields.io/badge/Docs-Swagger-blue?style=for-the-badge)](https://biblia.aculpaedasovelhas.org/docs)
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-orange?style=for-the-badge)](LICENSE)
+[![Open Source](https://img.shields.io/badge/Open-Source-black?style=for-the-badge&logo=github)](https://github.com/OtimizaPro/biblia-belem-anc)
+
+**66 livros | 31.156 versículos | 441.646 tokens | 3 idiomas originais | 6 camadas de leitura | 100% gratuito**
+
+[Ler a Bíblia](https://aculpaedasovelhas.org/ler-biblia.html) · [API Docs](https://biblia.aculpaedasovelhas.org/docs) · [Contribuir](CONTRIBUTING.md) · [Roadmap](ROADMAP.md)
 
 ---
 
-## Sobre o Projeto
+*"Você lê. E a interpretação é sua."*
 
-A **Bíblia Belém An.C 2025** é uma tradução literal rígida orientada diretamente pelos códices canônicos, que preserva tempos verbais, ordem sintática e partículas, priorizando a estrutura do texto original sobre a fluidez.
+*"E este evangelho do reino será proclamado em todo o mundo habitado, em testemunho a todas as nações; e então virá o fim."* — Mt 24:14
 
-### Princípios Metodológicos
+</div>
 
-- **Literalidade rígida** como regra primária
-- **Preservação** de tempos verbais, ordem sintática e partículas
-- **Zero interpretação** - elimina interferências interpretativas dos tradutores
-- **Intervenção mínima** - quando inevitável, sinalizada com `[ ]`
-- **Separação estrita** entre tradução e apoio interpretativo
+---
 
-**Autor:** Anderson Costa Belem
+## O Que é a Bíblia Belém An.C?
+
+A Bíblia que você tem em mãos é uma **tradução de traduções de traduções**. Os textos originais — escritos em hebraico, aramaico e grego koiné — foram primeiro vertidos para o latim (um idioma que **não faz parte de nenhum texto bíblico original**), depois do latim para o inglês, para o português, para o espanhol... cada etapa acumulando interpretações, suavizações, normalizações e decisões teológicas de quem traduziu.
+
+O que chega ao leitor não é a Palavra. É **"sabor Palavra"** — algo artificial, carregado de séculos de interesses institucionais e ruído humano.
+
+**A Bíblia Belém An.C 2025 existe para acabar com isso.**
+
+Este é o primeiro projeto do mundo que se propõe a criar uma tradução bíblica **ipsis litteris** — palavra por palavra, rigidamente fiel aos códices canônicos mais antigos — e disponibilizá-la **gratuitamente, em código aberto, para todos os idiomas do planeta**.
+
+---
+
+## Por Que Isso Importa?
+
+Quando você lê o texto original, descobre coisas que nenhuma tradução convencional te contou:
+
+| O que te disseram | O que o códice diz | Impacto |
+|---|---|---|
+| "Apocalipse" | **Desvelação** (ἀποκάλυψις) | O livro não é sobre destruição — é sobre revelação |
+| "Besta" | **Fera** (θηρίον) | Perde-se a nuance de "animal selvagem não domesticado" |
+| "Senhor" | **yhwh** (יהוה) | O nome próprio de Deus foi substituído por um título genérico |
+| "Cristo" | **Christos** (χριστός) | Um título ("ungido") foi tratado como sobrenome |
+
+**Camadas inteiras de significado foram encobertas.** A Belém An.C devolve essas camadas ao leitor.
+
+---
+
+## A Visão: Todos os Idiomas do Mundo
+
+> *"Ide, portanto, e fazei discípulos de todas as nações..."* — Mt 28:19
+
+A Bíblia Belém An.C não é apenas uma tradução para o português brasileiro. É uma **infraestrutura aberta** para que a comunidade tecnológica mundial produza traduções fiéis em **qualquer idioma** — sempre partindo diretamente dos códices originais, nunca de traduções intermediárias.
+
+```
+Códices Originais (Hebraico / Aramaico / Grego)
+         │
+         ├──→ Português Brasileiro (ativo)
+         ├──→ English (planejado)
+         ├──→ Español (planejado)
+         ├──→ Seu idioma (contribua!)
+         │
+    Zero intermediários. Zero latim. Zero teologia imposta.
+```
+
+A tecnologia existe — IA treinada para tradução filológica rigorosa, GPUs NVIDIA, modelos refinados, infraestrutura Cloudflare global. **O que falta é você.**
+
+---
+
+## Princípios Inegociáveis
+
+| Princípio | O Que Significa |
+|---|---|
+| **Literalidade rígida** | Palavra por palavra. A estrutura do original prevalece sobre a fluidez |
+| **Zero interpretação** | O tradutor NÃO interpreta. Quem interpreta é VOCÊ |
+| **Zero teologia** | Nenhuma decisão de tradução é guiada por doutrina denominacional |
+| **Transparência total** | Toda intervenção editorial é sinalizada com `[ ]` |
+| **Consistência** | Mesma palavra original = mesma tradução, sempre |
+| **Etimologia primeiro** | A raiz etimológica prevalece sobre o uso moderno |
+| **Open Source** | Escrutínio público como depurador da Verdade. CC BY 4.0 |
+
+### Palavras que NÃO Traduzimos
+
+| Original | Por quê |
+|---|---|
+| **yhwh** (יהוה) | Tetragrama — nome próprio de Deus. Não se traduz nome próprio |
+| **Theos** (θεός) | Preserva a distinção do grego |
+| **Iesous** (Ἰησοῦς) | Nome próprio em grego |
+| **Christos** (χριστός) | Título grego ("ungido") — não é sobrenome |
+
+---
+
+## Fontes Textuais
+
+Trabalhamos exclusivamente com os códices mais antigos e verificáveis, de domínio público:
+
+| Código | Fonte |
+|---|---|
+| **BHSA** | Biblia Hebraica Stuttgartensia |
+| **WLC** | Westminster Leningrad Codex |
+| **SBLGNT** | SBL Greek New Testament |
+| **TR1550** | Textus Receptus 1550 |
+| **Nestle 1904** | Crítica textual |
+
+**LATIM REJEITADO** — a Vulgata Latina de Jerônimo (séc. IV d.C.) não é fonte. Nenhum texto bíblico canônico foi originalmente escrito em latim.
+
+---
+
+## 6 Camadas de Leitura
+
+A Belém An.C oferece 6 níveis de acesso ao texto — do bruto ao assistido. Você escolhe a profundidade:
+
+| Camada | Nome | O Que Faz |
+|---|---|---|
+| **N0** | Literal | Texto ipsis litteris. Sem qualquer normalização. Para pesquisadores |
+| **N1** | Glossário | Adiciona explicações mínimas para termos técnicos |
+| **N2** | Morfologia | Inclui marcações gramaticais (tempo, voz, modo, pessoa) |
+| **N3** | Reordenação | Reorganiza a ordem para facilitar leitura no idioma alvo |
+| **N4** | Expansão | Completa elipses e omissões implícitas |
+| **N5** | Alternativas | Oferece sinônimos e variantes lexicais |
+
+---
+
+## Acesse Agora
+
+| Serviço | URL |
+|---|---|
+| **Ler a Bíblia** | https://aculpaedasovelhas.org/ler-biblia.html |
+| **Página do Projeto** | https://aculpaedasovelhas.org/biblia-belem |
+| **API REST** | https://biblia.aculpaedasovelhas.org |
+| **Documentação da API** | https://biblia.aculpaedasovelhas.org/docs |
+| **Calculadora Gematria** | https://aculpaedasovelhas.org/tools/gematria/ |
+
+**Autenticação:** Nenhuma. API 100% pública, somente leitura. Sem cadastro. Sem custo.
 
 ---
 
 ## Quick Start
 
-### Usuários da API (sem instalação)
+### Leitores
+
+Abra https://aculpaedasovelhas.org/ler-biblia.html e comece a ler. Sem cadastro, sem instalação.
+
+### Desenvolvedores
 
 ```bash
 # Testar conexão
 curl https://biblia.aculpaedasovelhas.org/health
 
-# Listar livros
+# Listar os 66 livros
 curl https://biblia.aculpaedasovelhas.org/api/v1/books
 
 # Gênesis capítulo 1
@@ -38,368 +159,110 @@ curl https://biblia.aculpaedasovelhas.org/api/v1/verses/GEN/1
 
 # Buscar "amor" no Novo Testamento
 curl "https://biblia.aculpaedasovelhas.org/api/v1/verses/search?q=amor&testament=NT"
+
+# Tokens (palavras individuais) de Gn 1:1
+curl https://biblia.aculpaedasovelhas.org/api/v1/tokens/6383
+
+# Vista interlinear (original + tradução lado a lado)
+curl https://biblia.aculpaedasovelhas.org/api/v1/tokens/6383/interlinear
 ```
 
-### Desenvolvedores
+### Rodar Localmente
 
 ```bash
 git clone https://github.com/OtimizaPro/biblia-belem-anc.git
 cd biblia-belem-anc
 npm install
-npm run dev:remote
-# Acesse: http://localhost:8787/health
+npm run dev:remote    # Conecta ao banco de dados remoto
+# Acesse: http://localhost:8787
 ```
-
-### Contribuidores de Tradução
-
-1. Leia os [Princípios Metodológicos](#princípios-metodológicos)
-2. Consulte o [Guia de Contribuição](CONTRIBUTING.md)
-3. Veja o [Glossário](glossary/README.md) para entender o formato
-4. Abra uma Issue usando o template "Sugestão de Tradução"
 
 ---
 
-## URLs de Produção
+## API REST — Referência Completa
 
-| Serviço | URL |
-|---------|-----|
-| **API (Workers)** | https://biblia-belem-api.anderson-282.workers.dev |
-| **API (Custom Domain)** | https://biblia.aculpaedasovelhas.org |
-| **Interface de Leitura** | https://aculpaedasovelhas.org/ler-biblia.html |
-| **Documentação** | https://biblia.aculpaedasovelhas.org/docs |
-
----
-
-## Autenticação
-
-**Nenhuma.** API pública, somente leitura.
-
-## Headers Recomendados
-
-```
-Content-Type: application/json
-```
-
-## Formato de Resposta
-
-Todas as respostas seguem o padrão:
+### Formato de Resposta
 
 ```json
 {
   "success": true,
-  "data": { ... },
-  "meta": {
-    "count": 66
-  }
-}
-```
-
-Em caso de erro:
-
-```json
-{
-  "success": false,
-  "error": "Mensagem de erro"
-}
-```
-
----
-
-## Endpoints
-
-### Health Check
-
-```
-GET /health
-```
-
-**Resposta:**
-```json
-{
-  "status": "ok",
-  "service": "biblia-belem-api",
-  "version": "1.0.0",
-  "timestamp": "2026-01-11T16:00:00.000Z"
-}
-```
-
----
-
-### Livros
-
-#### Listar todos os livros
-
-```
-GET /api/v1/books
-GET /api/v1/books?testament=AT
-GET /api/v1/books?testament=NT
-```
-
-**Parâmetros:**
-| Param | Tipo | Descrição |
-|-------|------|-----------|
-| testament | string | Filtrar por testamento: `AT` ou `NT` |
-
-**Resposta:**
-```json
-{
-  "success": true,
-  "data": [
-    {
-      "id": 1,
-      "code": "GEN",
-      "name_pt": "Gênesis",
-      "name_original": "בְּרֵאשִׁית",
-      "testament": "AT",
-      "trad_group": "HEB_TM",
-      "chapters_count": 50,
-      "canon_order": 1
-    }
-  ],
+  "data": [ ... ],
   "meta": { "count": 66 }
 }
 ```
 
-#### Detalhes de um livro
+### Endpoints
+
+#### Livros
 
 ```
-GET /api/v1/books/:code
+GET /api/v1/books                    # Todos os 66 livros
+GET /api/v1/books?testament=AT       # Antigo Testamento
+GET /api/v1/books?testament=NT       # Novo Testamento
+GET /api/v1/books/:code              # Detalhes de um livro (ex: GEN, JHN, REV)
 ```
 
-**Exemplo:** `GET /api/v1/books/GEN`
-
----
-
-### Versículos
-
-#### Listar versículos de um capítulo
+#### Versículos
 
 ```
-GET /api/v1/verses/:book/:chapter
-```
-
-**Exemplo:** `GET /api/v1/verses/GEN/1`
-
-**Resposta:**
-```json
-{
-  "success": true,
-  "data": [
-    {
-      "id": 6383,
-      "book_code": "GEN",
-      "chapter": 1,
-      "verse": 1,
-      "text_original": "בְּרֵאשִׁית בָּרָא אֱלֹהִים...",
-      "text_translated": "No-princípio criou Deus...",
-      "language": "HE"
-    }
-  ],
-  "meta": { "count": 31 }
-}
-```
-
-#### Versículo único com tokens
-
-```
-GET /api/v1/verses/:book/:chapter/:verse
-```
-
-**Exemplo:** `GET /api/v1/verses/GEN/1/1`
-
-#### Busca textual
-
-```
-GET /api/v1/verses/search?q=termo
-GET /api/v1/verses/search?q=amor&book=JHN
+GET /api/v1/verses/:book/:chapter          # Versículos de um capítulo
+GET /api/v1/verses/:book/:chapter/:verse   # Versículo único com tokens
+GET /api/v1/verses/search?q=termo          # Busca textual
 GET /api/v1/verses/search?q=amor&testament=NT&limit=50
 ```
 
-**Parâmetros:**
-| Param | Tipo | Descrição |
-|-------|------|-----------|
-| q | string | Termo de busca (obrigatório) |
-| book | string | Filtrar por livro (código) |
-| testament | string | Filtrar por testamento: `AT` ou `NT` |
-| limit | number | Limite de resultados (padrão: 100) |
+| Parâmetro | Tipo | Descrição |
+|---|---|---|
+| `q` | string | Termo de busca (obrigatório) |
+| `book` | string | Filtrar por livro (código) |
+| `testament` | string | `AT` ou `NT` |
+| `limit` | number | Limite de resultados (padrão: 100) |
 
----
-
-### Tokens (Palavras)
-
-#### Tokens de um versículo
+#### Tokens (Palavras)
 
 ```
-GET /api/v1/tokens/:verseId
+GET /api/v1/tokens/:verseId              # Tokens de um versículo
+GET /api/v1/tokens/:verseId/interlinear  # Vista interlinear
+GET /api/v1/tokens/:verseId/morphology   # Análise morfológica
 ```
 
-**Exemplo:** `GET /api/v1/tokens/6383`
-
-**Resposta:**
-```json
-{
-  "success": true,
-  "data": [
-    {
-      "id": 91039,
-      "verse_id": 6383,
-      "position": 1,
-      "text_utf8": "בְּרֵאשִׁ֖ית",
-      "script": "HE",
-      "normalized": "בראשית",
-      "pt_literal": "No-princípio"
-    }
-  ],
-  "meta": { "count": 7 }
-}
-```
-
-#### Vista interlinear
+#### Glosses (Camadas de Anotação)
 
 ```
-GET /api/v1/tokens/:verseId/interlinear
+GET /api/v1/glosses/verse/:verseId           # Glosses de um versículo
+GET /api/v1/glosses/verse/:verseId?layer=N1  # Filtrar por camada (N0-N5)
+GET /api/v1/glosses/layers                   # Listar camadas disponíveis
 ```
 
-#### Análise morfológica
+#### Informações sobre Tradução
 
 ```
-GET /api/v1/tokens/:verseId/morphology
+GET /api/v1/translation-info                    # Filosofia e marcadores
+GET /api/v1/translation-info/editorial-markers  # Marcadores editoriais ([OBJ], etc)
+GET /api/v1/translation-info/words-not-translated  # Palavras não traduzidas
+GET /api/v1/translation-info/word/:word         # Consulta específica (ex: yhwh, Theos)
 ```
-
----
-
-### Informações sobre Tradução e Marcadores Editoriais
-
-Novos endpoints para documentar por que certos termos não são traduzidos e explicar marcadores como `[OBJ]`:
-
-#### Visão geral completa
-
-```
-GET /api/v1/translation-info
-```
-
-**Resposta:** Documentação completa sobre filosofia, marcadores editoriais e palavras não traduzidas.
-
-#### Marcadores editoriais ([OBJ], etc)
-
-```
-GET /api/v1/translation-info/editorial-markers
-```
-
-Explica por que cada palavra em colchetes está em colchetes e qual é o propósito.
-
-**Exemplo de resposta:**
-```json
-{
-  "success": true,
-  "data": {
-    "philosophy": "Você lê. E a interpretação é sua.",
-    "markers": {
-      "[OBJ]": {
-        "name": "Objeto Direto",
-        "reason": "Sinaliza a presença de um objeto direto implícito ou elíptico no texto original",
-        "examples": [
-          "Gênesis 2:7 - 'E-formou yhwh Deus [OBJ] pó...' - O objeto 'homem' está implícito"
-        ]
-      }
-    }
-  }
-}
-```
-
-#### Palavras não traduzidas (yhwh, Theos, etc)
-
-```
-GET /api/v1/translation-info/words-not-translated
-```
-
-Documenta por que palavras como `yhwh`, `Theos`, `Iesous` e `Christos` não são traduzidas.
-
-**Exemplo:**
-```json
-{
-  "yhwh": {
-    "reason": "Tetragramaton - Nome sagrado de Deus em hebraico",
-    "original_hebrew": "יהוה",
-    "why_not_translated": "Preserva a identidade do nome próprio divino"
-  }
-}
-```
-
-#### Consulta de palavra específica
-
-```
-GET /api/v1/translation-info/word/:word
-```
-
-**Exemplos:**
-- `GET /api/v1/translation-info/word/yhwh`
-- `GET /api/v1/translation-info/word/[OBJ]`
-- `GET /api/v1/translation-info/word/Theos`
-
----
-
-### Glosses (Camadas de Anotação)
-
-#### Glosses de um versículo
-
-```
-GET /api/v1/glosses/verse/:verseId
-GET /api/v1/glosses/verse/:verseId?layer=N1
-```
-
-**Parâmetros:**
-| Param | Tipo | Descrição |
-|-------|------|-----------|
-| layer | string | Filtrar por camada: `N0`-`N5` |
-
-#### Listar camadas disponíveis
-
-```
-GET /api/v1/glosses/layers
-```
-
-**Camadas:**
-| Layer | Descrição |
-|-------|-----------|
-| N0 | Texto literal (imutável) |
-| N1 | Glossário mínimo |
-| N2 | Marcação morfológica |
-| N3 | Reordenação de leitura |
-| N4 | Expansão de elipses |
-| N5 | Alternativas lexicais |
-
----
-
-## Fontes Textuais
-
-| Código | Fonte |
-|--------|-------|
-| BHSA | Biblia Hebraica Stuttgartensia |
-| WLC | Westminster Leningrad Codex |
-| SBLGNT | SBL Greek New Testament |
-| TR1550 | Textus Receptus 1550 |
-| Nestle 1904 | Crítica textual |
 
 ---
 
 ## Exemplos de Uso
 
-### JavaScript/Fetch
+### JavaScript
 
 ```javascript
-// Listar livros
-const response = await fetch('https://biblia-belem-api.anderson-282.workers.dev/api/v1/books');
-const { data } = await response.json();
-console.log(data); // Array de 66 livros
+const API = 'https://biblia.aculpaedasovelhas.org';
 
-// Buscar Gênesis 1
-const gen1 = await fetch('https://biblia-belem-api.anderson-282.workers.dev/api/v1/verses/GEN/1');
-const { data: verses } = await gen1.json();
+// Listar livros
+const { data: books } = await fetch(`${API}/api/v1/books`).then(r => r.json());
+
+// Gênesis 1
+const { data: verses } = await fetch(`${API}/api/v1/verses/GEN/1`).then(r => r.json());
 
 // Tokens de Gn 1:1
-const tokens = await fetch('https://biblia-belem-api.anderson-282.workers.dev/api/v1/tokens/6383');
-const { data: words } = await tokens.json();
+const { data: tokens } = await fetch(`${API}/api/v1/tokens/6383`).then(r => r.json());
+
+// Buscar "amor" no NT
+const { data: results } = await fetch(`${API}/api/v1/verses/search?q=amor&testament=NT`).then(r => r.json());
 ```
 
 ### Python
@@ -407,200 +270,171 @@ const { data: words } = await tokens.json();
 ```python
 import requests
 
-BASE_URL = "https://biblia-belem-api.anderson-282.workers.dev"
+API = "https://biblia.aculpaedasovelhas.org"
 
-# Listar livros
-books = requests.get(f"{BASE_URL}/api/v1/books").json()["data"]
-
-# Gênesis 1
-gen1 = requests.get(f"{BASE_URL}/api/v1/verses/GEN/1").json()["data"]
-
-# Buscar "amor" no NT
-search = requests.get(f"{BASE_URL}/api/v1/verses/search", params={
-    "q": "amor",
-    "testament": "NT",
-    "limit": 50
-}).json()["data"]
+books = requests.get(f"{API}/api/v1/books").json()["data"]
+genesis_1 = requests.get(f"{API}/api/v1/verses/GEN/1").json()["data"]
+search = requests.get(f"{API}/api/v1/verses/search", params={"q": "amor", "testament": "NT"}).json()["data"]
 ```
-
-### cURL
-
-```bash
-# Health check
-curl https://biblia-belem-api.anderson-282.workers.dev/health
-
-# Listar livros
-curl https://biblia-belem-api.anderson-282.workers.dev/api/v1/books
-
-# Gênesis 1
-curl https://biblia-belem-api.anderson-282.workers.dev/api/v1/verses/GEN/1
-
-# Tokens de Gn 1:1
-curl https://biblia-belem-api.anderson-282.workers.dev/api/v1/tokens/6383
-```
-
----
-
-## Cache
-
-Respostas são cacheadas por **1 hora** (3600 segundos) no edge da Cloudflare.
-
-## CORS
-
-API aceita requisições de **qualquer origem** (`Access-Control-Allow-Origin: *`).
 
 ---
 
 ## Stack Tecnológica
 
 | Tecnologia | Uso |
-|------------|-----|
-| **TypeScript** | Linguagem principal (v5.7.0) |
-| **Hono** | Framework web leve e rápido |
-| **Cloudflare Workers** | Runtime serverless |
-| **Cloudflare D1** | Banco de dados SQLite serverless |
-| **Wrangler** | CLI para deploy e desenvolvimento |
-| **ESLint** | Linting de código |
-| **Prettier** | Formatação de código |
+|---|---|
+| **TypeScript** | Linguagem principal |
+| **Hono** | Framework web ultrarrápido |
+| **Cloudflare Workers** | Runtime serverless global |
+| **Cloudflare D1** | Banco de dados SQLite na edge |
+| **Wrangler** | CLI de deploy |
+| **ESLint + Prettier** | Qualidade de código |
 
 ---
 
 ## Estrutura do Projeto
 
-```text
-Bible Belem AnC 2025/
+```
+biblia-belem-anc/
 ├── src/
-│   ├── index.ts          # Entry point da API Hono
-│   ├── types.ts          # Interfaces TypeScript
+│   ├── index.ts              # Entry point da API
+│   ├── types.ts              # Interfaces TypeScript
 │   └── routes/
-│       ├── books.ts      # Rotas de livros
-│       ├── verses.ts     # Rotas de versículos
-│       ├── tokens.ts     # Rotas de tokens/palavras
-│       ├── glosses.ts    # Rotas de glosses
-│       └── glossary.ts   # Rotas do glossário
+│       ├── books.ts          # /api/v1/books
+│       ├── verses.ts         # /api/v1/verses
+│       ├── tokens.ts         # /api/v1/tokens
+│       ├── glosses.ts        # /api/v1/glosses
+│       └── glossary.ts       # /api/v1/glossary
 ├── glossary/
-│   ├── greek.json        # Glossário Grego -> PT-BR
-│   ├── hebrew.json       # Glossário Hebraico -> PT-BR
-│   └── README.md         # Documentação do glossário
-├── scripts/              # Scripts de processamento
-├── migrations/           # Migrações do banco D1
-├── .AnC Documentos/      # Documentação interna
-├── wrangler.toml         # Configuração Cloudflare
-├── eslint.config.js      # Configuração ESLint
-├── .prettierrc           # Configuração Prettier
-├── tsconfig.json         # Configuração TypeScript
-└── package.json          # Dependências e scripts
+│   ├── greek.json            # Glossário Grego → PT-BR
+│   ├── hebrew.json           # Glossário Hebraico → PT-BR
+│   └── README.md
+├── scripts/                  # Scripts de processamento
+├── migrations/               # Migrações D1
+├── wrangler.toml             # Configuração Cloudflare
+└── package.json
 ```
 
 ---
 
-## Scripts Disponíveis
+## Contribua — O Mundo Precisa de Você
+
+Este projeto só existe porque é **Open Source**. A Palavra de Deus não pertence a nenhuma instituição. Pertence a todos.
+
+### Como Você Pode Ajudar
+
+| Perfil | Como Contribuir |
+|---|---|
+| **Desenvolvedor** | Melhore a API, adicione endpoints, otimize performance |
+| **Estudioso de Grego/Hebraico** | Revise traduções, sugira glossário, valide etimologias |
+| **Tradutor** | Ajude a traduzir para novos idiomas — inglês, espanhol, seu idioma |
+| **Documentador** | Melhore docs, tutoriais, exemplos |
+| **Qualquer pessoa** | Divulgue. Leia. Questione. Use |
+
+### Início Rápido para Contribuidores
+
+1. Leia os [Princípios Inegociáveis](#princípios-inegociáveis)
+2. Consulte o [Guia de Contribuição](CONTRIBUTING.md)
+3. Veja o [Glossário](glossary/README.md) para entender o formato
+4. Abra uma Issue ou Discussion
+5. Faça seu Fork e envie um Pull Request
 
 ```bash
-# Desenvolvimento
-npm run dev              # Servidor local
-npm run dev:remote       # Servidor local conectado ao D1 remoto
-
-# Deploy
-npm run deploy           # Deploy para Cloudflare Workers
-
-# Qualidade de Código
-npm run lint             # Verificar problemas no código
-npm run lint:fix         # Corrigir problemas automaticamente
-npm run format           # Formatar código com Prettier
-npm run format:check     # Verificar formatação
-
-# Logs
-npm run tail             # Ver logs em tempo real
-```
-
----
-
-## Desenvolvimento Local
-
-```bash
-# 1. Instalar dependências
+# Fork e clone
+git clone https://github.com/SEU-USUARIO/biblia-belem-anc.git
+cd biblia-belem-anc
 npm install
-
-# 2. Rodar localmente (conecta ao D1 remoto)
 npm run dev:remote
 
-# 3. Acessar
-# http://localhost:8787/health
-# http://localhost:8787/api/v1/books
+# Antes de enviar
+npm run lint && npm run format:check
 ```
 
 ---
 
-## Estatísticas do Banco
+## Roadmap
 
-| Tabela | Registros |
-|--------|-----------|
-| books | 66 |
-| verses | 31.156 |
-| tokens | 441.646 |
+| Fase | Status | Meta |
+|---|---|---|
+| API REST funcional | **Concluído** | Livros, versículos, tokens, glosses |
+| Glossário grego/hebraico | **Concluído** | Tradução literal rígida |
+| Interface de leitura web | **Concluído** | https://aculpaedasovelhas.org/ler-biblia.html |
+| Tradução ~57% concluída | **Em andamento** | Completar Novo Testamento |
+| Tradução completa (66 livros) | Planejado | 100% dos 66 livros |
+| Versão em inglês | Planejado | English Rigid Literal Translation |
+| Versão em espanhol | Planejado | Traducción Literal Rígida |
+| App mobile | Planejado | Leitura offline |
+| Exportação EPUB/PDF/USFM | Planejado | Formatos acadêmicos |
+
+Veja o [Roadmap completo](ROADMAP.md) para detalhes.
 
 ---
 
 ## Ecossistema "A Culpa é das Ovelhas"
 
-Este projeto faz parte do ecossistema completo:
+A Bíblia Belém An.C faz parte de um ecossistema completo para estudo bíblico:
 
-| Projeto | Descrição | URL |
-|---------|-----------|-----|
-| **Bible Belem AnC** | API da Bíblia (este projeto) | biblia.aculpaedasovelhas.org |
-| **Site Institucional** | Portal principal | aculpaedasovelhas.org |
-| **exeg.ai** | Plataforma de exegese com IA | plataforma.exeg.ai |
-| **O Livrinho** | Livro "A Culpa é das Ovelhas" | aculpaedasovelhas.org/livrinho |
-| **Blog** | Artigos e reflexões | aculpaedasovelhas.org/blog |
-
----
-
-## Configuração Cloudflare
-
-**Account ID:** `28248f850aef40d0c91531280962a88a`
-**Database ID:** `c068f4c2-6086-4755-a312-c3a5c5685345`
-**Database Name:** `biblia-belem`
+| Projeto | O Que É | URL |
+|---|---|---|
+| **Bíblia Belém An.C** | A tradução literal (este projeto) | [biblia.aculpaedasovelhas.org](https://biblia.aculpaedasovelhas.org) |
+| **Site Principal** | Portal do ecossistema | [aculpaedasovelhas.org](https://aculpaedasovelhas.org) |
+| **exeg.ai** | IA treinada na Bíblia Belém | [exeg.ai](https://exeg.ai) |
+| **O Livrinho** | Decodificação do Enigma 666 | [aculpaedasovelhas.org/livrinho](https://aculpaedasovelhas.org/livrinho.html) |
+| **Artigos** | Exegese filológica rigorosa | [aculpaedasovelhas.org/artigos](https://aculpaedasovelhas.org/artigos/) |
+| **Calculadora Gematria** | Valores numéricos das Escrituras | [aculpaedasovelhas.org/tools/gematria](https://aculpaedasovelhas.org/tools/gematria/) |
 
 ---
 
-## Contribuindo
+## O Convite
 
-### Glossário
+Desde o princípio, confessos e não confessos são irmãos. O único mandamento é: **Amar a Deus sobre todas as coisas e ao próximo como a si mesmo.**
 
-Para contribuir com traduções, veja [glossary/README.md](glossary/README.md).
+Este projeto recebe pessoas de qualquer fé, com total liberdade para divergir. Aqui **ideias são alvos. Pessoas não.**
 
-### Código
+Você pode participar para provar que o autor está errado. Ou que Jesus Cristo está errado. Ou que Deus não existe.
 
-1. Fork o repositório
-2. Crie uma branch: `git checkout -b feature/minha-feature`
-3. Faça commit: `git commit -m 'feat: minha feature'`
-4. Push: `git push origin feature/minha-feature`
-5. Abra um Pull Request
+**Se a Palavra de Deus não suportar o escrutínio da própria Palavra, então não é Deus.**
+
+Mas se, no caminho, você descobrir que ela é perfeita, considere confessar sua fé em **JESUS CRISTO**, o Criador.
+
+**Este é um movimento de proporções mundiais. Faça parte.**
 
 ---
 
-## Repositórios
+## Sobre o Autor
 
-- GitHub: [github.com/AndersonOtimiza](https://github.com/AndersonOtimiza)
-- Organização: [github.com/orgs/OtimizaPro](https://github.com/orgs/OtimizaPro/dashboard)
+**Anderson Costa Belem** — policial carioca, desenvolvedor tech, formado em Letras (Português x Literatura). Criador da **Escola Escatológica Desvelacional Forense "Belém an.C-2039"** — a única escola escatológica forense existente, que combina método investigativo policial + tecnologia + literalidade absoluta aplicados ao texto bíblico.
+
+O autor declara-se inspirado pelo **ESPÍRITO SANTO DE DEUS**. Nenhuma exigência teológica, religiosa ou confessional é imposta para participação.
 
 ---
 
 ## Licença
 
-Este projeto está licenciado sob [CC BY 4.0](LICENSE) - Creative Commons Attribution 4.0 International.
+**CC BY 4.0** — Creative Commons Attribution 4.0 International
 
 Você pode usar, copiar, modificar e distribuir livremente, desde que atribua crédito ao autor original.
 
-**Copyright 2025 Anderson Costa Belem - A Culpa é das Ovelhas**
-
-### Atribuição
-
-Ao usar este projeto, inclua:
-
 ```
-Bíblia Belém An.C 2025 - Tradução literal por Anderson Costa Belem
+Bíblia Belém An.C 2025 — Tradução literal por Anderson Costa Belem
 https://github.com/OtimizaPro/biblia-belem-anc
 Licenciado sob CC BY 4.0
 ```
+
+---
+
+<div align="center">
+
+**A Culpa é das Ovelhas** — *Porque as ovelhas precisam conhecer a voz do Pastor*
+
+**A Palavra não pertence a nenhuma instituição. Pertence a todos.**
+
+*"Você lê. E a interpretação é sua."*
+
+---
+
+**Copyright 2025-2026 Anderson Costa Belem**
+
+[Ler a Bíblia](https://aculpaedasovelhas.org/ler-biblia.html) · [API](https://biblia.aculpaedasovelhas.org) · [Contribuir](CONTRIBUTING.md) · [Ecossistema](https://aculpaedasovelhas.org)
+
+</div>
