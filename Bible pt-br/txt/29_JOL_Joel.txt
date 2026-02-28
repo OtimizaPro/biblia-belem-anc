@@ -1,99 +1,98 @@
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
 JOEL
-═══════════════════════════════════════════════════════════════════════
 
 Tradução: Bíblia Belém An.C 2025
 Método: Literal Rígido - Fiel ao códice original
 Sem suavização. Sem normalização. Sem interferência do tradutor.
-
-═══════════════════════════════════════════════════════════════════════
-
+══════════════════════════════════════════════════════════════════════
 
 ── Capítulo 1 ──
 
-dvar-yhvoh yhwh ser foi a filho-de
-shim'u-zot hazּqeniym vhaaziynu kol todo a-terra a-terra zּot biymeykhem vim bimey avoteykhem
-oleyho livneykhem saperu uvneykhem livneyhem uvneyhem ldvor acher
-yeter hagozom comer hoarbeh vyeter hoarbeh comer hayּoleq vyeter hayּeleq comer hechosiyl
-hoqiytsu shikvorim uvkhu vheylilu todo yoyin al-'osiys que nikhrat porque
-porque subir al-artsiy sobre veyn mispor shinּoyv shinּey aryeh segundo loviy a-ele
-nome gafni lshamּoh utenotiy liqtsofoh chosof chasofoh vhishliykh hilbiynu sorigeyho
-eliy kivtuloh chagurat-saq al-ba'al sobre
-hokhrat minchoh vonesekh mibeyt yhwh ovlu hakohaniym mshortey yhwh
-shudad sodeh ovloh terra que shudad dogon hvoviysh tirvosh umlal yitshor
-hoviyshu ikoriym heyliylu kormiym sobre v'al-s'oroh que ovad porque sodeh
-hagefen hvoviyshoh vhatenoh umloloh rimּvon também vtapucha kol-'atsey todo yoveshu kiy-hoviysh sosvon porque homem de filhos-de homem
-chigru vsifdu hakohaniym heyliylu mshortey mizbecha bou liynu vasּaqּiym mshortey elohoy que nimna mibeyt eloheykhem minchoh vonosekh
-qadshu-tsvom qiru atsoroh isfu zqeniym kol todo a-terra a-terra yhwh yhwh vza'aqu el-yhvoh a yhwh
-ahoh layּvom que qorvov dia yhwh ukhshod mishaday yovvo
-halvo diante eyneynu okhel nikhrot mibeyt eloheynu simchoh vogiyl
-ovshu frudvot debaixo megrfoteyhem noshamּu otsorvot nehersu mamּgurvot que hoviysh dogon
-mah-nּeenchoh vhemoh animal edrey voqor que porque mir'eh a-eles gam-'edrey também neshomu
-eleykho yhwh eqro que esh okhloh nvot midbor vlehovoh lihatoh todo hasּodeh
-também sodeh ta'arvog eleykho que porque afiyqey moyim águas okhloh nvot hamּidbor
+1  palavra-de yhwh ser foi a Yoel- filho-de Ptuel:
+2  ouvi esta הַזְּקֵנִ֔ים e ouviu todo a-terra a-terra será que haverá זֹאת em vossos dias e se nos dias de vos pais:
+3  sobre-ela a vossos filhos contem-lhes uveneychem a seus filhos e-seus-filhos para-geração outro
+4  resto o gazam comer a arbeh וְיֶ֥תֶר a arbeh comer o yaleq וְיֶ֣תֶר o yeleq comer o chasil
+5  acordai-vos bezerros e chorai e exultai todo שֹׁ֣תֵי vinho que עָסִ֕יס porque נִכְרַ֖ת מִפִּיכֶֽם׃
+6  porque subir subiu sobre אַרְצִ֔י עָצ֖וּם e-não de-número שִׁנָּיו֙ segundo אַרְיֵ֔ה a-ele לָבִ֖יא a-ele
+7  nome גַּפְנִי֙ לְשַׁמָּ֔ה וּתְאֵנָתִ֖י para-a-queja descobrirá sua-cara e arremessará iluminemos suas-angústias
+8  אֵל destruída cinto-de saco sobre Baal seu-nu-rei-ah
+9  corta oferta e-nesek de-casa-de yhwh choram os-sacerdotes servi yhwh
+10  Shuddad campo chora terra que Shuddad grão secou vinho אֻמְלַ֥ל יִצְחָֽר׃
+11  הֹבִ֣ישׁוּ אִכָּרִ֗ים brilharam כֹּֽרְמִ֔ים sobre חִטָּ֖ה que שְׂעֹרָ֑ה porque אָבַד ceifa-de sadeh
+12  הַגֶּ֣פֶן הוֹבִ֔ישָׁה וְהַתְּאֵנָ֖ה אֻמְלָ֑לָה רִמּ֞וֹן também תָּמָ֣ר וְתַפּ֗וּחַ todo עֲצֵ֤י o-campo יָבֵ֔שׁוּ porque homem שָׂשׂ֖וֹן de filhos-de homem
+13  חִגְר֨וּ וְסִפְד֜וּ os-sacerdotes brilharam מְשָׁרְתֵ֣י altar entrai לִ֣ינוּ בַשַּׂקּ֔ים מְשָׁרְתֵ֖י meu-Elohim que נִמְנַ֛ע de-casa-de אֱלֹהִים de-vós oferta-cereais וָנָֽסֶךְ׃
+14  קַדְּשׁוּ־ צוֹם֙ קִרְא֣וּ עֲצָרָ֔ה אִסְפ֣וּ זְקֵנִ֗ים todo a-terra a-terra yhwh yhwh vosso-Elohim וְזַעֲק֖וּ a yhwh
+15  אֲהָ֖הּ לַיּ֑וֹם que proximo dia yhwh וּכְשֹׁ֖ד מִשַׁדַּ֥י יָבֽוֹא׃
+16  acaso-nao diante עֵינֵ֖ינוּ alimento נִכְרָ֑ת de-casa-de אֱלֹהִים-nosso שִׂמְחָ֥ה וָגִֽיל׃
+17  abriram-se frutos debaixo suas garras suspiraram guardados cortaram suas cavernas que apavorou דָּגָֽן׃
+18  que- suspiraram animal choraram עֶדְרֵי que porque não a-eles para-eles também עֶדְרֵי yhwh נֶאְשָֽׁמוּ׃
+19  a-ti yhwh clamarei que fogo אָֽכְלָה֙ pastagens מִדְבָּ֔ר וְלֶ֣הָבָ֔ה לִהֲטָ֖ה todo עֲצֵי o-campo
+20  também בַּהֲמֹות campo תַּעֲר֣וֹג que porque יָֽבְשׁוּ֙ אֲפִיקֵי águas ve-esh אָכְלָ֖ה נְא֥וֹת o-meadero
 
 ── Capítulo 2 ──
 
-tiq'u shvofor btsiּvon vhoriy'u bhar qodshiy yirgzu todo yoshvey a-terra porque veio que yhwh porque
-dia escuridão vaafeloh dia onon va'arofel kshachar porus sobre am povo muito komohu não não min-ho'volom de não yvosef não dvor até segundo
-lfonoyv okhloh esh vacharoyv tlahet lehovoh kgan-'eden a-terra a-terra vacharoyv midbar shmomoh vgam-pleytoh lo-hoytoh para-ele não
-kmareh susiym marehu ukhforoshiym ken yrutsun
-kqvol markovvot sobre hehorim yraqּedun kqvol lahav esh okhloh qosh k'am otsum erukh milchomoh
-miponoyv yochiylu amּiym todo face forur
-kgibvoriym yrutsun kanshey milchomoh ya'alu chvomoh viysh bidrokhoyv yelekhun e-não y'abtun orchvotom
-viysh ochiv não yidchoqun gever bimsilּotvo yelekhun uv'ad hashּelach yipolu não yivtso'u
-bo'iyr yoshoqּu bachvomoh yrutsun babotiym ya'alu b'ad hachalּvoniym yovou kaganּov
-lfonoyv rogzoh terra ro'ashu céus shemesh vyorecha qodoru vkhvokhoviym osfu noghom
-vayhvoh dar qvolvo lifney cheylvo que muito muito machanehu que otsum fez dvorvo porque grande vnvoro muito umiy ykhilenּu
-vgam-'atoh num-yhvoh oráculo-de yhwh bkhol-lvavkhem uvtsvom em-todo uvmisped
-vqir'u lvavkhem e-a vshuvu el-yhvoh a yhwh vrachum ele erekh apayim vrav-chesed vnichom al-horo'oh sobre
-quem yvode'a yoshuv vnichom vhishiyr acharoyv brokhoh minchoh vonesekh layhvoh eloheykhem
-tiq'u shvofor btsiּvon qadshu-tsvom qiru atsoroh
-isfu-'om povo qohol qivtsu zqeniym isfu vololiym vyonqey shodoyim yetse choton mechedrvo vkhalּoh mechupotoh
-entre houlom vlamּizbecha yivku hakohaniym mshortey yhwh vyomru chusoh yhwh sobre val-titen e-a lcherpoh limshol-bom gvoyim lomּoh yomru vo'amּiym ayּeh eloheyhem
-vayqanּe yhwh lartsvo vayּachmol sobre
-vayּa'an yhwh E-disse l'amּvo hinniy enviou a-vós [OBJ] vhatirvosh vhayּitshor usva'tem ele vlo-eten e-não vod cherpoh bagvoyim
-e-[OBJ] archiyq me'aleykhem vhidachtiv el-erets a terra et-ponoyv el-hayּom [OBJ] vsofvo a hoacharvon v'oloh voshvo a tsachanotvo que higdiyl la'asvot porque
-a terra giyli usmochi kiy-higdiyl yhwh la'asvot yhwh
-a bahamvot soday que porque nvot midbor kiy-'ets porque firyvo tenoh vogefen notnu cheylom
-uvney tsiּvon giylu vsimchu bayhvoh eloheykhem porque a-vós et-hamּvoreh [OBJ] vayּvored a-vós geshem mvoreh umalqvosh borishvon
-umolu hagoronvot bor vheshiyqu hayqoviym tirvosh vyitshor
-vshilּamtiy a-vós [OBJ] asher comer hoarbeh hayּeleq vhechosiyl vhagozom cheyli hagodvol asher que bokhem
-vaakhaltem okhvol vsovvo'a vhilּaltem [OBJ] yhwh yhwh asher-'osoh que fez vlo-yevoshu amּiy e-não
-vida'tem que vqerev Israel oni vaaniy yhwh eloheykhem veyn vod e-não amּiy l'volom
+1  tik'u shofar em Sião ve'har'ı̂yu em-monte-de qad'shi yir'gutz todo habitantes-de a-terra porque veio que yhwh porque qarōv
+2  dia escuridão va'afelāh dia עָנָן֙ va'ărapel ao amanhecer paru' sobre ההרים povo muito ve'atzūm não não נִֽהְיָה֙ de não וְאַֽחֲרָיו֙ não José até segundo דּ֥וֹר וָדֽוֹר׃
+3  diante-dele אָ֣כְלָה fogo e-depois-dele תְּלַהֵ֣ט לֶֽהָבָ֑ה como-jardim- a-terra a-terra diante-dele וְאַֽחֲרָיו֙ deserto-de שְׁמָמָ֔ה e-também para-ele não ela-foi para-ele
+4  כְּמַרְאֵה cavalos מַרְאֵ֑הוּ וּכְפָרָשִׁ֖ים assim יְרוּץֽוּן׃
+5  kâ'qol מרכבות sobre cabeças-de os-montes ירקדונ כקול לחבה fogo comedora קש כאעם עצוים ערוך guerra
+6  מפניו יָחִ֣ילוּ עַמִּ֑ים todo face קִבְּצ֥וּ פָארֽוּר׃
+7  כְּגִבּוֹרִ֣ים יְרֻצ֔וּן כְּאַנְשֵׁ֥י guerra יַעֲל֣וּ חוֹמָ֑ה e-homem em-caminhos-seus יֵֽלֵכ֔וּן e-não יְעַבְּט֖וּן אֹרְחוֹתָֽם׃
+8  e-homem seu-irmao não יִדְחָק֔וּן homem בִּמְסִלָּת֖וֹ יֵֽלֵכ֑וּן וּבְעַ֣ד הַשֶׁ֛לַח יִפֹּ֖לוּ não יִבְצָֽעוּ׃
+9  na-cidade יָשֹׁ֗קּוּ בַּֽחוֹמָה֙ ירוצנו בהבתים יעלו בעד הלוחות יבואו כאנב
+10  diante-dele רגזה terra רעשו céus שמש וְיָרֵ֙חַ֙ קָדָ֔רוּ וְכוֹכָבִ֖ים אָסְפ֥וּ נָגְהָֽם׃
+11  e-yhwh dar קוֹלוֹ֙ diante-de seu exército que muito muito מַחֲנֵ֔הוּ que עָצ֖וּם fez דְבָר֑וֹ porque grande dia-de muito וְנוֹרָ֥א muito e-quem יְכִילֶֽנּוּ׃
+12  e-também agora oráculo-de yhwh שֻׁ֥בוּ עדאי em-todo לְבַבְכֶם וּבְצ֥וֹם וּבְבְכִ֖י וּבְמִסְפֵּֽד׃
+13  וְקִרְע֤וּ vosso-coração e-a בִּגְדֵיכֶ֔ם וְשׁ֖וּבוּ a yhwh אֱלֹֽהֵיכֶ֑ם ele חַנּ֤וּן וְרַחוּם֙ ele longo rosto e-grande bondade e se alegrar sobre a-ráah
+14  quem que conhece voltara e se alegrar e manterá atrás-dele בְּרָכָ֔ה oferta e vinho para-יהוה אֱלֹהִים-vosso
+15  solemneis corneta em Sião santifiquem- jejejemais- chamai- convocação; assembleia:
+16  congregai- povo santifiquem- assembleia; congregai- idosos congregai- estrangeiros; וְיֹנְקֵ֖י שָׁדָ֑יִם sairá noivo מֵֽחֶדְר֔וֹ וְכַלָּ֖ה מֵחֻפָּתָֽהּ׃
+17  entre הָאוּלָם֙ וְלַמִּזְבֵּ֔חַ chorareis os-sacerdotes מְשָׁרְתֵ֖י yhwh וְֽיֹאמְר֞וּ ח֧וּסָה yhwh sobre seu-people e-a tu-gives tua-heirloom para-honra para-governar- em-eles nações por-que dirão em-povos onde אֱלֹהֵיהֶם-de-eles
+18  e-comprar-se yhwh para-sua-terra e-misericordiar-se sobre povo-dele
+19  e-ele-respondeu yhwh E-disse para-seu-povo eis-me enviou a-vós a הַדָּגָן֙ וְהַתִּיר֣וֹשׁ e-hayitzháras ele a-ela e-não אֶתֵּ֨ן a-vocês ainda que בָּגוֹיִם׃
+20  e-a הַצְּפוֹנִ֞י אַרְחִ֣יק מֵעֲלֵיכֶ֗ם וְהִדַּחְתִּיו֮ a terra צִיָּה וּשְׁמָמָה֒ a as-pnai a o mar הַקַּדְמֹנִ֔י וְסֹפ֖וֹ a o-mar que e suba no fogo e se elevem sua tenda porque aumente para-fazer
+21  a terra terra-a meu prazer e minha alegria yhwh aumente yhwh para-fazer
+22  a temam com animais que porque דָּשַׁע pastagens מִדְבָּר porque madeira nasa פְּרִיֹּ תְּאֵנָה וַגֶּפֶן eles-deram חֵילָֽם׃
+23  e-filhos-de Siao גִּילוּ וַשִּׂמְח֔וּ בּיהוָ֣ה אֱלֹהִים-vosso porque a-vós a-vós a hamooreh a-vós וַיּוֹרֵד para-vós גֵּשֶׁם מוֹרֶה וּמַלְק֖וֹשׁ בָּרִאשֽׁוֹן׃
+24  e-encheram הַגֳּרָנ֖וֹת em bar וְהֵשִׁ֥יקוּ הַיְקָבִ֖ים תִּיר֥וֹשׁ וְיִצְהָֽר׃
+25  וְשִׁלַּמְתִּ֤י a-vós a הַשָּׁנִ֔ים comer אָכַ֣ל הָֽאַרְבֶּ֔ה o yelek e hachasil e hagazam chayli a-grande que shillachtiti בכם׃
+26  e-voces-comeram akol veshavuach velillatem a yhwh yhwh אֱלֹהִים-de-vós que fez com-vós lehapleya e-não vergonhem-se; povo-meu para-eternidade
+27  vidatetem que בְקֶ֤רֶב Israel eu e-eu yhwh אֱלֹהִים de-vós e-não ainda e-não vergonhem-se; povo-meu para-eternidade
 
 ── Capítulo 3 ──
 
-vhoyoh acharey-khen eshpvokh et-ruchi [OBJ] vnibu sobre todo ziqneykhem chalomvot yachalomun bachureykhem chezyonvot yiru
-vgam sobre v'al-hashּfochvot e-sobre hohemּoh eshpvokh et-ruchiy [OBJ]
-vnotati mvoftiym bashּomayim uvoorets dom voesh vtiymarvot oshon
-hashּemesh yehofekh lchoshekh vhayּorecha ldom lifney trazer dia yhwh hagodvol vhanּvoro
-vhoyoh todo que bshem yhwh yhwh que porque uvirusholaim tihyeh fleytoh kaasher disse yhwh disse yhwh yhwh que yhwh chamou
+1  e-foi depois-de assim אֶשְׁפּ֤וֹךְ a רוּחִי֙ sobre todo בָּשָׂ֔ר וְנִבְּא֖וּ filhos-vossos וּבְנֽוֹתֵיכֶ֑ם זִקְנֵיכֶם֙ חֲלֹמ֣וֹת יַחֲלֹמ֔וּן os jovens vossos חֶזְיֹנ֖וֹת יִרְאֽוּ׃
+2  e-também sobre הָֽעֲבָדִ֖ים e-sobre as-shaphachot em-os-dias הנה esh-sphokh a ruchi
+3  e-n-d-e-rei moftim nos-samaxim e-nas-teres sangue va-esh ve-ti-marot עָשָֽׁן׃
+4  o-sol ye-hafekh para as trevas ve-ha-yyarach לְדָ֑ם lifnei trazer dia yhwh o-grande ve-hanora
+5  e-será todo que יִקְרָ֛א yhwh yhwh que porque em-monte-de צִיּ֨וֹן וּבִירוּשָׁלִַ֜ם תִּֽהְיֶ֣ה disse yhwh disse yhwh yhwh que yhwh chamou
 
 ── Capítulo 4 ──
 
-que eis bayּomiym hohemּoh uvo'et hahiy que [OBJ] **oshiyv et-shvut yhudoh
-vqibatsti [OBJ] todo el-'emeq yhvoshofot a imּom shom al-'amּiy vnachalotiy nome sobre pizּru vagvoyim Israel que e-[OBJ]
-e-a yadu gvorol vayּitnu hayּeled bazּvonoh vhayּaldoh mokhru vayּayin vayּishtu
-vgam moh-atem li tsor vtsidvon e-tudo e-todo ploshet hagmul atem mshalּmiym oloy vim-gomliym atem olay qal mheroh oshiyv gmulkhem broshkhem
-que uzhoviy lqachtem umachamaday hatּoviym havetem lheykhleykhem
-uvney yhudoh uvney yrusholaim mkhartem livney hayּvoniym lma'an harchiqom de-cima-de gvulom
-hinniy m'irom de asher-mkhartem eles shomּoh vahashivotiy gmulkhem broshkhem
-umokhartiy [OBJ] vet-bnvoteykhem e-[OBJ] bney yhudoh filhos-de lishvoyim el-gvoy rochvoq que yhwh diber porque yhwh palavra
-qiru-zot bagvoyim qadshu milchomoh ho'iyru hagibvoriym yigshu ya'alu kol todo hamּilchomoh
-kotu iteykhem lacharovvot umazmroteykhem lirmochiym hachalּosh yomar gibvor oni
-ushu vovou todo misּoviyv vniqbotsu shomּoh hanchat yhwh yhwh
-ye'voru vya'alu hagvoyim a yhvoshofot que porque nome lishpot et-kol-hagvoyim [OBJ] todo
-shilchu magol que voshal qotsiyr bou rdu porque gat heshiyqu hayqoviym que porque multiplicai
-hamvoniym hamvoniym b'emeq hechoruts que qorvov dia yhwh b'emeq hechoruts
-shemesh vyorecha qodoru vkhvokhoviym osfu noghom
-vayhvoh mitsּi[cיּ֣וֹן] yishog umirusholaim yiten qvolvo céus shomayim voorets vayhvoh machaseh l'amּvo umo'voz Israel
-viyda'tem que aniy yhwh eloheykhem shokhen btsiּvon har-qodshiy vhoytoh yrusholaim qodesh vzoriym lo-ya'avru-voh não
-vhoyoh vayּvom hahu yitּfu hehoriym osiys vhagvo'vot telakhnoh cholov e-todo yhudoh yelkhu moyim águas mibeyt yhwh yhwh vhishqoh et-nachal [OBJ]
-mitsrayim lishmomoh tihyeh veedvom lmidbar shmomoh tihyeh mechamas filhos-de yhudoh que dom-noqiy bartsom
-vihudoh l'volom teshev virushola͏im ldvor vodvor
-vniqּeyti domom não vayhvoh shokhen btsiּvon
+1  que eis בַּיָּמִ֥ים הָהֵ֖מָּה e-no-tempo-de aquela que a שבות יְהוּדָה וִירוּשָׁלָֽ͏ִם׃
+2  וְקִבַּצְתִּי֙ a todo as-nações וְה֣וֹרַדְתִּ֔ים a עֵ֖מֶק יְהֽוֹשָׁפָ֑ט e julgar-me-ei com eles nome sobre meu povo e minha herança Israel que dividam nos gentios e-a minha-terra se partilhem;
+3  e-a povo-meu eles tirarem sorteio e-eles-deram a-criança em zonas e a nascida Vendem no vinho וַיִּשְׁתּֽוּ׃
+4  e-tambem o-quê vós a-mim Síra e-tudo e-todo Gileade Filisteia o dívida vós pagam por mim e-se que remitem vós sobre-mim ligeiro depressa eu trarei gemulchem boreshchem:
+5  que kaspipi uzechavi lekachtem umachadai hatovim havete leheiklchem:
+6  e-filhos-de יְהוּדָה e-filhos-de Jerusalém mekartem a-filhos-de הַיְּוָנִ֑ים para הַרְחִיקָ֖ם de-cima-de em seus limites:
+7  eis-me מְעִירָ֔ם de o-lugar eles מְכַרְתֶּ֥ם eles para-lá וַהֲשִׁבֹתִ֥י גְמֻלְכֶ֖ם בְּרֹאשְׁכֶֽם׃
+8  וּמָכַרְתִּ֞י a filhos-vossos e-a בְּנֽוֹתֵיכֶ֗ם em-mão-de filhos-de Judá וּמְכָר֥וּם para os prisioneiros que yhwh distante porque yhwh palavra
+9  chamai esta entre-as-nações santifiquem guerra anunciem os-heróis aproximem-se subam todo homens-de a-batalha
+10  dizem com-vós para as desoladas e vossas harpas para os gafanhotos o lagarto será dito heroi- eu
+11  façais e entrardes todo as-nações ao-redor e juntar-vos-eis ali yhwh yhwh גבוריך׃
+12  dormireis וְיַעֲלוּ as-nações a עֵ֖מֶק que porque nome אֵשֵׁ֛ב לִשְׁפֹּ֥ט a todo as-nações misaviv
+13  שִׁלְח֣וּ מַגָּ֔ל que בָשַׁ֖ל קָצִ֑יר בֹּ֤אֽוּ רְדוּ֙ porque מָ֣לְאָה gat הֵשִׁיקוּ que porque multiplicai רָעַתָם׃
+14  הֲמוֹנִים הֲמוֹנִים be-emek הֶחָרַץ que proximo dia yhwh be-emek הֶחָרַץ׃
+15  שֶׁמֶשׁ וְיָרֵ֖חַ קָדְרוּ וְכוֹכָבִים אָסְפוּ נָגְהָֽם׃
+16  e-יהוה יִשְׁאָ֗ג וּמִירוּשָׁלִַ֙ם֙ dará קוֹל֔וֹ וְרָעֲשׁ֖וּ céus וָאָ֑רֶץ e-יהוה מַֽחֲסֶ֣ה לְעַמּ֔וֹ וּמָע֖וֹז para-filhos-de Israel
+17  e-vocês-sabereis que eu yhwh אֱלֹהִים-de-vós שֹׁכֵ֖ן בּצִיּוֹן monte-de קָדְשִׁי e-será Jerusalém santidade וְזָרִים não não nela ainda
+18  e-será no-dia o-aquele יִטּוּ hehārim עָסִיס וְהַגְּבָּעוֹת תּלַכְנָה חָלָב e-todo אֲפִיקֵי יְהוּדָה irão águas וּמַעְיָן yhwh yhwh ele sairá e-regou a ribeiro-de os‭ ‬deserto:
+19  Mitzrayim para‭ ‬Shammah sera e‭ ‬Edom para‭ ‬deserto: Shammah תהיה de‭ ‬Chamas filhos-de Judá que derramaram sangue‭ puro em sua terra:
+20  וִיהוּדָה para-sempre residiria Jerusalém para-geração geração:
+21  e eu levantarei silêncio não eu levantarei e-יהוה morando em Sião:
 
-───────────────────────────────────────────────────────────────────────
-Fim de Joel
-
+──────────────────────────────────────────────────────────────────────
+Total de versículos: 73
+Versículos traduzidos: 73
+Cobertura: 100.0%
+──────────────────────────────────────────────────────────────────────

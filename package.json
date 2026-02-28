@@ -14,8 +14,9 @@
     "format:check": "prettier --check \"src/**/*.ts\"",
     "typecheck": "tsc --noEmit",
     "build": "wrangler deploy --dry-run",
-    "test": "echo \"Tests not configured yet\" && exit 0",
-    "ci": "npm run lint && npm run format:check && npm run typecheck"
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "ci": "npm run lint && npm run format:check && npm run typecheck && npm run test"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.71.2",
@@ -34,6 +35,7 @@
     "prettier": "^3.7.4",
     "typescript": "^5.7.0",
     "typescript-eslint": "^8.53.0",
+    "vitest": "^3.2.4",
     "wrangler": "^4.0.0"
   }
 }

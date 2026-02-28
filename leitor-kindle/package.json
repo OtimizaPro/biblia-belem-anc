@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "keywords": [],
-  "author": "Anderson Costa Belem",
+  "author": "Belem Anderson Costa",
   "license": "ISC",
   "dependencies": {
     "@vitejs/plugin-react": "^5.1.2",

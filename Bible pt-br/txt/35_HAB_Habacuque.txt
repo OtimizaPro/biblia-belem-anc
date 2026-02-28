@@ -1,79 +1,78 @@
-═══════════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════════════════
 HABACUQUE
-═══════════════════════════════════════════════════════════════════════
 
 Tradução: Bíblia Belém An.C 2025
 Método: Literal Rígido - Fiel ao códice original
 Sem suavização. Sem normalização. Sem interferência do tradutor.
-
-═══════════════════════════════════════════════════════════════════════
-
+══════════════════════════════════════════════════════════════════════
 
 ── Capítulo 1 ──
 
-hamּaso que chozoh chavaqּuq hanּoviy
-até yhwh yhwh vlo e-não ez'aq eleykho chomos vlo e-não
-lomּoh tareni oven v'omol tabiyt vshod vchomos lnegdiy e-houve riyv umodvon yisּo
-sobre tofug tvoroh vlo-yetse e-não mishpot que rosho porque et-hatsּadiyq al-ken [OBJ] mishpot sobre
-ru vagvoyim vhabiytu vhitamּhu tmohu porque po'el biymeykhem não não que porque
-porque meqim et-hakasdiym [OBJ] hamּar vhanּimhor hahvolekh lmerchavey-erets loreshet mishkonvot terra não
-oyom vnvoro ele nós mishpotvo usetvo yetse
-vqalּu minּmeriym susoyv vchadu mizּevey tarde ufoshu poroshoyv uforoshoyv merochvoq yovou yo'ufu knesher chosh leekhvol
-kulּoh lchomos yovvo mgamּat pneyhem qodiymoh vayּeesof kachvol shevi
-vhu bamּlokhiym yitqalּos vrozniym mischoq a-ele ele para-todo yischoq vayּitsbor pó vayּilkdoh
-oz cholaf espírito vayּa'avor voshem zu khochvo lelohvo
-halvo tu ao-oriente yhwh elohay qdoshiy não nomut yhwh lmishpot samtvo vtsur lhvokhiycha ysadtvo
-thvor eynayim mervot mal vhabiyt a não não lomּoh tabit bvogdiym tachariysh bvalּa rosho tsadiyq nós
-vata'aseh homem kidgey o-mar kremes não bvo
-kulּoh bchakoh he'aloh ygorehu vchermvo vyaasfehu bmikhmartvo sobre yismach vyogiyl
-sobre yzabecha lchermvo viyqatּer lmikhmartvo que porque animal chelqvo umaakholvo brioh
-ha'al ken yoriyq chermvo vtomiyd laharog gvoyim não yachmvol
+1  הַמַּשָׂא֙ que חזתה חֲבַקּ֖וּק o profeta:
+2  até yhwh yhwh שִׁוּ֖עְתִּי e-não תִשְׁמָ֑ע אֶזְעַ֥ק a-ti violência e-não תוֹשִֽׁיעַ׃
+3  por-que תַרְאֵ֤נִי אָ֙וֶן֙ וְעָמָ֣ל תַּבִּ֔יט וְשֹׁ֥ד וְחָמָ֖ס לנגדי e-houve רִ֦יב וּמָד֖וֹן יִשָֽׂא׃
+4  sobre assim תָּפ֣וּג תּוֹרָ֔ה e-não saia que juízo porque perverso מַכְתִּ֣יר a o-justo sobre assim saia juízo מְעֻקָּֽל׃
+5  רְא֤וּ בַגּוֹיִם֙ וְֽהַבּ֔יטוּ וְהִֽתַּמְּה תְּמָ֑הוּ porque פֹ֙עַל֙ פֹ֙עַל֙ não não que porque יְסֻפָּֽר׃
+6  porque eis-me מֵקִים֙ a הַכַּשׂדִים o-povo הַמּר e o nimhar o holêk para merachêi- terra para-possuir mishchanôt não a-ele
+7  aim e norá ele nós misfatto e seato saira
+8  e kalû minmerîm suasi e haddu mizaevei tarde u pashu parashayo uparashayo merachok yavo-u yaafu kenesher chas para comer:
+9  todoa por violência vira de perigo faces-deles antiga e arreuniu como areia destruição:
+10  e-ele entre reis se despedaçará e príncipes משׂחק a-ele ele para-todo מבצר יִשְׂחָ֔ק pó pó WAYYILKADHA:
+11  então חלף espírito e-atravessou ואשם ז֥וּ כחו לאלוה׃
+12  não tu ao-oriente yhwh Elohim-me קדשׁי não que-nós-moirtemos yhwh למשפט סמתו ואשם לְהוֹכִ֥יחַ יְסַדְתּֽוֹ׃
+13  טְה֤וֹר עֵינַ֙יִם֙ מֵרְא֣וֹת mal וְהַבּ֥יט a não não תוּכָ֑ל por-que תַבּ֣יט בּוֹגְדִ֔ים תַּחֲרִ֕ישׁ בְּבַלַּ֥ע רָשָׁע nós de-nós
+14  וַתַּעֲשֶׂ֥ה homem כִּדְגֵ֣י o-mar כְּרֶ֖מֶשׂ não מֹשֵׁ֥ל em-ele
+15  כֻּלֹּה֙ בְּחַכָּ֣ה הֵֽעֲלָ֔ה יְגֹרֵ֣הוּ בְחֶרְמ֔וֹ וְיַאַסְפֵ֖הוּ בְּמִכְמַרְתּ֑וֹ sobre assim יִשְׂמַ֥ח וְיָגִֽיל׃
+16  sobre assim יְזַבֵּ֣חַ לְחֶרְמ֔וֹ וִֽיקַטֵּ֖ר que porque animal gorduroso חֶלְק֔וֹ וּמַאֲכָל֖וֹ בְּרִאָֽה׃
+17  הַ֥עַל assim יָרִ֣יק חֶרְמ֑וֹ וְתָמִ֛יד להרג nações não יַחְמֽוֹל׃
 
 ── Capítulo 2 ──
 
-sobre e'emodoh vetyatsּvoh al-motsvor sobre para-ver mah-ydaber-biy umoh oshiyv al-tvokhachtiy sobre
-vayּa'aneni yhwh E-disse ktvov chozvon uvoer sobre lma'an yoruts qvore nele
-que vod chozvon lamּvo'ed vyofecha laqּets e-não ykhazּev se chakeh-lvo kiy-vo yovo não veio não
-eis uploh não nafshvo bvo vtsadiyq beemunotvo yichyeh
-vaf porque bvoged gever yohiyr vlo e-não asher que kishvol nafshvo vhu khamּovet vlo e-não vayּeesof a-ele kol-hagvoyim todo a-ele kol-ho'amּiym todo
-halvo-elּeh khulּom oloyv moshol yisּou umlitsoh chidvot a-ele vyomar E-disse hamּarbeh lּo-lvo não umakhbiyd até avtiyt
-halvo feta yoqumu noshkheykho vyiqtsu mza'z'eykho vhoyiyto limshisּvot lomvo
-que tu shalּvoto gvoyim rabiym ysholּukho todo amּiym midmey homem homem qiryoh terra voh e-todo
-hvoy botse'a betsa mal lveytvo losum bamּorvom qinּvo lhinּotsel mikaf-ro mau
-yo'atsto boshet lveytekho qtsvot-'amּiym rabiym vchvote nafshekho
-porque miqּiyr tiz'oq vkhofiys me'ets ya'anenּoh
-hvoy boneh cidade bdomiym vkhvonen qiryoh b'avloh
-halvo eis meet yhwh tsvovot vyiyg'u amּim bdey-esh ulumּiym bdey-riyq yi'ofu
-que timּole a-terra para-conhecer [OBJ] yhwh yhwh ykhasּu al-yom sobre
-hvoy mashqeh re'ehu msapecha chamotkho vaf shaker lma'an habiyt sobre
-sova'to qolvon mikovvod shteh também vhe'orel tisּvov oleykho kvos ymiyn yhwh yhwh al-kvvodekho sobre
-que chamas lvonvon ykhasּeko vshod bhemvot ychitan midmey homem vachamas-erets terra vkhol-yoshvey e-todo
-moh-hvo'iyl pesel que porque yotsrvo masּekhoh umvoreh shּoqer que porque yotser yitsrvo oloyv la'asvot eliliym ilּmiym
-hvoy disse lo'ets hoqiytsoh uri leven dumom ele yvoreh hinּeh-hu tofus ouro vokhesef vkhol-rucha e-todo espírito
-vayhvoh bheykhal qodshvo has miponoyv todo a-terra
+1  sobre da minha guarda אֶעֱמֹ֔דָה וְאֶֽתְיַצְּבָ֖ה sobre para-ver וַאֲצַפֶּ֗ה para-ver que- יְדַבֶּר־ em-mim וּמָ֥ה farei-voltar sobre תּוֹכַחְתִּֽי׃
+2  וַיַּעֲנֵ֤נִי yhwh E-disse כּותב חזהון ואבר sobre הלוחות para ירוץ nele nele-verso
+3  que ainda חזון לموעdeen ויפהון לकצהן e-não יחזהוב se יתמהנהו חַכֵּה־ a-ele não veio vira não יְאַחֵֽר׃
+4  eis עֻפְּלָ֔ה não יָשְׁרָ֥ה sua alma nele וְצַדִּ֖יק בֶּאֱמוּנָת֥וֹ יִחְיֶֽה׃
+5  וְאַף֙ porque הַיַּ֣יִן בּוֹגֵ֔ד homem יהִיר e-não יִנְוֵה que הִרְחִיב כִּשְׁאֹל נַפְשׁוֹ e-ele כַמָּ֙וֶת֙ e-não יִשְׂבָּע a-ele a-ele todo a-ele וַיִּקְבֹּץ a-ele todo ha-ammim
+6  porventura-não estes כֻלָּ֗ם sobre-ele מָשָׁל יִשָּׂאֻ וּמְלִיצָ֖ה a-ele para-ele E-disse ה֜וֹי o que multiplica não a-ele até quando e faz sofrer sobre-ele abutre
+7  não de repente levantem-se as suas mordeduras e despertem as suas agitações e-você-seja para morderem a-eles
+8  que tu שַׁלְּוָתָ nações muitos יִשְׁלַֽלוּךָ todo Jetro עַמִּ֑ים homem homem וַחֲמַס־ terra קִרְיָ֖ה e-todo יֹשְׁבֵי em-ela
+9  ai בּוֹצֵעַ בֶּ֥צַע mal para-seu-lugar: לָשׂוּם בְּמָרֹם קִנֹּ לַהֲנִיחַלֵץ da-mão mau
+10  יָעַצְתָּ vergonha em-teu-casa fins-de nations muitos e-senhor alma-tua
+11  porque eben do-fundo chamaste e-ferro de-árvore responderá:
+12  הוי בונה cidade בדמים וכונן קִרְיָ֖ה בעולא׃
+13  não eis de-com yhwh exércitos ויתגעו עמים בדי־ fogo e-países בדי־ ריק se exaurem;
+14  que será cheia; a-terra para-conhecer a yhwh yhwh כאמים cobrirão; sobre mar
+15  ה֜וֹי de água; companheiro-seu e de suor; a tua ira, e o teu fôlego; que seca; para olha; sobre as suas faces.
+16  שָׂבַעְתָּ קָלוֹן מִכָּבוֹד שֵׁת também tu וְהֵעַרֵל תִּסֹּב sobre-ti כּוֹס yhwh yhwh וְקִיקָלוֹן sobre כְּבוֹדֶךָ
+17  que חֲמַס לְבָנֹן יְכַסֵּךְ וְשֹׁד בְּהֵמֹת יְחִיתֶנָּה מִדְמֵי homem וַחֲמָस־ terra קִרְיָ֖ה e-todo יֹ֥שְׁבֵי em-ela
+18  que הוֹעִיל que porque פְּסַלֹּ ויאצרו מסכה ומורה que porque בטח יוצר יצרו sobre-ele para-fazer אלילים ilmaים׃
+19  ai disse לאצ הakitze arrega-a a pedra mudo ele ensinador eis-que- ele ouro ouro וכסף e-todo espírito não em-o-centro-dele
+20  e-יהוה em-templo-de sua-santidade הַ֥ס מפניו todo a-terra
 
 ── Capítulo 3 ──
 
-tfilּoh lachavaqּuq hanּoviy sobre shigyonvot
-yhwh shoma'ti shim'akho yoreti yhwh po'olkho bqerev dois chayּeyhu bqerev dois tvodiy'a brogez rachem tizkvor
-elvoha miteymon yovvo vqodvosh mehar-poron seloh kisּoh shomayim céus uthilּotvo moloh a-terra a-terra
-vnogah kovor tihyeh qarnayim miּodvo a-ele vshom chevyvon uzּoh
-lfonoyv yelekh palavra vyetse reshef lragloyv
-omad ׀ terra terra ver vayּater gvoyim vayּitpotstsu até shachu giv'vot eternidade halikhvot eternidade a-ele
-debaixo oven roiyti oholey khushon yirgzun yri'vot terra midyon
-havinhorim choroh yhwh mãe banּhorim apekho se evrotekho que porque al-suseykho sobre yshu'oh
-eryoh te'vor qashtekho shvu'vot matּvot disse seloh nhorvot tvaqּa'-orets terra
-roukho yochiylu horiym zerem águas ovor dar thvom qvolvo rvom yodeyhu noso
-shemesh yorecha ficou-em-pé zvuloh lvor chitsּeykho yhalּekhu lnogah braq chanitekho
-bza'am tits'ad-orets terra todush gvoyim
-yotsoto lyesha amּekho lyesha [OBJ] mochatsto rּosh cabeça rosho orvot ysvod ad-tsauor até
-noqavto vmatּoyv cabeça *frzv **prozoyv yis'aru lahafitseni aliytsutom kmvo-leekhol oniy
-dorakhto vayּom suseykho chomer águas rabiym
-shoma'ti ׀ vatirgaz bitniy à-voz-de tsolalu sfotay yovvo roqov ba'atsomay vtachtay que asher onucha lyvom tsoroh la'alvot l'am
-porque lo-tifroch não yvul bagfoniym kichesh ma'aseh-zayit ushdemvot lo-'osoh okhel gozar não fez veyn boqor borfotiym manhã
-vaaniy bayhvoh e'lvozoh ogiyloh belohey yish'iy
-yhwh Adonai cheyliy vayּosem raglay koayּolvot e-sobre bomvotay yadrikheni lamnatsּecha binginvotoy
+1  oração para Chavakuk o-profeta sobre pensamentos
+2  yhwh eu ouvi ouves-te tremi yhwh o teu trabalho בְּקֶ֤רֶב dois חַיֵּ֔יהוּ em-meio-de dois תּוֹדִ֑יעַ בְּרֹ֖גֶז רַחֵ֥ם תִּזְכּֽוֹר׃
+3  אֱל֙וֹהַ֙ מִתֵּימָ֣ן vira וְקָד֥וֹשׁ מֵֽהַר־ פָּארָ֖ן סֶ֑לָּה כִּסֵּה céus הוֹד֔וֹ וּתְהִלָּת֖וֹ a-terra a-terra
+4  וְנֹ֙גַהּ֙ כָּא֣וֹר תִּֽהְיֶ֔ה קַרְנַ֥יִם מִיָּד֖וֹ a-ele e-ali חֶבְי֥וֹן עֻזֹּֽה׃
+5  diante-dele יֵ֣לֶךְ palavra e sairá resf pelas suas pernas:
+6  estava e mediu terra terra ver nações e se dividiram as montanhas— até caíram montanhas eternidade caminhos eternidade a-ele
+7  debaixo iniquidade vi אֹהֲלֵי כושָׁ֑ן יִרְגְּז֤וּן יְרִיע֖וֹת terra de-Madian
+8  הַבִּנְהָרִים֙ acendeu-se yhwh mãe בַּנְּהָרִים֙ אַפֶּ֔ךָ se בַּיָּ֖ם que porque תִּרְכַּב֙ sobre סוּסֶ֔יךָ מרכבותיך ישועה׃
+9  עריה תITOR קשתחך שבועות varas disse סלא נהרות תבקעה- terra
+10  ראוך יָחִ֙ילוּ֙ הָרִ֔ים זֶ֥רֶם águas עָבָ֑ר dar תְּהוֹם֙ קוֹל֔וֹ ר֖וֹם יָדֵ֥יהוּ נָשָֽׂא׃
+11  שֶׁמֶשׁ יָרֵ֖חַ ficou-em-pé זְבֻ֑לָה לְא֤וֹר seu-arco andarão para-a-ventura relâmpago seu-campo
+12  com-ira andarás-em terra com-ira destruirás goyim:
+13  sairás לְיֵ֣שַׁע seu povo לְיֵ֖שַׁע a מְשִׁיחֶ֑ךָ מָחַ֤צְתָּ cabeça de-casa-de perverso-o עָר֛וֹת יְס֥וֹד até צַוּ֖אר Selá
+14  נָקַ֤בְתָּ בְמַטָּיו֙ cabeça יִסְעֲר֖וּ para me fazer sobre as suas ondas como para-comer pobre em segredo
+15  caminhei בַ-יָּם seu cavalo חומר águas muitos
+16  eu ouvi váthirgez no meu ventre pelo som à-voz-de minha boca virá רָקָ֛ב בַּעֲצָמַ֖י וְתַחְתַּ֣י אֶרְגָּ֑ז que אָנ֙וּחַ֙ para-o-dia צָרָ֔ה para-subir para-o-povo יְגוּדֶֽנּוּ׃
+17  porque תְאֵנָ֣ה não תִפְרָ֗ח e-não-há יְבוּל֙ nos-brafanim kachesh maaseh- zayit u-shedomot não fez o'achel gazar mimiklaha rebanho e-não-há manhã barfatiym
+18  e-eu בּיהוָ֣ה e'alozah אָגִילָה בֵּאלֹהֵ֥י Isaías
+19  yhwh Adonai חֵילִ֔י e-ele-colocou רַגְלַי֙ כָּֽאַיָּל֔וֹת e-sobre בָּמוֹתַ֖י יַדְרִכֵ֑נִי לַמְנַצֵּ֖חַ בִּנְגִינוֹתָֽי׃
 
-───────────────────────────────────────────────────────────────────────
-Fim de Habacuque
-
+──────────────────────────────────────────────────────────────────────
+Total de versículos: 56
+Versículos traduzidos: 56
+Cobertura: 100.0%
+──────────────────────────────────────────────────────────────────────

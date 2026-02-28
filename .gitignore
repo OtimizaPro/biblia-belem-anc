@@ -10,3 +10,34 @@ nul
 
 # Diretório antigo (remover após liberar lock)
 bible-reader/
+
+# SDK build output (rebuild via npm run build)
+sdk/dist/
+
+# Build output
+leitor-kindle/dist/
+tradutor-web/dist/
+export/
+
+# Binarios
+*.exe
+
+# Backups SQL
+backup_*.sql
+
+# Logs
+*.log
+
+# Worktrees
+*.worktrees/
+
+# Arquivos temporarios
+.vscode/settings\ (2).json
+
+# Scripts - dados temporarios de batch (JSON slices, freq lists)
+scripts/*-slice-*.json
+scripts/*-words.json
+scripts/freq*-raw.json
+scripts/pending-words.json
+scripts/retry-slice-*.json
+scripts/at-freq*-words.json

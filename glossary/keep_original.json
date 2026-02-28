@@ -1,36 +1,81 @@
 {
-  "_description": "Palavras que NÃO devem ser traduzidas - permanecem no original. Cada categoria inclui o motivo.",
+  "_description": "Palavras que NÃO devem ser traduzidas - permanecem no original. Cada categoria inclui o motivo. A palavra 'Deus' é LATIM e NUNCA deve aparecer na tradução.",
   "philosophy": "Você lê. E a interpretação é sua.",
+  "forbidden": {
+    "Deus": "Palavra latina. Rejeitada. Não existe nos códices hebraicos nem gregos. NUNCA usar."
+  },
   "categories": {
     "yhwh": {
-      "reason": "Tetragramaton - Nome sagrado de Deus em hebraico (יהוה). Não é traduzido pois é um nome próprio divino. Mantém a distinção fundamental entre o nome próprio de Deus e títulos genéricos como 'Elohim'",
+      "reason": "Tetragrama - Nome próprio divino em hebraico (יהוה). Não é traduzido pois é um nome próprio.",
       "original_hebrew": "יהוה",
-      "common_translations": "Senhor, Deus (em traduções tradicionais - perdendo a identidade do nome próprio)",
+      "common_translations": "Senhor, LORD (em traduções tradicionais - perdendo a identidade do nome próprio)",
       "why_not_translated": "A literalidade rígida preserva a identidade do nome próprio divino que o leitor pode interpretar livremente",
-      "words": ["yhwh", "Yhwh"]
+      "words": ["yhwh", "Yhwh"],
+      "pt_literal": "yhwh"
+    },
+    "Elohim": {
+      "reason": "Termo hebraico (אֱלֹהִים) pressuposto como 'Deus/deuses'. Mantém a forma original para preservar a ambiguidade singular/plural inerente ao termo.",
+      "original_hebrew": "אֱלֹהִים",
+      "common_translations": "Deus, deuses (em traduções tradicionais - impondo interpretação singular ou plural)",
+      "why_not_translated": "Preserva a forma original sem impor interpretação. O leitor decide se é singular ou plural.",
+      "words": ["אֱלֹהִים", "אֱלֹהֵי", "אֱלֹהֶיךָ", "אֱלֹהֵינוּ", "אֱלֹהֵיכֶם", "אֱלֹהָיו"],
+      "pt_literal": "Elohim"
+    },
+    "Eloah": {
+      "reason": "Termo hebraico (אֱלוֹהַּ) pressuposto como 'Deus'. Forma singular arcaica, predominante em Jó.",
+      "original_hebrew": "אֱלוֹהַּ",
+      "common_translations": "Deus (em traduções tradicionais)",
+      "why_not_translated": "Preserva a distinção entre Eloah (singular arcaico) e Elohim (forma padrão).",
+      "words": ["אֱלוֹהַּ"],
+      "pt_literal": "Eloah"
+    },
+    "El": {
+      "reason": "Termo hebraico (אֵל) pressuposto como 'Deus'. Forma mais curta e primitiva.",
+      "original_hebrew": "אֵל",
+      "common_translations": "Deus (em traduções tradicionais)",
+      "why_not_translated": "Preserva a distinção entre El, Eloah e Elohim — três formas distintas nos códices.",
+      "words": ["אֵל"],
+      "pt_literal": "El"
     },
     "Theos": {
-      "reason": "Referência a Deus na teologia grega (Θεός). Mantém a forma original para preservar a distinção entre 'theós' (divino genérico) e 'ho Theos' (Deus específico)",
+      "reason": "Termo grego (Θεός) pressuposto como 'Deus'. Mantém a forma original para preservar a distinção entre 'theós' (divino genérico) e 'ho Theos' (específico).",
       "original_greek": "Θεός",
+      "common_translations": "Deus (em traduções tradicionais - usando termo latino)",
       "why_not_translated": "Preserva nuances semânticas do idioma original que traduções como 'Deus' perdem",
-      "words": ["Θεός", "Θεοῦ", "Θεόν", "Θεῷ", "Θεέ", "θεός", "θεοῦ", "θεόν", "θεῷ"]
+      "words": ["Θεός", "Θεοῦ", "Θεόν", "Θεῷ", "Θεέ", "θεός", "θεοῦ", "θεόν", "θεῷ"],
+      "pt_literal": "Theos"
     },
     "Iesous": {
-      "reason": "Nome próprio - Jesus em grego (Ἰησοῦς). Nomes próprios permanecem no original como regra fundamental de literalidade",
+      "reason": "Nome próprio grego (Ἰησοῦς). Nomes próprios permanecem no original como regra fundamental de literalidade.",
       "original_greek": "Ἰησοῦς",
+      "common_translations": "Jesus (em traduções tradicionais)",
       "why_not_translated": "Mantém a forma grega original preservando a identidade histórica",
-      "words": ["Ἰησοῦς", "Ἰησοῦ", "Ἰησοῦν"]
+      "words": ["Ἰησοῦς", "Ἰησοῦ", "Ἰησοῦν"],
+      "pt_literal": "Iesous"
     },
     "Christos": {
-      "reason": "Título grego (Χριστός) - embora traduzível como 'Ungido' ou 'Messias', mantém-se a forma original para preservar a carga semântica completa",
+      "reason": "Título grego (Χριστός) — embora traduzível como 'Ungido' ou 'Messias', mantém-se a forma original para preservar a carga semântica completa.",
       "original_greek": "Χριστός",
-      "common_translations": "Ungido, Messias (em traduções tradicionais - adicionando interpretação)",
+      "common_translations": "Cristo, Ungido, Messias (em traduções tradicionais - adicionando interpretação)",
       "why_not_translated": "Evita interpretações que 'Ungido' ou 'Messias' poderiam carregar, deixando ao leitor a interpretação integral",
-      "words": ["Χριστός", "Χριστοῦ", "Χριστόν", "Χριστῷ"]
+      "words": ["Χριστός", "Χριστοῦ", "Χριστόν", "Χριστῷ"],
+      "pt_literal": "Christos"
+    },
+    "Adonai": {
+      "reason": "Designação hebraica (אֲדֹנָי) pressuposta como 'Senhor'. Mantém a transliteração para preservar a identidade do referente — os códices usam Adonai tanto para seres divinos quanto humanos, e cada ocorrência pode referir-se a um ser distinto.",
+      "original_hebrew": "אדני",
+      "common_translations": "Senhor, Lord (em traduções tradicionais - apagando a distinção entre YHWH, Adonai e outros referentes)",
+      "why_not_translated": "Preserva a designação original sem impor interpretação. Permite ao leitor distinguir Adonai de YHWH e identificar o referente em cada contexto. A tradição massorética fundiu YHWH e Adonai via substituição vocálica — manter o original desfaz essa fusão.",
+      "words": ["אֲדֹנָי", "אֲדֹנִי", "אֲדֹנֵי", "אֲדֹנַי"],
+      "pt_literal": "Adonai"
     }
   },
   "all_words": [
     "yhwh", "Yhwh",
+    "אֱלֹהִים", "אֱלֹהֵי", "אֱלֹהֶיךָ", "אֱלֹהֵינוּ", "אֱלֹהֵיכֶם", "אֱלֹהָיו",
+    "אֱלוֹהַּ",
+    "אֵל",
+    "אֲדֹנָי", "אֲדֹנִי", "אֲדֹנֵי", "אֲדֹנַי",
     "Θεός", "Θεοῦ", "Θεόν", "Θεῷ", "Θεέ",
     "θεός", "θεοῦ", "θεόν", "θεῷ",
     "Ἰησοῦς", "Ἰησοῦ", "Ἰησοῦν",

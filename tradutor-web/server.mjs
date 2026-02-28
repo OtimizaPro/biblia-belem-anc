@@ -64,7 +64,7 @@ async function handleApi(req, res) {
       case 'start-translation':
         if (req.method === 'POST') {
           const body = await getBody(req);
-          result = startTranslation(body.bookCode, body.model);
+          result = startTranslation(body.bookCode, body.model, body.dualGpu);
         }
         break;
 
@@ -122,16 +122,27 @@ async function getStatus() {
     }
   } catch {}
 
-  // Check GPU
+  // Check GPU(s) — suporta múltiplas GPUs
   try {
-    const gpuInfo = execSync('nvidia-smi --query-gpu=name,memory.total,memory.used,utilization.gpu --format=csv,noheader,nounits', { encoding: 'utf-8' });
-    const parts = gpuInfo.trim().split(',').map(s => s.trim());
+    const gpuInfo = execSync('nvidia-smi --query-gpu=index,name,memory.total,memory.used,utilization.gpu --format=csv,noheader,nounits', { encoding: 'utf-8' });
+    const gpuLines = gpuInfo.trim().split('\n');
+    result.gpus = gpuLines.map(line => {
+      const parts = line.split(',').map(s => s.trim());
+      return {
+        index: parseInt(parts[0]),
+        name: parts[1],
+        memoryTotal: parseInt(parts[2]),
+        memoryUsed: parseInt(parts[3]),
+        utilization: parseInt(parts[4])
+      };
+    });
+    // Compatibilidade: manter .gpu com a primeira GPU
     result.gpu = {
       available: true,
-      name: parts[0],
-      memoryTotal: parseInt(parts[1]),
-      memoryUsed: parseInt(parts[2]),
-      utilization: parseInt(parts[3])
+      name: result.gpus[0].name,
+      memoryTotal: result.gpus[0].memoryTotal,
+      memoryUsed: result.gpus[0].memoryUsed,
+      utilization: result.gpus[0].utilization
     };
   } catch {}
 
@@ -217,17 +228,22 @@ Traduza literalmente: ${word}`;
   }
 }
 
-function startTranslation(bookCode, model) {
+function startTranslation(bookCode, model, dualGpu) {
   if (translationProcess) {
     return { success: false, error: 'Tradução já em andamento' };
   }
 
   translationOutput = [];
-  const scriptPath = path.join(projectRoot, 'scripts', 'ollama-translate.mjs');
+  const scriptName = dualGpu ? 'dual-gpu-translate.mjs' : 'ollama-translate.mjs';
+  const scriptPath = path.join(projectRoot, 'scripts', scriptName);
   const args = [scriptPath];
 
   if (bookCode && bookCode !== 'ALL') {
-    args.push(bookCode);
+    if (dualGpu) {
+      args.push(`--book=${bookCode}`);
+    } else {
+      args.push(bookCode);
+    }
   }
   if (model) {
     args.push(`--model=${model}`);

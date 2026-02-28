@@ -1,118 +1,125 @@
-# Roadmap - Bíblia Belém An.C 2025
+# Roadmap - Biblia Belem An.C 2025
 
-> **Visão:** Uma tradução bíblica literal, open source, acessível a todos.
+> **Visao:** Uma traducao biblica literal, open source, acessivel a todos.
 
 ---
 
 ## Status Atual
 
-| Métrica | Valor |
+| Metrica | Valor |
 |---------|-------|
 | Livros | 66 |
-| Versículos | 31.156 |
-| Tokens | 441.646 |
-| Progresso Tradução | ~57% |
-| API Status | Produção |
+| Versiculos | 31.287 |
+| Tokens | 441.646 (100% pt_literal) |
+| Progresso Traducao | **100%** |
+| API Status | Producao |
+| Leitor Web | Producao (React 19 + Vite 7) |
+| Glossario | 12.000+ hebraico, 2.000+ grego |
 
 ---
 
-## Q1 2026 (Janeiro - Março)
+## Q1 2026 (Janeiro - Marco)
 
-### Concluído
+### Concluido
 
 - [x] API REST funcional (Hono + Cloudflare Workers)
-- [x] Endpoints de livros, versículos, tokens
-- [x] Sistema de glossário grego/hebraico
-- [x] Interface de leitura web
-- [x] Documentação open source (LICENSE, CONTRIBUTING, CODE_OF_CONDUCT)
+- [x] Endpoints de livros, versiculos, tokens, glossario, glosses
+- [x] Sistema de glossario grego/hebraico (14.000+ entradas)
+- [x] Interface de leitura web (leitor-kindle)
+- [x] Documentacao open source (LICENSE, CONTRIBUTING, CODE_OF_CONDUCT)
+- [x] Traducao completa — 441.646 tokens (100% pt_literal)
+- [x] Visao interlinear (original + transliteracao + gloss)
+- [x] Busca textual com filtro por testamento (AT/NT)
+- [x] 6 camadas de leitura (N0-N5) com descricoes visiveis
+- [x] Glossario integrado ao leitor (lema, morfologia, Strong's, notas)
+- [x] Sugestao de glossario inline (POST /api/v1/glossary/suggest)
+- [x] Tooltips editoriais (yhwh, Elohim, Theos, [OBJ], etc.)
+- [x] Historico de leitura e progresso por livro
+- [x] Anotacoes e destaques (4 cores + notas por versiculo)
+- [x] Explorador de lema (busca rapida a partir do glossario)
+- [x] Plano de leitura (3 planos: 1 ano, 6 meses, NT 90 dias)
+- [x] Visao comparativa (original / transliteracao / literal PT-BR)
+- [x] Exportar/imprimir capitulos
+- [x] Service Worker para leitura offline
+- [x] Swipe gestures para navegacao mobile
+- [x] Slider de line-height para ajuste de espacamento
+- [x] 3 temas (claro, sepia, escuro) + controle de fonte/tamanho
+- [x] Testes automatizados (Vitest)
+- [x] Rate limiting na API
+- [x] Badges no README (CI, license, API status)
 
 ### Em Andamento
 
-- [ ] Completar tradução do Novo Testamento
-- [ ] Adicionar testes automatizados (Vitest)
-- [ ] Implementar rate limiting na API
+- [x] SDK JavaScript/TypeScript para consumo da API
+- [x] Melhorar documentacao da API com exemplos detalhados
 
 ### Planejado
 
-- [ ] Criar SDK JavaScript/TypeScript
-- [ ] Melhorar documentação para contribuidores
-- [ ] Sistema de revisão peer-review para glossário
+- [ ] Sistema de revisao peer-review para glossario
+- [ ] Tradutor Web melhorado (Ollama)
 
 ---
 
 ## Q2 2026 (Abril - Junho)
 
-### Tradução
+### Traducao
 
-- [ ] Completar Evangelhos (Mateus, Marcos, Lucas, João)
-- [ ] Iniciar Epístolas Paulinas
-- [ ] Revisar consistência de termos traduzidos
+- [ ] Revisar consistencia de termos traduzidos
+- [ ] Expandir glossario com notas etimologicas
+- [ ] Sistema de variantes textuais
 
 ### Tecnologia
 
-- [ ] API versão 2.0 com GraphQL (opcional)
-- [ ] Webhooks para notificação de atualizações
-- [ ] Cache distribuído com Cloudflare KV
+- [ ] Cache distribuido com Cloudflare KV
+- [ ] Webhooks para notificacao de atualizacoes
+- [ ] PWA completo (manifest, icons, install prompt)
 
 ### Comunidade
 
 - [ ] Programa de contribuidores verificados
 - [ ] Badges para tradutores ativos
+- [ ] Dashboard de contribuicoes
 
 ---
 
 ## Q3 2026 (Julho - Setembro)
 
-### Tradução
+### Tecnologia e Estudo
 
-- [ ] Completar Novo Testamento (100%)
-- [ ] Iniciar Pentateuco (Gênesis-Deuteronômio)
-- [ ] Sistema de anotações da comunidade
+- [ ] App mobile (React Native ou PWA avancado)
+- [ ] API de comparacao entre traducoes
+- [ ] Aparato critico simplificado
 
-### Tecnologia
-
-- [ ] App mobile (React Native ou Flutter)
-- [ ] Modo offline com sincronização
-- [ ] API de comparação entre traduções
+- [ ] Ferramenta de estudo interlinear avancada
+- [ ] Concordancia biblica integrada
+- [ ] Mapa de referencias cruzadas
 
 ---
 
 ## Q4 2026 (Outubro - Dezembro)
 
-### Tradução
+### Integracao
 
-- [ ] Expandir Antigo Testamento (Livros Históricos)
-- [ ] Sistema de variantes textuais
-- [ ] Aparato crítico simplificado
-
-### Integração
-
-- [ ] Integração com exeg.ai (IA de exegese)
+- [ ] Integracao com exeg.ai (IA de exegese)
 - [ ] API para apps de terceiros
 - [ ] Plugin para Obsidian/Notion
-- [ ] Exportação para formatos (EPUB, PDF, USFM)
+- [ ] Exportacao para formatos (EPUB, PDF, USFM)
 
 ---
 
-## 2027 e Além
+## 2027 e Alem
 
-### Tradução Completa
+### Internacionalizacao
 
-- [ ] Tradução completa da Bíblia (66 livros)
-- [ ] Revisão geral de consistência
-- [ ] Publicação impressa
+- [ ] Versao em ingles (English Literal Translation)
+- [ ] Versao em espanhol
+- [ ] Documentacao multilingue
 
-### Internacionalização
+### Midia
 
-- [ ] Versão em inglês (English Literal Translation)
-- [ ] Versão em espanhol
-- [ ] Documentação multilíngue
-
-### Mídia
-
-- [ ] Áudio da tradução literal
-- [ ] Ferramenta de estudo interlinear avançada
-- [ ] Vídeos educativos sobre tradução literal
+- [ ] Audio da traducao literal
+- [ ] Videos educativos sobre traducao literal
+- [ ] Publicacao impressa
 
 ---
 
@@ -122,40 +129,37 @@
 
 1. Abra uma [Discussion](https://github.com/OtimizaPro/biblia-belem-anc/discussions)
 2. Use a categoria "Ideas"
-3. Descreva sua sugestão em detalhes
+3. Descreva sua sugestao em detalhes
 
 ### Trabalhar em um Item
 
-1. Verifique se há uma Issue relacionada
+1. Verifique se ha uma Issue relacionada
 2. Comente na Issue indicando interesse
-3. Aguarde atribuição por um mantenedor
-4. Siga o [Guia de Contribuição](CONTRIBUTING.md)
+3. Aguarde atribuicao por um mantenedor
+4. Siga o [Guia de Contribuicao](CONTRIBUTING.md)
 
-### Priorização
+### Priorizacao
 
-Itens são priorizados com base em:
+Itens sao priorizados com base em:
 
 - Impacto na comunidade
-- Alinhamento com a visão do projeto
+- Alinhamento com a visao do projeto
 - Disponibilidade de contribuidores
-- Complexidade técnica
+- Complexidade tecnica
 
 ---
 
 ## Legenda
 
-| Símbolo | Significado |
+| Simbolo | Significado |
 |---------|-------------|
-| [x] | Concluído |
-| [ ] | Planejado |
-| 🚧 | Em andamento |
-| ⏸️ | Pausado |
-| ❌ | Cancelado |
+| [x]     | Concluido   |
+| [ ]     | Planejado   |
 
 ---
 
-**A Culpa é das Ovelhas**
+**A Culpa e das Ovelhas**
 
-> "Você lê. E a interpretação é sua."
+> "Voce le. E a interpretacao e sua."
 
 *Porque as ovelhas precisam conhecer a voz do Pastor*

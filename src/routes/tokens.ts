@@ -95,14 +95,13 @@ tokens.get('/:verseId/interlinear', async (c) => {
       );
     }
 
-    // Buscar tokens com morfologia
+    // Buscar tokens do verso
     const tokens = await c.env.DB.prepare(
       `
-      SELECT t.*, m.description as morph_description
-      FROM tokens t
-      LEFT JOIN morphology m ON t.morph_code = m.code
-      WHERE t.verse_id = ?
-      ORDER BY t.position
+      SELECT *
+      FROM tokens
+      WHERE verse_id = ?
+      ORDER BY position
     `
     )
       .bind(verseId)
@@ -114,12 +113,12 @@ tokens.get('/:verseId/interlinear', async (c) => {
         verse,
         interlinear: tokens.results.map((t: Record<string, unknown>) => ({
           position: t.position,
-          original: t.text_original,
-          transliteration: t.text_transliterated,
-          lemma: t.lemma,
-          morphology: t.morph_code,
-          morphDescription: t.morph_description,
-          gloss: t.gloss,
+          original: t.text_utf8,
+          transliteration: t.normalized,
+          lemma: t.normalized,
+          morphology: null,
+          morphDescription: null,
+          gloss: t.pt_literal,
         })),
       },
     });
@@ -152,23 +151,14 @@ tokens.get('/:verseId/morphology', async (c) => {
     const result = await c.env.DB.prepare(
       `
       SELECT
-        t.position,
-        t.text_original,
-        t.lemma,
-        t.morph_code,
-        m.description as morph_description,
-        m.part_of_speech,
-        m.person,
-        m.gender,
-        m.number as gram_number,
-        m.tense,
-        m.voice,
-        m.mood,
-        m.case_type
-      FROM tokens t
-      LEFT JOIN morphology m ON t.morph_code = m.code
-      WHERE t.verse_id = ?
-      ORDER BY t.position
+        position,
+        text_utf8,
+        normalized,
+        pt_literal,
+        script
+      FROM tokens
+      WHERE verse_id = ?
+      ORDER BY position
     `
     )
       .bind(verseId)

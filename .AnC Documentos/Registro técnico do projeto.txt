@@ -126,4 +126,4 @@ LICENCA
 ================================================================================
 
 Proprietario - A Culpa e das Ovelhas
-Copyright 2025 Anderson Costa Belem
+Copyright 2025 Belem Anderson Costa

@@ -12,6 +12,7 @@ import translationInfo from './routes/translation-info';
 import { glossaryRoutes } from './routes/glossary';
 import search from './routes/search';
 import { openApiSpec } from './docs/openapi';
+import { rateLimit } from './middleware/rate-limit';
 
 const app = new Hono<{ Bindings: Env }>();
 
@@ -33,6 +34,9 @@ app.use('*', async (c, next) => {
   c.res.headers.set('X-Frame-Options', 'DENY');
   c.res.headers.set('X-XSS-Protection', '1; mode=block');
 });
+
+// Rate limiting (100 req/min per IP)
+app.use('/api/*', rateLimit);
 
 // Cache para respostas (1 hora para dados estáticos)
 app.use(

@@ -4,9 +4,11 @@
 
 ### A primeira tradução bíblica do mundo livre de teologia, livre de ruídos, livre de interesses — direto dos códices para TODOS os idiomas da Terra.
 
+[![CI](https://img.shields.io/github/actions/workflow/status/OtimizaPro/biblia-belem-anc/ci.yml?style=for-the-badge&label=CI)](https://github.com/OtimizaPro/biblia-belem-anc/actions)
 [![API Status](https://img.shields.io/badge/API-Online-brightgreen?style=for-the-badge)](https://biblia.aculpaedasovelhas.org)
 [![Docs](https://img.shields.io/badge/Docs-Swagger-blue?style=for-the-badge)](https://biblia.aculpaedasovelhas.org/docs)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-orange?style=for-the-badge)](LICENSE)
+[![Tokens](https://img.shields.io/badge/Tokens-441.646%20(100%25)-green?style=for-the-badge)](https://biblia.aculpaedasovelhas.org/api/v1/books)
 [![Open Source](https://img.shields.io/badge/Open-Source-black?style=for-the-badge&logo=github)](https://github.com/OtimizaPro/biblia-belem-anc)
 
 **66 livros | 31.156 versículos | 441.646 tokens | 3 idiomas originais | 6 camadas de leitura | 100% gratuito**
@@ -27,7 +29,7 @@
 
 Um **movimento Tecnológico Open Source Mundial** que objetiva traduzir os códices públicos dos idiomas originais para **TODOS os idiomas em todo o Mundo** utilizando IA.
 
-Anderson Belem, autor de *"O Livrinho"*, traduziu para o seu idioma a primeira tradução realmente fiel aos códices nos idiomas originais para o PT-BR, idioma do seu país, o Brasil — e chama a todos os defensores da Verdade em Todo o Mundo para apoiar não apenas os ajustes necessários no seu projeto PT-BR, bem como na ampliação para todos os **+7.000 idiomas em todo o Planeta!**
+Belem Anderson, autor de *"O Livrinho"*, traduziu para o seu idioma a primeira tradução realmente fiel aos códices nos idiomas originais para o PT-BR, idioma do seu país, o Brasil — e chama a todos os defensores da Verdade em Todo o Mundo para apoiar não apenas os ajustes necessários no seu projeto PT-BR, bem como na ampliação para todos os **+7.000 idiomas em todo o Planeta!**
 
 A tradução Belém An.C-2025 preserva a estrutura e o sentido literal do texto original, sem as normalizações e interpretações comuns nas versões existentes.
 
@@ -45,6 +47,34 @@ Quando você lê o texto original, descobre coisas que nenhuma tradução conven
 | "Cristo" | **Christos** (χριστός) | Um título ("ungido") foi tratado como sobrenome |
 
 **Camadas inteiras de significado foram encobertas.** A Belém An.C devolve essas camadas ao leitor.
+
+---
+
+## O Problema: Tradução de Tradução
+
+> *"A Bíblia que lia fora produzida a partir de tradução de uma tradução de uma tradução, um processo que introduzia camadas interpretativas e filtros teológicos ao longo de cada etapa."*
+>
+> — **O livrinho — A Culpa é das Ovelhas**, Cap. I
+
+Belem Anderson percebeu que a Bíblia em seu idioma não era traduzida diretamente dos códices originais. Era um produto de intermediários — latim, tradições, interesses institucionais. O resultado? Um texto com **"sabor Bíblia"**: bonito, fluido, familiar — mas adulterado.
+
+### O que acontece nas traduções convencionais?
+
+| Técnica | O que faz | Exemplo |
+|---|---|---|
+| **Normalização** | Substitui termos originais por equivalentes "aceitáveis" | יהוה (yhwh) → "Senhor" — um nome próprio vira título genérico |
+| **Suavização** | Altera estruturas para parecer "natural" ao leitor | Reordena frases, omite repetições, atenua expressões duras |
+| **Intermediação** | Traduz de tradução (via latim), não do original | Hebraico → Grego → Latim → Português — cada etapa filtra |
+
+> *"As versões bíblicas em língua portuguesa [...] são profundamente mediadas, interpretadas e, sob certo aspecto, manipuladas por camadas de normalização e suavização."*
+>
+> — **O livrinho**, Cap. I
+
+### A solução Belém An.C
+
+**Zero intermediários.** Códices originais (hebraico, aramaico, grego) direto para o idioma alvo. Sem passar pelo latim. Sem normalização. Sem suavização. Sem teologia imposta.
+
+A tradução é **rígida** de propósito — porque a rigidez preserva o que a fluidez encobre.
 
 ---
 
@@ -203,18 +233,22 @@ GET /api/v1/books/:code              # Detalhes de um livro (ex: GEN, JHN, REV)
 #### Versículos
 
 ```
-GET /api/v1/verses/:book/:chapter          # Versículos de um capítulo
-GET /api/v1/verses/:book/:chapter/:verse   # Versículo único com tokens
-GET /api/v1/verses/search?q=termo          # Busca textual
-GET /api/v1/verses/search?q=amor&testament=NT&limit=50
+GET /api/v1/verses/:book/:chapter          # Versiculos de um capitulo
+GET /api/v1/verses/:book/:chapter/:verse   # Versiculo unico com tokens
 ```
 
-| Parâmetro | Tipo | Descrição |
-|---|---|---|
-| `q` | string | Termo de busca (obrigatório) |
-| `book` | string | Filtrar por livro (código) |
-| `testament` | string | `AT` ou `NT` |
-| `limit` | number | Limite de resultados (padrão: 100) |
+#### Busca
+
+```text
+GET /api/v1/search?q=termo                 # Busca textual
+GET /api/v1/search?q=amor&book=JHN&limit=50
+```
+
+| Parametro | Tipo   | Descricao                                   |
+|-----------|--------|---------------------------------------------|
+| `q` | string | Termo de busca (min 2 caracteres) |
+| `book` | string | Filtrar por livro (codigo, ex: GEN) |
+| `limit` | number | Limite de resultados (padrao: 20, max: 100) |
 
 #### Tokens (Palavras)
 
@@ -245,22 +279,71 @@ GET /api/v1/translation-info/word/:word         # Consulta específica (ex: yhwh
 
 ## Exemplos de Uso
 
-### JavaScript
+### curl
+
+```bash
+# Listar todos os 66 livros
+curl https://biblia.aculpaedasovelhas.org/api/v1/books
+
+# Apenas Novo Testamento
+curl https://biblia.aculpaedasovelhas.org/api/v1/books?testament=NT
+
+# Genesis capitulo 1
+curl https://biblia.aculpaedasovelhas.org/api/v1/verses/GEN/1
+
+# Versiculo unico (Genesis 1:1)
+curl https://biblia.aculpaedasovelhas.org/api/v1/verses/GEN/1/1
+
+# Visao interlinear (original + transliteracao + gloss)
+curl https://biblia.aculpaedasovelhas.org/api/v1/tokens/6383/interlinear
+
+# Buscar "Elohim"
+curl https://biblia.aculpaedasovelhas.org/api/v1/search?q=Elohim
+
+# Buscar no NT com limite
+curl "https://biblia.aculpaedasovelhas.org/api/v1/search?q=Theos&book=JHN&limit=10"
+
+# Glossario completo
+curl https://biblia.aculpaedasovelhas.org/api/v1/glossary
+
+# Consultar palavra no glossario
+curl https://biblia.aculpaedasovelhas.org/api/v1/glossary/%CE%BB%CF%8C%CE%B3%CE%BF%CF%82
+
+# Palavras nao traduzidas (yhwh, Elohim, Theos, etc.)
+curl https://biblia.aculpaedasovelhas.org/api/v1/translation-info/words-not-translated
+```
+
+### JavaScript / TypeScript
 
 ```javascript
 const API = 'https://biblia.aculpaedasovelhas.org';
 
 // Listar livros
 const { data: books } = await fetch(`${API}/api/v1/books`).then(r => r.json());
+console.log(`${books.length} livros`); // 66 livros
 
-// Gênesis 1
+// Genesis 1
 const { data: verses } = await fetch(`${API}/api/v1/verses/GEN/1`).then(r => r.json());
+console.log(verses[0].literal_pt); // "No-principio criou Elohim..."
 
-// Tokens de Gn 1:1
-const { data: tokens } = await fetch(`${API}/api/v1/tokens/6383`).then(r => r.json());
+// Visao interlinear (original hebraico + transliteracao + gloss)
+const { data: inter } = await fetch(`${API}/api/v1/tokens/6383/interlinear`).then(r => r.json());
+inter.interlinear.forEach(t => {
+  console.log(`${t.original} → ${t.transliteration} → ${t.gloss}`);
+});
+// בְּרֵאשִׁ֖ית → bereshit → No-principio
+// בָּרָ֣א → bara → criou
+// אֱלֹהִ֑ים → elohim → Elohim
 
-// Buscar "amor" no NT
-const { data: results } = await fetch(`${API}/api/v1/verses/search?q=amor&testament=NT`).then(r => r.json());
+// Buscar "Elohim" em Genesis
+const { data: results } = await fetch(`${API}/api/v1/search?q=Elohim&book=GEN`).then(r => r.json());
+console.log(`${results.length} ocorrencias`);
+
+// Glossario: consultar uma palavra grega
+const word = encodeURIComponent('λόγος');
+const { data: entry } = await fetch(`${API}/api/v1/glossary/${word}`).then(r => r.json());
+console.log(`${entry.word}: ${entry.translation} (${entry.strongs})`);
+// λόγος: palavra (G3056)
 ```
 
 ### Python
@@ -270,9 +353,23 @@ import requests
 
 API = "https://biblia.aculpaedasovelhas.org"
 
+# Livros
 books = requests.get(f"{API}/api/v1/books").json()["data"]
-genesis_1 = requests.get(f"{API}/api/v1/verses/GEN/1").json()["data"]
-search = requests.get(f"{API}/api/v1/verses/search", params={"q": "amor", "testament": "NT"}).json()["data"]
+print(f"{len(books)} livros")  # 66
+
+# Genesis 1
+gen1 = requests.get(f"{API}/api/v1/verses/GEN/1").json()["data"]
+print(gen1[0]["literal_pt"])  # "No-principio criou Elohim..."
+
+# Interlinear
+inter = requests.get(f"{API}/api/v1/tokens/6383/interlinear").json()["data"]
+for t in inter["interlinear"]:
+    print(f'{t["original"]} -> {t["gloss"]}')
+
+# Busca
+results = requests.get(f"{API}/api/v1/search", params={"q": "Elohim", "limit": 5}).json()["data"]
+for r in results:
+    print(f'{r["book"]} {r["chapter"]}:{r["verse"]} — {r["text"]}')
 ```
 
 ---
@@ -385,7 +482,11 @@ A Bíblia Belém An.C faz parte de um ecossistema completo para estudo bíblico:
 
 ## O Convite
 
-Desde o princípio, confessos e não confessos são irmãos. O único mandamento é: **Amar a Deus sobre todas as coisas e ao próximo como a si mesmo.**
+> *"A minha proposta foi contar com a COMUNIDADE TECNOLÓGICA MUNDIAL para produzir um texto Bíblico FIEL, IPSIS LITTERIS às cópias dos originais, sem que dependa de qualquer instituição — religiosa ou política."*
+>
+> — **O livrinho — A Culpa é das Ovelhas**, Cap. I
+
+Desde o princípio, confessos e não confessos são Ovelhas irmãs. O único mandamento é: **Amar a Deus sobre todas as coisas e ao próximo como a si mesmo.**
 
 Este projeto recebe pessoas de qualquer fé, com total liberdade para divergir. Aqui **ideias são alvos. Pessoas não.**
 
@@ -401,7 +502,7 @@ Mas se, no caminho, você descobrir que ela é perfeita, considere confessar sua
 
 ## Sobre o Autor
 
-**Anderson Costa Belem** — policial carioca, desenvolvedor tech, formado em Letras (Português x Literatura). Criador da **Escola Escatológica Desvelacional Forense "Belém an.C-2039"** — a única escola escatológica forense existente, que combina método investigativo policial + tecnologia + literalidade absoluta aplicados ao texto bíblico.
+**Belem Anderson Costa** — policial carioca (Inspetor de Polícia Penal do RJ), desenvolvedor de tecnologia. Cursou, mas não concluiu Letras, Administração e Economia devido sua condição neurodivergente duplamente excepcional. Criador da **Escola Escatológica Desvelacional Forense "Belem an.C-2039"** — a única escola escatológica forense existente, que combina método investigativo policial + tecnologia + filologia aplicados ao texto bíblico. Fundador da **Otimiza Benefícios**.
 
 O autor declara-se inspirado pelo **ESPÍRITO SANTO DE DEUS**. Nenhuma exigência teológica, religiosa ou confessional é imposta para participação.
 
@@ -414,7 +515,7 @@ O autor declara-se inspirado pelo **ESPÍRITO SANTO DE DEUS**. Nenhuma exigênci
 Você pode usar, copiar, modificar e distribuir livremente, desde que atribua crédito ao autor original.
 
 ```
-Bíblia Belém An.C 2025 — Tradução literal por Anderson Costa Belem
+Bíblia Belém An.C 2025 — Tradução literal por Belem Anderson Costa
 https://github.com/OtimizaPro/biblia-belem-anc
 Licenciado sob CC BY 4.0
 ```
@@ -431,7 +532,7 @@ Licenciado sob CC BY 4.0
 
 ---
 
-**Copyright 2025-2026 Anderson Costa Belem**
+**Copyright 2025-2026 Belem Anderson Costa**
 
 [Ler a Bíblia](https://aculpaedasovelhas.org/ler-biblia.html) · [API](https://biblia.aculpaedasovelhas.org) · [Contribuir](CONTRIBUTING.md) · [Ecossistema](https://aculpaedasovelhas.org)
 

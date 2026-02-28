@@ -350,8 +350,12 @@
         <span>Ollama</span>
       </div>
       <div class="badge">
-        <span class="dot" id="gpu-dot"></span>
-        <span id="gpu-name">GPU</span>
+        <span class="dot" id="gpu0-dot"></span>
+        <span id="gpu0-name">GPU 0</span>
+      </div>
+      <div class="badge">
+        <span class="dot" id="gpu1-dot"></span>
+        <span id="gpu1-name">GPU 1</span>
       </div>
     </div>
   </header>
@@ -390,8 +394,15 @@
         <div class="stat-card">
           <span class="icon">🎮</span>
           <div>
-            <div class="value" id="stat-gpu">-</div>
-            <div class="label">VRAM</div>
+            <div class="value" id="stat-gpu0">-</div>
+            <div class="label">VRAM GPU 0</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <span class="icon">🎮</span>
+          <div>
+            <div class="value" id="stat-gpu1">-</div>
+            <div class="label">VRAM GPU 1</div>
           </div>
         </div>
       </div>
@@ -437,6 +448,13 @@
               <option value="qwen2.5:14b">qwen2.5:14b (Recomendado)</option>
               <option value="llama3.2:8b">llama3.2:8b (Rápido)</option>
               <option value="mistral:7b">mistral:7b (Leve)</option>
+            </select>
+          </div>
+          <div class="control-group">
+            <label>Modo GPU</label>
+            <select id="gpu-mode-select">
+              <option value="dual">Dual GPU (2x velocidade)</option>
+              <option value="single">Single GPU</option>
             </select>
           </div>
           <button class="btn btn-primary" id="btn-start">▶️ Iniciar</button>
@@ -553,14 +571,23 @@
         ollamaDot.classList.toggle('online', data.ollama.online);
         ollamaDot.classList.toggle('offline', !data.ollama.online);
 
-        // GPU
-        const gpuDot = document.getElementById('gpu-dot');
-        gpuDot.classList.toggle('online', data.gpu.available);
-        gpuDot.classList.toggle('offline', !data.gpu.available);
-
-        if (data.gpu.available) {
-          document.getElementById('gpu-name').textContent = data.gpu.name.split(' ').pop();
-          document.getElementById('stat-gpu').textContent = `${((data.gpu.memoryTotal - data.gpu.memoryUsed) / 1024).toFixed(1)} GB`;
+        // GPUs (suporte dual)
+        const gpus = data.gpus || (data.gpu.available ? [data.gpu] : []);
+        for (let i = 0; i < 2; i++) {
+          const dot = document.getElementById(`gpu${i}-dot`);
+          const nameEl = document.getElementById(`gpu${i}-name`);
+          const statEl = document.getElementById(`stat-gpu${i}`);
+          if (gpus[i]) {
+            dot.classList.add('online');
+            dot.classList.remove('offline');
+            nameEl.textContent = gpus[i].name.replace('NVIDIA GeForce ', '');
+            statEl.textContent = `${((gpus[i].memoryTotal - gpus[i].memoryUsed) / 1024).toFixed(1)} GB`;
+          } else {
+            dot.classList.add('offline');
+            dot.classList.remove('online');
+            nameEl.textContent = `GPU ${i}`;
+            statEl.textContent = '-';
+          }
         }
 
         // Stats
@@ -625,9 +652,11 @@
     async function startTranslation() {
       const bookCode = document.getElementById('book-select').value;
       const model = document.getElementById('model-select').value;
+      const gpuMode = document.getElementById('gpu-mode-select').value;
+      const dualGpu = gpuMode === 'dual';
       const console = document.getElementById('console');
 
-      console.textContent = 'Iniciando tradução...\n';
+      console.textContent = `Iniciando tradução ${dualGpu ? '(Dual GPU)' : '(Single GPU)'}...\n`;
 
       document.getElementById('btn-start').disabled = true;
       document.getElementById('btn-stop').disabled = false;
@@ -635,7 +664,7 @@
       await fetch(`${API}/start-translation`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ bookCode, model })
+        body: JSON.stringify({ bookCode, model, dualGpu })
       });
 
       // Poll output

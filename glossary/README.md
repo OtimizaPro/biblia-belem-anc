@@ -135,4 +135,4 @@ glossary/
 
 CC BY 4.0 - Atribuicao requerida
 
-Copyright 2025 Anderson Costa Belem - A Culpa e das Ovelhas
+Copyright 2025 Belem Anderson Costa - A Culpa e das Ovelhas

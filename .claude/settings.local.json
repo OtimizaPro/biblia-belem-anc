@@ -101,7 +101,11 @@
       "Bash(git stash:*)",
       "Bash(git push:*)",
       "Bash(curl.exe:*)",
-      "Bash(tasklist:*)"
+      "Bash(tasklist:*)",
+      "Bash(sqlite3:*)",
+      "Bash(ls:*)",
+      "Bash(wc:*)",
+      "WebFetch(domain:aculpaedasovelhas.org)"
     ],
     "additionalDirectories": [
       "v:\\Projetos\\Ecossistema aculpaedasovelhas\\Bible Belem AnC 2025",
