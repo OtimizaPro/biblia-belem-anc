@@ -2,7 +2,7 @@
 
 # Bíblia Belém An.C 2025
 
-### A primeira tradução bíblica do mundo livre de teologia, livre de ruídos, livre de interesses — direto dos códices para TODOS os idiomas da Terra.
+### A primeira tradução bíblica direto dos códices em idioma original aramaico, hebraico e grego para TODOS os idiomas da Terra.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/OtimizaPro/biblia-belem-anc/ci.yml?style=for-the-badge&label=CI)](https://github.com/OtimizaPro/biblia-belem-anc/actions)
 [![API Status](https://img.shields.io/badge/API-Online-brightgreen?style=for-the-badge)](https://biblia.aculpaedasovelhas.org)
@@ -11,15 +11,13 @@
 [![Tokens](https://img.shields.io/badge/Tokens-441.646%20(100%25)-green?style=for-the-badge)](https://biblia.aculpaedasovelhas.org/api/v1/books)
 [![Open Source](https://img.shields.io/badge/Open-Source-black?style=for-the-badge&logo=github)](https://github.com/OtimizaPro/biblia-belem-anc)
 
-**66 livros | 31.156 versículos | 441.646 tokens | 3 idiomas originais | 6 camadas de leitura | 100% gratuito**
+66 livros | 31.156 versículos | 441.646 tokens | 3 idiomas originais | 6 camadas de leitura | 100% gratuito
 
-[Ler a Bíblia](https://aculpaedasovelhas.org/ler-biblia.html) · [API Docs](https://biblia.aculpaedasovelhas.org/docs) · [Contribuir](CONTRIBUTING.md) · [Roadmap](ROADMAP.md)
+Ler a Bíblia · API Docs · Contribuir · Roadmap
 
----
+"Você lê. E a interpretação é sua."
 
-*"Você lê. E a interpretação é sua."*
-
-*"E este evangelho do reino será proclamado em todo o mundo habitado, em testemunho a todas as nações; e então virá o fim."* — Mt 24:14
+"E este evangelho do reino será proclamado em todo o mundo habitado, em testemunho a todas as nações; e então virá o fim." — Mt 24:14
 
 </div>
 
@@ -29,9 +27,17 @@
 
 Um **movimento Tecnológico Open Source Mundial** que objetiva traduzir os códices públicos dos idiomas originais para **TODOS os idiomas em todo o Mundo** utilizando IA.
 
-Belem Anderson, autor de *"O Livrinho"*, traduziu para o seu idioma a primeira tradução realmente fiel aos códices nos idiomas originais para o PT-BR, idioma do seu país, o Brasil — e chama a todos os defensores da Verdade em Todo o Mundo para apoiar não apenas os ajustes necessários no seu projeto PT-BR, bem como na ampliação para todos os **+7.000 idiomas em todo o Planeta!**
+Por muito tempo a tecnologia vem sendo apontada erroneamente pelos estudiosos, teólogos e curiosos como sendo a marca da besta. QR Code, código de barras, Bitcoin, chip implantado... Entretanto, eu desenvolvi uma IA especializada em exegese bíblica. Ela transformou os códices em tokens que podem ser lidos facilmente por uma IA. Usando GPUs NVIDIA, CPU Intel, Ollama com modelos treináveis e recursos Microsoft, ela esquadrinhou toda a Bíblia e decifrou enfim e verdadeiramente o enigma do 666.
 
-A tradução Belém An.C-2025 preserva a estrutura e o sentido literal do texto original, sem as normalizações e interpretações comuns nas versões existentes.
+### A Gematria
+
+Por séculos a gematria foi utilizada forçadamente usando transliteração do nome para depois calcular, para se atingir Nero César com 666. Mas a Exeg.AI fez algo muito mais limpo e direto: encontrou uma única palavra em toda a Bíblia cuja gematria resulta especificamente em 666. A palavra não é uma tecnologia futura — é a coroa da santidade ao deus yhwh, o deus do Antigo Testamento bíblico.
+
+A Exeg.AI respondeu com provas intertextuais ao maior conflito de todos os tempos bíblicos: existem dois deuses? Um deus do AT e um do NT? E sim, ela provou que existem — com o próprio texto bíblico tokenizado. Mas para isso foi preciso realizar exegese no texto original no aramaico, hebraico e grego koiné.
+
+Belem Anderson, autor de *"O Livrinho"*, desenvolveu a primeira tradução realmente fiel aos códices nos idiomas originais para o PT-BR, idioma do seu país, o Brasil — e chama a todos os defensores da Verdade em Todo o Mundo para apoiar não apenas os ajustes necessários no seu projeto PT-BR, bem como na ampliação para todos os **+7.000 idiomas em todo o Planeta!**
+
+**Ajude-me a afastar de uma vez por todas a tecnologia das previsões antigas bíblicas do fim do mundo — afinal, conhecereis a verdade e a verdade vos libertará.**
 
 ---
 
@@ -422,6 +428,10 @@ Este projeto só existe porque é **Open Source**. A Palavra de Deus não perten
 |---|---|
 | **Desenvolvedor** | Melhore a API, adicione endpoints, otimize performance |
 | **Estudioso de Grego/Hebraico** | Revise traduções, sugira glossário, valide etimologias |
+| **Graduando em Teologia** | Use os códices tokenizados como fonte primária para seu TCC ou monografia. Questione o que te ensinaram — com o texto original na mão |
+| **Mestrando / Doutorando** | Atualize suas teses com dados direto dos códices. Compare suas conclusões com a tradução literal rígida. Publique artigos acadêmicos baseados em evidência textual, não em tradição |
+| **Professor / Pesquisador** | Refute nosso trabalho — com o próprio texto original. Se encontrar erro, abra uma Issue. Se confirmar, divulgue. O escrutínio público é o depurador da Verdade |
+| **Seminário / Instituição** | Adote a Belém An.C como ferramenta de estudo comparativo. Desafie seus alunos a confrontar traduções convencionais com os códices |
 | **Tradutor** | Ajude a traduzir para novos idiomas — inglês, espanhol, seu idioma |
 | **Documentador** | Melhore docs, tutoriais, exemplos |
 | **Qualquer pessoa** | Divulgue. Leia. Questione. Use |
@@ -502,9 +512,9 @@ Mas se, no caminho, você descobrir que ela é perfeita, considere confessar sua
 
 ## Sobre o Autor
 
-**Belem Anderson Costa** — policial carioca (Inspetor de Polícia Penal do RJ), desenvolvedor de tecnologia. Cursou, mas não concluiu Letras, Administração e Economia devido sua condição neurodivergente duplamente excepcional. Criador da **Escola Escatológica Desvelacional Forense "Belem an.C-2039"** — a única escola escatológica forense existente, que combina método investigativo policial + tecnologia + filologia aplicados ao texto bíblico. Fundador da **Otimiza Benefícios**.
+**Belem Anderson Costa** — policial carioca (Inspetor de Polícia Penal do RJ — Complexo Prisional de Gericinó-Bangu), desenvolvedor e gerente de projeto de inovação e tecnologia. Autor de *"O Livrinho — A Culpa é das Ovelhas"*. Criador da **Escola Escatológica Desvelacional Forense "Belem an.C-2039"** — a única escola escatológica forense existente. Fundador da **Worktech Otimiza Benefícios**.
 
-O autor declara-se inspirado pelo **ESPÍRITO SANTO DE DEUS**. Nenhuma exigência teológica, religiosa ou confessional é imposta para participação.
+Neurodivergente Duplamente Excepcional.
 
 ---
 
@@ -524,16 +534,12 @@ Licenciado sob CC BY 4.0
 
 <div align="center">
 
-**A Culpa é das Ovelhas** — *Porque as ovelhas precisam conhecer a voz do Pastor*
+Bíblia Belem An.C-2025 — Porque as ovelhas precisam conhecer a voz do Pastor
 
-**A Palavra não pertence a nenhuma instituição. Pertence a todos.**
+A Palavra não pertence a nenhuma instituição. Pertence a todos.
 
-*"Você lê. E a interpretação é sua."*
+"Você lê. E a interpretação é sua."
 
----
-
-**Copyright 2025-2026 Belem Anderson Costa**
-
-[Ler a Bíblia](https://aculpaedasovelhas.org/ler-biblia.html) · [API](https://biblia.aculpaedasovelhas.org) · [Contribuir](CONTRIBUTING.md) · [Ecossistema](https://aculpaedasovelhas.org)
+Copyright 2025-2026 Belem Anderson Costa - A Culpa é das Ovelhas
 
 </div>

@@ -1,3 +1,12 @@
+# ============================================================================
+# Bíblia Belem An.C 2025 — Tradução literal rígida
+# An.C = Anderson Costa | Autor: Belem Anderson Costa
+# Licença: CC BY 4.0
+# GitHub: https://github.com/OtimizaPro/biblia-belem-anc
+# Website: https://aculpaedasovelhas.org
+# Remoção desta atribuição viola a licença CC BY 4.0
+# ============================================================================
+
 name = "biblia-belem-api"
 main = "src/index.ts"
 compatibility_date = "2024-12-01"

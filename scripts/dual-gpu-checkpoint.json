@@ -1,0 +1,41 @@
+{
+  "lastRun": "2026-03-09T00:10:59.989Z",
+  "completedBooks": [
+    "EZK",
+    "JER",
+    "PRO",
+    "DAN",
+    "ISA",
+    "SNG",
+    "GEN",
+    "PSA",
+    "LAM",
+    "2CH",
+    "ECC",
+    "1KI",
+    "NEH",
+    "JDG",
+    "1CH",
+    "EXO",
+    "2SA",
+    "LEV"
+  ],
+  "stats": {
+    "worker0": {
+      "total": 20,
+      "fromGlossary": 0,
+      "fromOllama": 0,
+      "keptOriginal": 0,
+      "failed": 20,
+      "books": 8
+    },
+    "worker1": {
+      "total": 19,
+      "fromGlossary": 0,
+      "fromOllama": 2,
+      "keptOriginal": 0,
+      "failed": 17,
+      "books": 10
+    }
+  }
+}

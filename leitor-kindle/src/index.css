@@ -1187,3 +1187,60 @@ body.sans-serif { font-family: system-ui, -apple-system, sans-serif; }
     font-size: 11px;
   }
 }
+
+/* ============================================================================
+   Marca d'água de atribuição — Bíblia Belem An.C 2025
+   An.C = Anderson Costa | Belem Anderson Costa | CC BY 4.0
+   Remoção desta atribuição viola a licença CC BY 4.0
+   ============================================================================ */
+
+/* Watermark diagonal sutil sobre a área de leitura */
+.reader::before {
+  content: 'Bíblia Belem An.C 2025';
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-35deg);
+  font-size: 4rem;
+  font-weight: bold;
+  color: var(--text);
+  opacity: 0.025;
+  pointer-events: none;
+  z-index: 0;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  user-select: none;
+  letter-spacing: 4px;
+}
+
+/* Barra de atribuição fixa (acima do footer de navegação) */
+.attribution-bar {
+  position: fixed;
+  bottom: 48px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 10px;
+  color: var(--text2);
+  opacity: 0.6;
+  pointer-events: none;
+  z-index: 55;
+  -webkit-user-select: none;
+  user-select: none;
+  letter-spacing: 0.5px;
+  padding: 2px 0;
+}
+
+/* Rodapé de atribuição no final do conteúdo de cada capítulo */
+.chapter-attribution {
+  text-align: center;
+  font-size: 11px;
+  color: var(--text2);
+  opacity: 0.5;
+  margin: 40px 0 80px;
+  padding: 16px 0;
+  border-top: 1px solid var(--border);
+  -webkit-user-select: none;
+  user-select: none;
+  letter-spacing: 0.3px;
+}

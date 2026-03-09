@@ -1,4 +1,13 @@
 {
+  "_attribution": {
+    "project": "Bíblia Belem An.C 2025",
+    "meaning": "An.C = Anderson Costa",
+    "author": "Belem Anderson Costa",
+    "license": "CC BY 4.0",
+    "repository": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "website": "https://aculpaedasovelhas.org",
+    "notice": "Remoção desta atribuição viola a licença CC BY 4.0"
+  },
   "_description": "Palavras que NÃO devem ser traduzidas - permanecem no original. Cada categoria inclui o motivo. A palavra 'Deus' é LATIM e NUNCA deve aparecer na tradução.",
   "philosophy": "Você lê. E a interpretação é sua.",
   "forbidden": {

@@ -1,0 +1,13 @@
+{
+  "keep_original": ["yhwh", "Elohim", "Eloah", "El", "Adonai", "Theos", "Iesous", "Christos"],
+  "editorial_markers": ["[OBJ]", "[grammatical_ellipsis]", "[interpretation_needed]"],
+  "conjunction_prefixes": ["E-", "e-", "Ou-", "ou-", "Mas-", "mas-", "Porém-", "porém-", "Então-", "então-"],
+  "construct_suffixes": ["-de", "-do", "-da", "-dos", "-das"],
+  "preposition_tokens": ["a", "ao", "à", "aos", "às", "em", "no", "na", "nos", "nas", "de", "do", "da", "dos", "das", "por", "pelo", "pela", "pelos", "pelas", "com", "sobre", "sob", "entre", "para", "até", "desde", "contra", "sem", "após", "diante-de", "perante"],
+  "max_reorder_distance": 5,
+  "script_rules": {
+    "HE": { "source_order": "VSO", "target_order": "SVO" },
+    "ARM": { "source_order": "VSO", "target_order": "SVO" },
+    "GRC": { "source_order": "VSO", "target_order": "SVO" }
+  }
+}

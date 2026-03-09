@@ -38,9 +38,12 @@ function highlightText(text: string, query: string): string {
   return escapeHtml(text).replace(regex, '<mark>$1</mark>');
 }
 
+const VALID_LAYERS = ['N0', 'N1', 'N2', 'N3', 'N4', 'N5'];
+
 search.get('/', async (c) => {
   try {
-    const { q, book, limit = '20' } = c.req.query();
+    const { q, book, layer: layerParam, limit = '20' } = c.req.query();
+    const layer = (layerParam || 'N0').toUpperCase();
 
     if (!q || q.trim().length < MIN_QUERY_LENGTH) {
       return c.json(
@@ -62,20 +65,26 @@ search.get('/', async (c) => {
       );
     }
 
+    if (!VALID_LAYERS.includes(layer)) {
+      return c.json(
+        {
+          success: false,
+          error: `Layer inválido. Use: ${VALID_LAYERS.join(', ')}`,
+        },
+        400
+      );
+    }
+
     const searchTerm = q.trim();
     const limitNum = Math.min(parseInt(limit) || 20, MAX_LIMIT);
 
-    // Observação importante sobre o schema real do D1:
-    // - A tabela `verses` (remota) não possui colunas de texto (ex.: text_translated).
-    // - O texto traduzido está em `tokens.pt_literal`.
-    // Então, a busca aqui é feita em `tokens.pt_literal`, agregando o verso via GROUP_CONCAT.
+    // Para layers N1-N5 com dados em verse_translations, buscar lá.
+    // Para N0 (default), buscar via tokens.pt_literal (mais preciso, sem dependência de verse_translations).
+    const useVerseTranslations = layer !== 'N0';
 
-    // Base query conditions
-    let whereClause = `t.pt_literal LIKE ?`;
-    const params: (string | number)[] = [`%${searchTerm}%`];
-
+    let bookFilter = '';
+    const bookParams: (string | number)[] = [];
     if (book) {
-      // Validação básica do código do livro (geralmente 3-4 caracteres)
       if (book.length < 2 || book.length > 10) {
         return c.json(
           {
@@ -85,18 +94,61 @@ search.get('/', async (c) => {
           400
         );
       }
-      whereClause += ' AND b.code = ?';
-      params.push(book.toUpperCase());
+      bookFilter = ' AND b.code = ?';
+      bookParams.push(book.toUpperCase());
     }
 
-    // Contar total de resultados
-    const countSql = `
-      SELECT COUNT(DISTINCT v.id) as total
-      FROM verses v
-      JOIN books b ON v.book_id = b.id
-      JOIN tokens t ON t.verse_id = v.id
-      WHERE ${whereClause}
-    `;
+    let countSql: string;
+    let sql: string;
+    let params: (string | number)[];
+    let searchParams: (string | number)[];
+
+    if (useVerseTranslations) {
+      // Busca em verse_translations.literal_pt para layers N1-N5
+      params = [`%${searchTerm}%`, layer, ...bookParams];
+      countSql = `
+        SELECT COUNT(*) as total
+        FROM verse_translations vt
+        JOIN verses v ON vt.verse_id = v.id
+        JOIN books b ON v.book_id = b.id
+        WHERE vt.literal_pt LIKE ? AND vt.layer = ?${bookFilter}
+      `;
+      sql = `
+        SELECT v.chapter, v.verse, b.code as book_code, vt.literal_pt as text_translated
+        FROM verse_translations vt
+        JOIN verses v ON vt.verse_id = v.id
+        JOIN books b ON v.book_id = b.id
+        WHERE vt.literal_pt LIKE ? AND vt.layer = ?${bookFilter}
+        ORDER BY b.canon_order, v.chapter, v.verse
+        LIMIT ?
+      `;
+      searchParams = [...params, limitNum];
+    } else {
+      // Busca via tokens.pt_literal (N0 — padrão)
+      params = [`%${searchTerm}%`, ...bookParams];
+      countSql = `
+        SELECT COUNT(DISTINCT v.id) as total
+        FROM verses v
+        JOIN books b ON v.book_id = b.id
+        JOIN tokens t ON t.verse_id = v.id
+        WHERE t.pt_literal LIKE ?${bookFilter}
+      `;
+      sql = `
+        SELECT
+          v.chapter,
+          v.verse,
+          b.code as book_code,
+          GROUP_CONCAT(t.pt_literal, ' ') as text_translated
+        FROM verses v
+        JOIN books b ON v.book_id = b.id
+        JOIN tokens t ON t.verse_id = v.id
+        WHERE t.pt_literal LIKE ?${bookFilter}
+        GROUP BY v.id
+        ORDER BY b.canon_order, v.chapter, v.verse
+        LIMIT ?
+      `;
+      searchParams = [...params, limitNum];
+    }
 
     const countResult = await c.env.DB.prepare(countSql)
       .bind(...params)
@@ -104,27 +156,6 @@ search.get('/', async (c) => {
 
     const total = countResult?.total || 0;
 
-    // Buscar resultados paginados
-    const sql = `
-      SELECT
-        v.chapter,
-        v.verse,
-        b.code as book_code,
-        -- Monta o verso a partir dos tokens já traduzidos (pt_literal)
-        GROUP_CONCAT(t.pt_literal, ' ') as text_translated
-      FROM verses v
-      JOIN books b ON v.book_id = b.id
-      JOIN tokens t ON t.verse_id = v.id
-      WHERE ${whereClause}
-      GROUP BY v.id
-      ORDER BY b.canon_order, v.chapter, v.verse
-      LIMIT ?
-    `;
-
-    // Adicionar limit aos parâmetros para a query principal
-    const searchParams = [...params, limitNum];
-
-    // Executar busca
     const result = await c.env.DB.prepare(sql)
       .bind(...searchParams)
       .all<{
@@ -134,7 +165,6 @@ search.get('/', async (c) => {
         book_code: string;
       }>();
 
-    // Formatar resultados
     const results: SearchResult[] = result.results.map((item) => ({
       book: item.book_code.toLowerCase(),
       chapter: item.chapter,
@@ -150,6 +180,7 @@ search.get('/', async (c) => {
         count: results.length,
         total,
         query: searchTerm,
+        layer,
       },
     };
 

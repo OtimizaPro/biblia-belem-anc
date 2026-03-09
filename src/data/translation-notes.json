@@ -1,5 +1,14 @@
 {
-  "_description": "Documentação sobre anotações e estratégias de tradução na Bíblia Belém An.C 2025",
+  "_attribution": {
+    "project": "Bíblia Belem An.C 2025",
+    "meaning": "An.C = Anderson Costa",
+    "author": "Belem Anderson Costa",
+    "license": "CC BY 4.0",
+    "repository": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "website": "https://aculpaedasovelhas.org",
+    "notice": "Remoção desta atribuição viola a licença CC BY 4.0"
+  },
+  "_description": "Documentação sobre anotações e estratégias de tradução na Bíblia Belem An.C 2025",
   "philosophy": "Você lê. E a interpretação é sua.",
   "editorial_markers": {
     "[OBJ]": {

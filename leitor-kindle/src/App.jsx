@@ -1340,6 +1340,16 @@ function App() {
         )}
       </main>
 
+      {/* Atribuição ao final do capítulo — An.C = Anderson Costa */}
+      <div className="chapter-attribution">
+        Bíblia Belem An.C 2025 — Tradução literal por Belem Anderson Costa
+      </div>
+
+      {/* Barra de atribuição fixa — marca d'água visual */}
+      <div className="attribution-bar">
+        Bíblia Belem An.C 2025 · Belem Anderson Costa · CC BY 4.0
+      </div>
+
       {/* Footer */}
       <footer className="footer">
         <div className="footer-content">

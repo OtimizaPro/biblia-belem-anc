@@ -1,3 +1,27 @@
+// ============================================================================
+// Bíblia Belem An.C 2025 — Tradução literal rígida por Belem Anderson Costa
+// An.C = Anderson Costa | CC BY 4.0
+// https://github.com/OtimizaPro/biblia-belem-anc
+// ============================================================================
+
+/**
+ * Marca d'água de atribuição do projeto.
+ * An.C = Anderson Costa — fundador e tradutor.
+ * Esta constante é referenciada em headers HTTP, endpoints e dados.
+ * Remoção desta atribuição viola a licença CC BY 4.0.
+ */
+export const PROJECT_ATTRIBUTION = {
+  project: 'Bíblia Belem An.C 2025',
+  meaning: 'An.C = Anderson Costa',
+  author: 'Belem Anderson Costa',
+  license: 'CC BY 4.0',
+  repository: 'https://github.com/OtimizaPro/biblia-belem-anc',
+  website: 'https://aculpaedasovelhas.org',
+  philosophy: 'Você lê. E a interpretação é sua.',
+  attribution_required:
+    'Bíblia Belem An.C 2025 — Tradução literal por Belem Anderson Costa (CC BY 4.0)',
+} as const;
+
 // Tipos para Cloudflare D1
 export interface Env {
   DB: D1Database;
@@ -25,6 +49,10 @@ export interface Verse {
   text_transliterated: string;
   text_translated: string;
   language: 'HE' | 'ARM' | 'GRC';
+  // Campos de verse_translations (via LEFT JOIN)
+  literal_pt?: string | null;
+  readable_pt?: string | null;
+  layer?: string | null;
 }
 
 export interface Token {
@@ -35,6 +63,7 @@ export interface Token {
   text_transliterated: string;
   lemma: string;
   morph_code: string;
+  pos: string;
   gloss: string;
 }
 

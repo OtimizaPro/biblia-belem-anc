@@ -115,9 +115,10 @@ tokens.get('/:verseId/interlinear', async (c) => {
           position: t.position,
           original: t.text_utf8,
           transliteration: t.normalized,
-          lemma: t.normalized,
-          morphology: null,
-          morphDescription: null,
+          lemma: (t.lemma as string) || (t.normalized as string),
+          morphology: (t.morph_code as string) || null,
+          morphDescription: (t.morph_code as string) || null,
+          pos: (t.pos as string) || null,
           gloss: t.pt_literal,
         })),
       },
@@ -155,7 +156,10 @@ tokens.get('/:verseId/morphology', async (c) => {
         text_utf8,
         normalized,
         pt_literal,
-        script
+        script,
+        morph_code,
+        lemma,
+        pos
       FROM tokens
       WHERE verse_id = ?
       ORDER BY position

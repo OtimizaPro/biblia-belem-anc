@@ -1,7 +1,14 @@
 {
   "name": "biblia-belem-api",
   "version": "1.0.0",
-  "description": "API da Bíblia Belém An.C 2025 - Tradução literal rígida",
+  "description": "API da Bíblia Belem An.C 2025 — Tradução literal rígida por Belem Anderson Costa (An.C = Anderson Costa)",
+  "author": "Belem Anderson Costa <contato@aculpaedasovelhas.org> (https://aculpaedasovelhas.org)",
+  "license": "CC-BY-4.0",
+  "homepage": "https://aculpaedasovelhas.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OtimizaPro/biblia-belem-anc.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",

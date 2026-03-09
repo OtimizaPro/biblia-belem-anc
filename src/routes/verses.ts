@@ -3,6 +3,8 @@ import type { Env, Verse, ApiResponse } from '../types';
 
 const verses = new Hono<{ Bindings: Env }>();
 
+const VALID_LAYERS = ['N0', 'N1', 'N2', 'N3', 'N4', 'N5'];
+
 // GET /api/v1/verses/:book/:chapter - Lista versos de um capítulo
 verses.get('/:book/:chapter', async (c) => {
   try {
@@ -11,6 +13,17 @@ verses.get('/:book/:chapter', async (c) => {
       .toUpperCase()
       .replace(/[^A-Z0-9]/g, '');
     const chapter = parseInt(c.req.param('chapter'));
+    const layer = (c.req.query('layer') || 'N0').toUpperCase();
+
+    if (!VALID_LAYERS.includes(layer)) {
+      return c.json(
+        {
+          success: false,
+          error: `Layer inválido. Use: ${VALID_LAYERS.join(', ')}`,
+        },
+        400
+      );
+    }
 
     if (isNaN(chapter) || chapter < 1) {
       return c.json(
@@ -41,12 +54,12 @@ verses.get('/:book/:chapter', async (c) => {
       `
       SELECT v.*, vt.literal_pt, vt.readable_pt, vt.layer
       FROM verses v
-      LEFT JOIN verse_translations vt ON v.id = vt.verse_id
+      LEFT JOIN verse_translations vt ON v.id = vt.verse_id AND vt.layer = ?
       WHERE v.book_id = ? AND v.chapter = ?
       ORDER BY v.verse
     `
     )
-      .bind(book.id, chapter)
+      .bind(layer, book.id, chapter)
       .all<Verse>();
 
     if (result.results.length === 0) {
@@ -114,16 +127,27 @@ verses.get('/:book/:chapter/:verse', async (c) => {
       );
     }
 
-    // Buscar verso com tradução
+    // Buscar verso com tradução (layer selecionável)
+    const layer = (c.req.query('layer') || 'N0').toUpperCase();
+    if (!VALID_LAYERS.includes(layer)) {
+      return c.json(
+        {
+          success: false,
+          error: `Layer inválido. Use: ${VALID_LAYERS.join(', ')}`,
+        },
+        400
+      );
+    }
+
     const verse = await c.env.DB.prepare(
       `
       SELECT v.*, vt.literal_pt, vt.readable_pt, vt.layer
       FROM verses v
-      LEFT JOIN verse_translations vt ON v.id = vt.verse_id
+      LEFT JOIN verse_translations vt ON v.id = vt.verse_id AND vt.layer = ?
       WHERE v.book_id = ? AND v.chapter = ? AND v.verse = ?
     `
     )
-      .bind(book.id, chapter, verseNum)
+      .bind(layer, book.id, chapter, verseNum)
       .first<Verse>();
 
     if (!verse) {
@@ -159,66 +183,6 @@ verses.get('/:book/:chapter/:verse', async (c) => {
       {
         success: false,
         error: error instanceof Error ? error.message : 'Erro ao buscar verso',
-      },
-      500
-    );
-  }
-});
-
-// GET /api/v1/verses/search - Busca textual
-verses.get('/search', async (c) => {
-  try {
-    const { q, book, testament, limit = '50' } = c.req.query();
-
-    if (!q || q.length < 2) {
-      return c.json(
-        {
-          success: false,
-          error: 'Query de busca deve ter pelo menos 2 caracteres',
-        },
-        400
-      );
-    }
-
-    let query = `
-      SELECT v.*, b.code as book_code, b.name_pt as book_name
-      FROM verses v
-      JOIN books b ON v.book_id = b.id
-      WHERE (v.text_original LIKE ? OR v.text_translated LIKE ?)
-    `;
-    const params: (string | number)[] = [`%${q}%`, `%${q}%`];
-
-    if (book) {
-      query += ' AND b.code = ?';
-      params.push(book.toUpperCase());
-    }
-
-    if (testament) {
-      query += ' AND b.testament = ?';
-      params.push(testament.toUpperCase());
-    }
-
-    // Ordenação canônica consistente com o endpoint de livros
-    query += ` ORDER BY b.canon_order, v.chapter, v.verse LIMIT ?`;
-    params.push(parseInt(limit));
-
-    const result = await c.env.DB.prepare(query)
-      .bind(...params)
-      .all();
-
-    return c.json({
-      success: true,
-      data: result.results,
-      meta: {
-        count: result.results.length,
-        query: q,
-      },
-    });
-  } catch (error) {
-    return c.json(
-      {
-        success: false,
-        error: error instanceof Error ? error.message : 'Erro na busca',
       },
       500
     );

@@ -1,13 +1,33 @@
+// ============================================================================
+// Bíblia Belem An.C 2025 — Tradução literal rígida por Belem Anderson Costa
+// An.C = Anderson Costa | CC BY 4.0
+// https://github.com/OtimizaPro/biblia-belem-anc
+// ============================================================================
+
 export const openApiSpec = {
   openapi: '3.0.3',
   info: {
-    title: 'Bíblia Belém An.C 2025 API',
+    title: 'Bíblia Belem An.C 2025 API',
     description:
-      'API REST para consulta da tradução bíblica literal rígida. Filosofia: "Você lê. E a interpretação é sua."',
+      'API REST para consulta da tradução bíblica literal rígida. Tradução por Belem Anderson Costa (An.C = Anderson Costa). Filosofia: "Você lê. E a interpretação é sua." Licenciado sob CC BY 4.0.',
     version: '1.0.0',
     contact: {
-      name: 'A Culpa é das Ovelhas',
+      name: 'Belem Anderson Costa — A Culpa é das Ovelhas',
       url: 'https://aculpaedasovelhas.org',
+      email: 'contato@aculpaedasovelhas.org',
+    },
+    license: {
+      name: 'CC BY 4.0',
+      url: 'https://creativecommons.org/licenses/by/4.0/',
+    },
+    'x-attribution': {
+      project: 'Bíblia Belem An.C 2025',
+      meaning: 'An.C = Anderson Costa',
+      author: 'Belem Anderson Costa',
+      founder: 'Belem Anderson Costa — Inspetor de Polícia Penal do RJ',
+      repository: 'https://github.com/OtimizaPro/biblia-belem-anc',
+      attribution_required:
+        'Bíblia Belem An.C 2025 — Tradução literal por Belem Anderson Costa (CC BY 4.0)',
     },
   },
   servers: [

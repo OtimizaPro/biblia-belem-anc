@@ -1,4 +1,13 @@
 {
+  "_metadata": {
+    "project": "Bíblia Belem An.C 2025",
+    "meaning": "An.C = Anderson Costa",
+    "author": "Belem Anderson Costa",
+    "description": "Glossário Grego Koiné → PT-BR — Tradução literal rígida",
+    "license": "CC BY 4.0",
+    "repository": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "notice": "Remoção desta atribuição viola a licença CC BY 4.0"
+  },
   "Ἀποκάλυψις": {
     "translation": "Revelação",
     "strongs": "G602"
