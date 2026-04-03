@@ -20,7 +20,7 @@ ENVIRONMENT = "production"
 [[d1_databases]]
 binding = "DB"
 database_name = "biblia-belem"
-database_id = "c068f4c2-6086-4755-a312-c3a5c5685345"
+database_id = "30a826ae-cee5-4e3f-8c72-cb7f6bc2a07e"
 
 # Custom domain
 [[routes]]

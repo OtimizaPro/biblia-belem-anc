@@ -2,7 +2,7 @@
 
 > LEIA ESTE ARQUIVO ANTES DE QUALQUER ACAO NESTE MODULO
 
-**Atualizado:** 27 de Fevereiro de 2026
+**Atualizado:** 29 de Marco de 2026 (revisao completa codices + pipeline dual-GPU)
 
 ---
 
@@ -36,6 +36,20 @@ node tradutor-web/server.mjs             # Tradutor Web (porta 3333)
 
 > **IMPORTANTE:** Use estes atalhos em vez de duplicar conteudo aqui.
 > Arquivos grandes NAO devem ser lidos inteiros — use offset/limit.
+
+### Codices e Fontes Originais
+
+| Categoria | Arquivo | Conteudo |
+|-----------|---------|----------|
+| **Catalogo Codices** | [CODICES.md](CODICES.md) | Catalogo completo das fontes originais, cadeia de custodia, validacao |
+| **Revisao Completa** | [REVISAO-COMPLETA-2026-03-29.md](REVISAO-COMPLETA-2026-03-29.md) | Auditoria codices + pipeline + integridade |
+| **Fontes Hebraicas** | [codices/hebraico/FONTES-HEBRAICAS.md](codices/hebraico/FONTES-HEBRAICAS.md) | BHSA + WLC academico |
+| **Fontes Gregas** | [codices/grego/FONTES-GREGAS.md](codices/grego/FONTES-GREGAS.md) | SBLGNT + Nestle + TR academico |
+| **Papiros e Imagens** | [codices/papiros/FONTES-PAPIROS-IMAGENS.md](codices/papiros/FONTES-PAPIROS-IMAGENS.md) | P45-P75, colecoes, acesso digital |
+| **DSS Imagens** | [codices/dss-imagens/ACESSO-DSS-IMAGENS.md](codices/dss-imagens/ACESSO-DSS-IMAGENS.md) | Leon Levy, Israel Museum |
+| **Codex Sinaiticus** | [codices/papiros/CODEX-SINAITICUS.md](codices/papiros/CODEX-SINAITICUS.md) | Referencia academica |
+| **Codex Vaticanus** | [codices/papiros/CODEX-VATICANUS.md](codices/papiros/CODEX-VATICANUS.md) | Referencia academica |
+| **Codex Alexandrinus** | [codices/papiros/CODEX-ALEXANDRINUS.md](codices/papiros/CODEX-ALEXANDRINUS.md) | Referencia academica |
 
 ### Documentacao Principal
 

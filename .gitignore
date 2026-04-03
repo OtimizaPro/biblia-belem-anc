@@ -41,3 +41,11 @@ scripts/freq*-raw.json
 scripts/pending-words.json
 scripts/retry-slice-*.json
 scripts/at-freq*-words.json
+
+# Codices academicos (repos clonados — baixar via git clone)
+codices/hebraico/oshb-wlc/
+codices/grego/sblgnt-morphgnt/
+codices/grego/nestle1904/
+codices/grego/textus-receptus-byz/
+codices/dados-academicos/stepbible-data/
+codices/dados-academicos/strongs-lexicon/
