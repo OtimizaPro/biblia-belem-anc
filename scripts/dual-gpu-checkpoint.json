@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-07T00:56:12.802Z",
+  "lastRun": "2026-04-07T02:11:42.270Z",
   "completedBooks": [
     "PSA",
     "EZK",
@@ -9,24 +9,36 @@
     "NUM",
     "2CH",
     "GEN",
-    "DEU"
+    "DEU",
+    "1SA",
+    "PRO",
+    "DAN",
+    "1KI",
+    "JOB",
+    "1CH",
+    "JDG",
+    "JOS",
+    "LEV",
+    "2KI",
+    "2SA",
+    "EZR"
   ],
   "stats": {
     "worker0": {
-      "total": 6000,
-      "fromGlossary": 5142,
+      "total": 11000,
+      "fromGlossary": 7295,
       "fromOllama": 179,
       "keptOriginal": 0,
-      "failed": 353,
-      "books": 5
+      "failed": 3526,
+      "books": 11
     },
     "worker1": {
-      "total": 4000,
-      "fromGlossary": 3542,
+      "total": 11000,
+      "fromGlossary": 6855,
       "fromOllama": 87,
       "keptOriginal": 0,
-      "failed": 371,
-      "books": 4
+      "failed": 3538,
+      "books": 10
     }
   }
 }
