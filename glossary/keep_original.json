@@ -77,6 +77,14 @@
       "why_not_translated": "Preserva a designação original sem impor interpretação. Permite ao leitor distinguir Adonai de YHWH e identificar o referente em cada contexto. A tradição massorética fundiu YHWH e Adonai via substituição vocálica — manter o original desfaz essa fusão.",
       "words": ["אֲדֹנָי", "אֲדֹנִי", "אֲדֹנֵי", "אֲדֹנַי"],
       "pt_literal": "Adonai"
+    },
+    "Kyrios": {
+      "reason": "Designação grega (Κύριος) pressuposta como 'Senhor'. Mantém a forma original para preservar a identidade do referente — no NT grego, Kyrios pode referir-se a entidades distintas (divinas ou humanas), e cada ocorrência deve ser avaliada pelo leitor.",
+      "original_greek": "Κύριος",
+      "common_translations": "Senhor, Lord (em traduções tradicionais - fundindo referentes distintos sob um mesmo rótulo)",
+      "why_not_translated": "Preserva a designação original sem impor interpretação. Permite ao leitor distinguir Kyrios de Theos e identificar o referente em cada contexto.",
+      "words": ["Κύριος", "Κυρίου", "Κυρίῳ", "Κύριον", "Κύριε", "κύριος", "κυρίου", "κυρίῳ", "κύριον", "κύριε"],
+      "pt_literal": "Kyrios"
     }
   },
   "all_words": [
@@ -88,7 +96,9 @@
     "Θεός", "Θεοῦ", "Θεόν", "Θεῷ", "Θεέ",
     "θεός", "θεοῦ", "θεόν", "θεῷ",
     "Ἰησοῦς", "Ἰησοῦ", "Ἰησοῦν",
-    "Χριστός", "Χριστοῦ", "Χριστόν", "Χριστῷ"
+    "Χριστός", "Χριστοῦ", "Χριστόν", "Χριστῷ",
+    "Κύριος", "Κυρίου", "Κυρίῳ", "Κύριον", "Κύριε",
+    "κύριος", "κυρίου", "κυρίῳ", "κύριον", "κύριε"
   ],
   "editorial_guidelines": {
     "brackets_usage": "[OBJ] para Objeto Direto - sinaliza presença de objeto direto implícito ou elíptico no texto original",

@@ -24,7 +24,7 @@ const projectRoot = join(__dirname, '..');
 // ═══════════════════════════════════════════════════════════════════
 
 const PATHS = {
-  translatedDir: join(projectRoot, 'Bible pt-br', 'txt'),
+  translatedDir: join(projectRoot, 'Bible belem-pt-br', 'txt'),
   oshbDir: join(projectRoot, 'codices', 'hebraico', 'oshb-wlc', 'wlc'),
   sblgntDir: join(projectRoot, 'codices', 'grego', 'sblgnt-morphgnt'),
   nestle1904Dir: join(projectRoot, 'codices', 'grego', 'nestle1904'),

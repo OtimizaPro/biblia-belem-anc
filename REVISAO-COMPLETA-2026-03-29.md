@@ -80,7 +80,7 @@ Nenhum intermediario latino.
 **Severidade:** Media
 **Descricao:** 8 ocorrencias de caracteres gregos Unicode (`Θεός`/`Θεόν`) permanecem no texto traduzido de Desvelacao, enquanto todos os outros 26 livros do NT usam consistentemente a forma transliterada `Theos`.
 
-**Localizacao:** `Bible pt-br/txt/66_DES_Desvelacao de Jesus Cristo (apocalipse).txt`
+**Localizacao:** `Bible belem-pt-br/txt/66_DES_Desvelacao de Jesus Cristo (apocalipse).txt`
 
 | Linha | Capitulo | Forma encontrada | Forma correta |
 |-------|----------|-------------------|---------------|

@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const bibleDir = path.join(__dirname, '..', 'Bible pt-br', 'txt');
+const bibleDir = path.join(__dirname, '..', 'Bible belem-pt-br', 'txt');
 
 /**
  * Remove marcadores de versículos (números no início das linhas)

@@ -294,7 +294,7 @@ function processLine(line) {
  * Processar arquivo
  */
 function processBook(bookCode, bookName) {
-  const filepath = join(process.cwd(), 'Bible pt-br', 'txt', `66_REV_Apocalipse.txt`);
+  const filepath = join(process.cwd(), 'Bible belem-pt-br', 'txt', `66_DES_Desvelação de Jesus Cristo (apocalipse).txt`);
 
   console.log(`Processando ${bookName}...`);
 

@@ -112,14 +112,14 @@ tokens.get('/:verseId/interlinear', async (c) => {
       data: {
         verse,
         interlinear: tokens.results.map((t: Record<string, unknown>) => ({
-          position: t.position,
-          original: t.text_utf8,
-          transliteration: t.normalized,
-          lemma: (t.lemma as string) || (t.normalized as string),
-          morphology: (t.morph_code as string) || null,
-          morphDescription: (t.morph_code as string) || null,
-          pos: (t.pos as string) || null,
-          gloss: t.pt_literal,
+          position: t.position ?? null,
+          original: t.text_utf8 ?? null,
+          transliteration: t.normalized ?? null,
+          lemma: String(t.lemma || t.normalized || ''),
+          morphology: t.morph_code != null ? String(t.morph_code) : null,
+          morphDescription: t.morph_code != null ? String(t.morph_code) : null,
+          pos: t.pos != null ? String(t.pos) : null,
+          gloss: t.pt_literal ?? null,
         })),
       },
     });

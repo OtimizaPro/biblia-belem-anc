@@ -1,20 +1,37 @@
 /**
- * Reconstrutor do Apocalipse - Bíblia Belém An.C 2025
+ * Reconstrutor da Desvelação - Bíblia Belém An.C 2025
  * Gera o arquivo TXT a partir do JSON do D1
  */
 
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join } from 'path';
 
 // Ler dados do D1
-const data = JSON.parse(readFileSync('temp_rev.json', 'utf8'));
+if (!existsSync('temp_rev.json')) {
+  console.error('✗ Arquivo temp_rev.json não encontrado. Execute a exportação D1 primeiro.');
+  process.exit(1);
+}
+
+let data;
+try {
+  data = JSON.parse(readFileSync('temp_rev.json', 'utf8'));
+} catch (e) {
+  console.error('✗ Erro ao parsear temp_rev.json:', e.message);
+  process.exit(1);
+}
+
+if (!Array.isArray(data) || !data[0]?.results) {
+  console.error('✗ Formato inesperado em temp_rev.json — esperado: [{ results: [...] }]');
+  process.exit(1);
+}
+
 const verses = data[0].results;
 
 const lines = [];
 
 // Cabeçalho
 lines.push('═══════════════════════════════════════════════════════════════════════');
-lines.push('APOCALIPSE');
+lines.push('DESVELAÇÃO DE JESUS CRISTO');
 lines.push('═══════════════════════════════════════════════════════════════════════');
 lines.push('');
 lines.push('Tradução: Bíblia Belém An.C 2025');
@@ -39,11 +56,11 @@ for (const v of verses) {
 // Rodapé
 lines.push('');
 lines.push('───────────────────────────────────────────────────────────────────────');
-lines.push('Fim de Apocalipse');
+lines.push('Fim de Desvelação de Jesus Cristo');
 
 // Salvar
-const filepath = join(process.cwd(), 'Bible pt-br', 'txt', '66_REV_Apocalipse.txt');
+const filepath = join(process.cwd(), 'Bible belem-pt-br', 'txt', '66_DES_Desvelação de Jesus Cristo (apocalipse).txt');
 writeFileSync(filepath, lines.join('\n'), 'utf8');
 
-console.log('✓ Apocalipse reconstruído com dados originais do D1');
+console.log('✓ Desvelação reconstruída com dados originais do D1');
 console.log(`  Versículos: ${verses.length}`);

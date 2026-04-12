@@ -200,7 +200,7 @@ leitor-kindle/              # Leitor React Kindle-style (porta 4321)
   src/                      # React 19 + Vite 7
   dist/                     # Build de producao
 Editoracao/                 # Documentacao editorial (varredura, agente)
-Bible pt-br/txt/            # 66 livros traduzidos em PT-BR (~31.000 linhas total)
+Bible belem-pt-br/txt/            # 66 livros traduzidos em PT-BR (~31.000 linhas total)
 migrations/                 # Migracoes D1 (002_glossary.sql)
 .AnC Documentos/            # Documentacao interna + imagens
 .github/                    # CI/CD, templates, funding
@@ -423,7 +423,7 @@ BHSA, WLC, SBLGNT, TR1550, Nestle1904
 
 ---
 
-## Textos Biblicos (Bible pt-br/txt/)
+## Textos Biblicos (Bible belem-pt-br/txt/)
 
 66 livros em formato TXT. Total ~31.000 linhas.
 

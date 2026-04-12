@@ -20,7 +20,7 @@
 import { readFileSync, readdirSync } from 'fs';
 import { join, basename } from 'path';
 
-const BIBLE_DIR = join(import.meta.dirname, '..', 'Bible pt-br', 'txt');
+const BIBLE_DIR = join(import.meta.dirname, '..', 'Bible belem-pt-br', 'txt');
 
 // ── Regras ──────────────────────────────────────────────────────────
 

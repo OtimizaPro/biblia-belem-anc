@@ -13,7 +13,7 @@
 
 | Verificacao | Resultado |
 |-------------|-----------|
-| 66 livros presentes em `Bible pt-br/txt/` | OK |
+| 66 livros presentes em `Bible belem-pt-br/txt/` | OK |
 | Numeracao sequencial 01-66 | OK |
 | Cabecalhos padronizados | OK |
 | Livro 66 nomeado "Desvelacao" (nao "Apocalipse") | OK |
@@ -119,7 +119,7 @@
 
 **Status:** Concluido
 **Ferramenta:** export-d1-fast.mjs (query D1 direta, 66 queries em vez de 31.287 API calls)
-**Destino:** `export/txt/` → copiado para `Bible pt-br/txt/`
+**Destino:** `export/txt/` → copiado para `Bible belem-pt-br/txt/`
 **Resultado:** 66 livros + indice exportados. 31.156/31.156 versiculos (100%)
 **Correcoes de nomes:** Oseias→Oseias (acento), Miqueias→Miqueias (acento), REV→DES (Desvelacao)
 

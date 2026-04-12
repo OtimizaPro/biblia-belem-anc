@@ -398,7 +398,7 @@ lines.push(`Fim de ${BOOK_NAME}`);
 
 // Passo 4: Salvar
 const filename = `${BOOK_NUM}_${BOOK_CODE}_${BOOK_NAME}.txt`;
-const filepath = join(process.cwd(), 'Bible pt-br', 'txt', filename);
+const filepath = join(process.cwd(), 'Bible belem-pt-br', 'txt', filename);
 writeFileSync(filepath, lines.join('\n'), 'utf8');
 
 console.log('3. Arquivo salvo!');

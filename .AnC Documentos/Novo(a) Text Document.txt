@@ -6,7 +6,7 @@ src/	API Hono + TypeScript (entry point)
 glossary/	Glossarios grego/hebraico/keep_original
 scripts/	Scripts de traducao e batch
 migrations/	Migracoes D1 (SQLite)
-Bible pt-br/	Livros exportados em portugues
+Bible belem-pt-br/	Livros exportados em portugues
 leitor-kindle/	Leitor React Kindle-style (porta 4321)
 tradutor-web/	Interface web do tradutor (porta 3333)
 tradutor-app/	App desktop do tradutor
@@ -22,4 +22,4 @@ src/data/	translation-notes.json, editorial-decisions.json
 src/docs/	OpenAPI spec
 Dados
 Pasta	Descricao
-Bible pt-br/txt/	66 livros .txt traduzidos
+Bible belem-pt-br/txt/	66 livros .txt traduzidos

@@ -43,7 +43,7 @@
 
 ### CRITICA: Palavra proibida "Jesus" em Esdras
 
-**Arquivo:** `Bible pt-br/txt/15_EZR_Esdras.txt`, linha 142 (capitulo 2)
+**Arquivo:** `Bible belem-pt-br/txt/15_EZR_Esdras.txt`, linha 142 (capitulo 2)
 **Contexto:** `"Zarubabel filho de Salatiel e Jesus filho de יֽוֹצָדָ֔ק"`
 
 **Diagnostico:** Trata-se de **Josue** (Iesous/Yeshua), o sumo sacerdote contemporaneo de Zarubabel (Esdras 2:2). A palavra hebraica e יֵשׁוּעַ (Yeshua). A traducao deveria ser "Iesous" (transliteracao grega) ou "Yeshua" (transliteracao hebraica), NAO "Jesus" (forma latina).

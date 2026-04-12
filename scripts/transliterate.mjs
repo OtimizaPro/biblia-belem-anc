@@ -187,7 +187,7 @@ function processFile(filepath) {
 }
 
 // Main
-const exportDir = join(process.cwd(), 'Bible pt-br', 'txt');
+const exportDir = join(process.cwd(), 'Bible belem-pt-br', 'txt');
 const files = readdirSync(exportDir).filter(f => f.endsWith('.txt'));
 
 console.log('╔══════════════════════════════════════════════════════════════════╗');
