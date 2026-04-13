@@ -35,7 +35,7 @@ const GPU = [
   { id: 1, url: 'http://localhost:11434', label: 'GPU-0 (fallback same)' },
 ];
 
-const MODEL = 'qwen2.5:14b';
+const MODEL = 'qwen3:14b';
 const BATCH_SIZE = 10;
 const TEMPERATURE = 0.1;
 const NUM_CTX = 2048;
@@ -125,7 +125,7 @@ for (const arg of process.argv.slice(2)) {
 function d1Execute(sql) {
   const escaped = sql.replace(/"/g, '\\"');
   const cmd = `npx wrangler d1 execute biblia-belem --remote --command "${escaped}"`;
-  const result = execSync(cmd, { cwd: projectRoot, encoding: 'utf-8', timeout: 60000, stdio: ['pipe', 'pipe', 'pipe'] });
+  const result = execSync(cmd, { cwd: projectRoot, encoding: 'utf-8', timeout: 120000, stdio: ['pipe', 'pipe', 'pipe'], maxBuffer: 256 * 1024 * 1024 });
   // Parse JSON array from wrangler output (may contain ANSI codes and warnings)
   const clean = result.replace(/\x1B\[[0-9;]*[a-zA-Z]/g, ''); // strip ANSI
   const start = clean.indexOf('[');
@@ -151,46 +151,125 @@ async function ollamaTranslate(gpu, words, script) {
   const lang = script === 'GRC' ? 'Koine Greek' : script === 'HE' ? 'Biblical Hebrew' : 'Biblical Aramaic';
   const wordList = words.map((w, i) => `${i + 1}. ${w}`).join('\n');
 
-  const prompt = `You are a biblical scholar translating directly from ${lang} to English.
-Rules:
-- STRICT LITERAL translation — word by word, no smoothing
-- Preserve original word order when possible
-- Use hyphens for compound expressions (e.g., "in-the-beginning")
-- DO NOT translate these names — keep them as-is: yhwh, Elohim, Eloah, El, Adonai, Theos, Iesous, Christos
-- The word "God" must NEVER appear — use "Theos" (Greek) or "Elohim" (Hebrew)
-- The word "Lord" must NEVER appear — use "yhwh" or "Adonai" or "Kyrios"
-- Return ONLY a JSON object mapping number to translation
+  const examples = lang === 'Koine Greek'
+    ? `EXAMPLES:
+- ἀποκριθεὶς → having-answered
+- ἐγέννησεν → begat
+- βασιλεύς → king
+- τὴν → the
+- ἐκάλεσεν → called
+- δικαιοσύνη → righteousness
+- ὑπάγω → go-away
+- σταυρωθῇ → be-crucified`
+    : `EXAMPLES:
+- וַיֹּאמֶר → and-he-said
+- בְּרֵאשִׁית → in-beginning
+- הַשָּׁמַיִם → the-heavens
+- וְהָאָרֶץ → and-the-earth
+- מֶלֶךְ → king
+- בֶּן → son
+- דָּבָר → word/matter`;
 
-Translate these ${lang} words to English:
+  const prompt = `Translate these ${lang} words to English. STRICT LITERAL — word by word, no smoothing.
+
+RULES:
+- Translate each word independently to its English equivalent
+- Use hyphens for compound concepts: "in-the-beginning", "out-of"
+- For verbs: include tense/voice marker when relevant: "having-said", "will-come"
+- For nouns with case: show case: "of-son" (genitive), "to-house" (dative)
+- NEVER return the original ${lang} word — always translate to English
+- NEVER transliterate (no "auton", "legontos", "kai") — translate meaning
+- These names stay as-is: yhwh, Elohim, Eloah, El, Adonai, Theos, Iesous, Christos
+- "God/Lord" NEVER appear — use Theos/Elohim or yhwh/Adonai/Kyrios
+- Proper names: transliterate to Latin alphabet (Abraam, Dauid, Petros)
+
+${examples}
+
+Translate:
 ${wordList}
 
-Return JSON like: {"1": "translation1", "2": "translation2"}`;
-
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
+Return ONLY a JSON object: {"1": "english", "2": "english", ...} /no_think`;
 
   try {
+    // Use streaming to avoid undici headersTimeout (UND_ERR_HEADERS_TIMEOUT)
     const resp = await fetch(`${gpu.url}/api/generate`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         model: MODEL,
         prompt,
-        stream: false,
+        stream: true,
         options: { temperature: TEMPERATURE, top_p: 0.9, num_ctx: NUM_CTX },
       }),
-      signal: controller.signal,
     });
 
-    clearTimeout(timer);
-    const data = await resp.json();
-    const text = data.response || '';
+    // Buffer streamed NDJSON chunks
+    let text = '';
+    const reader = resp.body.getReader();
+    const decoder = new TextDecoder();
+    const deadline = Date.now() + TIMEOUT_MS;
+    while (true) {
+      if (Date.now() > deadline) throw new Error('Stream timeout');
+      const { done, value } = await reader.read();
+      if (done) break;
+      const chunk = decoder.decode(value, { stream: true });
+      for (const line of chunk.split('\n')) {
+        if (!line.trim()) continue;
+        try {
+          const obj = JSON.parse(line);
+          if (obj.response) text += obj.response;
+        } catch {}
+      }
+    }
+
+    // Strip <think>...</think> blocks (qwen3 thinking mode)
+    text = text.replace(/<think>[\s\S]*?<\/think>/g, '').trim();
 
     // Extract JSON from response
     const jsonMatch = text.match(/\{[\s\S]*\}/);
-    if (!jsonMatch) return null;
-    return JSON.parse(jsonMatch[0]);
+    if (jsonMatch) {
+      try {
+        return JSON.parse(jsonMatch[0]);
+      } catch (e) {
+        // JSON parse failed, try arrow format fallback below
+      }
+    }
+
+    // Fallback: parse "N. word → translation" or "N. translation" format
+    const arrowResult = {};
+    const lines = text.split('\n');
+    for (const line of lines) {
+      // Match: "1. word → translation" or "1. translation"
+      const arrowMatch = line.match(/^\s*(\d+)\.\s*(.+?)\s*$/);
+      if (arrowMatch) {
+        const key = arrowMatch[1];
+        let val = arrowMatch[2].trim();
+        // Split on any arrow-like separator: →, ->, =>, :, —
+        const arrowSplit = val.split(/\s*(?:\u2192|\u2794|\u27A1|->|=>|\u2014|:\s)\s*/);
+        if (arrowSplit.length >= 2) {
+          val = arrowSplit[arrowSplit.length - 1].trim();
+        }
+        // Remove any remaining Greek/Hebrew from parsed value (take last non-Greek word)
+        if (/[\u0370-\u03FF\u1F00-\u1FFF\u0590-\u05FF]/.test(val)) {
+          // Value still has original script chars — skip
+          continue;
+        }
+        if (val) arrowResult[key] = val;
+      }
+    }
+    if (Object.keys(arrowResult).length > 0) {
+      console.log(`    📝 Parsed ${Object.keys(arrowResult).length} entries from text format`);
+      // Debug first 3 entries
+      const keys = Object.keys(arrowResult).slice(0, 3);
+      keys.forEach(k => console.log(`      ${k}: "${arrowResult[k]}"`));
+      return arrowResult;
+    }
+
+    console.log(`    [DEBUG] No parseable response (${text.length} chars): ${text.substring(0, 200)}`);
+    return null;
   } catch (err) {
+    console.log(`    [DEBUG] Fetch error: ${err.code || err.message}`);
+    if (err.cause) console.log(`    [DEBUG] Cause: ${err.cause.code || err.cause.message || err.cause}`);
     clearTimeout(timer);
     return null;
   }
@@ -215,12 +294,12 @@ async function translateBook(bookCode, gpu) {
 
   // Get untranslated tokens for this book (single-line SQL for wrangler compat)
   let tokens = d1Execute(
-    `SELECT t.id, t.text_utf8, t.normalized, t.script, t.position, v.chapter, v.verse FROM tokens t JOIN verses v ON t.verse_id = v.id JOIN books b ON v.book_id = b.id WHERE b.code = '${bookCode}' AND (t.en_literal IS NULL OR t.en_literal = '') ORDER BY v.chapter, v.verse, t.position LIMIT 5000`
+    `SELECT t.id, t.text_utf8, t.normalized, t.script, t.position, v.chapter, v.verse FROM tokens t JOIN verses v ON t.verse_id = v.id JOIN books b ON v.book_id = b.id WHERE b.code = '${bookCode}' AND (t.en_literal IS NULL OR t.en_literal = '') ORDER BY v.chapter, v.verse, t.position LIMIT 25000`
   );
 
   if (tokens.length === 0 && bookCode === 'REV') {
     tokens = d1Execute(
-      `SELECT t.id, t.text_utf8, t.normalized, t.script, t.position, v.chapter, v.verse FROM tokens t JOIN verses v ON t.verse_id = v.id JOIN books b ON v.book_id = b.id WHERE b.code = 'DES' AND (t.en_literal IS NULL OR t.en_literal = '') ORDER BY v.chapter, v.verse, t.position LIMIT 5000`
+      `SELECT t.id, t.text_utf8, t.normalized, t.script, t.position, v.chapter, v.verse FROM tokens t JOIN verses v ON t.verse_id = v.id JOIN books b ON v.book_id = b.id WHERE b.code = 'DES' AND (t.en_literal IS NULL OR t.en_literal = '') ORDER BY v.chapter, v.verse, t.position LIMIT 25000`
     );
   }
 
@@ -268,18 +347,31 @@ async function translateBook(bookCode, gpu) {
       const result = await translateWithRetry(gpu, wordTexts, script);
 
       if (result) {
+        let accepted = 0, rejected = 0;
         for (let j = 0; j < words.length; j++) {
           const key = String(j + 1);
           if (result[key]) {
             let trans = result[key].trim();
+            // Validate: reject if still contains Greek or Hebrew chars
+            if (/[\u0370-\u03FF\u1F00-\u1FFF]/.test(trans) || /[\u0590-\u05FF]/.test(trans)) {
+              rejected++;
+              continue;
+            }
+            // Validate: reject if equals original word
+            if (trans === words[j].word) {
+              rejected++;
+              continue;
+            }
             // Block forbidden words
-            trans = trans.replace(/\bGod\b/g, 'Theos');
-            trans = trans.replace(/\bLord\b/g, 'Kyrios');
-            trans = trans.replace(/\bJesus\b/g, 'Iesous');
-            trans = trans.replace(/\bChrist\b/g, 'Christos');
+            trans = trans.replace(/\bGod\b/gi, 'Theos');
+            trans = trans.replace(/\bLord\b/gi, 'Kyrios');
+            trans = trans.replace(/\bJesus\b/gi, 'Iesous');
+            trans = trans.replace(/\bChrist\b/gi, 'Christos');
             batchTranslations[words[j].id] = trans;
+            accepted++;
           }
         }
+        if (rejected > 0) console.log(`    🔍 Validated: ${accepted}/${accepted + rejected} (${rejected} rejected)`);
       }
     }
 
@@ -355,17 +447,19 @@ async function main() {
     console.log('❌ No GPUs available! Run: ollama serve');
     process.exit(1);
   }
-  // Warm up model on first available GPU
-  console.log(`\n🔥 Using ${availableGPUs.length} GPU(s) — warming up ${MODEL}...`);
+  // Check if model is already loaded (skip warm-up to avoid blocking Ollama)
+  console.log(`\n🔥 Using ${availableGPUs.length} GPU(s) — checking ${MODEL}...`);
   try {
-    await fetch(`${availableGPUs[0].url}/api/generate`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ model: MODEL, prompt: 'OK', stream: false, options: { num_ctx: 64 } }),
-      signal: AbortSignal.timeout(120000),
-    });
-    console.log('✅ Model warm');
-  } catch { console.log('⚠️  Warm-up timeout (will retry on first batch)'); }
+    const psResp = await fetch(`${availableGPUs[0].url}/api/ps`, { signal: AbortSignal.timeout(5000) });
+    const psData = await psResp.json();
+    const loaded = psData.models?.some(m => m.name.startsWith(MODEL.split(':')[0]));
+    if (loaded) {
+      console.log('✅ Model already loaded');
+    } else {
+      console.log(`⏳ Model not loaded — pre-warm with: curl -s ${availableGPUs[0].url}/api/generate -X POST -d '{"model":"${MODEL}","prompt":"hi","stream":false,"options":{"num_predict":1}}'`);
+      console.log('   Continuing anyway (first batch will be slower)...');
+    }
+  } catch { console.log('⚠️  Could not check model status'); }
   const defaultGpu = availableGPUs[0];
 
   // Determine which books to translate
