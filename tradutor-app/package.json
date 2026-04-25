@@ -11,8 +11,8 @@
   "author": "A Culpa é das Ovelhas",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^28.0.0",
-    "electron-builder": "^24.9.1"
+    "electron": "^39.8.5",
+    "electron-builder": "^26.8.1"
   },
   "build": {
     "appId": "org.aculpaedasovelhas.biblia-tradutor",
