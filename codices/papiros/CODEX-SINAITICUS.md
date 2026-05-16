@@ -1,6 +1,6 @@
 # Codex Sinaiticus (Aleph / 01)
 
-> Documento de referencia academica para o projeto Biblia Belem An.C 2025
+> Documento de referencia academica para o projeto Tradução bíblica Belem-2025
 > Atualizado: 29 de Marco de 2026
 
 ---
@@ -14,7 +14,7 @@
 5. [Localizacao dos Fragmentos](#localizacao-dos-fragmentos)
 6. [Escribas e Corretores](#escribas-e-corretores)
 7. [Acesso Digital](#acesso-digital)
-8. [Relevancia para a Biblia Belem An.C 2025](#relevancia-para-a-biblia-belem-anc-2025)
+8. [Relevancia para a Tradução bíblica Belem-2025](#relevancia-para-a-tradução-bíblica-belem-2025)
 9. [Relacao com Edicoes Criticas (SBLGNT e Nestle 1904)](#relacao-com-edicoes-criticas)
 10. [Licenciamento e Uso](#licenciamento-e-uso)
 11. [Referencias](#referencias)
@@ -216,11 +216,11 @@ As correcoes sao de enorme valor para a critica textual, pois registram leituras
 
 ---
 
-## Relevancia para a Biblia Belem An.C 2025
+## Relevancia para a Tradução bíblica Belem-2025
 
 ### Importancia Textual
 
-O Codex Sinaiticus e um dos pilares da critica textual biblica e tem relevancia direta para o projeto da Biblia Belem An.C 2025:
+O Codex Sinaiticus e um dos pilares da critica textual biblica e tem relevancia direta para o projeto da Tradução bíblica Belem-2025:
 
 | Aspecto | Relevancia |
 |---------|------------|
@@ -243,11 +243,11 @@ O Sinaiticus **nao contem** diversas passagens presentes em manuscritos tardios:
 | **Mateus 17:21** | Ausente | Versiculo sobre jejum e oracao |
 | **Atos 8:37** | Ausente | Confissao de fe do eunuco etiope |
 
-Estas ausencias confirmam que tais passagens sao **acrescimos posteriores** ao texto original — dado fundamental para a traducao literal rigida da Biblia Belem.
+Estas ausencias confirmam que tais passagens sao **acrescimos posteriores** ao texto original — dado fundamental para a traducao literal rigida da Tradução bíblica Belem-2025.
 
 ### Fontes Hebraicas vs Gregas
 
-Para o Antigo Testamento, a Biblia Belem traduz dos codices hebraicos (BHSA, WLC, DSS), nao da Septuaginta. O Sinaiticus e relevante para o AT apenas como **testemunho comparativo** da LXX. Para o **Novo Testamento**, porem, o Sinaiticus e uma **fonte primaria de importancia critica**.
+Para o Antigo Testamento, a Tradução bíblica Belem-2025 traduz dos codices hebraicos (BHSA, WLC, DSS), nao da Septuaginta. O Sinaiticus e relevante para o AT apenas como **testemunho comparativo** da LXX. Para o **Novo Testamento**, porem, o Sinaiticus e uma **fonte primaria de importancia critica**.
 
 ---
 
@@ -325,5 +325,5 @@ Para o Antigo Testamento, a Biblia Belem traduz dos codices hebraicos (BHSA, WLC
 
 ---
 
-**Biblia Belem An.C 2025** — Traducao literal rigida dos codices mais antigos para o portugues brasileiro.
+**Tradução bíblica Belem-2025** — Traducao literal rigida dos codices mais antigos para o portugues brasileiro.
 *"Voce le. E a interpretacao e sua."*

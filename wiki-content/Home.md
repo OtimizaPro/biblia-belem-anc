@@ -1,11 +1,11 @@
-# Biblia Belem An.C 2025 - Wiki
+# Tradução bíblica Belem-2025 - Wiki
 
-Bem-vindo a documentacao da **API da Biblia Belem An.C 2025** - uma traducao literal *ipsis litteris* do grego e hebraico para o portugues.
+Bem-vindo a documentacao da **API da Tradução bíblica Belem-2025** - uma traducao literal *ipsis litteris* do grego e hebraico para o portugues.
 
 ## Navegacao Rapida
 
 ### Para Usuarios
-- [[Introducao]] - O que e a traducao Belem An.C
+- [[Introducao]] - O que e a Tradução bíblica Belem-2025
 - [[Principios de Traducao]] - Como traduzimos
 - [[Como Usar a API]] - Guia rapido
 - [[Exemplos de Uso]] - Codigo em varias linguagens

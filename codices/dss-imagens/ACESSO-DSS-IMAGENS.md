@@ -1,6 +1,6 @@
 # Acesso a Imagens Digitais dos Manuscritos do Mar Morto
 
-> Documento de referencia academica para o projeto Biblia Belem An.C 2025
+> Documento de referencia academica para o projeto Tradução bíblica Belem-2025
 > Atualizado: 29 de Marco de 2026
 
 ---
@@ -83,7 +83,7 @@ A **Leon Levy Dead Sea Scrolls Digital Library** e o principal repositorio digit
 
 ### Prioridade Critica — Textos Biblicos Hebraicos
 
-Os manuscritos abaixo sao fontes primarias para a traducao da Biblia Belem An.C 2025, pois contem textos do AT em hebraico anteriores ao Texto Massoretico padronizado:
+Os manuscritos abaixo sao fontes primarias para a traducao da Tradução bíblica Belem-2025, pois contem textos do AT em hebraico anteriores ao Texto Massoretico padronizado:
 
 | Sigla | Nome | Conteudo | Caverna | Data | Relevancia |
 |-------|------|----------|---------|------|------------|
@@ -321,7 +321,7 @@ A = use('ETCBC/dss', checkout='clone')
 
 ### Regra Geral para o Projeto
 
-Para uso na Biblia Belem An.C 2025:
+Para uso na Tradução bíblica Belem-2025:
 1. **Transcricoes textuais** do dss-data podem ser usadas livremente para analise e traducao
 2. **Imagens de manuscritos** da Leon Levy podem ser referenciadas e linkadas
 3. **Reproducao de imagens** em publicacoes requer verificacao dos termos da IAA
@@ -350,5 +350,5 @@ Para uso na Biblia Belem An.C 2025:
 
 ---
 
-**Biblia Belem An.C 2025** — Traducao literal rigida dos codices mais antigos para o portugues brasileiro.
+**Tradução bíblica Belem-2025** — Traducao literal rigida dos codices mais antigos para o portugues brasileiro.
 *"Voce le. E a interpretacao e sua."*

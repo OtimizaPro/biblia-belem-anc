@@ -1,6 +1,6 @@
 # CODICES.md - Catalogo de Fontes Originais
 
-> Biblia Belem An.C 2025 - Traducao Literal Rigida
+> Tradução bíblica Belem-2025 - Traducao Literal Rigida
 > "Voce le. E a interpretacao e sua."
 
 **Atualizado:** 29 de Marco de 2026
@@ -179,7 +179,7 @@ Manuscritos Originais (sec. I-II)
     │       │
     │       └── Tradicao Bizantina ──> Textus Receptus 1550 ──> Robinson-Pierpont 2018
     │
-    └── Biblia Belem An.C 2025
+    └── Tradução bíblica Belem-2025
             │
             ├── SBLGNT (base primaria, texto critico)
             ├── Nestle 1904 (comparacao, variantes)
@@ -507,7 +507,7 @@ Codice Original (HE/ARM/GRC)
 
 ## Licencas, Atribuicoes e Compatibilidade
 
-> **ATENCAO:** O projeto Biblia Belem An.C 2025 e licenciado como **CC BY 4.0** (permite uso comercial).
+> **ATENCAO:** O projeto Tradução bíblica Belem-2025 e licenciado como **CC BY 4.0** (permite uso comercial).
 > Nem todas as fontes academicas sao compativeis com uso comercial.
 > Esta secao documenta o status de cada fonte e as acoes necessarias.
 
@@ -654,5 +654,5 @@ curl "http://localhost:8787/api/v1/dss/compare/1Qisaa/1/1"
 
 ---
 
-**Biblia Belem An.C 2025** — *Traducao literal rigida por Belem Anderson Costa*
+**Tradução bíblica Belem-2025** — *Traducao literal rigida por Belem Anderson Costa*
 **CC BY 4.0** — https://github.com/OtimizaPro/biblia-belem-anc

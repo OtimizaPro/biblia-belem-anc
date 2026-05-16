@@ -1,6 +1,6 @@
 # biblia-belem-sdk
 
-SDK JavaScript/TypeScript para a API da **Biblia Belem An.C 2025** — traducao literal rigida das Escrituras Sagradas.
+SDK JavaScript/TypeScript para a API da **Tradução bíblica Belem-2025** — traducao literal rigida das Escrituras Sagradas.
 
 Zero dependencias. Funciona em Node.js 18+, Deno, Bun e browsers modernos.
 

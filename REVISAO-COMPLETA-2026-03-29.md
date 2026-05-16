@@ -1,4 +1,4 @@
-# Revisao Completa — Biblia Belem An.C 2025
+# Revisao Completa — Tradução bíblica Belem-2025
 
 **Data:** 29 de Marco de 2026
 **Escopo:** Codices originais, pipeline dual-GPU, integridade da traducao
@@ -271,4 +271,4 @@ codices/
 
 ---
 
-**Biblia Belem An.C 2025** — CC BY 4.0 — Belem Anderson Costa
+**Tradução bíblica Belem-2025** — CC BY 4.0 — Belem Anderson Costa

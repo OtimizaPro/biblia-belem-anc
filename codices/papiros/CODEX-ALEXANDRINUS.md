@@ -1,6 +1,6 @@
 # Codex Alexandrinus (A / 02)
 
-> Documento de referencia academica para o projeto Biblia Belem An.C 2025
+> Documento de referencia academica para o projeto Tradução bíblica Belem-2025
 > Atualizado: 29 de Marco de 2026
 
 ---
@@ -14,7 +14,7 @@
 5. [Localizacao](#localizacao)
 6. [Caracteristicas Textuais](#caracteristicas-textuais)
 7. [Acesso Digital](#acesso-digital)
-8. [Relevancia para a Biblia Belem An.C 2025](#relevancia-para-a-biblia-belem-anc-2025)
+8. [Relevancia para a Tradução bíblica Belem-2025](#relevancia-para-a-tradução-bíblica-belem-2025)
 9. [Relacao com Edicoes Criticas (SBLGNT e Nestle 1904)](#relacao-com-edicoes-criticas)
 10. [Comparacao com Sinaiticus e Vaticanus](#comparacao-com-sinaiticus-e-vaticanus)
 11. [Licenciamento e Uso](#licenciamento-e-uso)
@@ -233,7 +233,7 @@ O Codex Alexandrinus e amplamente reconhecido como o **melhor manuscrito uncial 
 
 ---
 
-## Relevancia para a Biblia Belem An.C 2025
+## Relevancia para a Tradução bíblica Belem-2025
 
 ### Importancia para o Projeto
 
@@ -251,11 +251,11 @@ O Codex Alexandrinus e amplamente reconhecido como o **melhor manuscrito uncial 
 | **Evangelhos bizantinos** | Nos Evangelhos, o texto e de tipo tardio — menos util que B e Aleph para reconstruir o original |
 | **Lacuna em Mateus** | Faltam os primeiros 25 capitulos de Mateus |
 | **Seculo V (nao IV)** | Um seculo mais tardio que B e Aleph |
-| **AT em grego** | A Biblia Belem traduz do hebraico; a LXX do Alexandrinus e apenas comparativa |
+| **AT em grego** | A Tradução bíblica Belem-2025 traduz do hebraico; a LXX do Alexandrinus e apenas comparativa |
 
 ### Relevancia Especial para Desvelacao
 
-Para a traducao da Desvelacao de Jesus Cristo na Biblia Belem An.C 2025, o Alexandrinus ocupa posicao unica:
+Para a traducao da Desvelacao de Jesus Cristo na Tradução bíblica Belem-2025, o Alexandrinus ocupa posicao unica:
 
 | Fonte | Cobertura de Desvelacao | Tipo Textual |
 |-------|-------------------------|-------------|
@@ -358,5 +358,5 @@ Para passagens criticas como Desvelacao 13:18 (o numero da fera — 666 vs 616),
 
 ---
 
-**Biblia Belem An.C 2025** — Traducao literal rigida dos codices mais antigos para o portugues brasileiro.
+**Tradução bíblica Belem-2025** — Traducao literal rigida dos codices mais antigos para o portugues brasileiro.
 *"Voce le. E a interpretacao e sua."*

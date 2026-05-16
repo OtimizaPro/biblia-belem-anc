@@ -534,7 +534,7 @@ Licenciado sob CC BY 4.0
 
 <div align="center">
 
-Bíblia Belem An.C-2025 — Porque as ovelhas precisam conhecer a voz do Pastor
+Tradução bíblica Belem-2025 — Porque as ovelhas precisam conhecer a voz do Pastor
 
 A Palavra não pertence a nenhuma instituição. Pertence a todos.
 

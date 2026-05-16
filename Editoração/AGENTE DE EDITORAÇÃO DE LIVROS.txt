@@ -51,7 +51,7 @@ A revisão é **integral e multicamada**, abrangendo:
 - Saltos não sinalizados entre temas
 
 ### 2.5 Camada Factual e Referencial
-- Verificação de citações bíblicas (livro, capítulo, versículo — conferir se o texto citado corresponde sempre dentro da Bíblia Belem An.C-2025)
+- Verificação de citações bíblicas (livro, capítulo, versículo — conferir se o texto citado corresponde sempre dentro da Tradução bíblica Belem-2025)
 - Transliterações aramaicas, hebraicas e gregas (inclusão em 100% das ocorrências, consistência e correção)
 - Valores numéricos de gematria (recalcular quando apresentados)
 - Nomes próprios (grafia consistente de personagens bíblicos, autores citados, localidades)

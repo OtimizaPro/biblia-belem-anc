@@ -1,6 +1,6 @@
 # Fontes Academicas do Novo Testamento Grego
 
-> Documento de referencia para o projeto Biblia Belem An.C 2025
+> Documento de referencia para o projeto Tradução bíblica Belem-2025
 > Atualizado: 29 de Marco de 2026
 
 ---
@@ -8,7 +8,7 @@
 ## Sumario
 
 Este documento cataloga as fontes textuais gregas de dominio publico e acesso aberto
-utilizadas como base para a traducao literal do Novo Testamento na Biblia Belem An.C 2025.
+utilizadas como base para a traducao literal do Novo Testamento na Tradução bíblica Belem-2025.
 Todas as fontes listadas possuem analise morfologica associada e estao disponibilizadas
 em repositorios academicos abertos no GitHub.
 
@@ -236,12 +236,12 @@ forma textual bizantina, disponivel em ingles e espanhol na pasta `essay/`.
 
 ---
 
-## 4. Mapeamento para a Biblia Belem An.C 2025
+## 4. Mapeamento para a Tradução bíblica Belem-2025
 
 ### Fontes Textuais Declaradas
 
 Conforme `keep_original.json` e documentacao do projeto, as fontes textuais
-do Novo Testamento grego na Biblia Belem An.C 2025 sao:
+do Novo Testamento grego na Tradução bíblica Belem-2025 sao:
 
 - **SBLGNT** - Texto critico ecletico (base primaria)
 - **Nestle 1904** - Texto critico historico (referencia comparativa)
@@ -258,7 +258,7 @@ do Novo Testamento grego na Biblia Belem An.C 2025 sao:
 
 ### Principio de Literalidade
 
-A traducao literal rigida da Biblia Belem An.C 2025 utiliza estas fontes para:
+A traducao literal rigida da Tradução bíblica Belem-2025 utiliza estas fontes para:
 
 1. **Estabelecer o texto base** a partir do SBLGNT com analise token-a-token
 2. **Verificar leituras variantes** comparando SBLGNT, Nestle 1904 e Bizantino
@@ -325,5 +325,5 @@ a estrutura de 7 campos do MorphGNT/SBLGNT:
 
 ---
 
-*Biblia Belem An.C 2025 - Traducao literal rigida dos codices para o portugues brasileiro*
+*Tradução bíblica Belem-2025 - Traducao literal rigida dos codices para o portugues brasileiro*
 *Licenca: CC BY 4.0 - Copyright 2025-2026 Belem Anderson Costa*

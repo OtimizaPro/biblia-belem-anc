@@ -1,4 +1,4 @@
-# Glossario Biblia Belem An.C 2025
+# Glossario Tradução bíblica Belem-2025
 
 Sistema de traducao literal rigida do grego/hebraico para portugues.
 
@@ -8,7 +8,7 @@ Sistema de traducao literal rigida do grego/hebraico para portugues.
 
 ## Sobre o Glossario
 
-O glossario e parte fundamental da traducao literal rigida da Biblia Belem An.C 2025.
+O glossario e parte fundamental da traducao literal rigida da Tradução bíblica Belem-2025.
 Ele mapeia palavras do grego koine e hebraico biblico para traducoes literais em portugues,
 mantendo a fidelidade estrutural ao texto original.
 

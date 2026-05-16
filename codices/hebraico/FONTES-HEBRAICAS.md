@@ -1,9 +1,9 @@
-# Fontes Hebraicas Academicas para a Biblia Belem An.C 2025
+# Fontes Hebraicas Academicas para a Tradução bíblica Belem-2025
 
 > Documento de referencia academica das fontes textuais hebraicas utilizadas e disponiveis para o projeto de traducao literal.
 
 **Data:** 29 de Marco de 2026
-**Projeto:** Biblia Belem An.C 2025 — Traducao Literal Rigida
+**Projeto:** Tradução bíblica Belem-2025 — Traducao Literal Rigida
 **Licenca deste documento:** CC BY 4.0
 
 ---
@@ -13,7 +13,7 @@
 1. [BHSA — Biblia Hebraica Stuttgartensia Amstelodamensis](#1-bhsa--biblia-hebraica-stuttgartensia-amstelodamensis)
 2. [WLC — Westminster Leningrad Codex (via OSHB)](#2-wlc--westminster-leningrad-codex-via-oshb)
 3. [Comparativo das Fontes](#3-comparativo-das-fontes)
-4. [Mapeamento para a Biblia Belem An.C](#4-mapeamento-para-a-biblia-belem-anc)
+4. [Mapeamento para a Tradução bíblica Belem-2025](#4-mapeamento-para-a-tradução-bíblica-belem-2025)
 5. [Referencias Academicas](#5-referencias-academicas)
 
 ---
@@ -46,7 +46,7 @@ O nome "Amstelodamensis" distingue esta edicao digital da Biblia Hebraica Stuttg
 - Proibido: uso comercial sem consentimento da Deutsche Bibelgesellschaft
 - Obrigatorio: atribuicao via DOI 10.17026/dans-z6y-skyh
 
-> **NOTA para Biblia Belem An.C:** O projeto e open source (CC BY 4.0) e sem fins comerciais, portanto compativel com a licenca CC BY-NC 4.0 da BHSA para fins de pesquisa e estudo.
+> **NOTA para Tradução bíblica Belem-2025:** O projeto e open source (CC BY 4.0) e sem fins comerciais, portanto compativel com a licenca CC BY-NC 4.0 da BHSA para fins de pesquisa e estudo.
 
 ### 1.4 Dados Disponiveis
 
@@ -158,7 +158,7 @@ O acesso aos dados e feito atraves do projeto **Open Scriptures Hebrew Bible (OS
 | **Dados de lema e morfologia** | **CC BY 4.0 (Creative Commons Atribuicao 4.0 Internacional)** |
 | **Atribuicao** | Creditar o "Open Scriptures Hebrew Bible Project" |
 
-> **NOTA para Biblia Belem An.C:** Licenca totalmente compativel. O texto e dominio publico e os dados morfologicos sao CC BY 4.0, alinhados com a licenca CC BY 4.0 do projeto Biblia Belem.
+> **NOTA para Tradução bíblica Belem-2025:** Licenca totalmente compativel. O texto e dominio publico e os dados morfologicos sao CC BY 4.0, alinhados com a licenca CC BY 4.0 do projeto Tradução bíblica Belem-2025.
 
 ### 2.4 Dados Disponiveis
 
@@ -262,15 +262,15 @@ npm install morphhb
 
 ---
 
-## 4. Mapeamento para a Biblia Belem An.C
+## 4. Mapeamento para a Tradução bíblica Belem-2025
 
 ### 4.1 Relevancia das Fontes
 
-A Biblia Belem An.C 2025 utiliza como fontes primarias os codices hebraicos mais antigos e verificaveis de dominio publico. Ambas as fontes academicas descritas neste documento derivam do **Codex Leningradensis** (Firkovich B 19A), o manuscrito masoretico completo mais antigo existente.
+A Tradução bíblica Belem-2025 utiliza como fontes primarias os codices hebraicos mais antigos e verificaveis de dominio publico. Ambas as fontes academicas descritas neste documento derivam do **Codex Leningradensis** (Firkovich B 19A), o manuscrito masoretico completo mais antigo existente.
 
 ### 4.2 Utilizacao na Traducao
 
-| Recurso da Fonte | Aplicacao na Biblia Belem An.C |
+| Recurso da Fonte | Aplicacao na Tradução bíblica Belem-2025 |
 |-------------------|-------------------------------|
 | **Texto consonantal** | Base para traducao literal rigida palavra-por-palavra |
 | **Morfologia (BHSA/OSHB)** | Validacao de genero, numero, pessoa, estado — essencial para literalidade |
@@ -283,7 +283,7 @@ A Biblia Belem An.C 2025 utiliza como fontes primarias os codices hebraicos mais
 
 ### 4.3 Mapeamento de Livros
 
-A Biblia Belem An.C contem 66 livros (canon protestante). Ambas as fontes hebraicas cobrem os 39 livros do Antigo Testamento (Tanakh).
+A Tradução bíblica Belem-2025 contem 66 livros (canon protestante). Ambas as fontes hebraicas cobrem os 39 livros do Antigo Testamento (Tanakh).
 
 ### 4.4 Palavras Preservadas sem Traducao
 
@@ -355,5 +355,5 @@ As 8 categorias de palavras mantidas no original (conforme `keep_original.json`)
 
 ---
 
-*Documento compilado para o projeto Biblia Belem An.C 2025 — traducao literal rigida dos codices para o portugues brasileiro.*
+*Documento compilado para o projeto Tradução bíblica Belem-2025 — traducao literal rigida dos codices para o portugues brasileiro.*
 *"Voce le. E a interpretacao e sua."*

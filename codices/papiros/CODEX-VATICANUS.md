@@ -1,6 +1,6 @@
 # Codex Vaticanus (B / 03)
 
-> Documento de referencia academica para o projeto Biblia Belem An.C 2025
+> Documento de referencia academica para o projeto Tradução bíblica Belem-2025
 > Atualizado: 29 de Marco de 2026
 
 ---
@@ -14,7 +14,7 @@
 5. [Localizacao](#localizacao)
 6. [Escribas e Correcoes](#escribas-e-correcoes)
 7. [Acesso Digital](#acesso-digital)
-8. [Relevancia para a Biblia Belem An.C 2025](#relevancia-para-a-biblia-belem-anc-2025)
+8. [Relevancia para a Tradução bíblica Belem-2025](#relevancia-para-a-tradução-bíblica-belem-2025)
 9. [Relacao com Edicoes Criticas (SBLGNT e Nestle 1904)](#relacao-com-edicoes-criticas)
 10. [Comparacao com o Codex Sinaiticus](#comparacao-com-o-codex-sinaiticus)
 11. [Licenciamento e Uso](#licenciamento-e-uso)
@@ -210,7 +210,7 @@ Uma nota marginal famosa aparece em Hebreus 1:3 — um corrector antigo escreveu
 
 ---
 
-## Relevancia para a Biblia Belem An.C 2025
+## Relevancia para a Tradução bíblica Belem-2025
 
 ### Importancia Textual
 
@@ -228,7 +228,7 @@ Uma nota marginal famosa aparece em Hebreus 1:3 — um corrector antigo escreveu
 |-----------|---------|
 | **Sem Desvelacao** | O Vaticanus nao contem a Desvelacao — para este livro, o Sinaiticus e a fonte uncial primaria |
 | **Sem Pastorais** | 1-2 Timoteo, Tito e Filemon estao ausentes |
-| **AT em grego (LXX)** | A Biblia Belem traduz o AT dos codices hebraicos, nao da LXX; o Vaticanus e apenas comparativo para o AT |
+| **AT em grego (LXX)** | A Tradução bíblica Belem-2025 traduz o AT dos codices hebraicos, nao da LXX; o Vaticanus e apenas comparativo para o AT |
 
 ### Variantes Textuais Notaveis
 
@@ -334,5 +334,5 @@ Quando Vaticanus e Sinaiticus **concordam** contra a tradicao bizantina (TR), a 
 
 ---
 
-**Biblia Belem An.C 2025** — Traducao literal rigida dos codices mais antigos para o portugues brasileiro.
+**Tradução bíblica Belem-2025** — Traducao literal rigida dos codices mais antigos para o portugues brasileiro.
 *"Voce le. E a interpretacao e sua."*

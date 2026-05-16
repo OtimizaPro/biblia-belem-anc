@@ -46,7 +46,7 @@ ECOSSISTEMA - URLS
 Site Principal:       https://aculpaedasovelhas.org
 Blog:                 https://aculpaedasovelhas.org/blog
 O Livrinho:           https://aculpaedasovelhas.org/livrinho
-Biblia Belem:         https://aculpaedasovelhas.org/ler-biblia.html
+Tradução bíblica Belem-2025: https://aculpaedasovelhas.org/ler-biblia.html
 exeg.ai Plataforma:   https://plataforma.exeg.ai
 exeg.ai Docs:         https://plataforma.exeg.ai/docs
 

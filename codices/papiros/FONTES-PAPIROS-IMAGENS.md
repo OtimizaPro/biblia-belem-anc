@@ -1,6 +1,6 @@
 # Fontes Academicas de Papiros Biblicos e Imagens Digitais
 
-> Documento de referencia academica para o projeto Biblia Belem An.C 2025
+> Documento de referencia academica para o projeto Tradução bíblica Belem-2025
 > Atualizado: 29 de Marco de 2026
 
 ---
@@ -11,7 +11,7 @@
 2. [Papiros do Novo Testamento (P1-P141+)](#papiros-do-novo-testamento)
 3. [Colecoes Principais](#colecoes-principais)
 4. [Arquivos Digitais e Acesso a Imagens](#arquivos-digitais-e-acesso-a-imagens)
-5. [Papiros Relevantes para a Biblia Belem](#papiros-relevantes-para-a-biblia-belem)
+5. [Papiros Relevantes para a Tradução bíblica Belem-2025](#papiros-relevantes-para-a-tradução-bíblica-belem-2025)
 6. [Colecoes de Papiros do Antigo Testamento](#colecoes-de-papiros-do-antigo-testamento)
 7. [Licenciamento](#licenciamento)
 8. [Referencias](#referencias)
@@ -196,11 +196,11 @@ Diversas bibliotecas disponibilizam imagens de manuscritos via protocolo IIIF, p
 
 ---
 
-## Papiros Relevantes para a Biblia Belem
+## Papiros Relevantes para a Tradução bíblica Belem-2025
 
 ### Prioridade Maxima — Fontes Primarias para Traducao
 
-A Biblia Belem An.C 2025 traduz diretamente dos codices mais antigos. Os papiros abaixo sao os testemunhos gregos mais proximos dos autografos:
+A Tradução bíblica Belem-2025 traduz diretamente dos codices mais antigos. Os papiros abaixo sao os testemunhos gregos mais proximos dos autografos:
 
 | Prioridade | Papiro | Livro(s) | Data | Por que e relevante |
 |------------|--------|----------|------|---------------------|
@@ -232,7 +232,7 @@ Para o Antigo Testamento, os papiros gregos sao secundarios. As fontes primarias
 
 ### Papiros LXX (Septuaginta)
 
-Embora a Biblia Belem traduza dos codices hebraicos (nao da LXX), os papiros da Septuaginta sao uteis para comparacao:
+Embora a Tradução bíblica Belem-2025 traduza dos codices hebraicos (nao da LXX), os papiros da Septuaginta sao uteis para comparacao:
 
 | Papiro | Conteudo | Data | Localizacao |
 |--------|----------|------|-------------|
@@ -292,5 +292,5 @@ Embora a Biblia Belem traduza dos codices hebraicos (nao da LXX), os papiros da 
 
 ---
 
-**Biblia Belem An.C 2025** — Traducao literal rigida dos codices mais antigos para o portugues brasileiro.
+**Tradução bíblica Belem-2025** — Traducao literal rigida dos codices mais antigos para o portugues brasileiro.
 *"Voce le. E a interpretacao e sua."*

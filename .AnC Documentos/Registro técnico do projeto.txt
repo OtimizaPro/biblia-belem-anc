@@ -4,7 +4,7 @@ Registro técnico do projeto
 INFORMACOES GERAIS
 ================================================================================
 
-Nome: Biblia Belem An.C 2025
+Nome: Tradução bíblica Belem-2025
 Autor: Belem, Anderson Costa
 Status: Operacional (Producao)
 Data de Atualizacao: 16 de Janeiro de 2026
@@ -103,7 +103,7 @@ Nestle1904 - Critica textual
 TEXTO PARA APRESENTACAO PUBLICA
 ================================================================================
 
-"A Biblia Belem An.C 2025 e uma traducao literal rigida (ipsis litteris),
+"A Tradução bíblica Belem-2025 e uma traducao literal rigida (ipsis litteris),
 orientada diretamente pelos codices canonicos, que preserva tempos verbais,
 ordem sintatica e particulas, priorizando a estrutura do texto original sobre
 a fluidez. O projeto elimina interferencias interpretativas dos tradutores e
@@ -114,7 +114,7 @@ autonomia e liberdade ao Leitor."
 ECOSSISTEMA "A CULPA E DAS OVELHAS"
 ================================================================================
 
-Bible Belem AnC    - API da Biblia (este projeto)
+Tradução bíblica Belem-2025 - API da Biblia (este projeto)
 Site Institucional - aculpaedasovelhas.org
 exeg.ai            - Plataforma de exegese com IA
 O Livrinho         - Livro "A Culpa e das Ovelhas"

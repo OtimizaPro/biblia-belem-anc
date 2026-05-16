@@ -1,4 +1,4 @@
-# Roadmap - Biblia Belem An.C 2025
+# Roadmap - Tradução bíblica Belem-2025
 
 > **Visao:** Uma traducao biblica literal, open source, acessivel a todos.
 

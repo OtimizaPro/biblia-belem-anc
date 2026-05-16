@@ -1,4 +1,4 @@
-# CLAUDE.md - Biblia Belem AnC 2025
+# CLAUDE.md - Tradução bíblica Belem-2025
 
 > LEIA ESTE ARQUIVO ANTES DE QUALQUER ACAO NESTE MODULO
 

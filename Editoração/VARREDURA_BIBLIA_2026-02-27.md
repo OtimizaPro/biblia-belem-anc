@@ -1,4 +1,4 @@
-# Varredura Editorial — Biblia Belem AnC 2025
+# Varredura Editorial — Tradução bíblica Belem-2025
 
 > Registro da revisao editorial dos 66 livros biblicos
 
@@ -225,4 +225,4 @@
 
 ---
 
-_Biblia Belem AnC 2025 — CC BY 4.0_
+_Tradução bíblica Belem-2025 — CC BY 4.0_

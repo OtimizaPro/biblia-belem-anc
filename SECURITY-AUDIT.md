@@ -1,6 +1,6 @@
 # Relatório de Auditoria de Segurança
 
-**Projeto:** Biblia Belem An.C 2025 API
+**Projeto:** Tradução bíblica Belem-2025 API
 **Data:** 24 de Janeiro de 2026
 **Auditor:** Claude Opus 4.5
 **Versão:** 1.0.0

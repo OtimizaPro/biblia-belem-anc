@@ -1,4 +1,4 @@
-# Integridade da Traducao — Biblia Belem An.C 2025
+# Integridade da Traducao — Tradução bíblica Belem-2025
 
 **Data:** 2026-04-13 (correcoes aplicadas) | Original: 2026-03-29
 **Script:** `scripts/validate-translation.mjs`
@@ -208,4 +208,4 @@ A traducao esta **integra e completa**. Os 66 livros do canon estao traduzidos a
 
 ---
 
-**Biblia Belem An.C 2025** — CC BY 4.0 — Belem Anderson Costa
+**Tradução bíblica Belem-2025** — CC BY 4.0 — Belem Anderson Costa
