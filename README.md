@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bíblia Belém An.C 2025
+# Tradução bíblica Belem-2025
 
 ### A primeira tradução bíblica direto dos códices em idioma original aramaico, hebraico e grego para TODOS os idiomas da Terra.
 
@@ -23,7 +23,7 @@ Ler a Bíblia · API Docs · Contribuir · Roadmap
 
 ---
 
-## O Que é a Bíblia Belém An.C?
+## O Que é a Tradução bíblica Belem-2025?
 
 Um **movimento Tecnológico Open Source Mundial** que objetiva traduzir os códices públicos dos idiomas originais para **TODOS os idiomas em todo o Mundo** utilizando IA.
 
@@ -88,7 +88,7 @@ A tradução é **rígida** de propósito — porque a rigidez preserva o que a 
 
 > *"Ide, portanto, e fazei discípulos de todas as nações..."* — Mt 28:19
 
-A Bíblia Belém An.C não é apenas uma tradução para o português brasileiro. É uma **infraestrutura aberta** para que a comunidade tecnológica mundial produza traduções fiéis em **qualquer idioma** — sempre partindo diretamente dos códices originais, nunca de traduções intermediárias.
+A Tradução bíblica Belem-2025 não é apenas uma tradução para o português brasileiro. É uma **infraestrutura aberta** para que a comunidade tecnológica mundial produza traduções fiéis em **qualquer idioma** — sempre partindo diretamente dos códices originais, nunca de traduções intermediárias.
 
 ```
 Códices Originais (Hebraico / Aramaico / Grego)
@@ -477,11 +477,11 @@ Veja o [Roadmap completo](ROADMAP.md) para detalhes.
 
 ## Ecossistema "A Culpa é das Ovelhas"
 
-A Bíblia Belém An.C faz parte de um ecossistema completo para estudo bíblico:
+A Tradução bíblica Belem-2025 faz parte de um ecossistema completo para estudo bíblico:
 
 | Projeto | O Que É | URL |
 |---|---|---|
-| **Bíblia Belém An.C** | A tradução literal (este projeto) | [biblia.aculpaedasovelhas.org](https://biblia.aculpaedasovelhas.org) |
+| **Tradução bíblica Belem-2025** | A tradução literal (este projeto) | [biblia.aculpaedasovelhas.org](https://biblia.aculpaedasovelhas.org) |
 | **Site Principal** | Portal do ecossistema | [aculpaedasovelhas.org](https://aculpaedasovelhas.org) |
 | **exeg.ai** | IA treinada na Bíblia Belém | [exeg.ai](https://exeg.ai) |
 | **O Livrinho** | Decodificação do Enigma 666 | [aculpaedasovelhas.org/livrinho](https://aculpaedasovelhas.org/livrinho.html) |
@@ -525,7 +525,7 @@ Neurodivergente Duplamente Excepcional.
 Você pode usar, copiar, modificar e distribuir livremente, desde que atribua crédito ao autor original.
 
 ```
-Bíblia Belém An.C 2025 — Tradução literal por Belem Anderson Costa
+Tradução bíblica Belem-2025 — Tradução literal por Belem Anderson Costa
 https://github.com/OtimizaPro/biblia-belem-anc
 Licenciado sob CC BY 4.0
 ```
