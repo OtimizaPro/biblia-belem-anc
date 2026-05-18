@@ -2,7 +2,7 @@
 
 # Tradução bíblica Belem-2025
 
-### A primeira tradução bíblica direto dos códices em idioma original aramaico, hebraico e grego para TODOS os idiomas da Terra.
+### A primeira tradução bíblica feita diretamente do hebraico, aramaico e grego para o português brasileiro — depois para TODOS os idiomas da Terra.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/OtimizaPro/biblia-belem-anc/ci.yml?style=for-the-badge&label=CI)](https://github.com/OtimizaPro/biblia-belem-anc/actions)
 [![API Status](https://img.shields.io/badge/API-Online-brightgreen?style=for-the-badge)](https://biblia.aculpaedasovelhas.org)
