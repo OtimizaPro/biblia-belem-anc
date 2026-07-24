@@ -1,0 +1,1778 @@
+{
+  "generatedFrom": "dist/json/belem-2025.json (merge txt+D1)",
+  "method": "deteccao automatica de escrita alheia aos codices e de fragmentos de hebraico nao traduzido",
+  "totals": {
+    "verses": 31156,
+    "alienScript": 154,
+    "untranslatedHebrew": 14113
+  },
+  "priorityFlagship": [
+    {
+      "ref": "PSA 23:1",
+      "snippet": "salmo para-Davi yhwh 我的牧者 não 我必缺乏："
+    },
+    {
+      "ref": "ISA 53:5",
+      "snippet": "e-ele [מְחֹלָ֣ל] [מִפְּשָׁעֵ֔נוּ] [מְדֻכָּ֖א] [מֵעֲוֺנֹתֵ֑ינוּ] [מוּסַ֤ר] [שְׁלוֹמֵ֙נוּ֙] sobre-ele [וּבַחֲבֻר"
+    }
+  ],
+  "alienByBook": {
+    "GEN": 14,
+    "EXO": 1,
+    "LEV": 3,
+    "NUM": 5,
+    "DEU": 3,
+    "JOS": 1,
+    "JDG": 2,
+    "1SA": 13,
+    "2SA": 12,
+    "1KI": 6,
+    "2KI": 4,
+    "1CH": 9,
+    "2CH": 4,
+    "NEH": 1,
+    "EST": 2,
+    "JOB": 5,
+    "PSA": 11,
+    "PRO": 6,
+    "SNG": 1,
+    "ISA": 13,
+    "JER": 10,
+    "LAM": 2,
+    "EZK": 7,
+    "DAN": 7,
+    "HOS": 3,
+    "AMO": 1,
+    "MIC": 1,
+    "HAG": 1,
+    "ZEC": 3,
+    "MAL": 3
+  },
+  "alien": [
+    {
+      "ref": "GEN 13:11",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-ele-escolheu-para-o para-ele ל֗וֹט את todo кїкїр o-Jordão ao-oriente Ló мїкїдем de-cima-de homem de-sobre ir"
+    },
+    {
+      "ref": "GEN 13:12",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "Abrão habitou em-terra-de assim e-вот habitou em-cidades-de ה-кїкїр e-ele-acampou até сїдом-verso-final"
+    },
+    {
+      "ref": "GEN 13:13",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-homens-de сїдом más e-perversidades para-יהוה muito"
+    },
+    {
+      "ref": "GEN 19:29",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-houve em-destruição Elohim a cidades-de ה-кїкїр e-lembrou Elohim a Abraão e-ele-mandou a Lote de-meio-de a-c"
+    },
+    {
+      "ref": "GEN 24:15",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-foi ainda-não antes-de completou para-falar e-eis Ривקה saindo que nascida para-Betuél filho-de milcha mulhe"
+    },
+    {
+      "ref": "GEN 25:24",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-cheio-foram seus-dias para-o-nascimento e-eis ТОМИМ em-se"
+    },
+    {
+      "ref": "GEN 26:22",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "并夺取了 de-lá e cavou poço outro e-não ravu sobre-ela E-chamou nome-dela largos E-disse porque Agora yhwh yhwh pa"
+    },
+    {
+      "ref": "GEN 30:16",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "E-veio Jacó de o-campo [וַתֵּצֵ֨א] vatese Леах E-disse e-disse a-mim-adai que porque alugar te-aluguei em-duda"
+    },
+    {
+      "ref": "GEN 30:37",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-tomou a-ele Jacó bastão para-Bet-Lehem ao-leite e-Luz e-Ermon e-esculpiu nelas ПЦАЛОТ para-feminino-de-leite"
+    },
+    {
+      "ref": "GEN 31:27",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "por-que escondida-estás para-fugir e-você-roubou a-mim e-não a-mim para-mim e-eu-te-enviei ВШМАХА УВШРИМ ВТОФ "
+    },
+    {
+      "ref": "GEN 31:28",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-não НЕТАШТНИ ЛЕНАШК ЛЕВАНИ ВЛИБНОТАИ agora היסכלת עשׂו׃"
+    },
+    {
+      "ref": "GEN 40:1",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-houve outro as-palavras os-estes fornece rei-de Egito e-a-опе p-e-אֲדֹנֵיהֶם para-rei-de Egito"
+    },
+    {
+      "ref": "GEN 40:2",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-v-i-q-tsof Faraó sobre segundo sarisay sobre comandante-de a-mashqim e-sobre príncipe ha-опеim"
+    },
+    {
+      "ref": "GEN 41:5",
+      "scripts": [
+        "Hangul"
+      ],
+      "snippet": "וַיִּישָׁ֕ן וַֽיַּחֲלֹ֖ם segunda והנה sete שִׁבֳּלִ֗ים )(((올ות)) בּ-קָנֶה um um וְטוֹבֹת׃"
+    },
+    {
+      "ref": "EXO 21:36",
+      "scripts": [
+        "Hangul"
+      ],
+      "snippet": "ou 노다' que boi נגג' ele de-ontem anteontem e-não ישמרנו' בעלאו שלא' pague שור debaixo השור והמת ele-será- para"
+    },
+    {
+      "ref": "LEV 15:23",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-se sobre ele ele ou sobre הכליה que זה -ישבطة sobre-ele em-se-negar- ele ele-se-tornará-impuro até ha-arev:"
+    },
+    {
+      "ref": "LEV 23:18",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e oferecerdes sobre o pão sete кָבָשִׂ֤ים תְּמִימִם֙ filhos-de ano וּפַ֧ר um manhã um [יִהְי֤וּ] dois serao עֹ"
+    },
+    {
+      "ref": "LEV 27:15",
+      "scripts": [
+        "Hangul"
+      ],
+      "snippet": "e-se-que- ה막דיש [אֶת־בֵּית֑וֹ] a casa-dele [כֶּֽסֶף־עֶרְכְּךָ֛] [עָלָ֖יו] [וְהָ֥יָה] a-ele sobre-ele [sem-trad"
+    },
+    {
+      "ref": "NUM 4:32",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e seus pilares o-hatzéэр em volta e seus anciãos e suas testemunhas e seus herdeiros para-todo utensílios-dele"
+    },
+    {
+      "ref": "NUM 19:5",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-queimará a הפרה לאعينו a עוריה e-a בשרתה e-a dama-hu sobre פרשה ישורף׃"
+    },
+    {
+      "ref": "NUM 21:30",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "ונيراָם אביד חֶשְׁבּוֹן até דיבון e-nashim até no-pach até me-idba:"
+    },
+    {
+      "ref": "NUM 27:17",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "que sairá em-frente-a-eles e-que virá em-frente-de-eles e-que יוציאים e-que יביאם e-não תהיה yhwh yhwh -o reba"
+    },
+    {
+      "ref": "NUM 29:8",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "וְהִקְרַבְתֶּ֨ם holocausto a-yhwh aroma agradavel [פַּ֧ר] filho-de um um um um кָבָשִׂ֤ים filhos-de ano sete a"
+    },
+    {
+      "ref": "DEU 20:20",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "apenas árvore que sabes alimento ele ele alimento ele ele destrua e cortarás e construísti mâцор sobre a-cidad"
+    },
+    {
+      "ref": "DEU 22:17",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-eis אֹн nome עֲלִילוֹת dizendo dizendo não encontrei לְבִתֶּךָ בְּתוּלוֹת e-estes בְּתוּלוֹת בִּתִי וּפָרְשׂ"
+    },
+    {
+      "ref": "DEU 31:29",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "que יָדַ֗עְתִּי depois-de [מוֹתִי֙] porque [תַּשְׁחִת֔וּן] vocês-destruirão [מִן־הַדֶּ֔רֶךְ] de [צִוִּ֖יתִי] q"
+    },
+    {
+      "ref": "JOS 23:8",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "que se em耶和华 Elohim de-vós e clingais como até o-dia o-dia a-esta"
+    },
+    {
+      "ref": "JDG 16:9",
+      "scripts": [
+        "CJK",
+        "Cirilico"
+      ],
+      "snippet": "e o urso habitou a-ela no quarto E-disse a-ele filisteus sobre-ti Шимшон e-natqâ a hay塔rîm como-que ynnâtêk p̄"
+    },
+    {
+      "ref": "JDG 17:5",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-o-homem Micha a-ele casa Elohim E-fez אףוד وترפימ WAYYIMALA a mão um de-suas-edições e-foi para-ele para-o-s"
+    },
+    {
+      "ref": "1SA 19:11",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-enviou Saul anjos a casa Davi para guardá-lo e para matá-lo no-manhã e-relatou para-David Михаль dizendo diz"
+    },
+    {
+      "ref": "1SA 19:18",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "ודוד ברח WAYYIMMETAL E-veio a Samuel הרמתה WAYYAGAD- a-ele a todo que ele a-ele שָׁאוּל E-andou ele وشموئל e-h"
+    },
+    {
+      "ref": "1SA 19:21",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-eles-diziram לشاול e-enviou מלאכים outros E se pronunciaram também הֵם e-continuou Saul e-enviou מלאכים שלשי"
+    },
+    {
+      "ref": "1SA 22:4",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "WAYYANCHEM a face-de rei Moabe e-habitaram com-ele todo dias-de היות- Davi на-мацуда∶"
+    },
+    {
+      "ref": "1SA 22:5",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "E-disse גד o-profeta a não não תישוב на-мацуда vai terra para ti terra Judá E-andou Davi E-veio יער חרת∶"
+    },
+    {
+      "ref": "1SA 22:6",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "E-ouviu Saul que נודע Davi e-homens que com-ele וشاול יושב בגבעה debaixo-de o eshêl barâmá e chânitô na mão de"
+    },
+    {
+      "ref": "1SA 22:19",
+      "scripts": [
+        "Devanagari"
+      ],
+      "snippet": "e-a [נֹ֤ב] cidades- os-sacerdotes bateu à-boca-de espada de-homem e-até mulher [וַחֲמ֛וֹר] e-até [לְפִי־חָֽרֶב"
+    },
+    {
+      "ref": "1SA 23:7",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "vayuggad Саулу porque veio Davi E-disse E-disse Saul ele a-ele Elohim que porque נסגר para-vir בעיר דלותים ובר"
+    },
+    {
+      "ref": "1SA 24:10",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "E-disse Davi Саулу por-que ouviste a homem dizendo eis eis Davi que buscas a tua maldade"
+    },
+    {
+      "ref": "1SA 25:19",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "E-disse para suas moças passai diante-de-mim eis-me-aqui atrás de vós virá e para ela tolo não higiда׃"
+    },
+    {
+      "ref": "1SA 25:20",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-será hi ׀ rochevet sobre haхamor veyoredet בְּסֵ֣תֶר o-monte e-eis Davi va'анashay yordim para-a-sua-frente "
+    },
+    {
+      "ref": "1SA 27:4",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "vayuggad Саулу porque [דָּוִ֖ד] Davi [וְלֹֽא־*יוסף] e-não ainda [לְבַקְשֽׁוֹ׃]"
+    },
+    {
+      "ref": "1SA 27:12",
+      "scripts": [
+        "Hangul"
+      ],
+      "snippet": "[וַיַּאֲמֵ֥ן] acis [בְּדָוִ֣ד] dizendo [הַבְאֵ֤שׁ] [הִבְאִישׁ֙] [בְּעַמּ֣וֹ] ביישרא엘 [וְהָ֥יָה] a-mim [לְעֶ֥בֶ"
+    },
+    {
+      "ref": "2SA 6:20",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-voltou Davi para-abençoar a casa-dele e-saiu Михаль filha-de Saul E-disse Davi o-dia que nichbad o-hoje rei "
+    },
+    {
+      "ref": "2SA 9:2",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-a-casa-de שָׁא֥וּל servo e-nome-de-ele Цива e-ele-chamou- a-ele E-disse Davi a-ele o-rei para-ele E-disse Ци"
+    },
+    {
+      "ref": "2SA 9:3",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "E-disse o rei o-a-peça-de-madeira ainda homem para-casa-de Shaul e-eu-farei com-ele bondade Elohim E-disse Цив"
+    },
+    {
+      "ref": "2SA 13:32",
+      "scripts": [
+        "Kana"
+      ],
+      "snippet": "e respondeu Yoナdaב filho-de Shimעה meu-irmão- E-disse E-disse a dizei Adonai a todo os jovens sozinho o rei e "
+    },
+    {
+      "ref": "2SA 16:2",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "E-disse o-rei a Цива o-quê E-disse para-ti E-disse [לְבֵית־הַמֶּ֜לֶךְ] [לִרְכֹּ֗ב] para-casa-de o-rei [וְהַקַּ"
+    },
+    {
+      "ref": "2SA 16:4",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "E-disse o rei [לְצִבָ֔א] eis a-ti todo que [לִמְפִי־בֹ֑שֶׁת] E-disse E-disse Цива [אֶמְצָא־חֵ֥ן] encontre favo"
+    },
+    {
+      "ref": "2SA 18:23",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "וִיהִי־ que E-disse a-ele a-ele -Rouç e-correu o-caminho-de caminho ה-кїкїр e-atravessou a -Cushi:"
+    },
+    {
+      "ref": "2SA 18:27",
+      "scripts": [
+        "Tailandes"
+      ],
+      "snippet": "E-disse הַצֹּפֶ֔ה eu viu a מְרוּצַ֣ת harishon כִּמְרּูצַ֖ת אֲחִימַ֣עַץ E-disse צָד֑וֹק E-disse o-rei homem-de "
+    },
+    {
+      "ref": "2SA 21:6",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "לָ֜נוּ sete homens מבנותיו והוקענום a-yhwh на горе Saul выбранной yhwh E-disse E-disse eu אֶתְנָה"
+    },
+    {
+      "ref": "2SA 21:7",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "и пощадил o-rei sobre из уст стыда filho-de yhwh filho-de שָׁאוּל entre присяги e-entre que между ними entre D"
+    },
+    {
+      "ref": "2SA 21:8",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "E-tomou o-rei a segundo filhos-de пола filha-de левой que deu-à-luz Саулу a ארמניפי e-a מְפִבֹשֶׁת e-a חֲמֵשֶׁ"
+    },
+    {
+      "ref": "2SA 22:39",
+      "scripts": [
+        "Armenio"
+      ],
+      "snippet": "וָאֲכַלֵּם וָאֶמְחָצֵם e-não יְקוּמֹנքוּ e-caíram debaixo rágalay:"
+    },
+    {
+      "ref": "1KI 10:11",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "e-também Aní Cirão que ouro ouro do Ophir- trouxe do Ophir- madeiras de álmugues muito muito e-pedra-de 莊嚴׃"
+    },
+    {
+      "ref": "1KI 15:14",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e as baamas não סָ֑רוּ somente ser Asa foi inteiro com yhwh todo יامיו׃"
+    },
+    {
+      "ref": "1KI 16:3",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "eis-me מַבְעִ֛יר depois-de בַּעֲשָׁא e-depois-de בֵּיתוֹ e-n-d-e-rei a בַּיְתְךָ֔ כְּבֵית يروبعام filho-de נְב"
+    },
+    {
+      "ref": "1KI 16:21",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "אָז יֵחָלֵק o-povo Israel לַחֵצִי חֲצִי o-povo ser apos תִבְنִי filho-de גִּינַת לְהַמְלִיכוֹ וְהַחֲצִי depois"
+    },
+    {
+      "ref": "1KI 20:5",
+      "scripts": [
+        "Tailandes"
+      ],
+      "snippet": "e-voltaram-se os-anjos e-disseram assim disse dizendo חัดד dizendo dizendo shalachti a-ti dizendo o teu dinhei"
+    },
+    {
+      "ref": "1KI 20:26",
+      "scripts": [
+        "Tailandes"
+      ],
+      "snippet": "e-houve para a sua volta השנה e-contou filho-de חัดד a Arã e-subiu afékah que com Israel"
+    },
+    {
+      "ref": "2KI 13:7",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "que não הִשְׁאִ֨יר לִיהוֹאָחָ֜ז povo que se cinquenta פָּֽרָשִׁים֙ וַעֲשָׂ֣רָה carros e-a-década dois-mil que "
+    },
+    {
+      "ref": "2KI 14:16",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-deitou-se Joas com seus-pais e foi sepultado em-Samaria povo reis-de Israel e-reinou يروبعام filho-seu em-lu"
+    },
+    {
+      "ref": "2KI 18:22",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "וְכִי־ תֹאמְר֣וּן a-mim a yhwh Elohim-nosso nos temos confiado porventura-não ele que ele tirou E-disse a dos "
+    },
+    {
+      "ref": "2KI 25:7",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-a filhos-de Zedequias [לְעֵינָ֑יו] לאعينו e-a [עִוֵּ֔ר] Tsidiyyahu עִוֵּר [וַיְבִאֵ֖הוּ] [בָּבֶֽל׃] [sem-tra"
+    },
+    {
+      "ref": "1CH 5:17",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "todos-os se-fizeram-justos nos-dias يوتم rei-de Judá e-nos-dias يروبعام rei-de Israel"
+    },
+    {
+      "ref": "1CH 16:28",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "dai para-יהוה famílias אַمּוֹת dai a-yhwh כבוד ועז׃"
+    },
+    {
+      "ref": "1CH 17:11",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-foi porque מָלְא֤וּ יامي-ך para-andar com avós-teus והקיםתי- a será de-te que será מבני-ך וַהֲכִינֹתִ֖י a se"
+    },
+    {
+      "ref": "1CH 17:19",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "yhwh baavur teu-servo ukhlivkha asita a todo hagdulah esta להודיע a todo הגדولات׃"
+    },
+    {
+      "ref": "1CH 17:21",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-quem כּוּעַםֶךָ֣ Israel nação um em-a-terra que andar os-אלהים para fazer a-ele povo לָשׂ֤וּם a-ti nome גדول"
+    },
+    {
+      "ref": "1CH 21:21",
+      "scripts": [
+        "Kana"
+      ],
+      "snippet": "E-veio דוד até ארナン E olhou E-viu E-viu a Davi e-saiu de הַגֹּ֔רֶן e-ele-se-prostrou para Davi Apaim para-terr"
+    },
+    {
+      "ref": "1CH 26:28",
+      "scripts": [
+        "Hangul"
+      ],
+      "snippet": "e-tudo que santificou Shemu'el הראיה e Saulo filho-de קיס e-אַבְנֵר filho-de נֵר ויואב filho-de sobre todo ה막ד"
+    },
+    {
+      "ref": "1CH 27:17",
+      "scripts": [
+        "Kana"
+      ],
+      "snippet": "para Levi Chashavya filho-de qemu-el para-Aaron צッドוק׃"
+    },
+    {
+      "ref": "1CH 29:4",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "שלושת אלפים ככר ouro מזהב אוֹפִ֑יר ושביעת milhares k-khar- prata מזוקק לא褊 קירות as-casas"
+    },
+    {
+      "ref": "2CH 13:4",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "E-levantou Aviyyah de-cima-de para-o-monte Tsemarayim que em-monte-de Efraim E-disse שְׁמָע֖וּנִי يروبعام e-to"
+    },
+    {
+      "ref": "2CH 22:6",
+      "scripts": [
+        "Hangul"
+      ],
+      "snippet": "e-voltou para-se-recuperar em-yizreel que aqueles-que-matam que matá-lo em-horamah nao-é-possível-mantener-est"
+    },
+    {
+      "ref": "2CH 25:9",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "E-disse Amatsyahu a homem-de os-Elohim umah- לאעשׂות֙ למאת ה-кїкїр dei dei לגוד E-disse E-disse homem הָֽאֱלֹה"
+    },
+    {
+      "ref": "2CH 32:33",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "וישכב Yehozaque com seus-pais e-yikberuhu em-o-alto sepulcros-de filhos-de Давид e-honra fizeram- a-ele na-mor"
+    },
+    {
+      "ref": "NEH 12:46",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "porque nos dias Davíd ao-oriente мїкїдем os que murmuram e cântico- hinos e louvores para-Elohim"
+    },
+    {
+      "ref": "EST 6:4",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "E-disse o-rei quem no-pátio e-Haman veio no-pátio casa-de o rei dizendo dizendo para-o-rei ЛИТЛЕВОТ a מרדכי a-"
+    },
+    {
+      "ref": "EST 6:13",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "VASAPR וְהָמָן֙ לZRSH sua-mulher e-para-todo- אוحبיו a todo que a-ele וַיֹּ֩אמְרוּ֩ a-ele seus-sábios e-zeres "
+    },
+    {
+      "ref": "JOB 16:5",
+      "scripts": [
+        "Armenio"
+      ],
+      "snippet": "אֲאַמִּצְכֶ֥ם בְּmo֊ פִ֑י וְn֖id שְׂfַ֣ay יַchֹֻֽock׃"
+    },
+    {
+      "ref": "JOB 18:19",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "não نين a-ele e-não  Necklaced בעમו e-não-há שריד בIMGוריו:"
+    },
+    {
+      "ref": "JOB 21:22",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "הלא אל י Lehrme דעאת וهو רמים ישפט׃"
+    },
+    {
+      "ref": "JOB 21:23",
+      "scripts": [
+        "Arabe",
+        "Kana"
+      ],
+      "snippet": "este ימوت בעצם ת umo כֻּ֝לּ֗וֹ שלאナンnan וְשָׁלֵֽיו׃"
+    },
+    {
+      "ref": "JOB 28:23",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "Elohim hé-bi-n dár-kha-ha וهو saber a mék-o-má-ha:"
+    },
+    {
+      "ref": "PSA 22:10",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "porque tu גֹחִ֣י מבطن מבטיחי sobre Shaddai AMI:"
+    },
+    {
+      "ref": "PSA 22:31",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "semente 伺服祂 必述 我主 世世代代："
+    },
+    {
+      "ref": "PSA 22:32",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "必到 并述说 祂的公义 para-o-povo 生 que fez"
+    },
+    {
+      "ref": "PSA 23:1",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "salmo para-Davi yhwh 我的牧者 não 我必缺乏："
+    },
+    {
+      "ref": "PSA 27:11",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "הורני yhwh דרךך ונ Cheney בהורах מִישׁוֹר לְ֝מַ֗עַן שׁוֹרְרָֽי׃"
+    },
+    {
+      "ref": "PSA 37:24",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "porque cairá não يوוטָל sua-mão yhwh סומךֶ ידֽוֹ׃"
+    },
+    {
+      "ref": "PSA 40:4",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "E-colocou בְּפִ֨י ׀ cântico novo תְּהִלָּ֢ה לֵֽאלֹ֫הֵ֥ינוּ e-verão muitos וְיִירָ֑אוּ e se fortalecerão no耶和华׃"
+    },
+    {
+      "ref": "PSA 47:1",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "para o vencedor para-filhos-de করах salmo"
+    },
+    {
+      "ref": "PSA 48:7",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "رعدا أحازتهم nome خيل que-gera"
+    },
+    {
+      "ref": "PSA 52:2",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "בבו' דויאג האדומי WAYYAGGED לشاול E-disse E-disse a-ele Davi a casa אخيימלאך׃"
+    },
+    {
+      "ref": "PSA 60:14",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "em-elohimes נַעֲשֶׂה־ força וهو jebuseu nosso-aperto"
+    },
+    {
+      "ref": "PRO 15:25",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "casa vãos ישׂах yhwh yhwh território אלמנוה"
+    },
+    {
+      "ref": "PRO 16:9",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "coração homem contará caminho dele e-耶和华 fará seu passo;"
+    },
+    {
+      "ref": "PRO 21:28",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "até КІЗАВІМ será destruído e-homem ШОМЕАֿ ЛАНАЦАХ יְדַבֵּֽר׃"
+    },
+    {
+      "ref": "PRO 21:29",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "ХІУЕЗ homem ímpio ВІФАНАЙ ВІЯШАРАֿ ele"
+    },
+    {
+      "ref": "PRO 21:30",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "não-há ХАЧМАХ e-não-há tuvana e-não-há consulta diante-de yhwh"
+    },
+    {
+      "ref": "PRO 29:3",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "אִישׁ- amou ХАЧМАХ seu-pai pai-seu [ז֝וֹנ֗וֹת] [יְאַבֶּד־הֽוֹן] [sem-traducao] [sem-traducao]"
+    },
+    {
+      "ref": "SNG 8:1",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "quem יתןך כאח para-mim jonake Shaddai mim-i אמצاك בַחוּץ֙ ESHakka também não יובזו para-mim"
+    },
+    {
+      "ref": "ISA 14:16",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "Roeycha a-ti Yashgiguy a-ti Yitbownanu Haze o-homem Margigz a-terra Mareish mمالكوت׃"
+    },
+    {
+      "ref": "ISA 14:31",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "הליליני שער צעקי- cidade Namog Filisteu que porque  Mitsafon Ashan veio e-não-há Boded בموADEיו׃"
+    },
+    {
+      "ref": "ISA 18:1",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "hoi terra צלצל כנפיים que מעבר לנהרי־ כו什׃"
+    },
+    {
+      "ref": "ISA 20:1",
+      "scripts": [
+        "Kana"
+      ],
+      "snippet": "em-ano-de veio תרタン אסדודאה בישלו ele סרגון rei Assíria e lutou em Ashdod e tomou-a;"
+    },
+    {
+      "ref": "ISA 21:15",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "porque de-faces-de desertos de-diante-de מפני espada abandonada e diante de קֶ֣שֶׁת perseguição e-por cobiда g"
+    },
+    {
+      "ref": "ISA 26:13",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "yhwh nosso-Elohim nos dominaste senhores zulateka lebад- em-te nazkir שְׁמֶֽךָ׃"
+    },
+    {
+      "ref": "ISA 26:14",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "metim não yichyu refaim não yakumu lакen pakadta vatasamidem e destruiste todo macho a-eles"
+    },
+    {
+      "ref": "ISA 26:19",
+      "scripts": [
+        "Armenio"
+      ],
+      "snippet": "יחיוּ מתיך נבלתי יְקוּמֹנքוּ הAKEZU ורננוּ שוכני pó que tal orot tallecha va'aretz refains tappihl"
+    },
+    {
+      "ref": "ISA 28:19",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "desde passou-o היאخذ vos porque no começo da manhã na-manhã no-dia no-dia e-no-layáh e-será somente zva'áh hab"
+    },
+    {
+      "ref": "ISA 39:1",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "em-o-tempo aquela enviou Меродах bal-adan filho-de bal-adan rei-de Babilônia sefarim e oferta que חִזְקִיָּ֑הו"
+    },
+    {
+      "ref": "ISA 40:14",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "a quem conselheiro e-ele-entendeu-o e-ele-instruiu-o בהורах juízo e-ele-ensinou-o conhecimento e-caminho enten"
+    },
+    {
+      "ref": "ISA 41:22",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "[יַגִּ֙ישׁוּ֙] 并述说 para-nós a que [תִּקְרֶ֑ינָה] [הָרִאשֹׁנ֣וֹת] que eis-aqui [הֵ֗נָּה] [הַגִּ֜ידוּ] [וְנָשִׂ֤"
+    },
+    {
+      "ref": "ISA 44:16",
+      "scripts": [
+        "Armenio"
+      ],
+      "snippet": "a-sua-metade queimou בְּmo֊ fogo sobre a-sua-metade em-a-carne [צָלִ֖י] [וְיִשְׂבָּ֑ע] [אַף־יָחֹם֙] [וְיֹאמַ֣ר"
+    },
+    {
+      "ref": "JER 8:7",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "também חסידה בשמיים ידענה موעדהיה وتر שמרו a tempo באונה ואמי não não a משפט yhwh"
+    },
+    {
+      "ref": "JER 8:18",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "מַבְלִ֥יגִיתִ֖י sobre יָג֑וֹן sobre-mim לִבִּ֥י داוָֻי׃"
+    },
+    {
+      "ref": "JER 11:21",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "portanto assim yhwh yhwh sobre homens-de Anatote dizendo não alma-tua dizendo yhwh تينבאה no-nome-de yhwh e-nã"
+    },
+    {
+      "ref": "JER 17:16",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-eu não אַ֣צְתִּי ׀ מֵרֹעֶ֣ה אחרך e-dia אנוש não התאוהיתי tu ידעתי fonte-de שפתاي porque  פָּנֶ֖יךָ  ser"
+    },
+    {
+      "ref": "JER 25:6",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-a иd-eis atrás-de Elohim outros para-servi-los a-eles a-eles e-não вакхису a-mim por meio de иd-еихем a-vós "
+    },
+    {
+      "ref": "JER 25:7",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-não vocês-ouviram a-mim oráculo-de yhwh para-propósito-de биммаасе suas mãos лe-ра a-vós"
+    },
+    {
+      "ref": "JER 25:8",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "portanto assim disse yhwh exércitos йaан que não ouviram a דְּבָרָֽי׃"
+    },
+    {
+      "ref": "JER 25:9",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "eis-me enviou вe-лахахти a todo мишпухот цафон oráculo-de yhwh e-a Nabucodonosor rei-de Babel meu-servo e-trar"
+    },
+    {
+      "ref": "JER 32:30",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "porque foram filhos-de Israel e-filhos-de Judá somente fazendo o-mal que da-juventude-deles porque filhos-de I"
+    },
+    {
+      "ref": "JER 34:8",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "a-palavra que foi a yhwh de-junto-de yhwh depois-de cortar o-rei Цидкиюху brah-yth a todo a-eles que biriushal"
+    },
+    {
+      "ref": "LAM 2:3",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "גדעה בחורי certamente todo קרן Israel השיב אחור ימינו de-diante-de אֹיֵב ויבער בייעקב כאש ЛЕХАВА אכלנה ao-redo"
+    },
+    {
+      "ref": "LAM 5:21",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "HASHIBENU- yhwh a-ti novo יاما- como-dantes:"
+    },
+    {
+      "ref": "EZK 17:15",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "וימרד־ nele לשלוח ס干事创业 Egito para-dar a-ele cavaleiros ו העם- muito Estas הֲיִמָּלֵט֙ הָעֹשֵׂ֣ה אֵלֶּה וְהֵפֵ"
+    },
+    {
+      "ref": "EZK 17:20",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "uferashshi sobre-ele 里斯תּי e se prendeu na minha fortaleza והביאותיהו Babelá e julgar-me-ia com-ele nome sua s"
+    },
+    {
+      "ref": "EZK 19:10",
+      "scripts": [
+        "Hangul"
+      ],
+      "snippet": "אִמְּךָ֥ כַגֶּ֛פֶן בְּדָמְךָ֖ sobre águas שְׁתוּלָ֑ה 포רי야 era היהתה de-ma'im muitos"
+    },
+    {
+      "ref": "EZK 20:5",
+      "scripts": [
+        "Hangul"
+      ],
+      "snippet": "e-dirás a-eles assim disse Adonai yhwh em-dia-de בחורי ביישרא엘 VAShasha mão-meu לזרע casa Jacó a-eles a-eles e"
+    },
+    {
+      "ref": "EZK 27:23",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "Хaran e-cultivando-o e-Eden de-comerciantes de-Saba Assíria ensinando-o comerciante-te-verso"
+    },
+    {
+      "ref": "EZK 31:10",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "portanto assim disse Adonai yhwh йaан que [גָּבַ֖הְתָּ] [בְּקוֹמָ֑ה] E-colocou [צַמַּרְתּוֹ֙] a entre [וְרָ֥ם]"
+    },
+    {
+      "ref": "EZK 32:3",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "assim disse Adonai yhwh uferashshi sobre-ti a 里斯תּי no convés povos muitos [בְּחֶרְמִֽי] [sem-traducao]"
+    },
+    {
+      "ref": "DAN 2:1",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-em-ano-de shtayim para-ملكوته nebuchadnetzar sonhou nebuchadnetzar seus sonhos e se agitaram espírito-dele e"
+    },
+    {
+      "ref": "DAN 2:46",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "BEDAIYN מלכא Nabucodonosor נפל sobre אנפוهي ולדانيיאל /lgad u/minhah ve-nikhohin disse lensakha le-ha:"
+    },
+    {
+      "ref": "DAN 5:12",
+      "scripts": [
+        "CJK",
+        "Hangul"
+      ],
+      "snippet": "todo קבול espírito espírito- יתירה MANDע ושכלתנו משפר חליים e-irmã Achidan e-meser kitrin foi-olvidada nele Da"
+    },
+    {
+      "ref": "DAN 6:17",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "BEDADIЙn מלכא disse וְהַיְתִיו֙ לְדָ֣נִיֵּ֔אל וּרְמ֕וֹ לְגֻבָּ֖א que אַרְיָוָתָ֑א respondeu o-rei וְאָמַ֣ר לְד"
+    },
+    {
+      "ref": "DAN 9:9",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "我主 nosso-Elohim harachamim veselsihot que rebelamo nele"
+    },
+    {
+      "ref": "DAN 10:8",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-eu nِsharَtִi lebadí ve-eréh a ha-maréah הַגְּדֹלָה֙ esta e-não ficaram- em-mi koach ve-hodí nehphakh sobre-"
+    },
+    {
+      "ref": "DAN 11:36",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "e-fará conforme-seu-querer o-rei e-ele-exaltarão [וְיִתְגַּדֵּל֙] sobre todo El e-sobre El elohimes ele-falará"
+    },
+    {
+      "ref": "HOS 1:1",
+      "scripts": [
+        "Arabe",
+        "Kana"
+      ],
+      "snippet": "palavra-de יהוה que ser a Hosea filho-de Beeri בִּימֵ֨י Uzzia ヨタム Acaz Yechzekia reis-de Judá e nos tempos de "
+    },
+    {
+      "ref": "HOS 1:4",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "E-disse yhwh a-ele chamou nome-de-ele יִזְרְעֶאל porque ainda me'at u'pakdathi a de'mei yizre'el sobre casa Je"
+    },
+    {
+      "ref": "HOS 7:1",
+      "scripts": [
+        "Hangul"
+      ],
+      "snippet": "kräפאי ליישרא엘 e será revelado pecado אֶפְרַיִם e maldades Samaria que fizeram falsidade e ladrão vira despojo"
+    },
+    {
+      "ref": "AMO 5:19",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "como-que YNCUS homem de-diante-de האריה UFGEAo הدب ובא a-casa e-ele-apoiará sua-mão sobre o muro - o escudo a "
+    },
+    {
+      "ref": "MIC 1:8",
+      "scripts": [
+        "Kana"
+      ],
+      "snippet": "sobre esta אספדה ואילילה אילכה ועROOM farei מספד כタンים ואבל כּ-בְנוֹת יאנה׃"
+    },
+    {
+      "ref": "HAG 2:2",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "dize por-favor a زرובבל filho-de Shaltiel filho-de Judá e-a יְהוֹשֻׁ֥עַ filho-de dizendo o-sacerdote sozinho e"
+    },
+    {
+      "ref": "ZEC 5:3",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "E-disse a-mim esta A ala que saía sobre face-de que a-terra porque todo o гонев de-este como-a năкаh e-todo o "
+    },
+    {
+      "ref": "ZEC 12:3",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "e-foi no-dia-de هَالهُوَا אָשִׂימ pedra Jerusalém אבן مَعَامِسَة para-todo os-povos todo os seus pesos seu tor"
+    },
+    {
+      "ref": "ZEC 12:13",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "família-de casa-de Levi sozinho e suas mulheres sozinho família-de השמعي sozinho e suas mulheres por si só"
+    },
+    {
+      "ref": "MAL 1:7",
+      "scripts": [
+        "Cirilico"
+      ],
+      "snippet": "Maggishim sobre pão pão Megō'al e-disseis Bammeh Gē'ālнуkha בֶּאֱמָרְכֶ֕ם yhwh yhwh ele ela"
+    },
+    {
+      "ref": "MAL 2:2",
+      "scripts": [
+        "Arabe"
+      ],
+      "snippet": "se não ouvireis e-se não por mim sobre coração disse yhwh ao meu nome disse yhwh exércitos וְשִׁלַּחְתִּ֤י em "
+    },
+    {
+      "ref": "MAL 3:1",
+      "scripts": [
+        "CJK"
+      ],
+      "snippet": "eis-me enviou malakhi u芬nah- caminho diante-de-mim u pit'om- vira a hēkālō ha'adōn que vós מְבַקְשִׁ֗ים וּמַלְ"
+    }
+  ],
+  "hebrewByBook": {
+    "GEN": 631,
+    "EXO": 554,
+    "LEV": 432,
+    "NUM": 639,
+    "DEU": 531,
+    "JOS": 369,
+    "JDG": 329,
+    "RUT": 27,
+    "1SA": 448,
+    "2SA": 373,
+    "1KI": 417,
+    "2KI": 378,
+    "1CH": 450,
+    "2CH": 411,
+    "EZR": 149,
+    "NEH": 242,
+    "EST": 118,
+    "JOB": 644,
+    "PSA": 1968,
+    "PRO": 663,
+    "ECC": 161,
+    "SNG": 93,
+    "ISA": 960,
+    "JER": 954,
+    "LAM": 134,
+    "EZK": 918,
+    "DAN": 272,
+    "HOS": 158,
+    "JOL": 62,
+    "AMO": 124,
+    "OBA": 17,
+    "JON": 35,
+    "MIC": 83,
+    "NAM": 44,
+    "HAB": 48,
+    "ZEP": 43,
+    "HAG": 33,
+    "ZEC": 159,
+    "MAL": 42
+  },
+  "hebrewWorst": [
+    {
+      "ref": "ISA 59:10",
+      "hebChars": 126,
+      "ratio": 1
+    },
+    {
+      "ref": "JER 46:4",
+      "hebChars": 114,
+      "ratio": 1
+    },
+    {
+      "ref": "SNG 4:3",
+      "hebChars": 105,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 124:7",
+      "hebChars": 92,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 109:18",
+      "hebChars": 90,
+      "ratio": 1
+    },
+    {
+      "ref": "NUM 29:33",
+      "hebChars": 88,
+      "ratio": 1
+    },
+    {
+      "ref": "DAN 2:7",
+      "hebChars": 86,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 30:15",
+      "hebChars": 85,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 123:4",
+      "hebChars": 84,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 106:43",
+      "hebChars": 80,
+      "ratio": 1
+    },
+    {
+      "ref": "SNG 4:9",
+      "hebChars": 79,
+      "ratio": 1
+    },
+    {
+      "ref": "ISA 63:6",
+      "hebChars": 79,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 92:12",
+      "hebChars": 77,
+      "ratio": 1
+    },
+    {
+      "ref": "DAN 6:1",
+      "hebChars": 77,
+      "ratio": 1
+    },
+    {
+      "ref": "1SA 30:28",
+      "hebChars": 75,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 106:9",
+      "hebChars": 75,
+      "ratio": 1
+    },
+    {
+      "ref": "1CH 12:7",
+      "hebChars": 72,
+      "ratio": 1
+    },
+    {
+      "ref": "ISA 13:16",
+      "hebChars": 72,
+      "ratio": 1
+    },
+    {
+      "ref": "DAN 5:26",
+      "hebChars": 72,
+      "ratio": 1
+    },
+    {
+      "ref": "SNG 8:13",
+      "hebChars": 71,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 51:9",
+      "hebChars": 70,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 78:57",
+      "hebChars": 70,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 103:5",
+      "hebChars": 70,
+      "ratio": 1
+    },
+    {
+      "ref": "1SA 30:30",
+      "hebChars": 69,
+      "ratio": 1
+    },
+    {
+      "ref": "JER 48:14",
+      "hebChars": 69,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 107:3",
+      "hebChars": 68,
+      "ratio": 1
+    },
+    {
+      "ref": "DAN 4:1",
+      "hebChars": 68,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 30:18",
+      "hebChars": 67,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 105:1",
+      "hebChars": 66,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 149:8",
+      "hebChars": 66,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 103:4",
+      "hebChars": 65,
+      "ratio": 1
+    },
+    {
+      "ref": "JER 48:6",
+      "hebChars": 65,
+      "ratio": 1
+    },
+    {
+      "ref": "1CH 12:6",
+      "hebChars": 64,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 39:3",
+      "hebChars": 64,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 119:27",
+      "hebChars": 64,
+      "ratio": 1
+    },
+    {
+      "ref": "ISA 49:17",
+      "hebChars": 64,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 40:25",
+      "hebChars": 63,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 107:41",
+      "hebChars": 63,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 109:10",
+      "hebChars": 63,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 132:16",
+      "hebChars": 63,
+      "ratio": 1
+    },
+    {
+      "ref": "PRO 16:24",
+      "hebChars": 63,
+      "ratio": 1
+    },
+    {
+      "ref": "JER 51:18",
+      "hebChars": 63,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 85:7",
+      "hebChars": 62,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 89:4",
+      "hebChars": 62,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 109:29",
+      "hebChars": 62,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 132:6",
+      "hebChars": 62,
+      "ratio": 1
+    },
+    {
+      "ref": "PRO 27:25",
+      "hebChars": 62,
+      "ratio": 1
+    },
+    {
+      "ref": "ISA 28:23",
+      "hebChars": 62,
+      "ratio": 1
+    },
+    {
+      "ref": "DEU 14:5",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 39:18",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 39:21",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 40:29",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 81:7",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 88:7",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 97:2",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 104:32",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 119:84",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 122:3",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 130:6",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 150:3",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 150:4",
+      "hebChars": 61,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 15:33",
+      "hebChars": 60,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 37:15",
+      "hebChars": 60,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 78:58",
+      "hebChars": 60,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 92:15",
+      "hebChars": 60,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 107:14",
+      "hebChars": 60,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 107:20",
+      "hebChars": 60,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 149:3",
+      "hebChars": 60,
+      "ratio": 1
+    },
+    {
+      "ref": "PRO 26:26",
+      "hebChars": 60,
+      "ratio": 1
+    },
+    {
+      "ref": "PRO 31:20",
+      "hebChars": 60,
+      "ratio": 1
+    },
+    {
+      "ref": "DAN 5:27",
+      "hebChars": 60,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 18:3",
+      "hebChars": 59,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 27:23",
+      "hebChars": 59,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 41:11",
+      "hebChars": 59,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 88:3",
+      "hebChars": 59,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 92:3",
+      "hebChars": 59,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 106:28",
+      "hebChars": 59,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 109:23",
+      "hebChars": 59,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 119:106",
+      "hebChars": 59,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 132:7",
+      "hebChars": 59,
+      "ratio": 1
+    },
+    {
+      "ref": "PRO 31:13",
+      "hebChars": 59,
+      "ratio": 1
+    },
+    {
+      "ref": "GEN 49:23",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "EXO 35:9",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 17:6",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 21:11",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 31:10",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 39:19",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 40:18",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 88:12",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 104:21",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 109:13",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 109:24",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "PRO 23:16",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "PRO 31:19",
+      "hebChars": 58,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 40:26",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 36:9",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 78:48",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 78:72",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 97:12",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 106:27",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 106:29",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 106:30",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 119:7",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 119:120",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 139:18",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 145:5",
+      "hebChars": 57,
+      "ratio": 1
+    },
+    {
+      "ref": "1CH 11:33",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 4:20",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 40:22",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "JOB 41:21",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 92:4",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 92:11",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 106:39",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 114:6",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 119:132",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 119:170",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "PSA 147:14",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "PRO 26:7",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "ISA 46:5",
+      "hebChars": 56,
+      "ratio": 1
+    },
+    {
+      "ref": "ISA 60:3",
+      "hebChars": 56,
+      "ratio": 1
+    }
+  ]
+}

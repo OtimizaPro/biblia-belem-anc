@@ -8,7 +8,8 @@
 [![API Status](https://img.shields.io/badge/API-Online-brightgreen?style=for-the-badge)](https://biblia.aculpaedasovelhas.org)
 [![Docs](https://img.shields.io/badge/Docs-Swagger-blue?style=for-the-badge)](https://biblia.aculpaedasovelhas.org/docs)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-orange?style=for-the-badge)](LICENSE)
-[![Tokens](https://img.shields.io/badge/Tokens-441.646%20(100%25)-green?style=for-the-badge)](https://biblia.aculpaedasovelhas.org/api/v1/books)
+[![Tokens](https://img.shields.io/badge/Tokens-441.646-blue?style=for-the-badge)](https://biblia.aculpaedasovelhas.org/api/v1/books)
+[![Corpus](https://img.shields.io/badge/Corpus-em%20revis%C3%A3o-orange?style=for-the-badge)](KNOWN-DEFECTS.md)
 [![Open Source](https://img.shields.io/badge/Open-Source-black?style=for-the-badge&logo=github)](https://github.com/OtimizaPro/biblia-belem-anc)
 
 66 livros | 31.156 versículos | 441.646 tokens | 3 idiomas originais | 6 camadas de leitura | 100% gratuito
@@ -20,6 +21,14 @@ Ler a Bíblia · API Docs · Contribuir · Roadmap
 "E este evangelho do reino será proclamado em todo o mundo habitado, em testemunho a todas as nações; e então virá o fim." — Mt 24:14
 
 </div>
+
+---
+
+> ### ⚠️ Status: corpus em revisão
+>
+> Esta tradução foi produzida por um **pipeline assistido por IA** e **ainda não foi revisada por humano contra o códice**. O texto publicado carrega defeitos conhecidos — **154 versículos com escrita alheia aos códices** (chinês, cirílico, árabe…) e **~14.113 com fragmentos de hebraico não traduzido**. Não trate como texto final.
+>
+> Todos os defeitos estão catalogados, versículo a versículo, em **[KNOWN-DEFECTS.md](KNOWN-DEFECTS.md)**. Correções via issue e pull request são o motivo de publicarmos isto abertamente: *escrutínio público como depurador da Verdade*.
 
 ---
 
