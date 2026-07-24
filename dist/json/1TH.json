@@ -1,0 +1,399 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+  },
+  "book": {
+    "order": 52,
+    "code": "1TH",
+    "name": "1 Tessalonicenses",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Paulo e Silvano e Timóteo o assembleia Tessalonicenses em a-Theos Pai e ao-Kyrios Iesous em-Christos graça a-vós e paz"
+          },
+          {
+            "verse": 2,
+            "text": "Damos-graças o a-Theos sempre acerca-de todos vosso menção fazendo sobre o orações nosso incessantemente"
+          },
+          {
+            "verse": 3,
+            "text": "lembrando vosso o obra o da-fé e o trabalho o do-amor e o perseverança o da-esperança o do-Kyrios nosso Iesous de-Christos diante o de-Theos e do-Pai nosso"
+          },
+          {
+            "verse": 4,
+            "text": "sei irmãos tendo-sido-amados sob o de-Theos o eleição vosso"
+          },
+          {
+            "verse": 5,
+            "text": "que o evangelho nosso não aconteceu para vos em em-palavra somente mas e em poder e em Espírito no-santo e plena-convicção muita assim-como sei quais tornamo-nos em a-vós através-de vos"
+          },
+          {
+            "verse": 6,
+            "text": "e vós imitadores nosso tornastes-vos e o do-Kyrios tendo-recebido o palavra em tribulação muita com alegria do-espírito do-santo"
+          },
+          {
+            "verse": 7,
+            "text": "de-modo-que tornar-se vos modelo todos o creem em o Macedônia e em o Acaia"
+          },
+          {
+            "verse": 8,
+            "text": "de vosso pois tem-ressoado o palavra o do-Kyrios não somente em o Macedônia e Acaia mas em todo no-lugar o fé vosso o junto-a o Theos tem-saído de-modo-que não necessidade ter nos falar algo"
+          },
+          {
+            "verse": 9,
+            "text": "eles-mesmos pois acerca-de nosso anunciam qual entrada Tivemos junto-a vos e como convertestes junto-a o Theos de o ídolos servir a-Theos vivendo e verdadeiro"
+          },
+          {
+            "verse": 10,
+            "text": "e aguardar o Filho dele de o dos-céus o qual ressuscitou de o mortos Iesous o livrando nos de o ira o Vindo"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Eles-mesmos pois sei irmãos o entrada nosso o junto-a vos que não vazia aconteceu"
+          },
+          {
+            "verse": 2,
+            "text": "mas tendo-sofrido-antes e tendo-sido-ultrajados assim-como sei em Filipos falamos-com-ousadia em o a-Theos nosso falar junto-a vos o evangelho o de-Theos em muito combate"
+          },
+          {
+            "verse": 3,
+            "text": "o pois consolação nosso não de engano nem de impureza nem em engano"
+          },
+          {
+            "verse": 4,
+            "text": "mas assim-como temos-sido-aprovados sob o de-Theos ser-crido o evangelho assim falamos não como aos-homens agradando mas a-Theos o examinando o do-coração nosso"
+          },
+          {
+            "verse": 5,
+            "text": "nem pois alguma-vez em em-palavra lisonja tornamo-nos assim-como sei nem em pretexto ganância Theos testemunha"
+          },
+          {
+            "verse": 6,
+            "text": "nem buscando de dos-homens glória nem de vosso nem de outros"
+          },
+          {
+            "verse": 7,
+            "text": "podendo em peso ser como de-Christos apóstolos mas tornamo-nos Gentis em meio vosso como se nutriz cuide o de-si-mesma filhos"
+          },
+          {
+            "verse": 8,
+            "text": "assim desejando-ardentemente vosso temos-prazer repartir a-vós não somente o evangelho o de-Theos mas e o deles-mesmos almas porque amados a-nós tornastes-vos"
+          },
+          {
+            "verse": 9,
+            "text": "lembrai-vos pois irmãos o trabalho nosso e o labuta da-noite e do-dia trabalhando junto-a o não sobrecarregar alguém vosso proclamamos para vos o evangelho o de-Theos"
+          },
+          {
+            "verse": 10,
+            "text": "vós testemunhas e o Theos como santamente e justamente e irrepreesivelmente a-vós o creem tornamo-nos"
+          },
+          {
+            "verse": 11,
+            "text": "assim-como sei como um cada-um vosso como Pai filhos si-mesmo"
+          },
+          {
+            "verse": 12,
+            "text": "exortando vos e consolando e testificando para o andar vos dignamente o de-Theos o chamante vos para o si-mesmo reino e glória"
+          },
+          {
+            "verse": 13,
+            "text": "e através-de isto e nós damos-graças o a-Theos incessantemente que tendo-recebido palavra ouvido de nosso o de-Theos recebestes não palavra dos-homens mas assim-como verdadeiramente é palavra de-Theos o qual e é-operado em a-vós o creem"
+          },
+          {
+            "verse": 14,
+            "text": "vós pois imitadores tornastes-vos irmãos o igrejas o de-Theos o sendo em o Judeia em em-Christos Iesous que o elas sofrestes e vós sob o próprios compatriotas assim-como e eles-mesmos sob o judeus"
+          },
+          {
+            "verse": 15,
+            "text": "o e o Kyrion dos-que-mataram Iesous e o profetas e nos tendo-perseguido e a-Theos não agradando e todos aos-homens contrários"
+          },
+          {
+            "verse": 16,
+            "text": "impedindo nos o nações falar para que sejam-salvos para o preencher deles o do-pecado sempre chegou porém sobre eles o ira para fim"
+          },
+          {
+            "verse": 17,
+            "text": "nós e/mas irmãos tendo-sido-tornados-órfãos de vosso junto-a tempo hora face não no-coração ainda-mais Nos-esforçamos o face vosso ver em muita desejo"
+          },
+          {
+            "verse": 18,
+            "text": "porque quisemos vir junto-a vos eu por-um-lado Paulo e uma-vez e duas-vezes e impediu nos o Satanás"
+          },
+          {
+            "verse": 19,
+            "text": "quem pois nosso esperança ou alegria ou coroa glorificação ou não e vós diante o do-Kyrios nosso Iesous em o dele presença"
+          },
+          {
+            "verse": 20,
+            "text": "vós pois sois o glória nosso e o alegria"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "por-isso não-mais suportando comprazemo-nos ser-deixado em Atenas sós"
+          },
+          {
+            "verse": 2,
+            "text": "e enviamos Timóteo o irmão nosso e servo o de-Theos em o no-evangelho o de-Christos para o firmar vos e consolar em-favor-de o da-fé vosso"
+          },
+          {
+            "verse": 3,
+            "text": "o ninguém ser-abalado em o tribulações estas eles-mesmos pois sei que para isto jazemos"
+          },
+          {
+            "verse": 4,
+            "text": "e pois quando junto-a vos éramos dizíamos-de-antemão a-vós que estamos-a-ponto-de ser-afligido assim-como e aconteceu e sei"
+          },
+          {
+            "verse": 5,
+            "text": "através-de isto e-eu não-mais suportando enviei para o conhecer o fé vosso não como tentou vos o tentando e para vazio aconteça o labor nosso"
+          },
+          {
+            "verse": 6,
+            "text": "Agora porém tendo-vindo Timóteo junto-a nos de vosso e tendo-anunciado-boas-novas a-nós o fé e o amor vosso e que tendes menção nosso boa sempre desejando-ardentemente nos ver assim-como e nós vos"
+          },
+          {
+            "verse": 7,
+            "text": "através-de isto fomos-exortados irmãos sobre a-vós sobre toda o necessidade e tribulação nosso através-de o vosso da-fé"
+          },
+          {
+            "verse": 8,
+            "text": "que agora vivamos se vós permanecei-firmes em ao-Kyrios"
+          },
+          {
+            "verse": 9,
+            "text": "quem pois ação-de-graças podemos o a-Theos retribuir acerca-de vosso sobre toda o alegria o qual alegramo-nos através-de vos diante-de o de-Theos nosso"
+          },
+          {
+            "verse": 10,
+            "text": "noite e do-dia superabundantemente suplicando para o ver vosso o face e restaurar o carências o da-fé vosso"
+          },
+          {
+            "verse": 11,
+            "text": "ele porém o Theos e Pai nosso e o Kyrios nosso Iesous dirigir o caminho nosso junto-a vos"
+          },
+          {
+            "verse": 12,
+            "text": "vos porém o Kyrios abundar e abundar o amor para uns-aos-outros e para todos assim-como e nós para vos"
+          },
+          {
+            "verse": 13,
+            "text": "para o firmar vosso o do-coração irrepreensíveis em santidade diante o de-Theos e do-Pai nosso em o presença o do-Kyrios nosso Iesous com todos o santos dele"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Quanto-ao-resto portanto irmãos Perguntamos vos e exortamos em ao-Kyrios Iesous para que assim-como recebestes de nosso o como é necessário vos andar e agradar a-Theos assim-como e andai para que abundeis mais"
+          },
+          {
+            "verse": 2,
+            "text": "sei pois quais ordem demos a-vós através-de o do-Kyrios Iesous"
+          },
+          {
+            "verse": 3,
+            "text": "isto pois é vontade o de-Theos o santificação vosso abster-se vos de o imoralidade"
+          },
+          {
+            "verse": 4,
+            "text": "sei cada-um vosso o si-mesmo vaso adquirir em santificação e honra"
+          },
+          {
+            "verse": 5,
+            "text": "não em sofrimento desejos assim-como e o nações o não sei o Theos"
+          },
+          {
+            "verse": 6,
+            "text": "o não Transgredir e tirar-vantagem em o assunto o irmão dele porque vingador Kyrios acerca-de todos destes assim-como e dissemos-de-antemão a-vós e testificamos-solenemente"
+          },
+          {
+            "verse": 7,
+            "text": "não pois chamou nos o Theos sobre impureza mas em santificação"
+          },
+          {
+            "verse": 8,
+            "text": "portanto o rejeitando não homem rejeita mas o Theos o e dando o espírito dele o santo para vos"
+          },
+          {
+            "verse": 9,
+            "text": "acerca-de porém o amor-fraternal não necessidade tendes escrever a-vós eles-mesmos pois vós ensinados-por-Theos sois para o amar uns-aos-outros"
+          },
+          {
+            "verse": 10,
+            "text": "e pois fazei ele para todos o irmãos em toda o Macedônia Exortamos porém vos irmãos abundar mais"
+          },
+          {
+            "verse": 11,
+            "text": "e ambicionar Estar-quieto e praticar o próprias e trabalhar o mãos vosso assim-como a-vós ordenamos"
+          },
+          {
+            "verse": 12,
+            "text": "para que andeis decorosamente junto-a o fora e nenhum necessidade tenhais"
+          },
+          {
+            "verse": 13,
+            "text": "não queremos porém vos ignorar irmãos acerca-de o adormecendo para que não estejais-entristecidos assim-como e o restantes o não tendo esperança"
+          },
+          {
+            "verse": 14,
+            "text": "se pois cremos que Iesous morreu e levantou-se assim e o Theos o tendo-adormecido através-de o Iesous conduzirá com a ele"
+          },
+          {
+            "verse": 15,
+            "text": "isto pois a-vós dizemos em em-palavra do-Kyrios que nós o vivos o restando para o vinda o do-Kyrios não não precedamos o tendo-adormecido"
+          },
+          {
+            "verse": 16,
+            "text": "que ele o Kyrios em ordem em voz arcanjo e em trombeta de-Theos descerá de do-céu e o mortos em em-Christos ressuscitarão primeiro"
+          },
+          {
+            "verse": 17,
+            "text": "depois nós o vivos o restando juntamente com a-eles seremos-arrebatados em nuvens para encontro o do-Kyrios para ar e assim sempre com ao-Kyrios seremos"
+          },
+          {
+            "verse": 18,
+            "text": "de-modo-que exortai uns-aos-outros em o palavras nestes"
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "acerca-de porém o tempos e o tempos irmãos não necessidade tendes a-vós ser-escrito"
+          },
+          {
+            "verse": 2,
+            "text": "eles-mesmos pois com-exatidão sei que dia do-Kyrios como ladrão em à-noite assim vem"
+          },
+          {
+            "verse": 3,
+            "text": "quando digam paz e segurança então repentino a-eles conhece destruição como o Dor-de-parto o em ventre Tendo e não não escapem"
+          },
+          {
+            "verse": 4,
+            "text": "vós e/mas irmãos não sois em trevas para que o dia vos como ladrão alcance"
+          },
+          {
+            "verse": 5,
+            "text": "todos pois vós filhos luz sois e filhos do-dia não somos noite nem das-trevas"
+          },
+          {
+            "verse": 6,
+            "text": "então portanto não durmamos como o restantes mas vigiemos e sejamos-sóbrios"
+          },
+          {
+            "verse": 7,
+            "text": "o pois dormindo noite dormem e o embriagando-se noite embriagam-se"
+          },
+          {
+            "verse": 8,
+            "text": "nós porém do-dia sendo sejamos-sóbrios vestidos couraça da-fé e do-amor e capacete esperança salvação"
+          },
+          {
+            "verse": 9,
+            "text": "que não pôs nos o Theos para ira mas para aquisição salvação através-de o do-Kyrios nosso Iesous de-Christos"
+          },
+          {
+            "verse": 10,
+            "text": "o do-que-morreu acerca-de nosso para que seja vigiemos seja durmamos juntamente com a ele vivamos"
+          },
+          {
+            "verse": 11,
+            "text": "por-isso exortai uns-aos-outros e edificai um o um assim-como e fazei"
+          },
+          {
+            "verse": 12,
+            "text": "Perguntamos porém vos irmãos sei o labutando em a-vós e presidindo vosso em ao-Kyrios e admoestando vos"
+          },
+          {
+            "verse": 13,
+            "text": "e Liderar eles Superabundantemente em amor através-de o obra deles tende-paz em si-mesmos"
+          },
+          {
+            "verse": 14,
+            "text": "Exortamos porém vos irmãos admoestai o desordenados consolai o desanimados apegai-vos o fracos sede-pacientes junto-a todos"
+          },
+          {
+            "verse": 15,
+            "text": "vede não alguém mau em-troca-de mal a-alguém retribua mas sempre o bom persegui para uns-aos-outros e para todos"
+          },
+          {
+            "verse": 16,
+            "text": "Sempre alegrai-vos"
+          },
+          {
+            "verse": 17,
+            "text": "incessantemente orai"
+          },
+          {
+            "verse": 18,
+            "text": "em todo dai-graças isto pois vontade de-Theos em em-Christos Iesous para vos"
+          },
+          {
+            "verse": 19,
+            "text": "o espírito não apagais"
+          },
+          {
+            "verse": 20,
+            "text": "profecia não desprezais"
+          },
+          {
+            "verse": 21,
+            "text": "todas-as-coisas porém examinai o belo retende"
+          },
+          {
+            "verse": 22,
+            "text": "de todo forma do-mal abstende-vos"
+          },
+          {
+            "verse": 23,
+            "text": "ele porém o Theos o paz santificar vos inteiramente e íntegro vosso o espírito e o alma e o corpo irrepreesivelmente em o presença o do-Kyrios nosso Iesous de-Christos fosse-guardado"
+          },
+          {
+            "verse": 24,
+            "text": "fiel o boas vos o qual e fará"
+          },
+          {
+            "verse": 25,
+            "text": "Irmãos orai acerca-de nosso"
+          },
+          {
+            "verse": 26,
+            "text": "Saudai o irmãos todos em beijo no-santo"
+          },
+          {
+            "verse": 27,
+            "text": "Adjuro vos o Kyrion ser-lida o carta todos o aos-irmãos"
+          },
+          {
+            "verse": 28,
+            "text": "o graça o do-Kyrios nosso Iesous de-Christos com vosso"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+  },
+  "book": {
+    "order": 57,
+    "code": "PHM",
+    "name": "Filemom",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Paulo prisioneiro de-Christos Iesous e Timóteo o irmão Filemom o amado e cooperador nosso"
+          },
+          {
+            "verse": 2,
+            "text": "e Áfia o irmã e Arquipo o co-soldado nosso e o segundo casa teu assembleia"
+          },
+          {
+            "verse": 3,
+            "text": "graça a-vós e paz de de-Theos do-Pai nosso e do-Kyrios Iesous de-Christos"
+          },
+          {
+            "verse": 4,
+            "text": "Dou-graças o a-Theos meu sempre menção teu fazendo sobre o orações meu"
+          },
+          {
+            "verse": 5,
+            "text": "ouvindo teu o amor e o fé o qual tens junto-a o Kyrion Iesous e para todos o santos"
+          },
+          {
+            "verse": 6,
+            "text": "para-que o comunhão o fé teu eficaz aconteça em conhecimento-pleno todo bom o em a-nós para Christon"
+          },
+          {
+            "verse": 7,
+            "text": "alegria pois muita tiveram e consolação sobre o amor teu que o entranhas o santos tem-descansado através-de teu irmão"
+          },
+          {
+            "verse": 8,
+            "text": "Por-isso muita em em-Christos ousadia tendo Ordenar a-ti o convindo"
+          },
+          {
+            "verse": 9,
+            "text": "através-de o amor mais rogo tal sendo como Paulo ancião agora porém e prisioneiro de-Christos Iesous"
+          },
+          {
+            "verse": 10,
+            "text": "rogo te acerca-de o mim filho o qual gerei em o cadeias Onésimo"
+          },
+          {
+            "verse": 11,
+            "text": "o alguma-vez a-ti inútil agora porém e a-ti e mim útil"
+          },
+          {
+            "verse": 12,
+            "text": "o qual enviei-de-volta a-ti ele isto é o minhas-coisas entranhas"
+          },
+          {
+            "verse": 13,
+            "text": "o qual eu desejava junto-a a-mim-mesmo reter para que em-favor-de teu a-mim sirva em o cadeias o evangelho"
+          },
+          {
+            "verse": 14,
+            "text": "sem porém o tua parecer nada quis fazer para que não como segundo necessidade o bom teu seja mas segundo Voluntário"
+          },
+          {
+            "verse": 15,
+            "text": "talvez pois através-de isto Foi-separado junto-a hora para que eterno ele te-abstenhas"
+          },
+          {
+            "verse": 16,
+            "text": "não-mais como servo mas em-favor-de servo irmão amado principalmente me quanto porém mais a-ti e em carne e em ao-Kyrios"
+          },
+          {
+            "verse": 17,
+            "text": "se portanto me tens participante recebe ele como me"
+          },
+          {
+            "verse": 18,
+            "text": "se e/mas algo cometeu-injustiça te ou deve isto mim imputa"
+          },
+          {
+            "verse": 19,
+            "text": "eu Paulo escrevi o minha mão eu pagarei para que não digo a-ti que e a-ti-mesmo a-mim deves-além"
+          },
+          {
+            "verse": 20,
+            "text": "sim irmão eu teu eu-tenha-proveito em ao-Kyrios dá-descanso meu o entranhas em em-Christos"
+          },
+          {
+            "verse": 21,
+            "text": "Tendo-confiado o obediência teu Escrevi a-ti sei que e em-favor-de o qual digo farás"
+          },
+          {
+            "verse": 22,
+            "text": "juntamente porém e Prepara a-mim hospedagem espero pois que através-de o orações vosso serei-concedido-por-graça a-vós"
+          },
+          {
+            "verse": 23,
+            "text": "Saúda te Epafras o co-prisioneiro meu em em-Christos Iesous"
+          },
+          {
+            "verse": 24,
+            "text": "Marcos Aristarco Demas Lucas o cooperadores meu"
+          },
+          {
+            "verse": 25,
+            "text": "o graça o do-Kyrios Iesous de-Christos com o do-espírito vosso"
+          }
+        ]
+      }
+    ]
+  }
+}

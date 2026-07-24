@@ -1,0 +1,500 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+  },
+  "book": {
+    "order": 54,
+    "code": "1TI",
+    "name": "1 Timóteo",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Paulo apóstolo de-Christos Iesous segundo mandado de-Theos do-Salvador nosso e de-Christos Iesous o da-esperança nosso"
+          },
+          {
+            "verse": 2,
+            "text": "Timóteo genuíno filho em fé graça misericórdia paz de de-Theos do-Pai e de-Christos Iesous o do-Kyrios nosso"
+          },
+          {
+            "verse": 3,
+            "text": "Assim-como consolei te permanecer em Éfeso indo para Macedônia para que ordenes alguns não Ensinar-outra-doutrina"
+          },
+          {
+            "verse": 4,
+            "text": "nem atentar fábulas e genealogias intermináveis as-quais buscas-diligentes fornecem mais ou administração de-Theos o em fé"
+          },
+          {
+            "verse": 5,
+            "text": "o porém fim o ordem é amor de pura do-coração e consciência boa e da-fé sem-hipocrisia"
+          },
+          {
+            "verse": 6,
+            "text": "o qual alguns tendo-se-desviado desviaram-se para conversa-vã"
+          },
+          {
+            "verse": 7,
+            "text": "querendo ser mestres-da-lei não compreendendo nem o qual dizem nem acerca-de de-quais afirmam-com-certeza"
+          },
+          {
+            "verse": 8,
+            "text": "sei porém que belo o lei se alguém a ele legitimamente usa"
+          },
+          {
+            "verse": 9,
+            "text": "sei isto que justo lei não está-posto sem-lei porém e insubmissos ímpios e pecadores profanos e profanos parricidas e matricidas homicidas"
+          },
+          {
+            "verse": 10,
+            "text": "imorais sodomitas escravizadores mentirosos Perjuros e se algo outro o sã ensino opõe-se"
+          },
+          {
+            "verse": 11,
+            "text": "segundo o evangelho o da-glória o bem-aventurado de-Theos o qual fui-confiado eu"
+          },
+          {
+            "verse": 12,
+            "text": "graça tenho o tendo-fortalecido me em-Christos Iesous o ao-Kyrios nosso que fiel me considerou tendo-posto para serviço"
+          },
+          {
+            "verse": 13,
+            "text": "o antes sendo blasfemo e perseguidor e insolente mas fui-misericordiado que ignorando fiz em incredulidade"
+          },
+          {
+            "verse": 14,
+            "text": "Superabundou porém o graça o do-Kyrios nosso com da-fé e do-amor o em em-Christos Iesous"
+          },
+          {
+            "verse": 15,
+            "text": "fiel o palavra e toda aceitação digno que Christos Iesous veio para o mundo pecadores salvar o qual primeiro sou eu"
+          },
+          {
+            "verse": 16,
+            "text": "mas através-de isto fui-misericordiado para que em mim primeiro demonstre Iesous Christos o toda paciência junto-a modelo o estando-para crer sobre a ele para vida eterno"
+          },
+          {
+            "verse": 17,
+            "text": "o porém Rei o eras incorruptível invisível somente a-Theos honra e glória para o eras o eras amém"
+          },
+          {
+            "verse": 18,
+            "text": "esta o ordem confio a-ti filho Timóteo segundo o indo-adiante sobre te profecia para que guerreies em elas o boa guerra"
+          },
+          {
+            "verse": 19,
+            "text": "tendo fé e boa consciência o qual alguns tendo-rejeitado acerca-de o fé naufragaram"
+          },
+          {
+            "verse": 20,
+            "text": "o qual é Himeneu e Alexandre o qual entreguei o Satanás para que sejam-disciplinados não blasfemar"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Exorto portanto primeiro todos fazer súplicas orações intercessões ação-de-graças em-favor-de todos dos-homens"
+          },
+          {
+            "verse": 2,
+            "text": "em-favor-de reis e todos o em Superioridade existindo para que sereno e Tranquilo vida vivamos em toda piedade e em-dignidade"
+          },
+          {
+            "verse": 3,
+            "text": "isto belo e aceitável diante-de o do-Salvador nosso de-Theos"
+          },
+          {
+            "verse": 4,
+            "text": "o qual todos homens quer ser-salvo e para conhecimento-pleno da-verdade vir"
+          },
+          {
+            "verse": 5,
+            "text": "um pois Theos um e mediador de-Theos e dos-homens homem Christos Iesous"
+          },
+          {
+            "verse": 6,
+            "text": "o dando si-mesmo resgate em-favor-de todos o testemunho tempos próprios"
+          },
+          {
+            "verse": 7,
+            "text": "para o qual fui-colocado eu arauto e apóstolo verdade digo não minto mestre nações em fé e verdade"
+          },
+          {
+            "verse": 8,
+            "text": "Quero portanto orar o homens em todo no-lugar levantando santos mãos sem ira e raciocínio"
+          },
+          {
+            "verse": 9,
+            "text": "Do-mesmo-modo mulheres em vestimenta decoroso com pudor e sobriedade adornar si-mesmas não em tranças e ouro ou pérolas ou vestuário muito-custoso"
+          },
+          {
+            "verse": 10,
+            "text": "mas o qual convém mulheres prometendo piedade-a-Theos através-de obra boas-coisas"
+          },
+          {
+            "verse": 11,
+            "text": "mulher em quietude aprenda em toda sujeição"
+          },
+          {
+            "verse": 12,
+            "text": "ensinar porém mulher não Permito nem exercer-autoridade homem mas ser em quietude"
+          },
+          {
+            "verse": 13,
+            "text": "Adão pois primeiro Foi-formada então Eva"
+          },
+          {
+            "verse": 14,
+            "text": "e Adão não foi-enganada o porém mulher tendo-sido-enganada em em-transgressão aconteceu"
+          },
+          {
+            "verse": 15,
+            "text": "será-salvo porém através-de o de-geração-de-filhos se permaneçam em fé e amor e santificação com sobriedade"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "fiel o palavra se alguém supervisão aspira bom obra deseja"
+          },
+          {
+            "verse": 2,
+            "text": "é necessário portanto o supervisor irrepreensível ser uma mulher homem sóbrio sóbrio-de-mente decoroso hospitaleiro apto-para-ensinar"
+          },
+          {
+            "verse": 3,
+            "text": "não não-dado-ao-vinho não agressor mas moderado pacífico sem-amor-ao-dinheiro"
+          },
+          {
+            "verse": 4,
+            "text": "o próprio da-casa bem presidindo filhos tendo em sujeição com toda de-dignidade"
+          },
+          {
+            "verse": 5,
+            "text": "se e/mas alguém o próprio da-casa presidir não sei como da-assembleia de-Theos cuidará"
+          },
+          {
+            "verse": 6,
+            "text": "não neófito para que não tendo-sido-enfatuado para julgamento caia-dentro o diabo"
+          },
+          {
+            "verse": 7,
+            "text": "é necessário porém e testemunho boa ter de o de-fora para que não para opróbrio caia-dentro e laço o diabo"
+          },
+          {
+            "verse": 8,
+            "text": "servos da-mesma-forma dignos não de-dupla-palavra não vinho muito atentando não gananciosos-por-lucro-torpe"
+          },
+          {
+            "verse": 9,
+            "text": "tendo o mistério o da-fé em pura consciência"
+          },
+          {
+            "verse": 10,
+            "text": "e estes porém sejam-examinados primeiro então sirvam irrepreensíveis sendo"
+          },
+          {
+            "verse": 11,
+            "text": "mulheres da-mesma-forma dignas não caluniadores sóbrios fiéis em todos"
+          },
+          {
+            "verse": 12,
+            "text": "servos Sejam uma mulher homens filhos bem presidindo e o próprios casas"
+          },
+          {
+            "verse": 13,
+            "text": "o pois bem tendo-servido grau si-mesmos belo adquirem e muita ousadia em fé o em em-Christos Iesous"
+          },
+          {
+            "verse": 14,
+            "text": "Estas-coisas a-ti escrever esperando vir junto-a te mais-rapidamente"
+          },
+          {
+            "verse": 15,
+            "text": "se porém demoro para que sei como é necessário em na-casa de-Theos conduzir-se a-qual é assembleia de-Theos vivente coluna e Fundamento o da-verdade"
+          },
+          {
+            "verse": 16,
+            "text": "e confessadamente grande é o o piedade mistério o qual foi-manifestado em na-carne foi-justificado em espírito apareceu anjo foi-proclamado em nações foi-confiado em ao-mundo foi-elevado em glória"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "o porém espírito expressamente diz que em Últimos tempos afastar-se-ão alguns o da-fé prestando-atenção espíritos enganadores e ensinos demônios"
+          },
+          {
+            "verse": 2,
+            "text": "em hipocrisia falsos-falantes tendo-sido-cauterizados o própria consciência"
+          },
+          {
+            "verse": 3,
+            "text": "impedindo casar abster-se alimentos o qual o Theos criou para recebimento com ação-de-graças o fiéis e tendo-reconhecido o verdade"
+          },
+          {
+            "verse": 4,
+            "text": "que todo criatura de-Theos bom e nada rejeitável com ação-de-graças sendo-recebido"
+          },
+          {
+            "verse": 5,
+            "text": "é-santificado pois através-de da-palavra de-Theos e intercessão"
+          },
+          {
+            "verse": 6,
+            "text": "estas-coisas Pondo-diante o aos-irmãos belo serás servo de-Christos Iesous sendo-nutrido o palavras o da-fé e o boa ensino o qual seguiste"
+          },
+          {
+            "verse": 7,
+            "text": "o porém profanos e de-velhas fábulas recusa exercita porém a-ti-mesmo junto-a piedade"
+          },
+          {
+            "verse": 8,
+            "text": "o pois corporal exercício junto-a pouco é proveitoso o porém piedade junto-a todas-as-coisas Proveitoso é promessa tendo da-vida o agora e o está-para"
+          },
+          {
+            "verse": 9,
+            "text": "fiel o palavra e toda aceitação digno"
+          },
+          {
+            "verse": 10,
+            "text": "para isto pois labutamos e combatemos que temos-esperado sobre a-Theos vivendo o qual é Salvador todos dos-homens principalmente fiéis"
+          },
+          {
+            "verse": 11,
+            "text": "Ordena estas-coisas e ensina"
+          },
+          {
+            "verse": 12,
+            "text": "ninguém teu o juventude despreze mas modelo sê o fiéis em em-palavra em conduta em amor em fé em pureza"
+          },
+          {
+            "verse": 13,
+            "text": "até venho tem-cuidado o leitura o consolação o ensino"
+          },
+          {
+            "verse": 14,
+            "text": "não descuida o em a-ti de-dom-de-graça o qual foi-dado a-ti através-de profecia com imposição o mãos o conselho-de-anciãos"
+          },
+          {
+            "verse": 15,
+            "text": "estas-coisas medita em nestes sê para que teu o progresso manifesta seja todos"
+          },
+          {
+            "verse": 16,
+            "text": "Presta-atenção a-ti-mesmo e o ensino permanece a-eles isto pois fazendo e a-ti-mesmo salvarás e o ouvindo teu"
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Ancião não repreendas mas exortava como Pai mais-jovens como irmãos"
+          },
+          {
+            "verse": 2,
+            "text": "anciãs como mães mais-jovens como irmãs em toda pureza"
+          },
+          {
+            "verse": 3,
+            "text": "Viúvas honra o verdadeiramente viúvas"
+          },
+          {
+            "verse": 4,
+            "text": "se e/mas alguém viúva filhos ou Descendentes tem aprendam primeiro o próprio casa ser-piedoso e retribuições devolver o antepassados isto pois é aceitável diante-de o de-Theos"
+          },
+          {
+            "verse": 5,
+            "text": "o porém verdadeiramente viúva e tendo-sido-isolada Tem-esperado sobre Theos e permanece o súplicas e o orações da-noite e do-dia"
+          },
+          {
+            "verse": 6,
+            "text": "o porém vivendo-em-luxúria vivendo tem-morrido"
+          },
+          {
+            "verse": 7,
+            "text": "e estas-coisas ordena para que irrepreensíveis sejam"
+          },
+          {
+            "verse": 8,
+            "text": "se e/mas alguém o próprios e principalmente membros-da-casa não cuida o fé Tem-negado e é incrédulo pior"
+          },
+          {
+            "verse": 9,
+            "text": "Viúva seja-alistada não menor anos sessenta tendo-se-tornado um homem mulher"
+          },
+          {
+            "verse": 10,
+            "text": "em obra boas sendo-testificada se Criou-filhos se hospedou-estrangeiros se santos pés lavou se aos-que-são-afligidos socorreu se todo obra bom seguiu"
+          },
+          {
+            "verse": 11,
+            "text": "mais-jovens porém viúvas recusa quando pois se-entreguem-à-sensualidade-contra o de-Christos casar querem"
+          },
+          {
+            "verse": 12,
+            "text": "tendo julgamento que o primeiro fé rejeitaram"
+          },
+          {
+            "verse": 13,
+            "text": "juntamente porém e ociosas aprendem andando-ao-redor o da-casa não somente porém ociosas mas e tagarelas e curiosos falando o não é necessário"
+          },
+          {
+            "verse": 14,
+            "text": "quero portanto mais-jovens casar gerar-filhos governar-a-casa nenhuma ocasião dar o opondo-se injúria graça"
+          },
+          {
+            "verse": 15,
+            "text": "já pois alguns desviaram-se atrás o Satanás"
+          },
+          {
+            "verse": 16,
+            "text": "se alguém fiel tem viúvas socorra elas e não seja-pesado o assembleia para que o verdadeiramente viúvas socorra"
+          },
+          {
+            "verse": 17,
+            "text": "o bem presidindo anciãos dupla honra sejam-considerados-dignos principalmente o labutando em em-palavra e ensino"
+          },
+          {
+            "verse": 18,
+            "text": "diz pois o escritura Boi debulhando não amordaçarás e digno o trabalhador o salário dele"
+          },
+          {
+            "verse": 19,
+            "text": "segundo ancião acusação não aceita fora-de se não sobre dois ou três testemunhas"
+          },
+          {
+            "verse": 20,
+            "text": "o pecando diante-de todos repreende para que e o restantes medo tenham"
+          },
+          {
+            "verse": 21,
+            "text": "testifico-solenemente diante-de o de-Theos e de-Christos Iesous e o eleitos anjo para que estas-coisas guardes sem prejulgamento nada fazendo segundo parcialidade"
+          },
+          {
+            "verse": 22,
+            "text": "Mãos rapidamente a-ninguém Põe-sobre nem torna-comum pecados alheias a-ti-mesmo puro guarda"
+          },
+          {
+            "verse": 23,
+            "text": "Não-mais bebe-água mas vinho pouco usa através-de o estômago e o frequentes teu fraqueza"
+          },
+          {
+            "verse": 24,
+            "text": "Alguns dos-homens o pecados evidentes são indo-adiante para juízo alguns porém e seguem"
+          },
+          {
+            "verse": 25,
+            "text": "da-mesma-forma e o obra o boas evidentes e o de-outro-modo tendo ser-escondido não podem"
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "quanto são sob balança servos o próprios senhores toda honra dignos que-liderem para que não o nome o de-Theos e o ensino seja-blasfemado"
+          },
+          {
+            "verse": 2,
+            "text": "o porém fiéis tendo senhores não desprezem que irmãos são mas mais sirvam que fiéis são e amados o o beneficência socorrendo estas-coisas ensina e exortava"
+          },
+          {
+            "verse": 3,
+            "text": "se alguém Ensina-outra-doutrina e não aproxima-se estão-sãos palavras o o do-Kyrios nosso Iesous de-Christos e o segundo piedade ensino"
+          },
+          {
+            "verse": 4,
+            "text": "tem-sido-enfatuado nada sabendo mas adoecendo acerca-de buscas e contenda-de-palavras de o qual torna-se inveja contenda blasfêmias Suspeitas más"
+          },
+          {
+            "verse": 5,
+            "text": "atritos-constantes tendo-sido-corrompidos dos-homens o entendimento e dos-que-foram-privados o da-verdade supondo ganho ser o piedade"
+          },
+          {
+            "verse": 6,
+            "text": "é porém ganho grande o piedade com suficiência"
+          },
+          {
+            "verse": 7,
+            "text": "nada pois trouxemos-para-dentro para o mundo que nem levar-para-fora algo podemos"
+          },
+          {
+            "verse": 8,
+            "text": "tendo porém alimentos e coberturas nestes seremos-suficientes"
+          },
+          {
+            "verse": 9,
+            "text": "o porém querendo enriquecer caem-em para tentação e laço e desejos muitas insensatos e prejudiciais as-quais submergem o homens para destruição e perdição"
+          },
+          {
+            "verse": 10,
+            "text": "raiz pois todos o males é o amor-ao-dinheiro o qual alguns aspirando foram-desviados de o da-fé e si-mesmos traspassaram dores muitas"
+          },
+          {
+            "verse": 11,
+            "text": "tu e/mas Ômega homem de-Theos estas-coisas foge persegue porém justiça piedade fé amor perseverança brandura-de-espírito"
+          },
+          {
+            "verse": 12,
+            "text": "combate o belo luta o da-fé toma-de o eterno da-vida para o qual foste-chamado e Confessaste o boa confissão diante-de muitos testemunhas"
+          },
+          {
+            "verse": 13,
+            "text": "ordeno diante-de o de-Theos o preservando-vivos o todas-as-coisas e de-Christos Iesous o tendo-testemunhado sobre Pôncio Pilatos o boa confissão"
+          },
+          {
+            "verse": 14,
+            "text": "guardar te o mandamento sem-mancha irrepreensível até o manifestação o do-Kyrios nosso Iesous de-Christos"
+          },
+          {
+            "verse": 15,
+            "text": "o qual tempos próprios mostrará o bem-aventurado e só Governante o Rei o reinando e Kyrios o dominando"
+          },
+          {
+            "verse": 16,
+            "text": "o só tendo imortalidade luz habitando inacessível o qual viu ninguém dos-homens nem ver pode o qual honra e domínio eterno amém"
+          },
+          {
+            "verse": 17,
+            "text": "o ricos em o agora era ordena não Ter-pensamentos-altivos nem ter-esperado sobre riqueza incerteza mas sobre a-Theos o ao-que-fornece a-nós todas-as-coisas ricamente para deleite"
+          },
+          {
+            "verse": 18,
+            "text": "fazer-o-bem enriquecer em obra boas generosos ser generosos"
+          },
+          {
+            "verse": 19,
+            "text": "entesourando si-mesmos fundamento belo para o estando-a-ponto-de para que apanhem o verdadeiramente da-vida"
+          },
+          {
+            "verse": 20,
+            "text": "Ômega Timóteo o depósito guarda desviando-se o profanos palavras-vãs e oposições o falsamente-nomeada do-conhecimento"
+          },
+          {
+            "verse": 21,
+            "text": "o qual alguns prometendo acerca-de o fé desviaram-se o graça com vosso"
+          }
+        ]
+      }
+    ]
+  }
+}

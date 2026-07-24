@@ -190,6 +190,10 @@ function countOSHBChaptersVerses(xmlPath) {
 }
 
 function countSBLGNTTokens(fileNum) {
+  // Os codices nao sao versionados no repo. Sem eles a comparacao contra a
+  // fonte e pulada, mas as checagens de integridade do texto traduzido
+  // (proibidas, keep_original, scripts vazados) continuam valendo.
+  if (!existsSync(PATHS.sblgntDir)) return null;
   const files = readdirSync(PATHS.sblgntDir).filter(f => f.startsWith(fileNum + '-'));
   if (files.length === 0) return null;
   const content = readFileSync(join(PATHS.sblgntDir, files[0]), 'utf-8');
@@ -259,6 +263,31 @@ function checkHebrewScriptLeakage(text) {
   return matches.map(m => ({ text: m[0], index: m.index }));
 }
 
+// Sistemas de escrita SEM rela\u00E7\u00E3o alguma com o projeto. Hebraico, aramaico
+// e grego s\u00E3o idiomas-fonte leg\u00EDtimos; estes n\u00E3o s\u00E3o. Qualquer ocorr\u00EAncia \u00E9
+// contamina\u00E7\u00E3o do pipeline de tradu\u00E7\u00E3o autom\u00E1tica, nunca decis\u00E3o editorial.
+const ALIEN_SCRIPTS = [
+  { name: 'CJK (chines)',  pattern: /[\u3000-\u303F\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF]+/g },
+  { name: 'Cirilico',      pattern: /[\u0400-\u04FF\u0500-\u052F]+/g },
+  { name: 'Arabe',         pattern: /[\u0600-\u06FF\u0750-\u077F]+/g },
+  { name: 'Hangul',        pattern: /[\uAC00-\uD7AF\u1100-\u11FF]+/g },
+  { name: 'Kana',          pattern: /[\u3040-\u30FF]+/g },
+  { name: 'Devanagari',    pattern: /[\u0900-\u097F]+/g },
+  { name: 'Tailandes',     pattern: /[\u0E00-\u0E7F]+/g },
+  { name: 'Armenio',       pattern: /[\u0530-\u058F]+/g },
+  { name: 'Georgiano',     pattern: /[\u10A0-\u10FF]+/g },
+];
+
+function checkAlienScriptLeakage(text) {
+  const found = [];
+  for (const { name, pattern } of ALIEN_SCRIPTS) {
+    for (const m of text.matchAll(pattern)) {
+      found.push({ script: name, text: m[0], index: m.index });
+    }
+  }
+  return found;
+}
+
 // ═══════════════════════════════════════════════════════════════════
 // ANÁLISE PRINCIPAL
 // ═══════════════════════════════════════════════════════════════════
@@ -291,6 +320,7 @@ async function analyzeBook(filePath) {
     keepOriginal: checkKeepOriginal(content),
     greekLeakage: checkGreekScriptLeakage(content),
     hebrewLeakage: checkHebrewScriptLeakage(content),
+    alienLeakage: checkAlienScriptLeakage(content),
     // Codex comparison
     codexMatch: null,
     issues: [],
@@ -348,6 +378,14 @@ async function analyzeBook(filePath) {
   // Flag Hebrew script leakage
   if (result.hebrewLeakage.length > 0) {
     result.issues.push(`Script hebraico Unicode: ${result.hebrewLeakage.length} ocorrências`);
+  }
+
+  // Flag alien script leakage — CRITICO: nenhum destes tem origem nos códices
+  if (result.alienLeakage.length > 0) {
+    const byScript = {};
+    for (const a of result.alienLeakage) byScript[a.script] = (byScript[a.script] || 0) + 1;
+    const detail = Object.entries(byScript).map(([s, n]) => `${s}: ${n}`).join(', ');
+    result.issues.push(`CRITICA: script alienigena ao projeto (${detail})`);
   }
 
   return result;
@@ -420,6 +458,8 @@ async function main() {
   let totalForbidden = 0;
   let totalGreekLeak = 0;
   let totalHebrewLeak = 0;
+  let totalAlienLeak = 0;
+  const alienByScript = {};
   let totalIssues = 0;
   let chapterMismatches = 0;
   let booksWithIssues = [];
@@ -430,6 +470,8 @@ async function main() {
     totalForbidden += r.forbiddenWords.reduce((s, fw) => s + fw.count, 0);
     totalGreekLeak += r.greekLeakage.length;
     totalHebrewLeak += r.hebrewLeakage.length;
+    totalAlienLeak += r.alienLeakage.length;
+    for (const a of r.alienLeakage) alienByScript[a.script] = (alienByScript[a.script] || 0) + 1;
     totalIssues += r.issues.length;
     if (r.codexMatch && !r.codexMatch.chapterMatch) chapterMismatches++;
     if (r.issues.length > 0) booksWithIssues.push(r);
@@ -444,6 +486,12 @@ async function main() {
   console.log(`   Palavras proibidas:    ${totalForbidden} ${totalForbidden === 0 ? '✅' : '❌'}`);
   console.log(`   Script grego vazado:   ${totalGreekLeak} ${totalGreekLeak === 0 ? '✅' : '⚠️'}`);
   console.log(`   Script hebraico vaz.:  ${totalHebrewLeak} ${totalHebrewLeak === 0 ? '✅' : '⚠️'}`);
+  console.log(`   Script ALIENIGENA:     ${totalAlienLeak} ${totalAlienLeak === 0 ? '✅' : '❌'}`);
+  if (totalAlienLeak > 0) {
+    for (const [s, n] of Object.entries(alienByScript).sort((a, b) => b[1] - a[1])) {
+      console.log(`      └─ ${s.padEnd(16)} ${String(n).padStart(5)}`);
+    }
+  }
   console.log(`   Capítulos divergentes: ${chapterMismatches} ${chapterMismatches === 0 ? '✅' : '⚠️'}`);
   console.log(`   Livros com issues:     ${booksWithIssues.length}`);
   console.log('');
@@ -535,9 +583,33 @@ async function main() {
   report += `| Palavras proibidas | ${totalForbidden} | ${totalForbidden === 0 ? 'PASS' : 'FAIL'} |\n`;
   report += `| Script grego vazado | ${totalGreekLeak} | ${totalGreekLeak === 0 ? 'PASS' : 'WARN'} |\n`;
   report += `| Script hebraico vazado | ${totalHebrewLeak} | ${totalHebrewLeak === 0 ? 'PASS' : 'WARN'} |\n`;
+  report += `| **Script alienigena ao projeto** | **${totalAlienLeak}** | **${totalAlienLeak === 0 ? 'PASS' : 'FAIL'}** |\n`;
   report += `| Capitulos vs codice | ${chapterMismatches} divergencias | ${chapterMismatches === 0 ? 'PASS' : 'WARN'} |\n`;
   report += `| Livros com issues | ${booksWithIssues.length} | ${booksWithIssues.length === 0 ? 'PASS' : 'WARN'} |\n`;
   report += `\n---\n\n`;
+
+  if (totalAlienLeak > 0) {
+    report += `## CRITICO — Scripts Alienigenas ao Projeto\n\n`;
+    report += `Caracteres de sistemas de escrita que **nao existem em nenhum codice fonte**\n`;
+    report += `(hebraico, aramaico e grego sao legitimos; os abaixo nao sao). Toda ocorrencia\n`;
+    report += `e contaminacao do pipeline de traducao automatica e precisa de revisao humana\n`;
+    report += `contra o codice, versiculo a versiculo.\n\n`;
+    report += `| Script | Ocorrencias |\n|--------|-------------|\n`;
+    for (const [s, n] of Object.entries(alienByScript).sort((a, b) => b[1] - a[1])) {
+      report += `| ${s} | ${n} |\n`;
+    }
+    report += `\n### Ocorrencias por livro\n\n`;
+    report += `| Livro | Script | Trecho |\n|-------|--------|--------|\n`;
+    for (const r of allResults) {
+      for (const a of r.alienLeakage.slice(0, 8)) {
+        report += `| ${r.code} | ${a.script} | \`${a.text.slice(0, 40)}\` |\n`;
+      }
+      if (r.alienLeakage.length > 8) {
+        report += `| ${r.code} | — | ... e mais ${r.alienLeakage.length - 8} ocorrencias |\n`;
+      }
+    }
+    report += `\n---\n\n`;
+  }
 
   report += `## Palavras Preservadas (keep_original)\n\n`;
   report += `| Palavra | Ocorrencias | Status |\n`;

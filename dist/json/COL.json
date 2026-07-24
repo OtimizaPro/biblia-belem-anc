@@ -1,0 +1,418 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+  },
+  "book": {
+    "order": 51,
+    "code": "COL",
+    "name": "Colossenses",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Paulo apóstolo de-Christos Iesous através-de da-vontade de-Theos e Timóteo o irmão"
+          },
+          {
+            "verse": 2,
+            "text": "o em Colossos santos e fiéis aos-irmãos em em-Christos graça a-vós e paz de de-Theos do-Pai nosso"
+          },
+          {
+            "verse": 3,
+            "text": "Damos-graças o a-Theos Pai o do-Kyrios nosso Iesous de-Christos sempre acerca-de vosso orando"
+          },
+          {
+            "verse": 4,
+            "text": "ouvindo o fé vosso em em-Christos Iesous e o amor o qual tendes para todos o santos"
+          },
+          {
+            "verse": 5,
+            "text": "através-de o esperança o tendo-sido-reservada a-vós em o nos-céus o qual ouvistes-antes em o em-palavra o da-verdade o evangelho"
+          },
+          {
+            "verse": 6,
+            "text": "o estando-presente para vos assim-como e em todo o ao-mundo é frutificando e crescendo assim-como e em a-vós de o qual do-dia ouvistes e conhecestes-plenamente o graça o de-Theos em verdade"
+          },
+          {
+            "verse": 7,
+            "text": "assim-como aprendestes de Epafras o amado co-servo nosso o qual é fiel em-favor-de vosso servo o de-Christos"
+          },
+          {
+            "verse": 8,
+            "text": "o e tendo-manifestado a-nós o vosso amor em Espírito"
+          },
+          {
+            "verse": 9,
+            "text": "através-de isto e nós de o qual do-dia ouvimos não cessamos em-favor-de vosso orando e pedindo para que sejais-preenchidos o conhecimento-pleno o da-vontade dele em toda com-sabedoria e entendimento espiritual"
+          },
+          {
+            "verse": 10,
+            "text": "andar dignamente o do-Kyrios para toda agrado em todo obra bom frutificando e crescendo o conhecimento-pleno o de-Theos"
+          },
+          {
+            "verse": 11,
+            "text": "em toda poder sendo-fortalecidos segundo o domínio o da-glória dele para toda perseverança e paciência com alegria"
+          },
+          {
+            "verse": 12,
+            "text": "dando-graças o Pai o Tendo-capacitado vos para o porção o herança o santos em o luz"
+          },
+          {
+            "verse": 13,
+            "text": "o qual livrou nos de o da-autoridade o das-trevas e removeu para o reino o do-Filho o do-amor dele"
+          },
+          {
+            "verse": 14,
+            "text": "em o qual temos o redenção o perdão o pecados"
+          },
+          {
+            "verse": 15,
+            "text": "o qual é imagem o de-Theos o invisível primogênito toda criação"
+          },
+          {
+            "verse": 16,
+            "text": "que em a ele foi-criado o todas-as-coisas em o nos-céus e sobre o da-terra o visíveis e o invisíveis seja tronos seja senhorios seja principados seja autoridades o todas-as-coisas através-de dele e para ele Tem-sido-criado"
+          },
+          {
+            "verse": 17,
+            "text": "e ele é antes-de todos e o todas-as-coisas em a ele subsiste"
+          },
+          {
+            "verse": 18,
+            "text": "e ele é o cabeça o do-corpo o da-assembleia o qual é princípio primogênito de o mortos para que aconteça em todos ele tendo-a-primazia"
+          },
+          {
+            "verse": 19,
+            "text": "que em a ele agradou-se todo o plenitude habitar"
+          },
+          {
+            "verse": 20,
+            "text": "e através-de dele reconciliar o todas-as-coisas para ele tendo-feito-paz através-de o sangue o da-cruz dele através-de dele seja o sobre o da-terra seja o em o nos-céus"
+          },
+          {
+            "verse": 21,
+            "text": "e vos alguma-vez sendo tendo-sido-alienados e inimigos o entendimento em o obra o maus"
+          },
+          {
+            "verse": 22,
+            "text": "agora porém reconciliou em o corpo o carne dele através-de o da-morte apresentar vos santos e irrepreensíveis e irrepreensíveis diante-de dele"
+          },
+          {
+            "verse": 23,
+            "text": "se pois permaneceis o fé tendo-sido-fundamentados e firmes e não sendo-movidos de o da-esperança o evangelho o qual ouvistes o tendo-sido-proclamado em toda criação o sob o céu o qual tornei-me eu Paulo servo"
+          },
+          {
+            "verse": 24,
+            "text": "agora alegro-me em o sofrimentos em-favor-de vosso e completo-no-lugar o carências o tribulações o de-Christos em o na-carne meu em-favor-de o do-corpo dele o qual é o assembleia"
+          },
+          {
+            "verse": 25,
+            "text": "o qual tornei-me eu servo segundo o administração o de-Theos o dada a-mim para vos cumprir o palavra o de-Theos"
+          },
+          {
+            "verse": 26,
+            "text": "o mistério o tendo-sido-escondido de o eras e de o gerações agora porém foi-manifestado o santos dele"
+          },
+          {
+            "verse": 27,
+            "text": "o qual quis o Theos fazer-conhecer quê o riqueza o da-glória o mistério deste em o nações o qual é Christos em a-vós o esperança o da-glória"
+          },
+          {
+            "verse": 28,
+            "text": "o qual nós anunciamos admoestando todas-as-coisas homem e ensinando todas-as-coisas homem em toda com-sabedoria para que apresentemos todas-as-coisas homem perfeito em em-Christos"
+          },
+          {
+            "verse": 29,
+            "text": "para o qual e trabalho lutando segundo o operação dele o sendo-operada em mim em poder"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "quero pois vos sei quão-grande luta tenho em-favor-de vosso e o em Laodiceia e quanto não Viram o face meu em na-carne"
+          },
+          {
+            "verse": 2,
+            "text": "para que sejam-consolados o corações deles tendo-sido-unidos em amor e para todo riqueza o plena-convicção o entendimento para conhecimento-pleno o mistério o de-Theos de-Christos"
+          },
+          {
+            "verse": 3,
+            "text": "em o qual são todos o tesouros o da-sabedoria e do-conhecimento ocultos"
+          },
+          {
+            "verse": 4,
+            "text": "isto digo para que ninguém vos engane em discurso-persuasivo"
+          },
+          {
+            "verse": 5,
+            "text": "se pois e o carne estou-ausente mas o espírito com a-vós sou alegrando-se e vendo vosso o ordem e o firmeza o para Christos da-fé vosso"
+          },
+          {
+            "verse": 6,
+            "text": "como portanto recebestes o Christos Iesous o Kyrion em a ele andai"
+          },
+          {
+            "verse": 7,
+            "text": "tendo-sido-enraizados e Sendo-edificados-sobre em a ele e sendo-confirmados o fé assim-como fostes-ensinados abundando em ação-de-graças"
+          },
+          {
+            "verse": 8,
+            "text": "Vede não alguém vos será o fazendo-presa através-de o filosofia e vazia engano segundo o tradição o dos-homens segundo o elementos o do-mundo e não segundo Christon"
+          },
+          {
+            "verse": 9,
+            "text": "que em a ele habita todo o plenitude o divindade corporalmente"
+          },
+          {
+            "verse": 10,
+            "text": "e sois em a ele tendo-sido-preenchidos o qual é o cabeça toda princípio e da-autoridade"
+          },
+          {
+            "verse": 11,
+            "text": "em o qual e fostes-circuncidados circuncisão não-feito-por-mãos em o despojamento o do-corpo o carne em o circuncisão o de-Christos"
+          },
+          {
+            "verse": 12,
+            "text": "co-sepultados a ele em o batismo em o qual e fostes-ressuscitados-junto através-de o da-fé o operação o de-Theos o tendo-levantado ele de mortos"
+          },
+          {
+            "verse": 13,
+            "text": "e vos mortos sendo o transgressões e o incircuncisão o carne vosso vivificou-junto vos com a ele tendo-perdoado a-nós todas-as-coisas o transgressões"
+          },
+          {
+            "verse": 14,
+            "text": "tendo-apagado o segundo nosso escrito-à-mão o decretos o qual era Contrário a-nós e ele Tem-bastado de o meio tendo-pregado ele o cruz"
+          },
+          {
+            "verse": 15,
+            "text": "tendo-se-despojado o principados e o da-autoridade expôs-publicamente em com-ousadia tendo-triunfado eles em a ele"
+          },
+          {
+            "verse": 16,
+            "text": "não portanto alguém vos julgue em alimento e em em-quantidade ou em parte festa ou lua-nova ou sábados"
+          },
+          {
+            "verse": 17,
+            "text": "o qual é sombra o estando-para o porém corpo o de-Christos"
+          },
+          {
+            "verse": 18,
+            "text": "ninguém vos desqualifique querendo em humildade-de-mente e religião o anjo o qual Tem-visto adentrando em-vão inchando-se sob o mente o carne dele"
+          },
+          {
+            "verse": 19,
+            "text": "e não segurando o Cabeça de o qual todo o corpo através-de o toques e ligaduras Sendo-suprido e sendo-unido-junto faz-crescer o crescimento o de-Theos"
+          },
+          {
+            "verse": 20,
+            "text": "se morrestes com em-Christos de o elementos o do-mundo quê como vivos em ao-mundo sujeitais-vos-a-ordenanças"
+          },
+          {
+            "verse": 21,
+            "text": "não toques nem proves nem toques"
+          },
+          {
+            "verse": 22,
+            "text": "o qual é todas-as-coisas para corrupção o uso-pleno segundo o mandamentos e ensino o dos-homens"
+          },
+          {
+            "verse": 23,
+            "text": "as-quais é palavra por-um-lado tendo da-sabedoria em culto-voluntário e humildade-de-mente e severidade do-corpo não em honra a-alguém junto-a saciedade o carne"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "se portanto fostes-ressuscitados-junto o em-Christos o acima buscais do-qual o Christos é em direita o de-Theos sentado"
+          },
+          {
+            "verse": 2,
+            "text": "o acima pensais não o sobre o da-terra"
+          },
+          {
+            "verse": 3,
+            "text": "morrestes pois e o vida vosso tem-sido-escondido com o em-Christos em o a-Theos"
+          },
+          {
+            "verse": 4,
+            "text": "quando o Christos seja-manifestada o vida nosso então e vós com a ele sereis-manifestados em glória"
+          },
+          {
+            "verse": 5,
+            "text": "Mortificai portanto o membros o sobre o da-terra prostituição impureza paixão desejo má e o ganância a-qual é idolatria"
+          },
+          {
+            "verse": 6,
+            "text": "através-de o qual vem o ira o de-Theos"
+          },
+          {
+            "verse": 7,
+            "text": "em o qual e vós andastes alguma-vez quando vivíeis em nestes"
+          },
+          {
+            "verse": 8,
+            "text": "agora porém despoji-vos e vós o todas-as-coisas ira furor malícia blasfêmia linguagem-torpe de o boca vosso"
+          },
+          {
+            "verse": 9,
+            "text": "não mentis para uns-aos-outros tendo-se-despojado o velho homem com o práticas dele"
+          },
+          {
+            "verse": 10,
+            "text": "e vestidos o novo o sendo-renovado para conhecimento-pleno segundo imagem o tendo-criado ele"
+          },
+          {
+            "verse": 11,
+            "text": "onde não há grego e judeu circuncisão e incircuncisão bárbaro Cita servo livre mas todas-as-coisas e em todos Christos"
+          },
+          {
+            "verse": 12,
+            "text": "Revesti-vos portanto como escolhidos o de-Theos santos e tendo-sido-amados entranhas compaixão benignidade humildade-de-mente mansidão paciência"
+          },
+          {
+            "verse": 13,
+            "text": "suportando uns-aos-outros e concedendo-graciosamente si-mesmos se alguém para alguém tenha queixa assim-como e o Kyrios concedeu-graciosamente a-vós assim e vós"
+          },
+          {
+            "verse": 14,
+            "text": "sobre todos porém nestes o amor o qual é vínculo o de-perfeição"
+          },
+          {
+            "verse": 15,
+            "text": "e o paz o de-Christos governe em o corações vosso para o qual e fostes-chamados em um corpo e agradecidos tornai-vos"
+          },
+          {
+            "verse": 16,
+            "text": "o palavra o de-Christos habite-em em a-vós ricamente em toda com-sabedoria ensinando e admoestando si-mesmos salmos hinos cânticos espirituais em o graça cantando em o corações vosso o a-Theos"
+          },
+          {
+            "verse": 17,
+            "text": "e todo o qual algo se façais em em-palavra ou em obra todas-as-coisas em em-nome do-Kyrios Iesous dando-graças o a-Theos Pai através-de dele"
+          },
+          {
+            "verse": 18,
+            "text": "o mulheres Sujeitai-vos o homens como convinha em ao-Kyrios"
+          },
+          {
+            "verse": 19,
+            "text": "o homens amai o mulheres e não amargurai-vos junto-a elas"
+          },
+          {
+            "verse": 20,
+            "text": "o filhos obedecei o pais segundo todas-as-coisas isto pois agradável é em ao-Kyrios"
+          },
+          {
+            "verse": 21,
+            "text": "o pais não Provoqueis o filhos vosso para que não desanimem"
+          },
+          {
+            "verse": 22,
+            "text": "o servos obedecei segundo todas-as-coisas o segundo carne senhores não em serviços-para-os-olhos como agradadores-de-homens mas em simplicidade do-coração tementes o Kyrion"
+          },
+          {
+            "verse": 23,
+            "text": "o qual se façais de alma trabalhai como o ao-Kyrios e não aos-homens"
+          },
+          {
+            "verse": 24,
+            "text": "sei que de do-Kyrios recebereis o retribuição o herança o ao-Kyrios em-Christos servis"
+          },
+          {
+            "verse": 25,
+            "text": "o pois praticando-injustiça receberá o qual cometeu-injustiça e não é acepção-de-pessoas"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "o senhores o justo e o Igualdade o servos forneceis sei que e vós tendes Kyrion em no-céu"
+          },
+          {
+            "verse": 2,
+            "text": "o oração perseverai vigiando em a-ela em ação-de-graças"
+          },
+          {
+            "verse": 3,
+            "text": "orando juntamente e acerca-de nosso para que o Theos abra a-nós porta o da-palavra falar o mistério o de-Christos através-de o qual e tenho-sido-amarrado"
+          },
+          {
+            "verse": 4,
+            "text": "para que manifestarei ele como é necessário me falar"
+          },
+          {
+            "verse": 5,
+            "text": "em com-sabedoria andai junto-a o fora o tempo resgatando"
+          },
+          {
+            "verse": 6,
+            "text": "o palavra vosso sempre em graça sal tendo-sido-temperado sei como é necessário vos um a-cada-um responder"
+          },
+          {
+            "verse": 7,
+            "text": "o segundo mim todas-as-coisas fará-conhecer a-vós Tíquico o amado irmão e fiel servo e co-servo em ao-Kyrios"
+          },
+          {
+            "verse": 8,
+            "text": "o qual enviei junto-a vos para ele isto para que conheçais o acerca-de nosso e exorte o do-coração vosso"
+          },
+          {
+            "verse": 9,
+            "text": "com Onésimo o fiel e amado ao-irmão o qual é de vosso todas-as-coisas a-vós farão-conhecer o aqui"
+          },
+          {
+            "verse": 10,
+            "text": "Saúda vos Aristarco o co-prisioneiro meu e Marcos o primo Barnabé acerca-de o qual recebestes mandamentos se venha junto-a vos recebei ele"
+          },
+          {
+            "verse": 11,
+            "text": "e Iesous o chamado Justo o sendo de da-circuncisão estes sós cooperadores para o reino o de-Theos os-quais tornaram-se a-mim consolo"
+          },
+          {
+            "verse": 12,
+            "text": "saúda vos Epafras o de vosso servo de-Christos Iesous sempre lutando em-favor-de vosso em o orações para que sejais-postos-de-pé perfeitos e tendo-sido-plenamente-assegurados em todo vontade o de-Theos"
+          },
+          {
+            "verse": 13,
+            "text": "testemunho pois a ele que tem muito dor em-favor-de vosso e o em Laodiceia e o em Hierápolis"
+          },
+          {
+            "verse": 14,
+            "text": "saúda vos Lucas o médico o amado e Demas"
+          },
+          {
+            "verse": 15,
+            "text": "Saudai o em Laodiceia irmãos e Ninfa e o segundo casa dela igreja"
+          },
+          {
+            "verse": 16,
+            "text": "e quando seja-lida de a-vós o carta fazei para que e em o Laodiceia assembleia seja-lida e o de Laodiceia para que e vós leiais"
+          },
+          {
+            "verse": 17,
+            "text": "e dizei Arquipo Olha o serviço o qual recebeste em ao-Kyrios para que ela preenchesses"
+          },
+          {
+            "verse": 18,
+            "text": "o saudação o minha mão Paulo lembrai meu o prisões o graça com vosso"
+          }
+        ]
+      }
+    ]
+  }
+}

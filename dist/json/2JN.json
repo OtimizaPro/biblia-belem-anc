@@ -1,0 +1,75 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+  },
+  "book": {
+    "order": 63,
+    "code": "2JN",
+    "name": "2 João",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "o ancião escolhida senhora e o filhos dela o qual eu amo em verdade e não eu só mas e todos o tendo-conhecido o verdade"
+          },
+          {
+            "verse": 2,
+            "text": "através-de o verdade o permanecendo em a-nós e com nosso será para o eternidade"
+          },
+          {
+            "verse": 3,
+            "text": "será com nosso graça misericórdia paz de-junto-de de-Theos Pai e de-junto-de Iesous de-Christos o do-Filho o Pai em verdade e amor"
+          },
+          {
+            "verse": 4,
+            "text": "Alegrei-me muito que tenho-encontrado de o filhos teu andando em verdade assim-como mandamento recebemos de-junto-de o Pai"
+          },
+          {
+            "verse": 5,
+            "text": "e agora peço te senhora não como mandamento escrevendo a-ti nova mas o qual tínhamos de princípio para que amemos uns-aos-outros"
+          },
+          {
+            "verse": 6,
+            "text": "e esta é o amor para que andemos segundo o mandamentos dele esta o mandamento é assim-como ouvistes de princípio para que em a-ela andeis"
+          },
+          {
+            "verse": 7,
+            "text": "que muitos enganadores saíram para o mundo o não confessando Iesous Christos vindo em na-carne este é o enganador e o anticristo"
+          },
+          {
+            "verse": 8,
+            "text": "vede a-si-mesmos para que não percais o qual trabalhamos mas salário cheio recebais"
+          },
+          {
+            "verse": 9,
+            "text": "todo o precedendo e não permanecendo em o em-ensino o de-Christos Theos não tem o permanecendo em o em-ensino este e o Pai e o Filho tem"
+          },
+          {
+            "verse": 10,
+            "text": "se alguém vem junto-a vos e esta o ensino não carrega não recebeis ele para casa e alegrar-se a ele não dizeis"
+          },
+          {
+            "verse": 11,
+            "text": "o dizendo pois a ele alegrar-se participa o obra dele o maus"
+          },
+          {
+            "verse": 12,
+            "text": "muitos tendo a-vós escrever não quis através-de de-papel e tinta mas espero tornar-se junto-a vos e boca junto-a boca falar para que o alegria nosso tendo-sido-preenchida seja"
+          },
+          {
+            "verse": 13,
+            "text": "Saúda te o filhos o irmã teu o escolhida"
+          }
+        ]
+      }
+    ]
+  }
+}

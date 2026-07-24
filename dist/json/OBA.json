@@ -1,0 +1,107 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+  },
+  "book": {
+    "order": 31,
+    "code": "OBA",
+    "name": "Obadias",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "חזון עבדיה assim disse Adonai yhwh לADEDOM שמעה שמנוּ yhwh yhwh וציר בגוים enviou קומוּ ונקומה לַמִּלְחָמָֽה׃"
+          },
+          {
+            "verse": 2,
+            "text": "eis pequeno eu-deti-te em-países בזוי tu muito"
+          },
+          {
+            "verse": 3,
+            "text": "זְדֹ֣ון לִבֶּֽךָ הִשַּׁעֲיֵ֖ךָ שֹׁכְנִ֣י בְּחַגְוֵֽי־ סֶ֑לַע altura שִׁבְתּ֔וֹ disse quem quem יוֹרַדֵּ֖נִי terra"
+          },
+          {
+            "verse": 4,
+            "text": "se תַּגְבִּ֣יהָ כַּנּוֹשֶׁר e-se entre estrelas foi-posto seu-cinto daí seu-alcance oráculo-de yhwh"
+          },
+          {
+            "verse": 5,
+            "text": "se ganhos-ladrões virão para-ti se destruidores noite como vossa-ruína não roubarão para-ti se de-mal vieram para-ti acaso-nao brilharão injustiças:"
+          },
+          {
+            "verse": 6,
+            "text": "como נֶחְפְּשׂוּ Esaú נִבְע֖וּ מַצְפֻּנָֽיו׃"
+          },
+          {
+            "verse": 7,
+            "text": "até הַגְּב֣וּל שִׁלְּח֗וּךָ todo homens-de בְרִיתֶ֔ךָ הִשִּׁיא֛וּךָ a-ti para-ti homens-de שְׁלֹמֶ֑ךָ לַחְמְךָ֗ yasum מָזוֹר֙ tachatcha não tevuna em-ele"
+          },
+          {
+            "verse": 8,
+            "text": "acaso-nao no-dia o-aquele oráculo-de yhwh vehabadti sábios me'edom e-entendimento me-ha-mar euveus:"
+          },
+          {
+            "verse": 9,
+            "text": "vechata giborecha teiman para-propósito-de yikarat- homem me-ha-mar Esaú mikatel:"
+          },
+          {
+            "verse": 10,
+            "text": "mechamas seu-irmão Jacó cobrir-te-ás vergonha e-será-cortado para-eternidade"
+          },
+          {
+            "verse": 11,
+            "text": "em-dia-de seu-poder em-frente em-dia-de sábios זָרִ֖ים seu-exército e-negros vieram e-sobre Jerusalém eles tirarem sorteio também tu como-um-de de-eles"
+          },
+          {
+            "verse": 12,
+            "text": "e-a ver-ás no-dia- irmão-teu em-dia-de נכרו e-a תשמא לבני יְהוּדָה em-dia-de אבדם e-a תגדאל פיكا em-dia angústia"
+          },
+          {
+            "verse": 13,
+            "text": "a תבא em-porta-de meu-povo em-dia-de אידם a תרא também tu ברעאתו em-dia-de אֵיד֑וֹ e-a תִּשְׁלַ֥חְנָה בְחֵיל֖וֹ em-dia אֵידֽוֹ׃"
+          },
+          {
+            "verse": 14,
+            "text": "e-a תַּעֲמֹד֙ sobre הַפֶּ֔רֶק לְהַכְרִ֖ית a פְּלִיטָ֑יו e-a תַּסְגֵּ֥ר שְׂרִידָ֖יו em-dia angústia"
+          },
+          {
+            "verse": 15,
+            "text": "porque próximo dia-de yhwh sobre todo as-nações como-que tu-fizeste יֵעָ֣שֶׂה para-ti גְּמֻלְךָ֖ יָשׁ֥וּב em-a-cabeça-vosso-verso"
+          },
+          {
+            "verse": 16,
+            "text": "que כַּֽאֲשֶׁ֤ר שְׁתִיתֶם֙ sobre monte-de qad'shi יִשְׁתּ֥וּ todo as-nações permanente e-sejam וְלָע֔וּ e-serão כְּל֥וֹא הָֽיוּ׃"
+          },
+          {
+            "verse": 17,
+            "text": "וּבְהַ֥ר צִיּ֛וֹן será פליטה וְהָ֣יָה santidade וירשוּ casa Jacó את מורשהיהם׃"
+          },
+          {
+            "verse": 18,
+            "text": "e-será casa-de Jacó Fogo ובית José להבה וּבֵ֤ית Esaú לקשׁ והדלכוּ neles ואכלוּם e-não será שריד֙ que yhwh porque yhwh palavra"
+          },
+          {
+            "verse": 19,
+            "text": "וירשוּ o Negue a monte-de Esaú e a Shefala a filisteus e Jerusalém a campo- Efraim e-a campo- Samaria e Benjamim a o-Gileade"
+          },
+          {
+            "verse": 20,
+            "text": "e Galut o Chel- o Zeh para-os-filhos-de Israel que Canaanitas até Tzarat e Galut Jerusalém que em Bisfarad ירשו את cidades-de הַנֶּֽגֶב"
+          },
+          {
+            "verse": 21,
+            "text": "ועלו משיעים em-monte-de Sião לשפט a monte-de Esaú e-será a-yhwh o-reino"
+          }
+        ]
+      }
+    ]
+  }
+}

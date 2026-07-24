@@ -1,0 +1,3833 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+  },
+  "book": {
+    "order": 20,
+    "code": "PRO",
+    "name": "Provérbios",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Mishlei Shelomoh filho-de Davi rei Israel"
+          },
+          {
+            "verse": 2,
+            "text": "para-conhecer sabedoria e Musar para entender אמרי inteligência;"
+          },
+          {
+            "verse": 3,
+            "text": "tomar Musar o entendimento justiça e julgamento e retidão;"
+          },
+          {
+            "verse": 4,
+            "text": "para-dar לִפְתָאיִ֣ים עָרְמָ֑ה לְנַ֗עַר conhecimento וּמְזִמָּֽה׃"
+          },
+          {
+            "verse": 5,
+            "text": "יִשְׁמַ֣ע sabio וְי֣וֹסֶף tomou וְנָב֗וֹן תַּחְבֻּל֥וֹת יִקְנֶֽה׃"
+          },
+          {
+            "verse": 6,
+            "text": "לְהָבִ֣ין מָ֭שָׁל e-mlítsá palavras-de chákhamím vé-chídotám"
+          },
+          {
+            "verse": 7,
+            "text": "yiráat yhwh ré'eshít dá'át chokhmá ú-musár é'vílim bá-zu"
+          },
+          {
+            "verse": 8,
+            "text": "ouviu filhos-de מוסר pai-teu e-a תיטו torat אמך"
+          },
+          {
+            "verse": 9,
+            "text": "que לויית חן הם eles ואנקים לגרגרותיך"
+          },
+          {
+            "verse": 10,
+            "text": "filhos-de se יפתחו חטאים a תֹּבֵֽא׃"
+          },
+          {
+            "verse": 11,
+            "text": "se יֹאמְרוּ֮ לְכָ֢ה אִ֫תָּ֥נוּ נֶאֶרְבָ֥ה לְדָ֑ם נִצְפְּנָ֖ה לְנָקִ֣י em vão:"
+          },
+          {
+            "verse": 12,
+            "text": "נִ֭בְלָעֵם כִּשְׁא֣וֹל vida e perfeitos como descendentes de Bur:"
+          },
+          {
+            "verse": 13,
+            "text": "todo isso precioso foi encontrado cheio nosso ventre despojo"
+          },
+          {
+            "verse": 14,
+            "text": "seu sortimento tu lançarás no-nos cobrir-se-á um será em-todos-nós"
+          },
+          {
+            "verse": 15,
+            "text": "filhos-de a andarás no-caminho com-eles impediu teu-pé das-feridas-deles"
+          },
+          {
+            "verse": 16,
+            "text": "que seus-pés para-mal correrão e-terão-se-apressado para derramar- sangue;"
+          },
+          {
+            "verse": 17,
+            "text": "porque em-virtude-de-livre de-cultivo da-passageira diante-olhos asa Baal asa"
+          },
+          {
+            "verse": 18,
+            "text": "e-eles para-sangue arrobar-se-ão cobrir-se-ão para-as-almas:"
+          },
+          {
+            "verse": 19,
+            "text": "sim אָרְחוֹת todo que-plantou plantou a alma sobre-ele"
+          },
+          {
+            "verse": 20,
+            "text": "sabedoria fora tenda em-ruas dareis sua-voz:"
+          },
+          {
+            "verse": 21,
+            "text": "no-cabo הומיאות תיקר בפתחי שערים בעיר אמרה תאמר:"
+          },
+          {
+            "verse": 22,
+            "text": "até מתי פתים תאהבו— פֶ֥תִי וְלֵצִ֗ים לָ֭צוֹן a-eles para-eles וּ֝כְסִילִ֗ים יִשְׂנְאוּ־ דָֽעַת׃"
+          },
+          {
+            "verse": 23,
+            "text": "תָּשׁ֗וּבוּ לְֽת֫וֹךַחְתִּ֥י eis אַבִּ֣יעָה a-vós רוּחִי אוֹדִ֖יעָה דְבָרַ֣י a-vós"
+          },
+          {
+            "verse": 24,
+            "text": "porque eu chamei e nos fez e estendi minha mão e-não escutando"
+          },
+          {
+            "verse": 25,
+            "text": "e se curvaram todo minha conselheira não não seus pais"
+          },
+          {
+            "verse": 26,
+            "text": "também eu em vossos corações e Isaque אֵלָֽף-עַ֫ג em-a-entrada פַּחְדְּכֶ֑ם׃"
+          },
+          {
+            "verse": 27,
+            "text": "בְּבֹ֤א פַּחְדְּכֶ֗ם וְֽאֵידְכֶם כְּסֹעַףָ֣ה יֵאָתֶ֑ה בְּבֹ֥א עֲלֵיכֶ֗ם צַרָּה וְצוּקָֽה׃"
+          },
+          {
+            "verse": 28,
+            "text": "então יִ֭קְרָאֻנְנִי e-não אֶֽעֱנֶ֑ה יְ֝שַׁחֲרֻ֗נְנִי e-não יִמְצָאֻֽנְנִי׃"
+          },
+          {
+            "verse": 29,
+            "text": "debaixo porque שָׂ֣נְאוּ דָ֑עַת וְיִרְאַ֥ת não não בָחָֽרוּ׃"
+          },
+          {
+            "verse": 30,
+            "text": "não אָב֥וּ לַעֲצָתִ֑י נָ֝אֲצ֗וּ todo תּוֹכַחְתִּֽי׃"
+          },
+          {
+            "verse": 31,
+            "text": "וְֽ֭יֹאכְלוּ do-fruto-de דַרְכָּ֑ם וּֽמִמֹּעֲצֹ֖תֵיהֶ֣ם יִשְׂבָּֽעוּ׃"
+          },
+          {
+            "verse": 32,
+            "text": "que מְשׁוּבַ֣ת פְּתָיִ֣ם תַּֽהַרְגֵ֑ם וְשַׁלְוַ֖ת כְּסִילִ֣ים תְּאַבְּדֵֽם׃"
+          },
+          {
+            "verse": 33,
+            "text": "וְשֹׁמֵ֣עַֽ para-mim habitará בֶּ֑טַח וְ֝שַׁאֲנַ֗ן מִפַּ֥חַד mal"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "filhos-de se tu-tomarás אֲמָרָ֑י וּ֝מִצְוֺתַ֗י תִּצְפֹּ֥ן contigo"
+          },
+          {
+            "verse": 2,
+            "text": "לְהַקְשִׁ֣יב para a sabedoria as tuas orelhas torne o teu coração para a entendência"
+          },
+          {
+            "verse": 3,
+            "text": "que mãe para a compreensão chama para a entendência dareis a tua voz"
+          },
+          {
+            "verse": 4,
+            "text": "se busca como prata e como gado serás procurada"
+          },
+          {
+            "verse": 5,
+            "text": "então viverás temor yhwh e conhecimento Elohim תִּמְצָֽא׃"
+          },
+          {
+            "verse": 6,
+            "text": "porque yhwh dará sabedoria conhecimento conhecimento e entendimento"
+          },
+          {
+            "verse": 7,
+            "text": "aos justos תּוּשִׁיָּ֑ה מָ֝גֵ֗ן לְהֹ֣לְכֵי תֹֽם׃"
+          },
+          {
+            "verse": 8,
+            "text": "לִ֭נְצֹר caminhos juízo e-caminho יִשְׁמֹֽר׃"
+          },
+          {
+            "verse": 9,
+            "text": "אָ֗ז תָּ֭בִין justica e-juízo וּ֝מֵישָׁרִ֗ים todo מַעְגַּל־ bom"
+          },
+          {
+            "verse": 10,
+            "text": "porque Venha sabedoria no-seu-coração e-conhecimento para-a-tua-alma será-alegria"
+          },
+          {
+            "verse": 11,
+            "text": "intenção guarda sobre-ti sabedoria será-inteligência"
+          },
+          {
+            "verse": 12,
+            "text": "para-te-resgatar de-caminho-de mal de-um que-está-falando in-versões:"
+          },
+          {
+            "verse": 13,
+            "text": "os-desertores caminhos retiro-me para-andar em-caminhos- escuridão"
+          },
+          {
+            "verse": 14,
+            "text": "os-felizes para-fazer mal rirão: em-in-versões mal"
+          },
+          {
+            "verse": 15,
+            "text": "que caminhos-les torvos וּנְלוֹזִים בְּמַעְגְּלוֹתָֽם׃"
+          },
+          {
+            "verse": 16,
+            "text": "para te salvar מֵאִשָּׁ֣ה זָרָ֑ה מִ֝נָּכְרִיָּ֗ה אֲמָרֶ֥יהָ הֶחֱלִֽיקָה׃"
+          },
+          {
+            "verse": 17,
+            "text": "הַ֭עֹזֶבֶת chefe נְעוּרֶ֑יהָ e-a berith suas-deusas esqueceu-se;"
+          },
+          {
+            "verse": 18,
+            "text": "que caiu a morte sua-casa e-a espíritos-malignos seus-rolamentos"
+          },
+          {
+            "verse": 19,
+            "text": "todo não não voltem-se e-não vida caminhos vivos"
+          },
+          {
+            "verse": 20,
+            "text": "para-que andarão no-caminho bons וְאָרְח֖וֹת justos תִּשְׁמֹֽר׃"
+          },
+          {
+            "verse": 21,
+            "text": "porque ישרים terra וּ֝תְמִימִ֗ים יִוּ֥תְרוּ em-ela"
+          },
+          {
+            "verse": 22,
+            "text": "וּ֭רְשָׁעִים de-terra-de יִכָּרֵ֑תוּ וּ֝בוֹגְדִ֗ים יִסְּח֥וּ de-elas"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "filhos-de תּוֹרָתִ֣י a נִשְׁכָּח e-m Mandamentos fará-te לִבֶּךָ׃"
+          },
+          {
+            "verse": 2,
+            "text": "que comprimento dias e-anos vida e-quietude adicionar-se-ão para-ti"
+          },
+          {
+            "verse": 3,
+            "text": "bondade e-verdade a deixar-te-á lhes ligareis sobre gargolotéike כּתְבֵ֗ם sobre לוּחַ לִבֶּךָ׃"
+          },
+          {
+            "verse": 4,
+            "text": "וּמְצָא־ graça וְשֵֽׂכֶל־ bom em-olhos-de Elohim וְאָדָֽם׃"
+          },
+          {
+            "verse": 5,
+            "text": "בּטַ֣ח a yhwh em-todo teu-coração e-a בִּינָתְךָ֗ a תִּשָּׁעֵֽן׃"
+          },
+          {
+            "verse": 6,
+            "text": "em-todo דְּרָכֶ֥יךָ דעהוּ e ele dirige as tuas caminhos:"
+          },
+          {
+            "verse": 7,
+            "text": "a seja sabio em-olhos-teus teme a yhwh e se afaste מֵרַע׃"
+          },
+          {
+            "verse": 8,
+            "text": "cura seja para ti e fortalecimento para as tuas ossadas:"
+          },
+          {
+            "verse": 9,
+            "text": "כַּבֵּ֣ד a yhwh de-honêka e-mê-reshît todo tû'â'âtê-khâ:"
+          },
+          {
+            "verse": 10,
+            "text": "e-yimmâ'lê'u asâmê-khâ sete e-tîrôsh' yêqâbê-khâ iphrôtsû:"
+          },
+          {
+            "verse": 11,
+            "text": "musar yhwh filhos-de a תּימאָס e-a te provocará na sua repreensão:"
+          },
+          {
+            "verse": 12,
+            "text": "que a que amará yhwh provará e com dor a filho aceitará:"
+          },
+          {
+            "verse": 13,
+            "text": "felizes homem encontrou sabedoria e o homem despertará תּוֹבַן׃"
+          },
+          {
+            "verse": 14,
+            "text": "que bom סחרתה מסחר- prata ומrvineץ תבואתה׃"
+          },
+          {
+            "verse": 15,
+            "text": "יקרה هي e-todo חפצך não não em-ela"
+          },
+          {
+            "verse": 16,
+            "text": "comprimento ימים בימיןנה בּוֹסְמֹאולָהּ dez e glória"
+          },
+          {
+            "verse": 17,
+            "text": "suas caminhadas caminhos de - beleza e-todo suas trilhas paz"
+          },
+          {
+            "verse": 18,
+            "text": "árvore de - vida ela para os que seguram nela e-seus-apoiadores מְאֻשָּֽׁר׃"
+          },
+          {
+            "verse": 19,
+            "text": "yhwh בְּחָכְמָ֥ה יָֽסַד־ terra כּוֹנֵ֥ן céus בִּתְבוּנָֽה׃"
+          },
+          {
+            "verse": 20,
+            "text": "בְּ֭דַעְתּוֹ תְּהוֹמ֣וֹת נִבְקָ֑עוּ וּ֝שְׁחָקִ֗ים ירעוּ- orvalho:"
+          },
+          {
+            "verse": 21,
+            "text": "filhos-de a yalutzu me-eyneykha natsor tushiyah u-mizmoh"
+          },
+          {
+            "verse": 22,
+            "text": "ve-yihyu vida le-nafshekha ve-chen le-gargrotaykha"
+          },
+          {
+            "verse": 23,
+            "text": "então andarás לָבֶ֣טַח דַּרְכֶּ֑ךָ וְרַגְלְךָ֗ não תִגּֽוֹף׃"
+          },
+          {
+            "verse": 24,
+            "text": "se תִּשְׁכַּ֥ב não תִפְחָ֑ד וְשָׁכַבְתָּ֗ וְעָרְבָ֥ה שְׁנָתֶֽךָ׃"
+          },
+          {
+            "verse": 25,
+            "text": "a תִּ֭ירָא de-temor פתאום ומשאת que porque תבוא׃"
+          },
+          {
+            "verse": 26,
+            "text": "porque será será בקislecha ושמאר רגלך׃ מלcdecl׃"
+          },
+          {
+            "verse": 27,
+            "text": "a תימנע־ bom מביעלאיו na-vez-de לְאֵ֖ל para-fazer"
+          },
+          {
+            "verse": 28,
+            "text": "a תֹּ֘אמַ֤ר vai וָ֭שׁוּב וּמָחָ֥ר אֶתֵּ֗ן וְיֵ֣שׁ contigo"
+          },
+          {
+            "verse": 29,
+            "text": "a תַּחֲרֹ֣שׁ sobre רֵעֲךָ֣ maldade e-ele habitante לָבֶ֣טַח contigo"
+          },
+          {
+            "verse": 30,
+            "text": "a com homem חִנָּם se não גְמָלְךָ֣ mal"
+          },
+          {
+            "verse": 31,
+            "text": "a תְּ֭קַנֵּא בְּאִישׁ injustiça e-a תִּ֝בְחַ֗ר em-todo Seus-caminos:"
+          },
+          {
+            "verse": 32,
+            "text": "que Repulsa: yhwh Esperto: e-a ישרים Segredo:"
+          },
+          {
+            "verse": 33,
+            "text": "Luz: yhwh em-casa-de ímpio E-alegria: justos Bendiga:"
+          },
+          {
+            "verse": 34,
+            "text": "se A-línguas: ele Mordesse: dê חֵֽן׃"
+          },
+          {
+            "verse": 35,
+            "text": "כבוד sabios ינחלו וכסילים מרימים קלון׃"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "ouvi filhos משור pai והקשיבוּ para-conhecer בינה׃"
+          },
+          {
+            "verse": 2,
+            "text": "que tomou bom dei a-vós תורתני a תַּעֲזֹֽבוּ׃"
+          },
+          {
+            "verse": 3,
+            "text": "porque filho eu-fui לְאָבִ֑י רַ֥ךְ וְ֝יָחִ֗יד diante-de אִמִּֽי׃"
+          },
+          {
+            "verse": 4,
+            "text": "וַיֹּרֵ֗נִי E-disse para-mim יִֽתְמָךְ־ דְּבָרַ֥י teu-coração שְׁמֹ֖ר meus-mandamentos וֽ͏ֶחְיֵֽה׃"
+          },
+          {
+            "verse": 5,
+            "text": "קְנֵ֣ה חָכְמָה Compre a Sabedoria a תִּשְׁכַּ֥ח e-a derrama-te por palavras dos meu bocadilho:"
+          },
+          {
+            "verse": 6,
+            "text": "a desampares-a e a preservas e ames e a cultivares"
+          },
+          {
+            "verse": 7,
+            "text": "רֵאשִׁ֖ית חָכְמָה קְנֵ֣ה sabedoria e-em-todo קִנְיָנְךָ֗ קְנֵ֣ה בִינָה׃"
+          },
+          {
+            "verse": 8,
+            "text": "סַלְסְלֶ֥הָ וּתְרוֹמְמֶ֑ךָּ תְּכַבֵּדְךָ que תְחַבְּקֶנָּה׃"
+          },
+          {
+            "verse": 9,
+            "text": "תִּתֵּ֣ן para a-cabeça-te para a-companhamento-de grace coroa glória que te-alegre"
+          },
+          {
+            "verse": 10,
+            "text": "ouviu filhos-de e toma minha-boca e se-multiplicem a-ti שַׁנִּים vida"
+          },
+          {
+            "verse": 11,
+            "text": "no-caminho חָכְמָה הֹרֵתִ֑יךָ הִ֝דְרַכְתִּ֗יךָ בְּמַעְגְּלֵי־ יֹֽשֶׁר׃"
+          },
+          {
+            "verse": 12,
+            "text": "בְּ֭לֶכְתְּךָ não יֵצַ֣ר צַעֲדֶ֑ךָ não תָּ֝ר֗וּץ não תִכָּשֵֽׁל׃"
+          },
+          {
+            "verse": 13,
+            "text": "o fortaleça pela instrução a quebrada quebrará tua-vida ela vidas-tuas"
+          },
+          {
+            "verse": 14,
+            "text": "no caminho ímpios a vem e-a serás abençoada no-caminho males:"
+          },
+          {
+            "verse": 15,
+            "text": "seus males a várias vezes nele שׂטה de-lhes e-passarão:"
+          },
+          {
+            "verse": 16,
+            "text": "que não dormirão se não brincarão e-ser-lhes-roubada seu-ano se não"
+          },
+          {
+            "verse": 17,
+            "text": "que comeram pão רֶ֑שַׁע e-vinho violentos beberão"
+          },
+          {
+            "verse": 18,
+            "text": "וְאֹ֣רַח צדיקים כאור נגה הלך ואור até o-dia o-dia"
+          },
+          {
+            "verse": 19,
+            "text": "o-caminho-de ímpios כאפליה não ידעו במה יחשלו׃"
+          },
+          {
+            "verse": 20,
+            "text": "filhos-de para minhas palavras Ouvi כדי לאמור הט- vossos ouvidos"
+          },
+          {
+            "verse": 21,
+            "text": "a יליזוּ מעינייםך no-meio-de em-meio-de ao-teu-coração"
+          },
+          {
+            "verse": 22,
+            "text": "porque eles הם למצואיהם e-para-todo בשריו cura"
+          },
+          {
+            "verse": 23,
+            "text": "de-todo משמר נצר teu-coração porque vida יצאות vivos"
+          },
+          {
+            "verse": 24,
+            "text": "הסר ממך עקוות פה ולזוות שפתים afaste-se de-te"
+          },
+          {
+            "verse": 25,
+            "text": "os olhos-vossos para-a vista olhem e-as tuas pálpebras alinhem-se diante-de-vós"
+          },
+          {
+            "verse": 26,
+            "text": "palés anel as tuas pernas e-todo tus-caminos YNCנֻ׃"
+          },
+          {
+            "verse": 27,
+            "text": "a estende— direita e-esquerda tira— teu pé— מֵרַע׃"
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "filhos-de para a minha sabedoria ouça— para a minha compreensão estende— teu ouvido:"
+          },
+          {
+            "verse": 2,
+            "text": "לִשְׁמֹ֥ר mezimmot ve'da'at saphatecha yinatzru:"
+          },
+          {
+            "verse": 3,
+            "text": "que nofet tittopnah שֹׂפְתֵי zarah ve'chalaq de-a-oleo chikhah:"
+          },
+          {
+            "verse": 4,
+            "text": "e-a-acharíta-ha מררה כללאנה חדדה כחרב פיות׃"
+          },
+          {
+            "verse": 5,
+            "text": "רגליה יורדות morte שְׁ֝א֗וֹל צעדה יתמכו׃"
+          },
+          {
+            "verse": 6,
+            "text": "אֹ֣רַח vida para-que-não תְּפַלֵּ֑ס נָע֥וּ não não תֵדֽ͏ָע׃"
+          },
+          {
+            "verse": 7,
+            "text": "e-agora filhos ouvi para-mim e-a תָּ֝ס֗וּרוּ מֵאִמְרֵי־ פִֽי׃"
+          },
+          {
+            "verse": 8,
+            "text": "הַרְחֵ֣ק מֵעָלֶ֣יהָ דַרְכֶּ֑ךָ e-a תִּ֝קְרַ֗ב a porta casa-de-a-ela"
+          },
+          {
+            "verse": 9,
+            "text": "para-que-não תִּתֵּ֣ן לַאֲחֵרִ֣ים הוֹדֶ֑ךָ וּ֝שְׁנֹתֶ֗יךָ לְאַכְזָרִֽי׃"
+          },
+          {
+            "verse": 10,
+            "text": "para-que-não יִשְׂבְּע֣וּ זָרִ֣ים כֹּחֶ֑ךָ וַ֝עֲצָבֶ֗יךָ em-casa-de נכרִי׃"
+          },
+          {
+            "verse": 11,
+            "text": "וְנָהַמְתָּ֥ בְאַחֲרִיתֶ֑ךָ בִּכְל֥וֹת בְּ֝שָׂרְךָ֗ וּשְׁאֵרֶֽךָ׃"
+          },
+          {
+            "verse": 12,
+            "text": "וְֽאָמַרְתָּ֗ איכ์ שָׂנֵ֣אתִי disciplina וְ֝תוֹכַ֗חַת נָאַ֥ץ meu coração:"
+          },
+          {
+            "verse": 13,
+            "text": "e-não שָׁמַעְתִּי com-voz מֹרָי וְלִמְלַמְּדַ֗י não הִתּ֣יתִי אָזְנִֽי׃"
+          },
+          {
+            "verse": 14,
+            "text": "כִּ֭מְעַט eu-fui em-todo no-meio-de em-meio-de קָהָ֣ל וְעֵדָֽה׃"
+          },
+          {
+            "verse": 15,
+            "text": "שַׁתֵּה־ águas de-sua-benção e-nozlí de-meio em-áereke"
+          },
+          {
+            "verse": 16,
+            "text": "se-apartem de-sus-túas fora em-á-recho-bótes rios-de- águas"
+          },
+          {
+            "verse": 17,
+            "text": "serao para-ti apenas-tu e-nao-ha para-os contigo"
+          },
+          {
+            "verse": 18,
+            "text": "será מקורהך ברוך e alegre-se מ אשׁת נערך׃"
+          },
+          {
+            "verse": 19,
+            "text": "איילית אהבים WAYヤלת דDYהא ירובך em-todo tempo em-suas-amor תISHגֶ֥ה tamanho:12;cor:#FF0000;נָוֶה: תמיד;"
+          },
+          {
+            "verse": 20,
+            "text": "e-porque tishge filhos-de bazarah utachavak chek estranha"
+          },
+          {
+            "verse": 21,
+            "text": "que nokach os-olhos-de os-olhos-de yhwh homem e-todo maagallowatay mefalles"
+          },
+          {
+            "verse": 22,
+            "text": "suas-iniquidades ser prendido a o-rash'ăʿ e nos cordos seu pecado ser consumido"
+          },
+          {
+            "verse": 23,
+            "text": "ele morre na árvore disciplina e na abundância seu deserto יִשְׁגֶּֽה׃"
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "filhos-de se arabt para-te taqahta para-zar ka-fei-ka"
+          },
+          {
+            "verse": 2,
+            "text": "noqashhta be-amrei- pi-ka nilkadhta בְּאִמְרֵי־ teu"
+          },
+          {
+            "verse": 3,
+            "text": "fez esta אֵפ֪וֹא filhos-de e ver-se-á porque que בְכַף־ re'ekha vai הִ֝תְרַפֵּ֗ס וּרְהַ֥ב רֵעֶֽיךָ׃"
+          },
+          {
+            "verse": 4,
+            "text": "a תִּתֵּ֣ן שֵׁנָ֣ה לְעֵינֶ֑יךָ e-té-numá para as tuas faces"
+          },
+          {
+            "verse": 5,
+            "text": "hinnatsêl como flecha imediatamente e como pomba de-mão-de será buscado"
+          },
+          {
+            "verse": 6,
+            "text": "vai a lagarta porco-espadao viu suas-caminhos E sábio:"
+          },
+          {
+            "verse": 7,
+            "text": "que não há para-ela קָצִ֗ין shoter E governante:"
+          },
+          {
+            "verse": 8,
+            "text": "preparar-te-ás No verão Para o seu pão Agricultura No outono Para o seu alimento:"
+          },
+          {
+            "verse": 9,
+            "text": "até até-quando Porco selvagem תִּשְׁכַּ֑ב מָתַ֗י תָּקוּם מִשְׁנַתֶּךָ׃"
+          },
+          {
+            "verse": 10,
+            "text": "pouco שֵׁנֹות pouco תְּנוּמֹת מְעַט ׀ חִבֻּק יָדַיִם para-deitar-se;"
+          },
+          {
+            "verse": 11,
+            "text": "וּבָֽא־ como-vos-locais רֵאשֶׁ֑ךָ וּ֝מַחְסֹֽרְךָ֗ כְּאִ֣ישׁ מָגֵֽן׃"
+          },
+          {
+            "verse": 12,
+            "text": "homem בְּ֭לִיַּעַל homem iniquidade ה֝וֹלֵ֗ךְ עִקְּשׁ֥וּת boca;"
+          },
+          {
+            "verse": 13,
+            "text": "קֹרֵץ em-suas-olhos מֹלֵ֣ל בְּרַגְלָ֑ו מֹ֝רֶ֗ה בְּאֶצְבְּעֹתָֽיו׃"
+          },
+          {
+            "verse": 14,
+            "text": "תַּֽהְפֻּכ֨וֹת ׀ no-cor-do חֹרֵ֣שׁ mau mal tempo יְשַׁלֵּֽחַ׃"
+          },
+          {
+            "verse": 15,
+            "text": "sobre sim פִּ֭תְאֹם vira אֵיד֑וֹ פתח יִ֝שָּׁבֵ֗ר e-não מַרְפֵּֽא׃"
+          },
+          {
+            "verse": 16,
+            "text": "שֶׁשׁ־ הֵ֭נָּה yhwh yhwh וְ֝שֶׁ֗בַע a sua alma:"
+          },
+          {
+            "verse": 17,
+            "text": "עֵינַ֣יִם רָ֭מוֹת língua-de falsidade וְ֝יָדַ֗יִם shofkhot dam- נקי׃"
+          },
+          {
+            "verse": 18,
+            "text": "coração חרשׁ מַחְשְׁבוֹת iniquidade רגלים ממהרות para-correr לא רעה׃"
+          },
+          {
+            "verse": 19,
+            "text": "יפיח כזבים até falsidade ומשלך מדינים entre אחימ׃"
+          },
+          {
+            "verse": 20,
+            "text": "נְצֹ֣ר filhos-de מִצְוַ֣ת pai-teu e-a תִּ֝טֹּ֗שׁ torat אִמֶּֽךָ׃"
+          },
+          {
+            "verse": 21,
+            "text": "קָשְׁרֵ֣ם sobre לִבְּךָ֣ תָּמִ֑יד עָ֝נְדֵ֗ם sobre גַּרְגְּרֹתֶֽךָ׃"
+          },
+          {
+            "verse": 22,
+            "text": "בְּהִתְהַלֶּכְךָ֨ תַּנְחֶ֬ה você na tua cama guardares sobre-ti e despertarás ela te embriagarás"
+          },
+          {
+            "verse": 23,
+            "text": "que cera mandamento e lei luz e caminho vida repreensões correções"
+          },
+          {
+            "verse": 24,
+            "text": "para guardá-lo de-a-eshet mal de-helqata lashaon estranha"
+          },
+          {
+            "verse": 25,
+            "text": "a tachmода yafiya bilbavekha e-a tikachaka be-afapeyha"
+          },
+          {
+            "verse": 26,
+            "text": "que ba-ad- mulher zonah até כִּכַּ֫ר לָ֥חֶם וְאֵ֥שׁ homem alma יְקָרָ֣ה תָצֽוּד׃"
+          },
+          {
+            "verse": 27,
+            "text": "הֲיַחְתֶּ֤ה homem אֵ֬שׁ em-seio-seu וּ֝בְגָדָ֗יו não תִשָׂרַֽפְנָה׃"
+          },
+          {
+            "verse": 28,
+            "text": "se יְהַלֵּ֣ךְ homem sobre não e os pés não serão formados"
+          },
+          {
+            "verse": 29,
+            "text": "sim o que vem a mulher-de não não roubará todo morrendo nela"
+          },
+          {
+            "verse": 30,
+            "text": "não enganarão que porque ladrão para preencher que porque será fome"
+          },
+          {
+            "verse": 31,
+            "text": "e será achado pagará שִׁבְעַת־ a todo הֽוֹן בֵּית֣ יִתֶּן׃"
+          },
+          {
+            "verse": 32,
+            "text": "נֹאֵף mulher חֲסַר־ coração מַשָּׁׁחִ֥ית ele ele יַעֲשֹׂן׃"
+          },
+          {
+            "verse": 33,
+            "text": "נֶּגַע־ וְקָלוֹן יִמְצָא não não תִמָּחֶה׃"
+          },
+          {
+            "verse": 34,
+            "text": "porque קִנְאָה Hamate Geber e-não יַחְמ֗וֹל em-dia-de נָקָֽם׃"
+          },
+          {
+            "verse": 35,
+            "text": "não face-de face-de todo que e-não יֹ֝אבֶה porque תַרְבֶּה־"
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "filhos-de שְׁמֹ֣ר אֲמָרָ֑י וּמִצְוֺתַ֗י תִּצְפֹּ֥ן contigo"
+          },
+          {
+            "verse": 2,
+            "text": "שְׁמֹ֣ר meus-mandamentos וֶחְיֵ֑ה וְ֝תוֹרָתִ֗י כְּאִישׁ֥וֹן de-tus-teus-olhos"
+          },
+          {
+            "verse": 3,
+            "text": "קָשְׁרֵ֥ם sobre אצבעיך כָּ֝תְבֵ֗ם sobre ל֥וּחַ לִבֶּךָ׃"
+          },
+          {
+            "verse": 4,
+            "text": "disse לַֽ֭חָכְמָה irmã-de-mim você-é וּ֝מֹדָ֗ע para-a-compreensão leia-se:"
+          },
+          {
+            "verse": 5,
+            "text": "para-te-guardar de-uma-mulher estrangeira da-outra suas-palavras ela-foz"
+          },
+          {
+            "verse": 6,
+            "text": "que no-janela em-minha-casa bedo eshnabi nishqafte:"
+          },
+          {
+            "verse": 7,
+            "text": "va'era [בַפְּתָאיִ֗ם] avina [בַבָּנִ֗ים] jovem chasar- coração"
+          },
+          {
+            "verse": 8,
+            "text": "passando bashuk junto-a pinnah e-caminho seu lar irá se deitar"
+          },
+          {
+            "verse": 9,
+            "text": "pelo vento- dia dia na noite noite e ainda mais"
+          },
+          {
+            "verse": 10,
+            "text": "e-eis mulher ao-encontro-dele ela viúva e a que está sozinha coração"
+          },
+          {
+            "verse": 11,
+            "text": "a desolada ela e a abandonada no-seu-lugar não vivam suas-pé"
+          },
+          {
+            "verse": 12,
+            "text": "vez fora-do-lugar vez vez e-próximo-a todo canto ela-arrancará"
+          },
+          {
+            "verse": 13,
+            "text": "e-ele-se-agarrará-a nele e beijasse- para-ele a jumenta a-ele ela disse- a-ele"
+          },
+          {
+            "verse": 14,
+            "text": "sacrificios-de paz sobre mim- o-dia eu lhe dei paz minha promessa"
+          },
+          {
+            "verse": 15,
+            "text": "sobre assim saí-יצאתי li-qra-techa para a manhã tua face e encontrei-te"
+          },
+          {
+            "verse": 16,
+            "text": "מרבדדים רבדתני עַרְשִׂ֑י חתובות אתונ Egito"
+          },
+          {
+            "verse": 17,
+            "text": "נפתני משכבבי מור אהלים e-cinnamom:"
+          },
+          {
+            "verse": 18,
+            "text": "לְכָ֤ה נירוה דֹ֭דִים até הַבֹּ֑קֶר נִ֝תְעַלְּסָ֗ה בָּאֳהָבִֽים׃"
+          },
+          {
+            "verse": 19,
+            "text": "que não-há o-homem em-a-casa-seu andar no-caminho מֵרָחֽוֹק׃"
+          },
+          {
+            "verse": 20,
+            "text": "צְֽרוֹר־ tomou tomou na-sua-mão לְי֥וֹם הַ֝כֵּ֗סֶא virá seu lar:"
+          },
+          {
+            "verse": 21,
+            "text": "הִ֭טַּתּוּ em-multidão לִקְחָ֑הּ בְּחֵ֥לֶק שְׂ֝פָתֶ֗יהָ תַּדִּיחֶֽנּוּ׃"
+          },
+          {
+            "verse": 22,
+            "text": "ה֤וֹלֵ֥ךְ אַחֲרֶ֗יהָ פִּ֫תְאֹ֥ם כְּ֭שׁוֹר a Geraque virá e-cuxe a מוּסַ֥ר אָוֶל׃"
+          },
+          {
+            "verse": 23,
+            "text": "até יְפַלֵּח חֵֿץ כֲּבוֹד֑וֹ כֲּמָהֵר pássaro a פָּח e-não ele porque בְּנַפְשׁוֹ ela"
+          },
+          {
+            "verse": 24,
+            "text": "e-agora filhos ouvi a-mim וְהַקְשִׁיבוּ לְאִמְרֵי־ פִּי׃"
+          },
+          {
+            "verse": 25,
+            "text": "a ישׂטְ a דרכיה teu-coração a תטע בנתיבותיה׃"
+          },
+          {
+            "verse": 26,
+            "text": "porque רבים חללים HIPILlah ואצומים todo הרגיה׃"
+          },
+          {
+            "verse": 27,
+            "text": "דרכו inferno casa-sua que-desce a quartos- מָוֶת׃"
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "não sabedoria chama-se e-inteligência- dareis sua-voz:"
+          },
+          {
+            "verse": 2,
+            "text": "em-cima-de- מרומימ sobre caminho casa caminhos נצבה׃"
+          },
+          {
+            "verse": 3,
+            "text": "ליד־ שערים à-boca-de קרת׃ מבוא פתחים תרונה׃"
+          },
+          {
+            "verse": 4,
+            "text": "אליכם אִישׁים clamarei ואולי a homem homem"
+          },
+          {
+            "verse": 5,
+            "text": "Habínu mentirosos Arma uCesilim entendei coração"
+          },
+          {
+            "verse": 6,
+            "text": "Shímeu porque Negidim אֲדַבְּרָה Umipftach minhas-línguas retamente"
+          },
+          {
+            "verse": 7,
+            "text": "porque verdade Yehge Chikki e abominações minhas-línguas iniquidade;"
+          },
+          {
+            "verse": 8,
+            "text": "em justiça todo palavras-de a boca não-há neles se desviou e-iqueš׃"
+          },
+          {
+            "verse": 9,
+            "text": "כֻּלָּ֣ם fortes para entender e retos לְמֹ֣צְאֵי דָֽעַת׃"
+          },
+          {
+            "verse": 10,
+            "text": "קְחֽוּ־ מוּסָרִ֥י e-a prata וְ֝דַ֗עַת מֵחָר֥וּץ נבחר׃"
+          },
+          {
+            "verse": 11,
+            "text": "porque boa חָ֭כְמָה מִפְּנִינִ֑ים não חֲ֝פָצִ֗ים não não em-ela"
+          },
+          {
+            "verse": 12,
+            "text": "אֲ‍ֽנִי־ חָכְמָה שׁוֹכְנִי עָרְמָה וּדְעָת מְזִמּוֹת אֶמְצָא׃"
+          },
+          {
+            "verse": 13,
+            "text": "יראת yhwh שׂוֹנֵאת mal גֵּאוֹת וְגָאֹון ׀ e-caminho mau mal inversões odiava:"
+          },
+          {
+            "verse": 14,
+            "text": "para-mim, conselho e-mentira eu בינה a-mim fortaleza:"
+          },
+          {
+            "verse": 15,
+            "text": "em-mim, מְלָכִ֣ים reinarão e rosnarão chocar-se-ão צֶֽדֶק׃"
+          },
+          {
+            "verse": 16,
+            "text": "em mim príncipes arrotarão e-nédivim todo juízes צֶֽדֶק׃"
+          },
+          {
+            "verse": 17,
+            "text": "Eu amou e me despeirarão me encontrarão;"
+          },
+          {
+            "verse": 18,
+            "text": "riqueza- e glória comigo e riquezas antigo e justiça׃"
+          },
+          {
+            "verse": 19,
+            "text": "bom meu fruto de carvalho e de pérola e minha colheita de ouro foi escolhido"
+          },
+          {
+            "verse": 20,
+            "text": "בְּאֹֽרַח־ צְדָקָ֥ה no-meio-de בְּ֝ת֗וֹךְ נְתִיב֥וֹת juízo"
+          },
+          {
+            "verse": 21,
+            "text": "לְהַנְחִ֖יל אֹהֲבַ֥י ׀ יֵ֑שׁ וְאֹצְרֹ֖תֵיהֶ֣ם אֲמַלֵּֽא׃"
+          },
+          {
+            "verse": 22,
+            "text": "yhwh קָ֭נָנִי רֵאשִׁ֖ית seu-caminho oriente מִפְעָלָ֣יו de-então:"
+          },
+          {
+            "verse": 23,
+            "text": "מֵ֭עוֹלָם נִסַּ֥כְתִּי מֵרֹ֗אשׁ מִקַּדְמֵי־ terra"
+          },
+          {
+            "verse": 24,
+            "text": "בְּאֵין־ תְּהֹמ֥וֹת חוֹלָ֑לְתִּי בְּאֵ֥ין מַ֝עְיָנ֗וֹת נִכְבַּדֵּי־ águas"
+          },
+          {
+            "verse": 25,
+            "text": "betereim-acento-águia os-montes הָטְבָּ֑עוּ diante-de גבאוֹת חוֹלָֽלְתִּי׃"
+          },
+          {
+            "verse": 26,
+            "text": "até não terra terra וְחוּצ֑וֹת וְ֝רֹ֗אשׁ mundo"
+          },
+          {
+            "verse": 27,
+            "text": "בַּהֲכִינ֣וֹ céus nome eu בְּח֥וּקוֹ ח֝֗וּג sobre abismo Tehôm:"
+          },
+          {
+            "verse": 28,
+            "text": "em-אַמְּצ֣וֹ shachaqim מִמָּעַל ba'azoz 'unot Tehôm:"
+          },
+          {
+            "verse": 29,
+            "text": "b'shumô laiyâm chukko u'mayim não não seu-boca בְּ֝חוּק֗וֹ fundamentos terra"
+          },
+          {
+            "verse": 30,
+            "text": "e-serei junto-a-ele Amon e-serei consolações dia dia dia diante-dele em-todo tempo:"
+          },
+          {
+            "verse": 31,
+            "text": "esfregando em-mundo terra-dele e-meus-alegres a homem homem"
+          },
+          {
+            "verse": 32,
+            "text": "e-agora filhos ouvi a-mim וְ֝אַשְׁרֵ֗י minhas-caminhos se-mantenham;"
+          },
+          {
+            "verse": 33,
+            "text": "ouvi sabedoria [וַחֲכָ֗מוּ] e-a se-desenvolvam;"
+          },
+          {
+            "verse": 34,
+            "text": "וְ֝אַשְׁרֵ֗י homem ouviu para-mim para-esconder sobre dia dia dia לִשְׁמֹ֗ר em-o-porta-s פְּתָחָֽי׃"
+          },
+          {
+            "verse": 35,
+            "text": "que מֹ֭צְאִי vivos וַיָּ֥פֶק vida מֵיְהוָֽה׃"
+          },
+          {
+            "verse": 36,
+            "text": "וְֽ֭חֹטְאִי חֹמֵ֣ס sua-alma todo מְ֝שַׂנְאַ֗י Amarão מָֽוֶת׃"
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "חָ֭כְמוֹת בָּנְתָ֣ה casa-sua edificou seus-pilares sete"
+          },
+          {
+            "verse": 2,
+            "text": "cortou corta-sua tecto vinho-sua certamente preparou mesa-sua:"
+          },
+          {
+            "verse": 3,
+            "text": "enviou נערותיה תקרא sobre gappei מרומי קרת׃"
+          },
+          {
+            "verse": 4,
+            "text": "quem פתי yasur aqui-estes חרש- para-ele אמרה para-ele"
+          },
+          {
+            "verse": 5,
+            "text": "לכוּ comhamu belachami ushto byain masaki"
+          },
+          {
+            "verse": 6,
+            "text": "uzvu petaim vichyu ve'ishru no-caminho binah"
+          },
+          {
+            "verse": 7,
+            "text": "יֹ֤סֵ֨ר לֵ֗ץ tomou a-ele a-ele וּמוֹכִ֖יחַ לְרָשָׁ֣ע מוּמֽוֹ׃"
+          },
+          {
+            "verse": 8,
+            "text": "a תּ֣וֹכַח לֵ֭ץ para-que-não יִשְׂנָאֶ֑ךָּ הוֹכַ֥ח לְ֝חָכָ֗ם e te amará"
+          },
+          {
+            "verse": 9,
+            "text": "dê aos seus entendidos e será entendido ainda faz saber ao justo e Joseph tomou"
+          },
+          {
+            "verse": 10,
+            "text": "a primeira de sabedoria Írath yhwh e de conhecimento קֳדוֹשִׁים בִּינַה׃"
+          },
+          {
+            "verse": 11,
+            "text": "porque בִ֭י יִרְבּוּ seus-dias וְיוֹסִ֥יפוּ לְּ֝ךָ֗ vida vivos"
+          },
+          {
+            "verse": 12,
+            "text": "se חָ֭כַמְתָּ חָכַ֣מְתָּ para-ti וְ֝לַ֗צְתָּ לְֽבַדְּךָ֥ tissa:"
+          },
+          {
+            "verse": 13,
+            "text": "mulher-de kissilut homiya' patayyut uval- yada'a ma:"
+          },
+          {
+            "verse": 14,
+            "text": "ve'yashva para-a-entrada-de be'ita' sobre kisse' מרומי קרת׃"
+          },
+          {
+            "verse": 15,
+            "text": "לקרא לאוברי־ caminho הamedaֲשָׁרִים אוֹרכוֹתָם׃"
+          },
+          {
+            "verse": 16,
+            "text": "quem פטי yasur aqui-estes e-faltando para-ele ואמרה para-ele"
+          },
+          {
+            "verse": 17,
+            "text": "מים־ גּוּבִים יִמְתַּקּוּ וְלֶחֶם סְתַרִים יִנְעַם׃"
+          },
+          {
+            "verse": 18,
+            "text": "e-não conheceu porque רְפָאִים nome בְּעִמְקֵי e-comeste קְרֻאֶהָ׃"
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "מִשְלֵי שׁוֹלֹם filho filho יְשַׂמַּח- pai וּבֵ֥ן כְּ֝סִ֗יל תּוּגַ֥ת sua-mãe"
+          },
+          {
+            "verse": 2,
+            "text": "não י֭וֹעִילוּ אוֹצְר֣וֹת resha' וּ֝צְדָקָ֗ה תַּצִּ֥יל de-morte"
+          },
+          {
+            "verse": 3,
+            "text": "não yhwh yhwh alma justo וְהַוַּ֖ת ímpios יֶהְדֹּֽף׃"
+          },
+          {
+            "verse": 4,
+            "text": "cabeça fez כף- רְמִיָּה וְיַ֖ד חָרוּצִ֣ים תַּעֲשִֽׁיר׃"
+          },
+          {
+            "verse": 5,
+            "text": "אֹגֵ֣ר בַּ֭קַּיִץ filho ensinador dormindo בַּ֝קָּצִ֗יר filho Vergonha:"
+          },
+          {
+            "verse": 6,
+            "text": "בְּ֭רָכוֹת para-cabeca justo e-boca-de ímpios cubrirá violência"
+          },
+          {
+            "verse": 7,
+            "text": "macho justo para bênção e o nome ímpios Yirka:"
+          },
+          {
+            "verse": 8,
+            "text": "sabio coração ele tomará mandamentos e o cegueiro as duas línguas ele se atirará"
+          },
+          {
+            "verse": 9,
+            "text": "andando בתום ele caminhará בֶּ֑טַח וּמְעַקֵּ֥שׁ דְּ֝רָכָ֗יו יִוָּדֵֽעַ׃"
+          },
+          {
+            "verse": 10,
+            "text": "קֹ֣רֵֽץ olho dará עַצָּ֑בֶת וֶאֱוִ֥יל שְׂ֝פָתַ֗יִם יִלָּבֵֽט׃"
+          },
+          {
+            "verse": 11,
+            "text": "fonte vida boca-de justo e-boca-de ímpios cubrirá violência"
+          },
+          {
+            "verse": 12,
+            "text": "שִׂ֭נְאָה תְּעוֹרֵ֣ר מְדָנִ֑ים e-sobre todo פְּ֝שָׁעִ֗ים תְּכַסֶּ֥ה אַהֲבָֽה׃"
+          },
+          {
+            "verse": 13,
+            "text": "בְּשִׂפְתֵ֣י נָ֭בוֹן תִּמָּצֵ֣א sabedoria וְ֝שֵׁ֗בֶט לְגֵ֣ו חֲסַר- coração"
+          },
+          {
+            "verse": 14,
+            "text": "חֲכָמִים יִצְפְּנוּ- דָ֑עַת וּפִֽי- אֱ֝וִיל מְחִתָּ֥ה קְרֹבָֽה׃"
+          },
+          {
+            "verse": 15,
+            "text": "הון עָ֭שִׁיר cidade-de עֻזּ֑וֹ machitá dallim reishám"
+          },
+          {
+            "verse": 16,
+            "text": "pe'alut justo lechayim t'váhat ímpio para-oferta-pelo-pecado"
+          },
+          {
+            "verse": 17,
+            "text": "orach para vidas guardiao disciplina ve'ozév repreensao matá'e"
+          },
+          {
+            "verse": 18,
+            "text": "mecasše siná' sip̄te- falsidade u-motsí' ele ele kesil׃"
+          },
+          {
+            "verse": 19,
+            "text": "em-multidão דברים não yechdal- פָּ֑שַׁע véchosékh seus-lábios mashkíl׃"
+          },
+          {
+            "verse": 20,
+            "text": "prata nibháchar língua-de justo coração ímpios um-pouco;"
+          },
+          {
+            "verse": 21,
+            "text": "שִׂפְתֵי justo irão muitos e-avílim em-carência-de coração morrerão;"
+          },
+          {
+            "verse": 22,
+            "text": "ברכת yhwh ela enriqueça e-não dor com-ela com ela:"
+          },
+          {
+            "verse": 23,
+            "text": "como-risada para-um-estúpido fazer intenção e sabedoria a homem-de será-sabedoria"
+          },
+          {
+            "verse": 24,
+            "text": "de temor ímpio ela entrará e-a-ta'avat justos será dado:"
+          },
+          {
+            "verse": 25,
+            "text": "como passagem de vapor e-não-há ímpio e justo base-de eternidade"
+          },
+          {
+            "verse": 26,
+            "text": "como fermento para os dentes e-cão para-olhos assim o-castor para-os"
+          },
+          {
+            "verse": 27,
+            "text": "Írath yhwh adiciona dias e-anos ímpios colheremos"
+          },
+          {
+            "verse": 28,
+            "text": "turquesa justos alegria וְתִקְוַ֖ת ímpios תֹּאבֵֽd"
+          },
+          {
+            "verse": 29,
+            "text": "fortaleza לַתֹּם o-caminho-de yhwh e-machitha לְפֹ֣עֲלֵי iniquidade"
+          },
+          {
+            "verse": 30,
+            "text": "justo para-sempre não יִמּ֑וֹט não não יִשְׁכְּנוּ־ terra"
+          },
+          {
+            "verse": 31,
+            "text": "boca-de justo יָנ֣וּב sabedoria וּלְשׁ֥וֹן תַּ֝הְפֻּכ֗וֹת תִּכָּרֵֽת׃"
+          },
+          {
+            "verse": 32,
+            "text": "שִׂפְתֵי justo יֵדְע֣וּן רָצ֣וֹן e-boca-de ímpios תַּהְפֻּכֽוֹת׃"
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "מֹאזְנֵ֣י מִ֭רְמָה abominação-de yhwh וְאֶ֖בֶן שְׁלֵמָ֣ה רְצוֹנֽוֹ׃"
+          },
+          {
+            "verse": 2,
+            "text": "veio זָ֭דוֹן E-veio קָל֑וֹן e-a צְנוּעִ֥ים חָכְמָֽה׃"
+          },
+          {
+            "verse": 3,
+            "text": "תּומָה יְשָׁרִים תַּנְחֶם וּסֶלֶף בּוֹגְדִים"
+          },
+          {
+            "verse": 4,
+            "text": "não יוֹעַל הֽוֹן em-dia-de עֶבְרָה וּצְדָקָה תַּצִּיל de-morte"
+          },
+          {
+            "verse": 5,
+            "text": "צִדְקָת perfeitos תְּיַשֵּׁר דַּרְכּוֹ וּבְרִשׁוּעָתוֹ cairá perverso"
+          },
+          {
+            "verse": 6,
+            "text": "צִדְקָת יְשׁוּרִים תַּצִּילֵם וּבְחָסֶד המַבְטִיחִים יִלַּחֲדוּ׃"
+          },
+          {
+            "verse": 7,
+            "text": "בְּמוֹת homem ímpio תֹּאבַד תִּקְוָ֑ה וְתוֹחֶלֶת אוֹנִים אָבָֽדָה׃"
+          },
+          {
+            "verse": 8,
+            "text": "justo מִצָּרָ֣ה נֶחֱלָ֑ץ E-veio ímpio em-lugar-dele"
+          },
+          {
+            "verse": 9,
+            "text": "בְּפֶ֗ה חָ֭נֵף יַשְׁחִ֣ת companheiro-seu וּ֝בְדַ֗עַת צדיקים יחלוּ׃"
+          },
+          {
+            "verse": 10,
+            "text": "בטוב צדיקים תעלוּ׃ עיר e na perdição ímpios רינה׃"
+          },
+          {
+            "verse": 11,
+            "text": "בברכת ישרים תרום קרת ובפי ímpios תהרס׃"
+          },
+          {
+            "verse": 12,
+            "text": "baz־ לרעיוּ חֲסַר- coração e-homem תבונות יחרשׁ׃"
+          },
+          {
+            "verse": 13,
+            "text": "andando רcaiל מְגַלֶּה־ סּ֑וֹד וְנֶאֱמַן־ espírito מְכַסֶּ֥ה palavra"
+          },
+          {
+            "verse": 14,
+            "text": "בְּאֵ֣ין תַּ֭חְבֻּלוֹת יִפָּל־ povo וּ֝תְשׁוּעָ֗ה em-multidão יוֹעֵֽץ׃"
+          },
+          {
+            "verse": 15,
+            "text": "רַע־ יֵ֭רוֹעַ porque tarde זָ֑ר וְשֹׂנֵ֖א תֹקְעִ֣ים בּוֹטֵֽחַ׃"
+          },
+          {
+            "verse": 16,
+            "text": "esposa-de חֵ֭ן תִּתְמֹ֣ךְ glória וְ֝עָרִיצִ֗ים יִתְמְכוּ־ dez"
+          },
+          {
+            "verse": 17,
+            "text": "גֹּמֵ֣ל nafsho homem bondade ve-ore she'ero akhariri:"
+          },
+          {
+            "verse": 18,
+            "text": "רָשָׂע fez pe'alat- falsidade e-sown tsedakah shekher verdade"
+          },
+          {
+            "verse": 19,
+            "text": "כֵּן־ tsedakah le-chayyim e perseguindo mal para a morte;"
+          },
+          {
+            "verse": 20,
+            "text": "abominação-de yhwh retorcidos— coração e seu desejo— perfeitos— caminho"
+          },
+          {
+            "verse": 21,
+            "text": "mão na mão não será lavado mau e semente— justos será salvo;"
+          },
+          {
+            "verse": 22,
+            "text": "anel ouro em fúria porco mulher bonita e saía sabor:"
+          },
+          {
+            "verse": 23,
+            "text": "ta'avat justos somente bom esperança ímpios útero:"
+          },
+          {
+            "verse": 24,
+            "text": "há espalhando e acrescentado ainda e escuridão da reta somente para-maçura:"
+          },
+          {
+            "verse": 25,
+            "text": "alma-de bênção tudáshon e-marve também ele jore:"
+          },
+          {
+            "verse": 26,
+            "text": "moné bar iquebáhu para-ão e-bênção para-cabeca Mashbir:"
+          },
+          {
+            "verse": 27,
+            "text": "Shoher Yevakkesh Ratzon Ve'dorash mal Tey'onenu:"
+          },
+          {
+            "verse": 28,
+            "text": "Botach Be'asoro ele Yifal Ve'ke'aléh צדיקים יפרחו׃"
+          },
+          {
+            "verse": 29,
+            "text": "perturbador-de בֵּ֭יתוֹ ינחל־ espírito ועבד אֵוָל לחכם־ coração"
+          },
+          {
+            "verse": 30,
+            "text": "פרי־ árvore vida vivos ולוקח׃ נפשות חכם׃"
+          },
+          {
+            "verse": 31,
+            "text": "eis justo na-terra יְשׂוּלַם certamente porque רָשָׁע וְחֹטֵא׃"
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "amou amou דַּעַת וְשׂוֹנֵא תֹּכַחַת בַּעַר׃"
+          },
+          {
+            "verse": 2,
+            "text": "bom יָפִיק רָצוֹן מֵיְהוָה e-homem mezimmot yaršiʿa׃"
+          },
+          {
+            "verse": 3,
+            "text": "não homem homem bereshaʿ vesoreš tsaddiqim não yimmot׃"
+          },
+          {
+            "verse": 4,
+            "text": "esposa-de chayil coroa baʿalāh ucreqav beʿatsmotay מְבִישָֽׁה׃"
+          },
+          {
+            "verse": 5,
+            "text": "מַחְשְׁב֣וֹת justos juízo תַּחְבֻּל֖וֹת ímpios engano"
+          },
+          {
+            "verse": 6,
+            "text": "palavras-de ímpios אֱרָב־ דָּ֑ם e-boca-de יְ֝שָׁרִ֗ים יַצִּילֵֽם׃"
+          },
+          {
+            "verse": 7,
+            "text": "הָפ֣וֹךְ ímpios וְאֵינָ֑ם וּבֵ֖ית justos יַעֲמֹֽד׃"
+          },
+          {
+            "verse": 8,
+            "text": "לְֽפִי־ שִׂ֭כְלוֹ יְהֻלַּל־ será וְנַעֲוֵה־ coração será לָבֽוּז׃"
+          },
+          {
+            "verse": 9,
+            "text": "bom נִ֭קְלֶה וְעֶ֣בֶד a-ele מִ֝מְּתַכַּבֵּ֗ד e-faltando pão"
+          },
+          {
+            "verse": 10,
+            "text": "יוֹדֵ֣עַ justo alma בהמהיו ואמרפי ímpios"
+          },
+          {
+            "verse": 11,
+            "text": "servo אדמתו ישבע- pão ומרדף ריקים חסר- coração"
+          },
+          {
+            "verse": 12,
+            "text": "desejar ímpio מצוד רעים ואשורש justos irá"
+          },
+          {
+            "verse": 13,
+            "text": "em-perversidade labios-meus enganado mal e-ele-saiu de-angustia צַדִּֽיק׃"
+          },
+          {
+            "verse": 14,
+            "text": "do-fruto-de meu-boca homem jurará bom e-reparação por-meio-de- a-ele a-ele"
+          },
+          {
+            "verse": 15,
+            "text": "o-caminho-de o-avulso retido em-olhos-dele e-שומע para-a-sugestão sábio:"
+          },
+          {
+            "verse": 16,
+            "text": "רעה no-dia será-sabido de-ira e-cobrirá calão astuto"
+          },
+          {
+            "verse": 17,
+            "text": "expulsará fidelidade dirá justica e testemunho mentiras engano"
+          },
+          {
+            "verse": 18,
+            "text": "há como fontes espada e língua sabios cura"
+          },
+          {
+            "verse": 19,
+            "text": "língua de verdade serás firmes para sempre e-até retiro-me língua-de mentira"
+          },
+          {
+            "verse": 20,
+            "text": "da mentira בְּלֶב־ mal mau e-auxiliares paz alegria"
+          },
+          {
+            "verse": 21,
+            "text": "não serão-enganados o-direito todo iniquidade mal estão-cheios mau"
+          },
+          {
+            "verse": 22,
+            "text": "abominação-de yhwh as-bocas-de falsidade e-fazem a-lealdade o-seu-desejo"
+          },
+          {
+            "verse": 23,
+            "text": "homem astuto כּוּסֶה דַּעַת וְלֵב כֻּסִילִים chamaria אִוּלֶת׃"
+          },
+          {
+            "verse": 24,
+            "text": "mão-de חַרְוֹצִים תִּמְשׁוֹל וְרְמִיָּה será para-tributo"
+          },
+          {
+            "verse": 25,
+            "text": "דַּאֲגָה בְּלֵב־ homem yaschenah bom bom yeshammehenah"
+          },
+          {
+            "verse": 26,
+            "text": "yet merekhehu justo e-caminho ímpios tate'um"
+          },
+          {
+            "verse": 27,
+            "text": "não yacharok remiyah tsido vehohn- homem yakar חָרֽוּץ׃"
+          },
+          {
+            "verse": 28,
+            "text": "בְּאֹֽרַח־ vida vivos e-caminho נְתִיבָ֣ה a מָֽוֶת׃"
+          }
+        ]
+      },
+      {
+        "chapter": 13,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "filho sabio מ֣וּסַר pai וְ֝לֵ֗ץ não ouviu גְּעָרָֽה׃"
+          },
+          {
+            "verse": 2,
+            "text": "do-fruto-de פִי־ homem bom bom וְנֶ֖פֶשׁ בֹּגְדִ֣ים violência"
+          },
+          {
+            "verse": 3,
+            "text": "נֹצֵ֣ר píyo guardião-de sua-alma posqé sáfáthay mehítath- a-ele"
+          },
+          {
+            "verse": 4,
+            "text": "mitávuh va'ayín nafsho atzéyl vénefesh khárutsim טּוֹדַשׁ׃"
+          },
+          {
+            "verse": 5,
+            "text": "palavra-de שֶׁקֶר יִשֹּׂן justo וְרָשָׁע יַבְעִישׁ וְיַחֲפִיר׃"
+          },
+          {
+            "verse": 6,
+            "text": "צֶדֶק תִּצֹּר תָּם־ caminho וְרִשְׁעָה תְּסַלֵּ֥ף חַטָּֽאת׃"
+          },
+          {
+            "verse": 7,
+            "text": "há מִ֭תְעַשֵּׁר e-não-há todo מִ֝תְרוֹשֵׁ֗שׁ וְה֣וֹן muito"
+          },
+          {
+            "verse": 8,
+            "text": "Cofar alma-de homem עָשְׁר֑וֹ וְ֝רָ֗שׁ não ouviu גְּעָרָֽה׃"
+          },
+          {
+            "verse": 9,
+            "text": "אוֹר־ צַדִּיקִ֥ים יִשְׂמָ֑ח וְנֵ֖ר ímpios יִדְעָֽךְ׃"
+          },
+          {
+            "verse": 10,
+            "text": "somente בְּ֭זָדוֹן dará מַצָּ֑ה e-a נ֖וֹעָצִ֣ים חָכְמָֽה׃"
+          },
+          {
+            "verse": 11,
+            "text": "ה֭וֹן מֵהֶ֣בֶל יִמְעָ֑ט וְקֹבֵ֖ץ sobre mão que se multiplique"
+          },
+          {
+            "verse": 12,
+            "text": "touca feita com doença- coração vida vivos desejo בָאָֽה׃"
+          },
+          {
+            "verse": 13,
+            "text": "reprovação por palavra que se abra a-ele E-viu mandamento ele יְשׁוּלַם׃"
+          },
+          {
+            "verse": 14,
+            "text": "lei-de sabio fonte vida לָסֹור מִמּוֹקְשֵׁי מָֽוֶת׃"
+          },
+          {
+            "verse": 15,
+            "text": "שׂכֶל־ bom dê חֵן e-caminho בּוֹגְדִים אֵיתָן׃"
+          },
+          {
+            "verse": 16,
+            "text": "todo עָרֻם fará בְדָעַת וּכְסִיל יִפְרֹשׂ אִוֶּֽלֶת׃"
+          },
+          {
+            "verse": 17,
+            "text": "anjo ímpio cairá בְּרָ֑ע וְצִ֖יר אֱמוּנִ֣ים מַרְפֵּֽא׃"
+          },
+          {
+            "verse": 18,
+            "text": "רֵ֣ישׁ וְ֭קָלוֹן פּוֹרֵ֣עַ disciplina וְשׁוֹמֵ֖ר repreensao יהוה יְכֻבָּֽד׃"
+          },
+          {
+            "verse": 19,
+            "text": "תַּאֲוָ֣ה נִ֭הְיָה תֶּעֱרַ֣ב לְנָ֑פֶשׁ וְתוֹעֲבַ֥ת כְּ֝סִילִ֗ים afasta-te מֵרָֽע׃"
+          },
+          {
+            "verse": 20,
+            "text": "a sabios וְרֹעֶ֖ה כְסִילִ֣ים YE Raoa :"
+          },
+          {
+            "verse": 21,
+            "text": "de-perversidade TARDDEF maldade e-a Tsadikim Yashalem - bom"
+          },
+          {
+            "verse": 22,
+            "text": "bom Yanhich filhos-de filhos Vezaphun Latsadik força Chotea :"
+          },
+          {
+            "verse": 23,
+            "text": "Rav - Nir cabeças-de וְיֵ֥שׁ נִ֝סְפֶּ֗ה sem juízo"
+          },
+          {
+            "verse": 24,
+            "text": "חוֹשֵׂ֣ךְ שִׁ֭בְטוֹ שׂוֹנֵ֣א בְנ֑וֹ וְ֝אֹהֲב֗וֹ שִֽׁחֲר֥וֹ מוּסָֽר׃"
+          },
+          {
+            "verse": 25,
+            "text": "tsaddiq אֹ֭כֵל para-satisfazer sua-alma e-ventre ímpios você faltará"
+          }
+        ]
+      },
+      {
+        "chapter": 14,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "sabedoria mulheres ela construiu sua casa e Avelã em-suas-mãos destruí-lo-ás;"
+          },
+          {
+            "verse": 2,
+            "text": "andando em-suas-retas temerá yhwh e-mostrá-lo-á seus-caminhos destruí-los-ás;"
+          },
+          {
+            "verse": 3,
+            "text": "em-suas-bocas o-salazar o-pestis גַּאֲוָ֑ה וְשִׂפְתֵ֥י חֲ֝כָמִ֗ים תִּשְׁמוּרֵֽם׃"
+          },
+          {
+            "verse": 4,
+            "text": "בְּאֵ֣ין אֲ֭לָפִים אֵב֣וּס בָּ֑ר וְרָב־ תְּ֝בוּא֗וֹת בְּכֹ֣חַ שֽׁוֹר׃"
+          },
+          {
+            "verse": 5,
+            "text": "até אֱ֭מוּנִים não יְכַזֵּ֑ב וְיָפִ֥יחַ כְּ֝זָבִ֗ים até mentira"
+          },
+          {
+            "verse": 6,
+            "text": "בִּקֶּשׁ־ לֵ֣ץ sabedoria וָאָ֑יִן וְדַ֖עַת לְנָב֣וֹן נָקָֽל׃"
+          },
+          {
+            "verse": 7,
+            "text": "vai מִ֭נֶּגֶד a homem-de כְּסִ֑יל וּבַל־ יָדַעְתָּ שִׂפְתֵי־ דָֽעַת׃"
+          },
+          {
+            "verse": 8,
+            "text": "sabedoria-de astuto הָבִ֣ין caminho dele וְאִוֶּ֖לֶת כְּסִילִ֣ים engano"
+          },
+          {
+            "verse": 9,
+            "text": "אֱוִילִים יָלִיץ אָשָׁם e-entre יְשָׁרִ֣ים רָצוֹן׃"
+          },
+          {
+            "verse": 10,
+            "text": "coração יֹודֵעַ מָרָה sua-alma וּבְשִׂמְחָתוֹ não יִתְעַרַב זָר׃"
+          },
+          {
+            "verse": 11,
+            "text": "casa ímpios יִשֹּׂם e-o-hel יְשָׁרִ֣ים jafri-ach"
+          },
+          {
+            "verse": 12,
+            "text": "ha o-caminho-de yashar diante-de homem ve-acharitah yhwh מָֽוֶת׃"
+          },
+          {
+            "verse": 13,
+            "text": "também bishok yikab- coração ve-acharitah- alegria tugah"
+          },
+          {
+            "verse": 14,
+            "text": "midrakay yisbea ס֣וּג coração וּ֝מֵעָלָ֗יו homem bom"
+          },
+          {
+            "verse": 15,
+            "text": "פֶּ֭תִי יַאֲמִין para-todo palavra וְ֝עָר֗וּם entenderá לַאֲשֻׁרֽוֹ׃"
+          },
+          {
+            "verse": 16,
+            "text": "sabio temer e-se-apartará מֵרָ֑ע וּ֝כְסִ֗יל מִתְעַבֵּ֥ר וּבוֹטֵֽחַ׃"
+          },
+          {
+            "verse": 17,
+            "text": "קְֽצַר־ apêim fará iuteléth e-homem mizimmót yishná'e"
+          },
+          {
+            "verse": 18,
+            "text": "nachalû [פְתָאיִ֣ם] iuteléth va'arúmim yakhtirû da'ath"
+          },
+          {
+            "verse": 19,
+            "text": "שַׁחֲוּ רָעִים diante-de bons וּרְשָׁעִים sobre שַׁעֲרֵי צַדִּיק׃"
+          },
+          {
+            "verse": 20,
+            "text": "também לְרֵעֵהוּ יִשָׂנֵא possuir וְאֹהֲבֵי עָשִׁיר muitos"
+          },
+          {
+            "verse": 21,
+            "text": "בָּז־ para-o-amigo que-errou e-reparador seu-bem-aventurado"
+          },
+          {
+            "verse": 22,
+            "text": "não-será? vão-se-perder mal mau e- misericórdia e-verdade bom bom"
+          },
+          {
+            "verse": 23,
+            "text": "em-todo será será paz e-palavra-de bocas somente para a falta:"
+          },
+          {
+            "verse": 24,
+            "text": "coroa sabios dez avó escória avó:"
+          },
+          {
+            "verse": 25,
+            "text": "salvar almas até verdade e espírito mentirosos engano"
+          },
+          {
+            "verse": 26,
+            "text": "בְּיִרְאַ֣ת yhwh segurança- עֹ֑ז será será מַחְסֶֽה׃"
+          },
+          {
+            "verse": 27,
+            "text": "יִרְאַ֣ת yhwh fonte vida לָ֝ס֗וּר מִמֹּ֥קְשֵׁי מָֽוֶת׃"
+          },
+          {
+            "verse": 28,
+            "text": "בְּרָב־ povo הַדְרַת־ rei וּבְאֶ֥פֶס לְ֝אֹ֗ם מְחִתַּ֥ת razão:"
+          },
+          {
+            "verse": 29,
+            "text": "erêx ápaim chefe-de tuvana úktsar- espírito mêrim iut:"
+          },
+          {
+            "verse": 30,
+            "text": "chayyei besharim coração marpe úrakab עצמות קינאה׃"
+          },
+          {
+            "verse": 31,
+            "text": "OOSEK- DAL חERGEF faz-lhe UMEKHAVDO CHOVEN EVEYN׃"
+          },
+          {
+            "verse": 32,
+            "text": "BARAATO YIDACHAHEH ímpio e choshe em-mo-to tsaddiq:"
+          },
+          {
+            "verse": 33,
+            "text": "b-le-ve nabon tanuch sabedoria u-beker kesilim tiydah:"
+          },
+          {
+            "verse": 34,
+            "text": "tsedaka תרומם- nação והessed לאומות חטאת:"
+          },
+          {
+            "verse": 35,
+            "text": "רצון- rei לאבד משכיל ועברתוֹ será מביש:"
+          }
+        ]
+      },
+      {
+        "chapter": 15,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "מענה- רַ֭ךְ יָשִׁיב חֵמָ֑ה e-palavra-de עֶ֝֗צֶב subirá- também"
+          },
+          {
+            "verse": 2,
+            "text": "língua-de חֲ֭כָמִים תֵּיטִ֣יב דעאת e-boca-de כְ֝סִילִ֗ים יַבִּ֥יעַ אִוֶּֽלֶת׃"
+          },
+          {
+            "verse": 3,
+            "text": "em-todo os-olhos-de yhwh yhwh צֹ֝פ֗וֹת רָעִ֥ים וטוֹבִֽים׃"
+          },
+          {
+            "verse": 4,
+            "text": "מרָפֵ֣א לָ֭שׁוֹן árvore vida וְסֶ֥לֶף בָּ֝֗הּ שֶׁ֣בֶר בְּרֽוּחַ׃"
+          },
+          {
+            "verse": 5,
+            "text": "אֱוִ֗יל יִ֭נְאַץ מוּסַ֣ר seu-pai וְשֹׁמֵ֖ר repreensao יַעְרִֽם׃"
+          },
+          {
+            "verse": 6,
+            "text": "casa justo חֹ֣סֶן muito וּבִתְבוּאַ֖ת ímpio נֶעְכָּֽרֶת׃"
+          },
+          {
+            "verse": 7,
+            "text": "שִׂפְתֵ֣י חֲ֭כָמִים יְזָ֣aroּ דָ֑עַת וְלֵ֖ב כְּסִילִ֣ים não assim"
+          },
+          {
+            "verse": 8,
+            "text": "sacrifício-de ímpios abominação-de yhwh e oração יְשָׁרִ֣ים e a vontade"
+          },
+          {
+            "verse": 9,
+            "text": "abominação-de yhwh o-caminho-de ímpio e perseguindo justiça amará"
+          },
+          {
+            "verse": 10,
+            "text": "מוּסָ֣ר mal ao abandonar caminho odiando repreensão morra"
+          },
+          {
+            "verse": 11,
+            "text": "sho'al וַ֭אֲבַדּוֹן diante yhwh certamente porque לִבּ֥וֹת filhos-de homem"
+          },
+          {
+            "verse": 12,
+            "text": "não יֶאֱהַב־ לֵ֭ץ a-ele a-ele não חֲ֝כָמִ֗ים não irá"
+          },
+          {
+            "verse": 13,
+            "text": "coração שָׂ֭מֵחַ יֵיטִ֣ב face וּבְעַצְּבַת־ espírito espírito נְכֵאָֽה׃"
+          },
+          {
+            "verse": 14,
+            "text": "coração נָ֭בוֹן יְבַקֶּשׁ- דעאת כְ֝סִילִ֗ים יִרְעֶ֥ה אִוֶּֽלֶת׃"
+          },
+          {
+            "verse": 15,
+            "text": "todo dias-de afligido רָעִ֑ים וְטֽוֹב- coração dia תָמִֽיד׃"
+          },
+          {
+            "verse": 16,
+            "text": "טוֹב־ מְ֭עַט yhwh yhwh מֵאוֹצָ֥ר muito nele nele-verso"
+          },
+          {
+            "verse": 17,
+            "text": "bom אֲרֻחַ֣ת ירק והעבה- nome משור אבוס והשנה- nele-verso"
+          },
+          {
+            "verse": 18,
+            "text": "homem ira יגרה מדון והארך אף-יימ ישקט רִֽיב׃"
+          },
+          {
+            "verse": 19,
+            "text": "o-caminho-de עָ֭צֵל כִּמְשֻׂ֣כַת חָ֑דֶק וְאֹ֖רַח יְשָׁרִ֣ים סְלֻלָֽה׃"
+          },
+          {
+            "verse": 20,
+            "text": "filho sabio יְשַׂמַּח־ pai homem homem sua-mãe mãe-de ele"
+          },
+          {
+            "verse": 21,
+            "text": "אִ֭וֶּלֶת alegria לַחֲסַר־ coração e-homem תְּ֝בוּנָ֗ה יְיַשֶׁר־ para"
+          },
+          {
+            "verse": 22,
+            "text": "destrua pensamentos no vazio segredo e em muitos conselheiros arise"
+          },
+          {
+            "verse": 23,
+            "text": "alegria para o homem por causa de seu-boca e-palavra em-suas-vezes que- bom"
+          },
+          {
+            "verse": 24,
+            "text": "caminho vida para-cima para-enganar para vire-se de-tartarus torne-se-lado"
+          },
+          {
+            "verse": 25,
+            "text": "casa vãos ישׂах yhwh yhwh território אלמנוה"
+          },
+          {
+            "verse": 26,
+            "text": "abominação-de yhwh מחשבות mal וטהורים palavras-de נעם"
+          },
+          {
+            "verse": 27,
+            "text": "עכר ביתו בורחא בָּצַע ושונה [מַתָּנֹ֣ת] viverá:"
+          },
+          {
+            "verse": 28,
+            "text": "coração justo haverá para responder e-boca-de ímpios fará surgir mau:"
+          },
+          {
+            "verse": 29,
+            "text": "distante yhwh dos ímpios e oração justos será ouvido:"
+          },
+          {
+            "verse": 30,
+            "text": "de luz olhos יְשַׂמַּֽח־ coração שְׁמוּעָ֥ה ט֝וֹבָ֗ה תְּדַשֶּׁן־ עָֽצֶם׃"
+          },
+          {
+            "verse": 31,
+            "text": "אֹ֗זֶן repreensao vivos vida sabios תָּלִֽין׃"
+          },
+          {
+            "verse": 32,
+            "text": "פּוֹרֵ֣עַ מ֭וּסָר מוֹאֵ֣ס sua-alma וְשׁוֹמֵ֥עַ תּ֝וֹךַ֗חַת ק֣וֹנֶה coração"
+          },
+          {
+            "verse": 33,
+            "text": "יִרְאַ֣ת yhwh מוּסַ֣ר sabedoria וְלִפְנֵ֖י כָב֣וֹד עֲנָוָֽה׃"
+          }
+        ]
+      },
+      {
+        "chapter": 16,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "לְאָדָ֥ם מַֽעַרְכֵי־ coração וּ֝מֵיְהוָ֗ה resposta língua:"
+          },
+          {
+            "verse": 2,
+            "text": "todo caminhos- homem justos em-olhos-dele yhwh ventos yhwh"
+          },
+          {
+            "verse": 3,
+            "text": "גֹּ֣ל a yhwh trabalhos-te e-estabelecer-se-ão intenções-te:"
+          },
+          {
+            "verse": 4,
+            "text": "todo feito yhwh resposta e-também רָשָׁע para-o-dia mal"
+          },
+          {
+            "verse": 5,
+            "text": "abominação-de yhwh todo mão coração não לְיָד não יִנַּקֶה׃"
+          },
+          {
+            "verse": 6,
+            "text": "בְּחֵסֶד וֶאֱמֶת יְכֻפָּר Avon וּבְיִרְאַת yhwh afasta-te מֵרָע׃"
+          },
+          {
+            "verse": 7,
+            "text": "בִּרְצֹות yhwh דָּרְכֵי־ homem também seus-inimigos pagará com-ele"
+          },
+          {
+            "verse": 8,
+            "text": "טוֹב־ um-pouco em-justiça de-abundância-de seus-frutos sem juízo"
+          },
+          {
+            "verse": 9,
+            "text": "coração homem contará caminho dele e-耶和华 fará seu passo;"
+          },
+          {
+            "verse": 10,
+            "text": "sortilégio sobre שִׂפְתֵי- rei não não יִמְעַל- פי׃"
+          },
+          {
+            "verse": 11,
+            "text": "פֶּ֤לֶס- וּמֹאזְנֵ֣י מִשְׁפָּט para-יהוה מַעֲשֵׂהוּ todo pedras-de כִֽיס׃"
+          },
+          {
+            "verse": 12,
+            "text": "abominação-de מְ֭לָכִים fazer רֶ֑שַׁע que בִ֝צְדָקָ֗ה será trono;"
+          },
+          {
+            "verse": 13,
+            "text": "desejo reis bocas— justica e falantes— יְשָׁרִ֣ים amarão;"
+          },
+          {
+            "verse": 14,
+            "text": "Hamate rei anjos— morte e-homem sábio será expiada;"
+          },
+          {
+            "verse": 15,
+            "text": "בְּאוֹר־ vida rei vivos וּ֝רְצוֹנ֗וֹ כְּעָ֣ב מַלְקֽוֹשׁ׃"
+          },
+          {
+            "verse": 16,
+            "text": "קְֽנֹה־ חָכְמָ֗ה que bom מֵחָר֑וּץ וּקְנ֥וֹת בִּ֝ינָ֗ה נִבְחָ֥ר de-cobre:"
+          },
+          {
+            "verse": 17,
+            "text": "mísera yesharim afasta-te de-mau guardando sua-alma guardião seu caminho"
+          },
+          {
+            "verse": 18,
+            "text": "diante-de grão orgulho e-diante-de escálio espírito espírito"
+          },
+          {
+            "verse": 19,
+            "text": "bom valo- espírito a de-partilhado שָׁ֝לָ֗ל a גֵּאִֽים׃"
+          },
+          {
+            "verse": 20,
+            "text": "מַשְׂכּ֣יל sobre palavra יִמְצָא־ bom וּבוֹטֵ֖חַ בַּיהוָ֣ה אַשְׁרָֽיו׃"
+          },
+          {
+            "verse": 21,
+            "text": "לַחֲכַם־ será-chamada יִקָּרֵ֣א נָב֑וֹן וּמֶ֥תֶק שְׂ֝פָתַ֗יִם yo-sif tomou"
+          },
+          {
+            "verse": 22,
+            "text": "fonte vida discernimento בעלאו וּמוּסַ֖ר אֱוִילִ֣ים אִוֶּֽלֶת׃"
+          },
+          {
+            "verse": 23,
+            "text": "coração sabio יַשְׂכִּ֣יל פִּ֑יהוּ e-sobre de sua boca yo-sif tomou"
+          },
+          {
+            "verse": 24,
+            "text": "צוּף־ דְּ֭בַשׁ palavras-de נֹ֑עַם מרתק לַנֶּפֶשׁ ומרפאה לאצם׃"
+          },
+          {
+            "verse": 25,
+            "text": "ha o-caminho-de ישר diante-de homem ואחריתהּ yhwh מָֽוֶת׃"
+          },
+          {
+            "verse": 26,
+            "text": "alma עמל עמלת para-ele porque אךף sobre-ele פיו׃"
+          },
+          {
+            "verse": 27,
+            "text": "homem בליעל כורهة maldade e-sobre כאEther צרבת׃"
+          },
+          {
+            "verse": 28,
+            "text": "homem תהפוכות ישלח מדון מפריד אלף׃"
+          },
+          {
+            "verse": 29,
+            "text": "homem חמס יְפַתֶּ֣ה companheiro-seu והוליכו no-caminho não bom"
+          },
+          {
+            "verse": 30,
+            "text": "עֹצֶה עֵ֭ינָיו לַחְשׁוֹב תַּהְפּוֹךְ֑וֹת קֹרֵץ de sua boca כִּלָּה mal"
+          },
+          {
+            "verse": 31,
+            "text": "coroa תִּפְאֶרֶת שֵׂיבָה em-a-caminho צְ֝דָקָה תִּמּוֹצֵא׃"
+          },
+          {
+            "verse": 32,
+            "text": "bom אֶרֶךְ אַ֭פַּיִם מִגִּבּ֑וֹר וּמֹשֵׁ֥ל בְּ֝רוּח֗וֹ מִלֹּכֵ֥ד cidade"
+          },
+          {
+            "verse": 33,
+            "text": "בַּ֭חֵיק יוּטַ֣ל a הַגּוֹרָ֑ל וּ֝מֵיְהוָ֗ה todo sua-lei:"
+          }
+        ]
+      },
+      {
+        "chapter": 17,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "bom faz- destruição- e-alegria- nela da-casa- enchei que contenda:"
+          },
+          {
+            "verse": 2,
+            "text": "servo- instrutor- governará- em-filho- vergonha- e-em irmãos dividirá herança"
+          },
+          {
+            "verse": 3,
+            "text": "forrador em-prata e-esculpidor em-ouro e-examinará as-cavidades yhwh"
+          },
+          {
+            "verse": 4,
+            "text": "de-mau מקשיב sobre borda-de iniquidade שֶׁ֥קֶר מזין sobre לשון האות׃"
+          },
+          {
+            "verse": 5,
+            "text": "לוג daraשׁ חreff faz-lhe שמח לאליד não ינקה׃"
+          },
+          {
+            "verse": 6,
+            "text": "coroa זְ֭קֵנִים filhos-de filhos וְתִפְאֶ֖רֶת filhos avos-eus"
+          },
+          {
+            "verse": 7,
+            "text": "não נָאו֣ה לְנָבָ֣ל certamente יֶ֑תֶר אַ֝֗ף porque לְנָדִ֥יב borda-de mentira"
+          },
+          {
+            "verse": 8,
+            "text": "pedra- graca הַ֭שֹׁחַד em-olhos-de בְעָלָ֑יו a todo que יִפְנֶ֣ה jashill"
+          },
+          {
+            "verse": 9,
+            "text": "mekhasses- peshay mevakesh ahavah veshene bedabar maphrid aluf"
+          },
+          {
+            "verse": 10,
+            "text": "tachat ge'arah bemeb'in de-o-golpear kasisil cem"
+          },
+          {
+            "verse": 11,
+            "text": "somente merry yebakkesh- mau umal'akh akharizi yeshullakh- em-ele"
+          },
+          {
+            "verse": 12,
+            "text": "pagos dov שַׁכּ֣וּל בְּאִישׁ e-a כְּ֝סִיל בְּאִוּלְתּוֹ׃"
+          },
+          {
+            "verse": 13,
+            "text": "מֵשִׁ֣יב רָ֭עָה debaixo boa não רָ֝עָה מִבֵּיתֽוֹ׃"
+          },
+          {
+            "verse": 14,
+            "text": "פּ֣וֹטֵר águas רֵאשִׁ֣ית מָד֑וֹן e-ante se-revelou a-disputa abandonou-se"
+          },
+          {
+            "verse": 15,
+            "text": "justo ímpio e-irritou justo toavat yhwh também dois-deles"
+          },
+          {
+            "verse": 16,
+            "text": "por-que isto Mecir por-mão-de cabisil para-comprar sabedoria e-léb- não."
+          },
+          {
+            "verse": 17,
+            "text": "em-todo ética amou háraa' e-a' para-tzará irá-levá-dò"
+          },
+          {
+            "verse": 18,
+            "text": "homem falta- coração touquá' káf' tarde árubbá'ah diante-de seu-amigo"
+          },
+          {
+            "verse": 19,
+            "text": "amou פָּשַע amou מַצָּה מַגְבִּיהֶ֗ה פִּתָּחוֹ מְבַקֵּשׁ־ שָׁבֵר׃"
+          },
+          {
+            "verse": 20,
+            "text": "עִקְּשֶה־ não não יִמְצָא־ bom וְנֶהְפַּךְ בִּלְשׁוֹנוֹ יִפּ֥וֹל בְּרָעָֽה׃"
+          },
+          {
+            "verse": 21,
+            "text": "יֹלֵ֣ד כְּ֭סִיל לְת֣וּגָה a-ele e-não יִ֝שְׂמַ֗ח pai-de נָבָֽל׃"
+          },
+          {
+            "verse": 22,
+            "text": "coração שָׂ֭מֵחַ יֵיטִ֣ב גֵּהָ֑ה e-Espírito-de נְ֝כֵאָ֗ה תְּיַבֶּשׁ- גָּֽרֶם׃"
+          },
+          {
+            "verse": 23,
+            "text": "שֹׁ֣חַד מֵ֭חֵיק ímpio tomar-ah לְ֝הַטּ֗וֹת אָרְח֥וֹת juízo"
+          },
+          {
+            "verse": 24,
+            "text": "a face-de מֵבִ֣ין sabedoria וְעֵינֵ֥י כְ֝סִ֗יל בִּקְצֵה- terra"
+          },
+          {
+            "verse": 25,
+            "text": "כַּעַס לְאָבִיו filho כְּסִיל וּמֶמֶר לְיוֹלַדְתּוֹ׃"
+          },
+          {
+            "verse": 26,
+            "text": "também עֲנ֣וֹשׁ לַצַּדִּיק bom para-golpear נְדִיבִים sobre יֹֽשֶׁר׃"
+          },
+          {
+            "verse": 27,
+            "text": "חוֹשֵׂךְ Seus palavras que conhece דעאת espírito homem sabedoria:"
+          },
+          {
+            "verse": 28,
+            "text": "também Evil que muda sabio seus pensamentos sua mente suas línguas que investiga"
+          }
+        ]
+      },
+      {
+        "chapter": 18,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "para a gula busca נִפְרָ֑ד em-todo תּ֝וּשִׁיָּ֗ה יִתְגַּלָּֽע׃"
+          },
+          {
+            "verse": 2,
+            "text": "não יַחְפֹּ֣ץ כְּ֭סִיל que porque se בְּהִתְגַּלּ֥וֹת coração-dele"
+          },
+          {
+            "verse": 3,
+            "text": "בּֽבוֹא־ ímpio veio também בּ֑וּז criou קָל֥וֹן opróbrio"
+          },
+          {
+            "verse": 4,
+            "text": "águas עֲ֭מֻקִּים palavras-de פי־ homem ribeiro-de נובע fonte חוכמה׃"
+          },
+          {
+            "verse": 5,
+            "text": "שאת face-de ímpio não bom להטוט צדיק no juízo"
+          },
+          {
+            "verse": 6,
+            "text": "שפתים כסיל יבאוּ בריב e-sua-boca para-alegrias chamaria"
+          },
+          {
+            "verse": 7,
+            "text": "boca-de cisil morte- a-ele e-suas-bocas moqueš sua-alma:"
+          },
+          {
+            "verse": 8,
+            "text": "palavras-de nirgān como-estranhamente e-eles desceram חדרי- בָֽטֶן׃"
+          },
+          {
+            "verse": 9,
+            "text": "também מִתְרַפֶּ֣ה בִמְלַאכְתּ֑וֹ אָ֥ח ele לְבַ֣עַל מַשְׁחִֽית׃"
+          },
+          {
+            "verse": 10,
+            "text": "מִגְדַּל- עוז yhwh yhwh בּֽוֹ- יָר֖וּץ justo וְנִשָׂגּֽב׃"
+          },
+          {
+            "verse": 11,
+            "text": "ה֣וֹן עָ֭שִׁיר cidade-de עֻזּ֑וֹ וּכְחוֹמָ֥ה נִ֝שָׂגּ֗בָ֗ה בְּמַשְׂךְִיתֽוֹ׃"
+          },
+          {
+            "verse": 12,
+            "text": "diante-de שֶׁ֭בֶר יִגְבַּ֣הּ homem וְלִפְנֵ֖י כבוד ענווה׃"
+          },
+          {
+            "verse": 13,
+            "text": "מֵשִׁ֣יב palavra betereim-acento-águia ישמע אילית hi- ל֝֗וֹ וכלימה׃"
+          },
+          {
+            "verse": 14,
+            "text": "espírito-de homem יחלכל e-Espírito-de ואורח quem quem ישאנה׃"
+          },
+          {
+            "verse": 15,
+            "text": "coração נבון יקנה－ דעאת e-ozên chakhamim tavbakkeš- daath:"
+          },
+          {
+            "verse": 16,
+            "text": "matan homem yarhib a-ele velifnei- gedolim yanhenu:"
+          },
+          {
+            "verse": 17,
+            "text": "justo harašôn em-seu-disputa seu-amigo e-investigá-lo:"
+          },
+          {
+            "verse": 18,
+            "text": "de-midianitas fará-assentar-se o-sortimento e-entre fortes fará-se-dividir:"
+          },
+          {
+            "verse": 19,
+            "text": "irmão se-alargou de-mquírat- óz kibrách armôn:"
+          },
+          {
+            "verse": 20,
+            "text": "do-fruto-de de-pi- homem tishbá betnó tibúath sháfátay yisbá:"
+          },
+          {
+            "verse": 21,
+            "text": "מוות וחיים por-mão-de לשון ואוהבייה comera פרייה׃"
+          },
+          {
+            "verse": 22,
+            "text": "encontrou mulher encontrou bom WAYYPAKEʔ רצון MICHAWEH׃"
+          },
+          {
+            "verse": 23,
+            "text": "תחנונים YEDABER- possuir e o rico יַעֲנֶ֥ה fortalezas:"
+          },
+          {
+            "verse": 24,
+            "text": "homem amigos para se alegrar e há amou adere do irmão:"
+          }
+        ]
+      },
+      {
+        "chapter": 19,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "bom pobre andando em sua integridade de curvado de sua boca e-ele כסיל׃"
+          },
+          {
+            "verse": 2,
+            "text": "também בלא- דעת alma não bom ואץ ברגלים חוטא׃"
+          },
+          {
+            "verse": 3,
+            "text": "אילית homem תסלף caminho dele e-sobre yhwh יזעף coração-dele"
+          },
+          {
+            "verse": 4,
+            "text": "הון יֹ֭סִיף רֵעִ֣ים muitos וְ֝דָ֗ל מֵרֵ֥עהוּ divide-se"
+          },
+          {
+            "verse": 5,
+            "text": "até שְׁ֭קָרִים não יִנָּקֶ֑ה וְיָפִ֥יחַ כְּ֝זָבִ֗ים não יִמָּלֵֽט׃"
+          },
+          {
+            "verse": 6,
+            "text": "רַ֭בִּים היה חללו penei- נָדִ֑יב e-todo הרע a homem-de מתן׃"
+          },
+          {
+            "verse": 7,
+            "text": "todo אחיו־ רש שנהוּ certamente que מרעהוּ רחקוּ nós מרדף אמרים eles"
+          },
+          {
+            "verse": 8,
+            "text": "קונה- coração amou sua-alma guardando תבונה para buscar- bom"
+          },
+          {
+            "verse": 9,
+            "text": "até שקרים não ינקה וייפח כזבים יהבד׃"
+          },
+          {
+            "verse": 10,
+            "text": "não נאה para-o-insensato certamente אף porque לאבֶד ׀ משׁל בְּשָׂרִֽים׃"
+          },
+          {
+            "verse": 11,
+            "text": "discernimento homem הֶאֱרִ֣יךְ sua-ira וְ֝תִפָּארְתּ֗וֹ עֲבֹ֣ר sobre פָּֽשַׁע׃"
+          },
+          {
+            "verse": 12,
+            "text": "נַ֣הַם כַּ֭כְּפִיר זַ֣עַף rei וּכְטַ֖ל sobre erva רְצוֹנֽוֹ׃"
+          },
+          {
+            "verse": 13,
+            "text": "הַוֺּ֣ת לְ֭אָבִיו filho כְּסִ֑יל וְדֶ֥לֶף טֹ֝רֵ֗ד מִדְיְנֵ֥י mulher"
+          },
+          {
+            "verse": 14,
+            "text": "casa וָ֭הוֹן נַחֲלַ֣ת אָב֑וֹת e-dios mulher que-escala:"
+          },
+          {
+            "verse": 15,
+            "text": "enganosidade destruirá sono-profundo e-alma fome será:"
+          },
+          {
+            "verse": 16,
+            "text": "guardião-de mandamento guardião-de sua-alma destruidor seus-caminhos"
+          },
+          {
+            "verse": 17,
+            "text": "מלוה yhwh חוןן דל וגמלו yešallêm- a-ele"
+          },
+          {
+            "verse": 18,
+            "text": "IASer BINeka porque há TIKvah e-a HAMita a תִּשָּׂ֥א alma-tua"
+          },
+          {
+            "verse": 19,
+            "text": "ira NASo UNes que se תַּ֝צִּ֗יל וְע֣וֹד תּוֹסִֽפ׃"
+          },
+          {
+            "verse": 20,
+            "text": "ouviu עֵ֭צָה וְקַבֵּ֣ל disciplina לְ֝מַ֗עַן תֶּחְכַּ֥ם בְּאַחֲרִיתֶֽךָ׃"
+          },
+          {
+            "verse": 21,
+            "text": "רַבּ֣וֹת מַחֲשָׁב֣וֹת בְּלֶב־ homem yhwh yhwh ela taqum"
+          },
+          {
+            "verse": 22,
+            "text": "será a minha gula homem bondade-de-ele וְטֽוֹב־ רָ֝שׁ מֵאִ֥ישׁ כָּזָֽב׃"
+          },
+          {
+            "verse": 23,
+            "text": "יִרְאַ֣ת yhwh לְחַיִּ֑ים וְשָׂבֵ֥עַ יָ֝לִ֗ין não mal mau"
+          },
+          {
+            "verse": 24,
+            "text": "טָ֘מַ֤ן עָצֵ֣ל sua-mão בַּצַּלָּ֑חַת também não פִּ֝֗יהוּ não ela se assentará"
+          },
+          {
+            "verse": 25,
+            "text": "לֵ֣ץ תַּ֭כֶּה וּפֶ֣תִי יַעְרִ֑ם וְהוֹכִ֥יחַ לְ֝נָב֗וֹן entenderá דָּֽעַת׃"
+          },
+          {
+            "verse": 26,
+            "text": "מְֽשַׁדֶּד־ pai mãe filho filho em-בישׁ e-machpִיר׃"
+          },
+          {
+            "verse": 27,
+            "text": "chadal־ filhos-de para-ouvir disciplina lisgoth me-ʾimreʾi־ daʿat׃"
+          },
+          {
+            "verse": 28,
+            "text": "até bliyʿal yalitz juízo e-boca-de ímpios yevelaʿ־ iniquidade"
+          },
+          {
+            "verse": 29,
+            "text": "nachonu para os לֵץ as שֹׁפטים e as מהולמות para o לֵו cavaleiros׃"
+          }
+        ]
+      },
+      {
+        "chapter": 20,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "לֵץ homem o שׁכר e-todo o שׁגה nele não Sábio:"
+          },
+          {
+            "verse": 2,
+            "text": "Naham Kakafir Eimath rei Mitabbaro Chatêa Nafsho:"
+          },
+          {
+            "verse": 3,
+            "text": "Kavod La'ish Shabath mê-rib e-todo ê-vil yi-tgallaʿ"
+          },
+          {
+            "verse": 4,
+            "text": "mê-choreph ʿatsel não yaḥarosh bakkāṣir vā-ʾayin"
+          },
+          {
+            "verse": 5,
+            "text": "águas ʿămmuqim ʿeẓeh בְּלֶב־ homem e-homem תְּבוּנָ֣ה יִדְלֶֽנָּה׃"
+          },
+          {
+            "verse": 6,
+            "text": "רָב־ chamaria יִ֭קְרָא homem bondade-de-ele e-homem quem quem יִמְצָֽא׃"
+          },
+          {
+            "verse": 7,
+            "text": "passeando בְּתֻמּ֣וֹ justo אַשְׁרֵ֖י בָנָ֣יו atrás-dele"
+          },
+          {
+            "verse": 8,
+            "text": "rei habitante sobre כִּסֵּא־ דִ֑ין מְזָרֶה בְעֵינָיו todo mau"
+          },
+          {
+            "verse": 9,
+            "text": "quem יֹ֭אמַר זִכִּ֣יתִי meu-coração טָ֝הַ֗רְתִּי מֵחַטָּאתִֽי׃"
+          },
+          {
+            "verse": 10,
+            "text": "pedra וָ֭אֶבֶן אֵיפָ֣ה וְאֵיפָ֑ה toavat yhwh também dois-deles"
+          },
+          {
+            "verse": 11,
+            "text": "também בְּ֭מַעֲלָלָיו יִתְנַכֶּר־ נָ֑עַר se זַ֖ךְ e-se yhwh פָּעֳלֽוֹ׃"
+          },
+          {
+            "verse": 12,
+            "text": "o-ouvido שֹׁ֭מַעַת וְעַ֣יִן viu yhwh fez também dois-deles"
+          },
+          {
+            "verse": 13,
+            "text": "a תֶּֽאֱהַ֣ב שֵׁ֭נָה para-que-não תִּוָּרֵ֑שׁ פְּקַ֖ח os-vossos-olhos שַׁבַּע- pão"
+          },
+          {
+            "verse": 14,
+            "text": "mau mau dira הַקּוֹנֶה וְאֹזֵל a-ele então יִתְהַלָּֽל׃"
+          },
+          {
+            "verse": 15,
+            "text": "há ouro וְרָב- פְּנִינִים וּכְלִ֥י יְ֝קָ֗ר שִׂפְתֵי- דָֽעַת׃"
+          },
+          {
+            "verse": 16,
+            "text": "לְקַח־ בִּ֭גְדוֹ porque tarde זָ֑ר וּבְעַ֖ד חַבְלֵֽהוּ׃"
+          },
+          {
+            "verse": 17,
+            "text": "tarde לָ֭אִישׁ pão falsidade וְ֝אַחַ֗ר יִמָּֽלֵא־ פִ֥יהוּ חָצָֽץ׃"
+          },
+          {
+            "verse": 18,
+            "text": "מַ֭חֲשָׁבוֹת em-עצה תכן ובתחבלות fez guerra"
+          },
+          {
+            "verse": 19,
+            "text": "גולאה- סוד andando רחליל ולפתה não não תUARTAB׃"
+          },
+          {
+            "verse": 20,
+            "text": "מקלל seu-pai ואימה ידעהך נריו escuridão"
+          },
+          {
+            "verse": 21,
+            "text": "נחלה na-primeira ואחריתה não תברך׃"
+          },
+          {
+            "verse": 22,
+            "text": "a dizerás אשלמה־ mau קַוֵּ֥ה para-ti ויושע para-ti"
+          },
+          {
+            "verse": 23,
+            "text": "abominação-de yhwh pedra ואבן ומאזני מִרְמָ֣ה não bom"
+          },
+          {
+            "verse": 24,
+            "text": "מיהוה מִצְעֲדֵי- גָ֑בֶר וְ֝אָדָ֗ם que יָּבִ֥ין seu caminho"
+          },
+          {
+            "verse": 25,
+            "text": "מוֹקֵ֣שׁ homem [יָ֣לַע] santidade e-depois [נְדָרִ֣ים] [לְבַקֵּֽר]"
+          },
+          {
+            "verse": 26,
+            "text": "[מְזָרֶ֣ה] ímpios rei sabio [וַיָּ֖שֶׁב] sobre-eles אֲפַן׃"
+          },
+          {
+            "verse": 27,
+            "text": "נֵר yhwh נִשְׁמַת homem חֹפֵשׂ todo חדרי- בָֽטֶן׃"
+          },
+          {
+            "verse": 28,
+            "text": "bondade וֶאֱמֶת יִצְר֤וּ־ rei וְסָעַ֖ד בַּחֶ֣סֶד כִּסְאֽוֹ׃"
+          },
+          {
+            "verse": 29,
+            "text": "תִּפְאֶרֶת בַּחוּרִ֣ים כֹּחָ֑ם וַהֲדַ֖ר זְקֵנִ֣ים שֵׂיבָֽה׃"
+          },
+          {
+            "verse": 30,
+            "text": "חַבֻּר֣וֹת פֶּ֭צַע בְּרָ֑ע וּ֝מַכּ֗וֹת חדרי- בָֽטֶן׃"
+          }
+        ]
+      },
+      {
+        "chapter": 21,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "פלגי- águas לֶב־ rei por-mão-de yhwh sobre todo que יַחְפֹּ֣ץ יַטֶּֽנּוּ׃"
+          },
+          {
+            "verse": 2,
+            "text": "todo דֶּרֶךְ־ homem ישׁר em-olhos-dele yhwh as-cavidades yhwh"
+          },
+          {
+            "verse": 3,
+            "text": "fez justiça e-juízo נבחר a-yhwh מזבח׃"
+          },
+          {
+            "verse": 4,
+            "text": "רוּם־ olhos ורחב־ coração ניר ímpios חטאת:"
+          },
+          {
+            "verse": 5,
+            "text": "מחשבות חָ֭רוּץ somente למותָ֑ר e-todo אָ֝֗ץ somente para a falta:"
+          },
+          {
+            "verse": 6,
+            "text": "פֹּ֣עַל א֭וֹצָרוֹת bilhôn falsidade הֶבֶל nidáp mevakeshê- מָֽוֶת׃"
+          },
+          {
+            "verse": 7,
+            "text": "shôd- os ímpios que porque mê'ânû para-fazer juízo"
+          },
+          {
+            "verse": 8,
+            "text": "haphakpak o-caminho-de homem vazâr vézakh ישׁר פָּעֳלֽוֹ׃"
+          },
+          {
+            "verse": 9,
+            "text": "bom para-habitar sobre pinat- gôg de-a-eshet mi-da-yanim e-casa-de cha-ber"
+          },
+          {
+            "verse": 10,
+            "text": "alma ímpio iutah mau não yuchan be-ayno seu-amigo"
+          },
+          {
+            "verse": 11,
+            "text": "ba-anash לֵ֭ץ yechkham pe-ti u-ba-hashkil para-a-sabedoria tomará-o- daath:"
+          },
+          {
+            "verse": 12,
+            "text": "מַשְׂכּ֣יל justo para-casa-de ímpio pedra-polida ímpios para-a-maldição;"
+          },
+          {
+            "verse": 13,
+            "text": "encherá-os seus-ouvidos da-voz-de דל chamaria ele chamará e-não será-respondido;"
+          },
+          {
+            "verse": 14,
+            "text": "matan em-secreto יִכְפֶּה־ tambem וְשֹׁ֥חַד בַּ֝חֵ֗ק חֵמָ֥ה עַזָּֽה׃"
+          },
+          {
+            "verse": 15,
+            "text": "alegria לַ֭צַּדִּיק fazer juízo וּ֝מְחִתָּ֗ה para-trabalhadores: iniquidade"
+          },
+          {
+            "verse": 16,
+            "text": "homem de-caminho-de הַשּׂכֵּ֑ל no convés רְפָאִ֣ים יָנֽוּחַ׃"
+          },
+          {
+            "verse": 17,
+            "text": "homem מַ֭חְסֹר amou שִׂמְחָה amou יַֽיִן־ não não יַעֲשִֽׁיר׃"
+          },
+          {
+            "verse": 18,
+            "text": "Cofar לַצַּדִּיק ímpio e-debaixo-de יְשָׁרִ֣ים בּוֹגֵֽד׃"
+          },
+          {
+            "verse": 19,
+            "text": "bom שֶׁ֥בֶת em-terra-de מִדְבָּ֑ר מֵאֵ֖שֶׁת וָכָֽעַס׃"
+          },
+          {
+            "verse": 20,
+            "text": "אוֹצָ֤ר ׀ נֶחְמָ֣ד agradável בִּנְוֵ֣ה sabio וּכְסִ֖יל homem homem"
+          },
+          {
+            "verse": 21,
+            "text": "רֹ֭דֵף justiça וָחָ֑סֶד ymtzaa vida tsedaka וְכָבֽוֹד׃"
+          },
+          {
+            "verse": 22,
+            "text": "cidade גִּ֭בֹּרִים subir sabio וַ֝יֹּ֗רֶד força מִבְטֶחָֽה׃"
+          },
+          {
+            "verse": 23,
+            "text": "guardião-de פִּ֭יו וּלְשׁוֹנ֑וֹ guardião מִצָּר֣וֹת sua-alma:"
+          },
+          {
+            "verse": 24,
+            "text": "זֵ֣ד יָ֭הִיר לֵ֣ץ seu-nome ע֝וֹשֶׂ֗ה בְּעֶבְרַ֥ת זָדֽוֹן׃"
+          },
+          {
+            "verse": 25,
+            "text": "será a minha gula עָצֵ֣ל תְּמִיתֶ֑נּוּ porque recusaram suas-mãos para-fazer"
+          },
+          {
+            "verse": 26,
+            "text": "todo o-dia desejo תַאֲוָ֑ה וְצַדִּ֥יק יִ֝תֵּ֗ן e-não יַchֹֻֽock׃"
+          },
+          {
+            "verse": 27,
+            "text": "sacrifício-de ímpios ТОВЕБАֿ certamente porque ВІЗМАֿ ЙІБІЕНУ׃"
+          },
+          {
+            "verse": 28,
+            "text": "até КІЗАВІМ será destruído e-homem ШОМЕАֿ ЛАНАЦАХ יְדַבֵּֽר׃"
+          },
+          {
+            "verse": 29,
+            "text": "ХІУЕЗ homem ímpio ВІФАНАЙ ВІЯШАРАֿ ele"
+          },
+          {
+            "verse": 30,
+            "text": "não-há ХАЧМАХ e-não-há tuvana e-não-há consulta diante-de yhwh"
+          },
+          {
+            "verse": 31,
+            "text": "cavalo preparado para-o-dia guerra e para Yahweh a salvação"
+          }
+        ]
+      },
+      {
+        "chapter": 22,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "escolhido nome dos dezimos muito do ouro e do prata graca bom"
+          },
+          {
+            "verse": 2,
+            "text": "עָשִׁיר e o restante [נִפְגָּ֑שׁוּ] fez [כֻלָּ֣ם] yhwh"
+          },
+          {
+            "verse": 3,
+            "text": "astuto viu ver [רָעָ֣ה] עברوا [**וְנִסְתָּ֑ר]"
+          },
+          {
+            "verse": 4,
+            "text": "porque [עֲ֭נָוָה] יִרְאַ֣ת yhwh dez [וְכָב֣וֹד] [וְחַיִּֽים]"
+          },
+          {
+            "verse": 5,
+            "text": "[צִנִּ֣ים] [פַּ֭חִים] no-caminho עיקֵשׁ שֹׁמֵר sua-alma יִרְחַק de-eles"
+          },
+          {
+            "verse": 6,
+            "text": "חֲנֹךְ לַנַּעַר sobre boca-de também também porque יַזְקִין não ele se desviará de-elas"
+          },
+          {
+            "verse": 7,
+            "text": "עָ֭שִׁיר בְּרָשִׁים יִמְשׁוֹל וְעֶבֶד לֹוֶה a homem-de MALVEH:"
+          },
+          {
+            "verse": 8,
+            "text": "ZOR'AH AVLAH iniquidade VESHEVET EBRATO YIKLEH:"
+          },
+          {
+            "verse": 9,
+            "text": "bom ele ele YEBORAKH porque deu MILLACHMO LADAL:"
+          },
+          {
+            "verse": 10,
+            "text": "GARESH לֵ֭ץ e saia מדון e habite julgamento e calão:"
+          },
+          {
+            "verse": 11,
+            "text": "amou coração favor de sua boca רֵעֵ֥הוּ rei"
+          },
+          {
+            "verse": 12,
+            "text": "os-olhos-de yhwh guardaram דָ֑עַת e deslizou palavras-de mentiroso:"
+          },
+          {
+            "verse": 13,
+            "text": "disse עָ֭צֵל leão fora no-meio-de ruas assassino:"
+          },
+          {
+            "verse": 14,
+            "text": "שׁוּחָ֣ה עֲ֭מֻקָּה boca-de זָר֑וֹת זְע֥וּם yhwh nome"
+          },
+          {
+            "verse": 15,
+            "text": "אִ֭וֶּלֶת קְשׁוּרָ֣ה בְּלֶב־ נָ֑עַר bastão מ֝וּסָ֗ר nós de-nós"
+          },
+          {
+            "verse": 16,
+            "text": "עֹ֣שֵֽׁק DAL לְהַרְבּ֣וֹת a-ele deu לְ֝עָשִׁ֗יר somente para a falta:"
+          },
+          {
+            "verse": 17,
+            "text": "הַ֥ט o teu ouvido palavras-de sábios e o teu coração tashit para a minha conhecimento"
+          },
+          {
+            "verse": 18,
+            "text": "porque belos porque guarda-los no teu ventre serão juntos sobre as tuas lábios"
+          },
+          {
+            "verse": 19,
+            "text": "para-ser- בַּ֭יהוָה de-seu-braço te-hodi-a-tei o-dia também tu"
+          },
+          {
+            "verse": 20,
+            "text": "acaso-nao escrevi a-ti em-conselhos e-te-hodi-a:"
+          },
+          {
+            "verse": 21,
+            "text": "para-te-hodi-a-los-tei cortadores palavras verdade para-responder palavras verdade para-o-enviador:"
+          },
+          {
+            "verse": 22,
+            "text": "a que DAL porque de-a- ele e-a que-destrua afligido no-portão:"
+          },
+          {
+            "verse": 23,
+            "text": "porque yhwh contenda contendas e-defina a que-definem alma"
+          },
+          {
+            "verse": 24,
+            "text": "a que-chora a בַּ֣עַל tambem não homem ira não vem:"
+          },
+          {
+            "verse": 25,
+            "text": "para-que-não tealaf e-lakachta מוֹקֵ֣שׁ para-nafshecha"
+          },
+          {
+            "verse": 26,
+            "text": "a seja na-bate- caph ba-orvim masaot"
+          },
+          {
+            "verse": 27,
+            "text": "se não-há para-ti para-salém por-que ele-tomará de-cama-teu de-baixo-de-teu;"
+          },
+          {
+            "verse": 28,
+            "text": "a serás-afastado eternidade eternidade que fizeram pais-tus;"
+          },
+          {
+            "verse": 29,
+            "text": "viste-que homem- rápido na-sua-trabalho ante- reis יתיצָב não יתיצֵב diante-de חשוכִים׃"
+          }
+        ]
+      },
+      {
+        "chapter": 23,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "porque תשב ללחומ a משול entre TABיבן a que diante-de-você."
+          },
+          {
+            "verse": 2,
+            "text": "וְשׂ-מָתָ֣ שכין בלועךא se בעאל alma tu"
+          },
+          {
+            "verse": 3,
+            "text": "a תִּ֭תְאָו לְמַטְעַמּוֹתָ֑יו pão pão כְּזָבִֽים׃"
+          },
+          {
+            "verse": 4,
+            "text": "a תִּיגַ֥ע לְֽהַעֲשִׁ֑יר מִֽבִּינָתְךָ֥ חֲדָֽל׃"
+          },
+          {
+            "verse": 5,
+            "text": "עֵינֶ֥יךָ nele וְֽאֵ֫ינֶ֥נּוּ porque fez que para-ele כְנָפַ֑יִם Cneshér os-céus"
+          },
+          {
+            "verse": 6,
+            "text": "a Tilchám a Léchem mau olho e-a Lematómatótiy:"
+          },
+          {
+            "verse": 7,
+            "text": "que [׀] Shá'ar Bénafshó Kénen- ele אכל Úštéh Yomár para-ti e-líbbo não contigo"
+          },
+          {
+            "verse": 8,
+            "text": "pítakha- aḥaltā tqiennā wəšiqhattā daberexa hannʿim∶"
+          },
+          {
+            "verse": 9,
+            "text": "em-orelhas-de כסיל a tadber porque yabuẓ ləšecel מלכָּא׃"
+          },
+          {
+            "verse": 10,
+            "text": "a תַּ֭סֵּג eternidade eternidade וּבִשְׂדֵ֥י יְ֝תוֹמִ֗ים a תָּבֹֽא׃"
+          },
+          {
+            "verse": 11,
+            "text": "porque גֹאֲלָ֥ם חָזָ֑ק ele יָרִ֖יב a רִיבָ֣ם contigo"
+          },
+          {
+            "verse": 12,
+            "text": "הָבִ֣יאָה para-a-moça teu-coração e-te-o-ouvido para-palavras-de דָֽעַת׃"
+          },
+          {
+            "verse": 13,
+            "text": "a terás-restraindo-te de-adolescente disciplina porque não com-o-bastão não não"
+          },
+          {
+            "verse": 14,
+            "text": "tu com-o-bastão terás-encantando-te vén-na-fshe-wo de-tartarus libertar-te-:"
+          },
+          {
+            "verse": 15,
+            "text": "filhos-de se sábio teu-coração היה שמח לִבִּ֣י também eu"
+          },
+          {
+            "verse": 16,
+            "text": "והעלזה כליותי בדבר שפתיך משרים׃"
+          },
+          {
+            "verse": 17,
+            "text": "a יחנקה לבך que porque se בייראת־ yhwh todo o-dia"
+          },
+          {
+            "verse": 18,
+            "text": "que se há אחרית não não serás"
+          },
+          {
+            "verse": 19,
+            "text": "שְׁמַע־ tu filhos-de e sábio e feliz no caminho לִבֶּֽךָ׃"
+          },
+          {
+            "verse": 20,
+            "text": "a seja o que dá vinho entre os que se deleitam em carne a-eles"
+          },
+          {
+            "verse": 21,
+            "text": "porque o que dá e se deleita יִוָּרֵ֑שׁ וּ֝קְרָעִ֗ים תַּלְבּ֣ישׁ נוּמָֽה׃"
+          },
+          {
+            "verse": 22,
+            "text": "ouviu לְ֭אָבִיךָ este יְלָדֶ֑ךָ e-a תָּ֝ב֗וּז porque זָקְנָ֥ה אִמֶּֽךָ׃"
+          },
+          {
+            "verse": 23,
+            "text": "אֱמֶ֣ת compra e-a comércio sabedoria e instrução e sabedoria;"
+          },
+          {
+            "verse": 24,
+            "text": "pai-de justo sábio em-ele"
+          },
+          {
+            "verse": 25,
+            "text": "alegrará-o seu pai e sua mãe e glorificará que te gerou;"
+          },
+          {
+            "verse": 26,
+            "text": "תְּנָֽה־ filhos-de לִבְּךָ֣ a-mim וְ֝עֵינֶ֗יךָ דְּרָכַ֥י"
+          },
+          {
+            "verse": 27,
+            "text": "porque שׁוּחָ֣ה עֲמֻקָּ֣ה זוֹנָ֑ה וּבְאֵ֥ר צָ֝רָ֗ה estranha"
+          },
+          {
+            "verse": 28,
+            "text": "também הִ֭יא כְּחֶ֣תֶף תֶּֽאֱרֹ֑ב וּ֝בוֹגְדִ֗ים בְּאָדָ֥ם תּוֹסִֽפ׃"
+          },
+          {
+            "verse": 29,
+            "text": "לְמִ֨י אָוי֙ לְמִ֪י אֲב֡וֹי לְמִ֤י לְמִ֥י שִׂ֗יחַ לְ֭מִי פְּצָעִ֣ים חִנָּ֑ם לְ֝מִ֗י חַכְלִל֥וּת Olhos:"
+          },
+          {
+            "verse": 30,
+            "text": "לַֽמְאַחֲרִ֥ים sobre הַיָּ֑יִן לַ֝בָּאִ֗ים לַחְקֹ֥ר מִמְסָֽךְ׃"
+          },
+          {
+            "verse": 31,
+            "text": "a תֵּ֥רֶא que porque יִתְאַ֫דָּ֥ם porque dará אֶל-עֵינֹ יֵלֵךְ בְּמִשְׁרָתַיִם׃"
+          },
+          {
+            "verse": 32,
+            "text": "אַחֲרֵי-הוּא כְּנָחָשׁ יִשַׁךְ וּכְצִפְעֹנִי יָפֶר׃"
+          },
+          {
+            "verse": 33,
+            "text": "אֲדַבְּרֵהַ-בְּעֵינֶיךָ temerao זָרֹות e-em-teu-coração יְדַבֵּר vire-se-vire-se;"
+          },
+          {
+            "verse": 34,
+            "text": "e-serás como-dormindo בְּלֶב־ mar e-dormindo na-cabeça cobiça-cobiça;"
+          },
+          {
+            "verse": 35,
+            "text": "batei-em-mim sem- eu-me-envergonhei me-vexaram não יָדָ֥עְתִּי quando אָקִ֑יץ אֹסִ֗יף אֲבַקְשֶׁ֥נּוּ ainda"
+          }
+        ]
+      },
+      {
+        "chapter": 24,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "a תְּ֭קַנֵּא em-homens maldade e-a a-ser אִתָּֽם׃"
+          },
+          {
+            "verse": 2,
+            "text": "porque שֹׁ֭ד haverá coracoes-eles וְ֝עָמָ֗ל שִׂפְתֵיהֶ֥ם תְּדַבֵּֽרְנָה׃"
+          },
+          {
+            "verse": 3,
+            "text": "בְּ֭חָכְמָה יִבָּ֣נֶה casa וּ֝בִתְבוּנָ֗ה יִתְכּוֹנָֽן׃"
+          },
+          {
+            "verse": 4,
+            "text": "וּ֭בְדַעַת חֲדָרִ֣ים יִמָּלְא֑וּ todo ה֖וֹן יָקָ֣ר וְנָעִֽים׃"
+          },
+          {
+            "verse": 5,
+            "text": "גֶּֽבֶר־ חָכָ֥ם בַּע֑וֹז e-homem- דַּ֝֗עַת מְאַמֶּץ־ FORÇA:"
+          },
+          {
+            "verse": 6,
+            "text": "que בְ֭תַחְבֻּלוֹת farás- para-ti guerra וּ֝תְשׁוּעָ֗ה em-multidão יוֹעֵֽץ׃"
+          },
+          {
+            "verse": 7,
+            "text": "raomot לֶֽאֱוִ֣יל חָכְמ֑וֹת בַּ֝שּׁ֗עַר não יִפְתַּח־ פיו׃"
+          },
+          {
+            "verse": 8,
+            "text": "מחשב להרע a-ele de בַּֽעַל־ mezimmot יקראו׃"
+          },
+          {
+            "verse": 9,
+            "text": "intenção אילית חטא וtoaavat le'adam לץ׃"
+          },
+          {
+            "verse": 10,
+            "text": "התרפita em-dia צרה angústia-de [כֹּחֶֽכָה]"
+          },
+          {
+            "verse": 11,
+            "text": "o‭ צֵּל para‭ קֻחִים para‭ מָוֶת e‭ מָטִים para‭ הֶרֶג se trevas‭ תַּחְשֽׂוֹךְ׃"
+          },
+          {
+            "verse": 12,
+            "text": "porque eis eis‭ הֵן֮ não sabiam‭ יָדַ֢עְנ֫וּ este הֲ‍ֽלֹא־ estabelecer-se-ão‭ תֹ֘כֵ֤ן nos‭ לִבּ֨וֹת ׀ ele ele וְנֹצֵ֣ר נַ֭פְשְׁךָ ele conheceu וְהֵשִׁ֖יב le'adam כְּפָעֳלֽוֹ׃"
+          },
+          {
+            "verse": 13,
+            "text": "אֱכָל־ filhos-de דְבַ֣שׁ porque bom וְנֹ֥פֶת מָ֝ת֗וֹק sobre חִכֶּֽךָ׃"
+          },
+          {
+            "verse": 14,
+            "text": "כֵּ֤ן ׀ Deixa-te חָכְמָ֗ה para a tua alma se achaste e há última e a tua esperança não será derramada"
+          },
+          {
+            "verse": 15,
+            "text": "a arrebatas-te ímpio para a loucura justo a tornar-te-ás dura רִבְצוֹ׃"
+          },
+          {
+            "verse": 16,
+            "text": "que שֶׁ֨בַע ׀ יִפּ֣וֹל justo וָקָ֑ם וּרְשָׁעִים יִכָּשְׁל֥וּ בְרָעָֽה׃"
+          },
+          {
+            "verse": 17,
+            "text": "בִּנְפֹ֣ל a תִּשָׂמָ֑ח וּ֝בִכָּשְׁל֗וֹ a יָגֵ֥ל לִבֶּֽךָ׃"
+          },
+          {
+            "verse": 18,
+            "text": "para-que-não yhwh yhwh e-mal em-olhos-dele e-retornará de-lá-dela אַף׃"
+          },
+          {
+            "verse": 19,
+            "text": "a תתחאר במרועים a תתקnea׃ em-malvadezes"
+          },
+          {
+            "verse": 20,
+            "text": "que não sera última para-mal neṛ ímpios conhecereis"
+          },
+          {
+            "verse": 21,
+            "text": "tem-temor a yhwh filhos-de e-rei com que-mudam a serão-confundidos"
+          },
+          {
+            "verse": 22,
+            "text": "porque פתאום יָק֣וּם אֵידָ֑ם ופיד quem quem יודע׃"
+          },
+          {
+            "verse": 23,
+            "text": "também estes לחכמים הכר־ face במשפט não bom"
+          },
+          {
+            "verse": 24,
+            "text": "אמר ׀ לרashaע֮ צדיק אתה יִקְּבֻ֥הוּ עַמִּ֑ים יִזְעָמ֥וּהוּ לְאֻמִּֽים׃"
+          },
+          {
+            "verse": 25,
+            "text": "וְלַמּוֹכִיחִ֥ים יִנְעָ֑ם וַֽ֝עֲלֵיהֶ֗ם virá בִרְכַּת־ bom"
+          },
+          {
+            "verse": 26,
+            "text": "שְׂפָתַ֥יִם יִשָּׁ֑ק מֵ֝שִׁ֗יב דְּבָרִ֥ים נְכֹחִֽים׃"
+          },
+          {
+            "verse": 27,
+            "text": "הָ֘כֵ֤ן בַּח֨וּץ ׀ מְלַאכְתֶּ֗ךָ וְעַתְּדָ֣הּ בַּשָּׂדֶ֣ה a-ti para-ti וּבָנִ֥יתָ בֵיתֶֽךָ׃"
+          },
+          {
+            "verse": 28,
+            "text": "a seja até hinam בְּרֵעֶ֑ךָ וַ֝הֲפִתִּ֗יתָ nas-bocas-teu:"
+          },
+          {
+            "verse": 29,
+            "text": "a dirigir-te-ás como-que fez para-mim assim farei para-ele farei-voltar para-o-homem segundo-fez"
+          },
+          {
+            "verse": 30,
+            "text": "sobre campo- homem-de עָצֵ֣ל homem e-sobre como-cerro homem falta- coração"
+          },
+          {
+            "verse": 31,
+            "text": "e-eis subir todo-o com-escamas cobrir-se-ão פָנָ֣יו como-lombos e-muro suas-pedras נֶהֱרָֽסָה׃"
+          },
+          {
+            "verse": 32,
+            "text": "וָֽאֶחֱזֶ֣ה eu אָשִׁ֣ית meu-coração רָ֝אִ֗יתִי eu-tomarei מוּסָּֽר׃"
+          },
+          {
+            "verse": 33,
+            "text": "pouco שֵׁ֭נוֹת pouco תְּנוּמ֑וֹת מְעַ֓ט ׀ חִבֻּ֖ק mãos לִשְׁכָּֽב׃"
+          },
+          {
+            "verse": 34,
+            "text": "e vêm- andando seu-começo e-seu-falta como homem מָגֵ֗ן׃"
+          }
+        ]
+      },
+      {
+        "chapter": 25,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "também אֵ֭לֶּה dois Shelomoh que fizeram-antigo homens- fortaleza rei-de Judá"
+          },
+          {
+            "verse": 2,
+            "text": "glória Elohim escondeu-o palavra e-glória reis- חֲקֹ֣ר palavra"
+          },
+          {
+            "verse": 3,
+            "text": "céus לָ֭רוּם וָאָ֣רֶץ לָעֹ֑מֶק וְלֵ֥ב מְ֝לָכִ֗ים não-há חֵֽקֶר׃"
+          },
+          {
+            "verse": 4,
+            "text": "הָג֣וֹ סִיגִ֣ים מִכָּ֑סֶף e-ele-saiu para-reforçar כֶּֽלִי׃"
+          },
+          {
+            "verse": 5,
+            "text": "ele- disse ímpio diante-de rei e-será em-justiça sua-cadeira"
+          },
+          {
+            "verse": 6,
+            "text": "a terá-se-estendido diante-de rei e-em-lugar grandes a terá-se-estabelecido"
+          },
+          {
+            "verse": 7,
+            "text": "que bom dize- para-ti עַלְ aqui מֵהַשְׁפּ֣ילְךָ diante-de נָדִ֑יב que viram de-tus-teus-olhos"
+          },
+          {
+            "verse": 8,
+            "text": "a תֵצֵ֥א לָרִיב para-que-não פֶּן que תַעֲשֶׂה בְּאַחֲרִיתָהּ בְּהַכְלִים אֹתְךָ teu-companheiro"
+          },
+          {
+            "verse": 9,
+            "text": "רִיבְךָ רִיב a re'ekha וְס֖וֹד אַחֵ֣ר a תְּגָֽל׃"
+          },
+          {
+            "verse": 10,
+            "text": "para-que-não יְחַסֶּדְךָ֥ ouviu não não תשוב"
+          },
+          {
+            "verse": 11,
+            "text": "תַּפּוּחֵ֣י ouro בְּמַשְׂךִּיּ֣וֹת prata palavra palavra sobre אָפְנָֽיו׃"
+          },
+          {
+            "verse": 12,
+            "text": "anel ouro וַחֲלִי־ כָ֑תֶם מֹכִ֥יחַ חָכָ֗ם sobre אֹ֥זֶן שֹׁמָֽעַת׃"
+          },
+          {
+            "verse": 13,
+            "text": "כְּצִנַּת־ שֶׁ֨לֶג ׀ בְּי֬וֹם קָצִ֗יר צִ֣יר נֶ֭אֱמָן para-os-enviadores e-alma seu-senhores descanse:"
+          },
+          {
+            "verse": 14,
+            "text": "principais e-Espírito-de e-chuva a'ayin homem que-alegra-se com-auxílio-de mentira"
+          },
+          {
+            "verse": 15,
+            "text": "em-longo-tempo apêim se-alegrará que-floresçam e-lá-šōn rā-khā tīšabbār- גָּֽרֶם׃"
+          },
+          {
+            "verse": 16,
+            "text": "דְּבַ֣שׁ mā-tsāʾatā אכל dāyyekkā para-que-não tīšabbāʿēnu wa-haqētoʾ"
+          },
+          {
+            "verse": 17,
+            "text": "hōqar rā-gelekka de-casa-de re'ekha para-que-não yīšabbāʿekka e odiará"
+          },
+          {
+            "verse": 18,
+            "text": "que espalha e a espada e o arco queimado homem que vende ao seu vizinho até mentira"
+          },
+          {
+            "verse": 19,
+            "text": "na-mente que pastoreia e o pé agendada מִבְטָ֥ח בּ֝וֹגֵ֗ד em-dia-de צָרֽ͏ָה׃"
+          },
+          {
+            "verse": 20,
+            "text": "מַ֥עֲדֶה בֶּ֨גֶד ׀ em-dia-de קָ֭רָה חֹ֣מֶץ sobre נָ֑תֶר וְשָׁ֥ר בַּ֝שִּׁרִ֗ים sobre lício- mau"
+          },
+          {
+            "verse": 21,
+            "text": "se fome- que-te-sodeia [לָ֑חֶם] pão e-se fome- que-o-beba águas"
+          },
+          {
+            "verse": 22,
+            "text": "que ganchos- tu cobiça- sobre sua-cabeça וֽ͏ַ֝יהוָ֗ה yešallêm- para-ti"
+          },
+          {
+            "verse": 23,
+            "text": "espírito norte- תְּח֣וֹלֵֽל גָּ֑שֶׁם וּפָנִ֥ים נִ֝זְעָמִ֗ים língua-de סָֽתֶר׃"
+          },
+          {
+            "verse": 24,
+            "text": "bom שֶׁ֥בֶת sobre פִּנַּת־ גָּ֑ג מֵאֵ֥שֶׁת e-casa-de חָֽבֶר׃"
+          },
+          {
+            "verse": 25,
+            "text": "águas קָרִים sobre alma עֲיֵפָה וּשְׁמוּעָ֥ה ט֝וֹבָ֗ה de-terra-de מֶרְחָֽק׃"
+          },
+          {
+            "verse": 26,
+            "text": "מַעְיָ֣ן נִ֭רְפָּשׂ וּמָק֣וֹר מָשְׁחָ֑ת צדיק מָ֣ט diante-de perverso"
+          },
+          {
+            "verse": 27,
+            "text": "comer דְּבַ֣שׁ הַרְבּ֣וֹת não bom וְחֵ֖קֶר כְּבֹדָ֣ם כבוד׃"
+          },
+          {
+            "verse": 28,
+            "text": "cidade פְּ֭רוּצָה não-há חוֹמָ֑ה homem que não מַעְצָ֣ר לְרוּחֽוֹ׃"
+          }
+        ]
+      },
+      {
+        "chapter": 26,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "כַּשֶׁ֤לֶג ׀ בַּקַּ֗יִץ וְכַמָּטָ֥ר בַּקָּצִ֑יר assim não נָאוֶ֖ה para-o-insensato כבוד׃"
+          },
+          {
+            "verse": 2,
+            "text": "כַּצִּפּ֣וֹר לָ֭נוּד כַּדְּר֣וֹר לָע֑וּף assim קִֽלְלַ֥ת hinam תָבֹֽא׃"
+          },
+          {
+            "verse": 3,
+            "text": "שׁ֣וֹט לַ֭סּוּס מֶ֣תֶג para o burro e a vara para o לֵו vaidosos:"
+          },
+          {
+            "verse": 4,
+            "text": "a responde כְּ֭סִיל como a alva para-que-não serás como para-ele também tu"
+          },
+          {
+            "verse": 5,
+            "text": "responde כסיל como a alva para-que-não será sabio em-seus-olhos"
+          },
+          {
+            "verse": 6,
+            "text": "que pega as pernas violência שֹׁתֶה enviou דְּבָרִ֣ים por-mão-de כְּסִֽיל׃"
+          },
+          {
+            "verse": 7,
+            "text": "דַּלְי֣וּ שֹׁ֭קַיִם מִפִּסֵּ֑חַ וּ֝מָשָׁ֗ל בְּפִ֣י cavaleiros׃"
+          },
+          {
+            "verse": 8,
+            "text": "כִּצְר֣וֹר pedra בְּמַרְגֵּמָ֑ה כֵּן־ נוטן para-o-insensato כבוד׃"
+          },
+          {
+            "verse": 9,
+            "text": "חוח subir na-mao-de שיכור ומשල בְּפִ֣י cavaleiros׃"
+          },
+          {
+            "verse": 10,
+            "text": "muito מחולל- todo ושכר כְּ֝סִיל ושכר עברים׃"
+          },
+          {
+            "verse": 11,
+            "text": "ככלב retornou sobre KEEP-AS-IS כְּ֝סִיל שונא בהולתו׃"
+          },
+          {
+            "verse": 12,
+            "text": "ראית homem sabio em-olhos-dele תוקוה para-o-insensato nós"
+          },
+          {
+            "verse": 13,
+            "text": "disse עָ֭צֵל שחל בַּדָּ֑רֶךְ אריה entre הרחבות׃"
+          },
+          {
+            "verse": 14,
+            "text": "הדלת תיסוב sobre ציריה e-o-אֶזְכֶּל sobre em-a-sua-cama"
+          },
+          {
+            "verse": 15,
+            "text": "טָ֘מַ֤ן עָצֵ֣ל sua-mão בַּצַּלָּ֑חַת foi-a-נַלְאָה para-devolver-a-לְהַשְׁבִּיתֹת a פי׃"
+          },
+          {
+            "verse": 16,
+            "text": "sabio עָצֵ֣ל em-olhos-dele de-sede-מֵישֶׁבַע aquele-que-devolve-מְשֻׁבֵּי provas-וְתַעֲמֶה׃"
+          },
+          {
+            "verse": 17,
+            "text": "que-mantém-מַחֲזִיק nas-o-revés-de-as-ouvidos-בְּאֹזְנֵיהֶם־ Calebe-כָּלֶב passando que-se-detesta-מִתְעַבֵּר sobre dispute não a-ele"
+          },
+          {
+            "verse": 18,
+            "text": "que se agite a que derrama aríquins setas e morte"
+          },
+          {
+            "verse": 19,
+            "text": "assim homem Rimá a companheiro-seu e disse הֲ‍ֽלֹא־ Mesequê eu"
+          },
+          {
+            "verse": 20,
+            "text": "em vão truncos תּכְּבֶה־ fogo וּבְאֵ֥ין נִרְגָּ֗ן יִשְׁתֹּ֥ק מָדֽוֹן׃"
+          },
+          {
+            "verse": 21,
+            "text": "פֶּחָ֣ם לְ֭גֶחָלִים וְעֵצִ֣ים לְאֵ֑שׁ e-homem לְחַרְחַר־ רִֽיב׃"
+          },
+          {
+            "verse": 22,
+            "text": "palavras-de nirgān como-estranhamente e-eles desceram חדרי- בָֽטֶן׃"
+          },
+          {
+            "verse": 23,
+            "text": "prata סִ֭יגִים מְצֻפֶּ֣ה sobre charesh שְׂפָתַ֖יִם דֹּלְקִ֣ים e-léb- mau"
+          },
+          {
+            "verse": 24,
+            "text": "יִנָּכֵ֣ר שׂוֹנֵ֑א וּ֝בְקִרְבּ֗וֹ יָשִׁ֥ית engano"
+          },
+          {
+            "verse": 25,
+            "text": "porque יְחַנֵּ֣ן ק֭וֹלוֹ que תַּֽאֲמֶן־ nele porque sete תּוֹעֵב֣וֹת em-coração-seu"
+          },
+          {
+            "verse": 26,
+            "text": "תִּכַּסֶּ֣ה שִׂ֭נְאָה בְּמַשָּׁא֑וֹן תִּגָּלֶ֖ה רָעָת֣וֹ בְקָהָֽל׃"
+          },
+          {
+            "verse": 27,
+            "text": "כֹּֽרֶה־ שַּׁ֭חַת בָּ֣הּ יִפֹּ֑ל pedra a-ele para-ele retornarás"
+          },
+          {
+            "verse": 28,
+            "text": "לְֽשׁוֹן־ שֶׁ֭קֶר יִשְׂנָ֣א דַכָּ֑יו וּפֶ֥ה חָ֝לָ֗ק ele-fará מִדְחֶֽה׃"
+          }
+        ]
+      },
+      {
+        "chapter": 27,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "a תִּ֭תְהַלֵּל no-dia que porque não dia que- יִלֶד dia"
+          },
+          {
+            "verse": 2,
+            "text": "יְהַלֹּלְךָ֣ זָר e-não פִּיךָ נָכְרִי e-a שַׂפְתֵּיכֶֽם׃"
+          },
+          {
+            "verse": 3,
+            "text": "כּוֹבֶד־ אֶבֶן וְנֶתֶל הַחוֹל וְכָעֵס ê-vil כָּבוֹד de suas"
+          },
+          {
+            "verse": 4,
+            "text": "acerridade ira e chuva tambem e-quem se levante diante-de קינאה׃"
+          },
+          {
+            "verse": 5,
+            "text": "boa repreensao manifestada de amor oculta"
+          },
+          {
+            "verse": 6,
+            "text": "fieis feridas אֹהֵב וְנַעְתָּר֗וֹת נְשִׁיק֥וֹת שׂוֹנֵֽא׃"
+          },
+          {
+            "verse": 7,
+            "text": "alma שְׂ֭בֵעָה תָּב֣וּס נֹ֑פֶת e-alma רְ֝עֵבָ֗ה todo מַ֥ר מָתֽוֹק׃"
+          },
+          {
+            "verse": 8,
+            "text": "כְּ֭צִפּוֹר נוֹדֶ֣דֶת de קִנָּ֑הּ assim homem נוֹדֵ֥ד מִמְּקוֹמֽוֹ׃"
+          },
+          {
+            "verse": 9,
+            "text": "óleo וּ֭קְטֹרֶת יְשַׂמַּֽח־ coração וּמֶ֥תֶק seu-amigo מֵֽעֲצַת־ alma"
+          },
+          {
+            "verse": 10,
+            "text": "רֵ֥עֲךָ֨ אָבִ֡יךָ a תַּעֲזֹ֗ב e-casa-de seu-irmão a vai-vir em-dia-de sua-casa bom morador próximo de-irmão distante"
+          },
+          {
+            "verse": 11,
+            "text": "sábio filhos-de e-alegre meu-coração e-retornarei [חֹרְפִ֣י] palavra"
+          },
+          {
+            "verse": 12,
+            "text": "astuto ver mal [נִסְתָּ֑ר] [פְּ֝תָאיִ֗ם] עברوا [נֶעֱנָֽשׁוּ]"
+          },
+          {
+            "verse": 13,
+            "text": "toma בִּ֭גְדוֹ porque tarde זָ֑ר וּבְעַ֖ד [sem-traducao] חַבְלֵֽהוּ׃"
+          },
+          {
+            "verse": 14,
+            "text": "[מְבָ֘רֵ֤ךְ] [רֵעֵ֨הוּ] com-voz grande ba-voker [בַּבֹּ֣קֶר] [הַשְׁכֵּ֑ים] [קְ֝לָלָ֗ה] a-ele"
+          },
+          {
+            "verse": 15,
+            "text": "[דֶּ֣לֶף] em-dia-de [בְּי֣וֹם] [סַגְרִ֑יר] [וְאֵ֥שֶׁת]"
+          },
+          {
+            "verse": 16,
+            "text": "[צֹפְנֶ֥יהָ] [צָֽפַן־ר֑וּחַ] espírito e-óleo chamaria chamaria"
+          },
+          {
+            "verse": 17,
+            "text": "[בַּרְזֶ֣ל] [בְּבַרְזֶ֣ל] juntamente [וְ֝אִ֗ישׁ] יַ֣חַד face-de- seu-amigo"
+          },
+          {
+            "verse": 18,
+            "text": "guardião [תְּ֭אֵנָה] comer-á פִּרְיָ֑הּ וְשֹׁמֵ֖ר seu-senhores [יְכֻבָּֽד]"
+          },
+          {
+            "verse": 19,
+            "text": "[כַּ֭מַּיִם] [הַפָּנִ֣ים] [לַפָּנִ֑ים] assim [לֵֽב־הָ֝אָדָ֗ם] o-homem [sem-traducao]"
+          },
+          {
+            "verse": 20,
+            "text": "sho'al não [**וַ֭אֲבַדּוֹ] não o-homem não o-homem"
+          },
+          {
+            "verse": 21,
+            "text": "forrador em-prata e-esculpidor em-ouro [וְ֝אִ֗ישׁ] de-conformidade-com [מַהֲלָלֽוֹ]"
+          },
+          {
+            "verse": 22,
+            "text": "mãe [תִּכְתּֽוֹשׁ־אֶת־הָאֱוִ֨יל] a [בַּֽמַּכְתֵּ֡שׁ] no-meio-de em-meio-de [בַּֽעֱלִ֑י] [לֹא־תָס֥וּר] não vire-se [sem-traducao] [sem-traducao]"
+          },
+          {
+            "verse": 23,
+            "text": "conheceu [תֵּ֭דַע] face-de [צֹאנֶ֑ךָ] [שִׁ֥ית] [לִ֝בְּךָ֗] [לַעֲדָרִֽים]"
+          },
+          {
+            "verse": 24,
+            "text": "que não para-sempre [חֹ֑סֶן] e-se [לְד֣וֹר] לְד֣וֹר"
+          },
+          {
+            "verse": 25,
+            "text": "[גָּלָ֣ה] [חָ֭צִיר] [וְנִרְאָה־דֶ֑שֶׁא] [וְ֝נֶאֶסְפ֗וּ] [עִשְּׂב֥וֹת] [הָרִֽים] הָרִים׃"
+          },
+          {
+            "verse": 26,
+            "text": "cordeiros [לִלְבוּשֶׁ֑ךָ] [וּמְחִ֥יר] [שָׂ֝דֶ֗ה] a-tu-di-im"
+          },
+          {
+            "verse": 27,
+            "text": "[וְדֵ֤י] [׀] [חֲלֵ֬ב] [עִזִּ֗ים] [לְֽ֭לַחְמְךָ] בֵּיתֶ֑ךָ [בֵּיתֶ֑ךָ] [וְ֝חַיִּ֗ים]"
+          }
+        ]
+      },
+      {
+        "chapter": 28,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "nassu e-não-há perseguindo ímpio [כִּכְפִ֥יר] [יִבְטָֽח] [sem-traducao]"
+          },
+          {
+            "verse": 2,
+            "text": "[בְּפֶ֣שַֽׁע] terra muitos os-seus-líderes [וּבְאָדָ֥ם] [מֵבִ֥ין] sabe assim [יַאֲרִֽיךְ]"
+          },
+          {
+            "verse": 3,
+            "text": "pobre [רָ֭שׁ] דָּלִים [דַּלִּ֑ים] [מָטָ֥ר] e-não-há pão"
+          },
+          {
+            "verse": 4,
+            "text": "[עֹזְבֵ֣י] [ת֭וֹרָה] יְהַֽלְל֣וּ ímpio e-guardiões [ת֝וֹרָ֗ה] [יִתְגָּ֥רוּ] neles:"
+          },
+          {
+            "verse": 5,
+            "text": "homens de mau não yabino yhwh e-pedintes yhwh entenderão todo"
+          },
+          {
+            "verse": 6,
+            "text": "bom pobre andando em sua integridade de curvado [וְה֣וּא] e-ele rico"
+          },
+          {
+            "verse": 7,
+            "text": "[נוֹצֵ֣ר] [תּ֭וֹרָה] filho מֵבִין [וְרֹעֶ֥[t]ה] [זֽ֝וֹלְלִ֗ים] pai-seu"
+          },
+          {
+            "verse": 8,
+            "text": "[מַרְבֶּ֣ה] [ה֭וֹנוֹ] [בְּנֶ֣שֶׁךְ] [*ובתרבית] [**וְתַרְבִּ֑ית] [לְחוֹנֵ֖ן]"
+          },
+          {
+            "verse": 9,
+            "text": "[מֵסִ֣יר] seus-ouvidos de-audição תּוֹרָ֑ה também [תְּ֝פִלָּת֗וֹ] [תּוֹעֵבָֽה]"
+          },
+          {
+            "verse": 10,
+            "text": "[מַשְׁגֶּ֤ה] justos em-a-caminho mau mal ele [הֽוּא־יִפּ֑וֹל] [וּ֝תְמִימִ֗ים] [יִנְחֲלוּ־טֽוֹב] bom"
+          },
+          {
+            "verse": 11,
+            "text": "sabio [בְּ֭עֵינָיו] homem [עָשִׁ֑יר] [וְדַ֖ל] מֵבִ֣ין [יַחְקְרֶֽנּוּ]"
+          },
+          {
+            "verse": 12,
+            "text": "[בַּעֲלֹ֣ץ] justos multiplicai [תִפְאָ֑רֶת] [וּבְק֥וּם] ímpios [יְחֻפַּ֥שׂ] homem"
+          },
+          {
+            "verse": 13,
+            "text": "[מְכַסֶּ֣ה] [פְ֭שָׁעָיו] não [יַצְלִ֑יחַ] [וּמוֹדֶ֖ה] [וְעֹזֵ֣ב] [יְרֻחָֽם]"
+          },
+          {
+            "verse": 14,
+            "text": "אַשְׁרֵי homem [מְפַחֵ֣ד] permanente [וּמַקְשֶׁ֥ה] לִבּוֹ יִפּ֥וֹל בְּרָעָֽה׃"
+          },
+          {
+            "verse": 15,
+            "text": "[אֲרִי־נֹ֭הֵם] [וְדֹ֣ב] [שׁוֹקֵ֑ק] [מֹשֵׁ֥ל] [רָ֝שָׁ֗ע] sobre sobre com [sem-traducao]"
+          },
+          {
+            "verse": 16,
+            "text": "[נָגִ֗יד] [חֲסַ֣ר] [תְּ֭בוּנוֹת] [וְרַ֥ב] [מַעֲשַׁקּ֑וֹת] [*שנאי] [**שֹׂ֥נֵא] dias"
+          },
+          {
+            "verse": 17,
+            "text": "homem [עָשֻׁ֣ק] [בְּדַם־נָפֶשׁ[c]] até [יָ֝נ֗וּס] [אַל־יִתְמְכוּ־בֽוֹ] a [sem-traducao] nele-verso"
+          },
+          {
+            "verse": 18,
+            "text": "andando [תָּ֭מִים] [יִוָּשֵׁ֑עַ] [וְנֶעְקַ֥שׁ] [דְּ֝רָכַ֗יִם] יִפּ֥וֹל [בְּאֶחָֽת]"
+          },
+          {
+            "verse": 19,
+            "text": "servo [אַ֭דְמָתוֹ] [יִֽשְׂבַּֽע־לָ֑חֶם] pão [רֵ֝קִ֗ים] [יִֽשְׂבַּֽע־רִֽישׁ] [sem-traducao] [sem-traducao]"
+          },
+          {
+            "verse": 20,
+            "text": "homem [אֱ֭מוּנוֹת] chefe-de [וְאָ֥ץ] [לְ֝הַעֲשִׁ֗יר] não não יִנַּקֶה׃"
+          },
+          {
+            "verse": 21,
+            "text": "הכר־ face não bom e-sobre pedaço-de a-ele [sem-traducao] homem:"
+          },
+          {
+            "verse": 22,
+            "text": "[נִֽבֳהָֽ[m]ל] homem mau olho e-não conheceu porque [יְבֹאֶֽנּוּ] [sem-traducao]"
+          },
+          {
+            "verse": 23,
+            "text": "[מ֘וֹכִ֤יחַ] homem [אַ֭חֲרַי] graca encontrará [מִֽמַּחֲלִ֥יק] língua:"
+          },
+          {
+            "verse": 24,
+            "text": "[גּוֹזֵ֤ל] [׀] seu-pai [וְאִמּ֗וֹ] não-há [אֵֽין־פָּ֑שַׁע] [חָבֵ֥ר] ele a homem-de מַשְׁחִֽית׃"
+          },
+          {
+            "verse": 25,
+            "text": "[רְחַב־נֶ֭פֶשׁ] alma יגרה מדון וּבוֹטֵ֖חַ sobre yhwh serão-tributados"
+          },
+          {
+            "verse": 26,
+            "text": "[בּוֹטֵ֣חַ] no seu coração ele [כְסִ֑יל] [וְהוֹלֵ֥ךְ] [בְּ֝חָכְמָ֗ה] ele יִמָּלֵֽט׃"
+          },
+          {
+            "verse": 27,
+            "text": "[נוֹתֵ֣ן] daraשׁ não-há [מַחְס֑וֹר] [וּמַעְלִ֥ים] [עֵ֝ינָ֗יו] chefe-de [sem-traducao]"
+          },
+          {
+            "verse": 28,
+            "text": "[בְּק֣וּם] ímpios [יִסָּתֵ֣ר] homem [וּ֝בְאָבְדָ֗ם] [יִרְבּ֥וּ] צַדּיָקִים׃"
+          }
+        ]
+      },
+      {
+        "chapter": 29,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "homem [תּ֭וֹכָחוֹת] [מַקְשֶׁה־עֹ֑רֶף] עֹרֵפִי [יִ֝שָּׁבֵ֗ר] [וְאֵ֣ין] e-não-há cura--"
+          },
+          {
+            "verse": 2,
+            "text": "[בִּרְב֣וֹת] justos alegrar-se-á o-povo [וּבִמְשֹׁ֥ל] רָשָׁע [יֵאָ֥נַֽח] povo"
+          },
+          {
+            "verse": 3,
+            "text": "אִישׁ- amou ХАЧМАХ seu-pai pai-seu [ז֝וֹנ֗וֹת] [יְאַבֶּד־הֽוֹן] [sem-traducao] [sem-traducao]"
+          },
+          {
+            "verse": 4,
+            "text": "rei [בְּ֭מִשְׁפָּט] [יַעֲמִ֣יד] terra e-homem [תְּרוּמ֣וֹת] [יֶֽהֶרְסֶֽנָּה]"
+          },
+          {
+            "verse": 5,
+            "text": "[גֶּ֭בֶר] [מַחֲלִ֣יק] sobre companheiro-seu [פּוֹרֵ֥שׂ] [עַל־פְּעָמָֽיו] sobre [sem-traducao]"
+          },
+          {
+            "verse": 6,
+            "text": "[בְּפֶ֤שַֽׁע] homem mal [מוֹקֵ֑שׁ] וְ֝צַדִּ֗יק [יָר֥וּן] [וְשָׂמֵֽחַ]"
+          },
+          {
+            "verse": 7,
+            "text": "sabe justo julgamento דָּלִים רָשָׁע não entenderá daath:"
+          },
+          {
+            "verse": 8,
+            "text": "homens-de [לָ֭צוֹן] [יָפִ֣יחוּ] [קִרְיָ֑ה] [וַ֝חֲכָמִ֗ים] [יָשִׁ֥יבוּ] também"
+          },
+          {
+            "verse": 9,
+            "text": "אִישׁ- sábio [אֶת־אִ֣ישׁ] a homem [וְ֝שָׂחַ֗ק] [וְאֵ֣ין] [נָֽחַת] e-não-há נָחַת׃"
+          },
+          {
+            "verse": 10,
+            "text": "homens-de [דָ֭מִים] [יִשְׂנְאוּ־תָ֑ם] [וִֽ֝ישָׁרִ֗ים] [יְבַקְשׁ֥וּ] eles-busquem sua-alma:"
+          },
+          {
+            "verse": 11,
+            "text": "todo [יוֹצִ֣יא] [כְסִ֑יל] [וְ֝חָכָ֗ם] [בְּאָח֥וֹר] [יְשַׁבְּחֶֽנָּה] [sem-traducao]"
+          },
+          {
+            "verse": 12,
+            "text": "[מֹ֭שֵׁל] מקשיב sobre palavra-de falsidade todo [sem-traducao] רְשָׁעִֽים׃"
+          },
+          {
+            "verse": 13,
+            "text": "[רָ֤שׁ] e-homem [תְּכָכִ֣ים] [נִפְגָּ֑שׁוּ] [מֵ֤אִיר־עֵינֵ֖י] [שְׁנֵיהֶ֣ם] [יְהוֽ͏ָה] [sem-traducao]"
+          },
+          {
+            "verse": 14,
+            "text": "rei [שׁוֹפֵ֣ט] [בֶּֽאֱמֶ֣ת] דָּלִים [כִּ֝סְא֗וֹ] [לָעַ֥ד] [יִכּֽוֹן]"
+          },
+          {
+            "verse": 15,
+            "text": "tribo-de [וְ֭תוֹכַחַת] dará sabedoria [וְנַ֥עַר] [מְ֝שֻׁלָּ֗ח] em-בישׁ sua-mãe"
+          },
+          {
+            "verse": 16,
+            "text": "[בִּרְב֣וֹת] ímpios [יִרְבֶּה־פָּ֑שַׁע] [וְ֝צַדִּיקִ֗ים] [בְּֽמַפַּלְתָּ֥ם] [יִרְאֽוּ] [sem-traducao]"
+          },
+          {
+            "verse": 17,
+            "text": "IASer BINeka [וִֽינִיחֶ֑ךָ] E-deu [מַעֲדַנִּ֣ים] para-nafshecha"
+          },
+          {
+            "verse": 18,
+            "text": "בְּאֵ֣ין [חָ֭זוֹן] [יִפָּ֣רַֽע] povo וְשֹׁמֵ֖ר lei [אַשְׁרֵֽהוּ]"
+          },
+          {
+            "verse": 19,
+            "text": "[בִּ֭דְבָרִים] não [עָ֑בֶד] servo porque [מַעֲנֶֽה] e-não-há [sem-traducao]"
+          },
+          {
+            "verse": 20,
+            "text": "[חָזִ֗יתָ] homem [אָ֣ץ] [בִּדְבָרָ֑יו] תוקוה para-o-insensato nós"
+          },
+          {
+            "verse": 21,
+            "text": "[מְפַנֵּ֣ק] [מִנֹּ֣עַר] seu-servo [וְ֝אַחֲרִית֗וֹ] será [מָנֽוֹן]"
+          },
+          {
+            "verse": 22,
+            "text": "אִישׁ- [יְגָרֶ֣ה] יגרה מדון [חֵמָ֣ה] [רַב־פָּֽשַׁע] chefe-de פָּֽשַׁע׃"
+          },
+          {
+            "verse": 23,
+            "text": "[גַּאֲוַ֣ת] homem [תַּשְׁפִּילֶ֑נּוּ] [וּשְׁפַל־ר֝֗וּחַ] espírito [כָּבֽוֹד] כבוד׃"
+          },
+          {
+            "verse": 24,
+            "text": "[חוֹלֵ֣ק] com [שׂוֹנֵ֣א] odeia [אָלָ֥ה] [יִ֝שְׁמַ֗ע] [וְלֹ֣א] e-não יַגִּֽיד׃"
+          },
+          {
+            "verse": 25,
+            "text": "[חֶרְדַּ֣ת] homem dará [מוֹקֵ֑שׁ] וּבוֹטֵ֖חַ בַּיהוָ֣ה [יְשֻׂגָּֽב]"
+          },
+          {
+            "verse": 26,
+            "text": "רַ֭בִּים [מְבַקְשִׁ֣ים] face-de משול וּ֝מֵיְהוָ֗ה que homem"
+          },
+          {
+            "verse": 27,
+            "text": "abominação-de justos homem [עָ֑וֶל] וtoaavat ímpio [יְשַׁר־דָּֽרֶךְ׃] caminho"
+          }
+        ]
+      },
+      {
+        "chapter": 30,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "[דִּבְרֵ֤י] [׀] filho-de [בִּן־יָקֶ֗ה] [הַמַּ֫שָּׂ֥א] oráculo-de [הַ֭גֶּבֶר] [לְאִֽיתִיאֵ֑ל] [לְאִ֖יתִיאֵ֣ל] [וְאֻכָֽל]"
+          },
+          {
+            "verse": 2,
+            "text": "que [בַ֣עַר] eu [מֵאִ֑ישׁ] e-não homem homem a-mim"
+          },
+          {
+            "verse": 3,
+            "text": "e-não [חָכְמָ֑ה] sabedoria וְדַ֖עַת [אֵדָֽע] [sem-traducao]"
+          },
+          {
+            "verse": 4,
+            "text": "quem [עָלָֽה־שָׁמַ֨יִם] [׀] [וַיֵּרַ֡ד] quem [אָֽסַף־ר֨וּחַ] [׀] [בְּחָפְנָ֡יו] quem [צָֽרַר־מַ֨יִם] [׀] [בַּשִּׂמְלָ֗ה] quem levantou todo extremidades-de terra que Seu nome umah- [sem-traducao] [sem-traducao] porque [sem-traducao]"
+          },
+          {
+            "verse": 5,
+            "text": "todo [אֱל֣וֹהַּ] Eloah [מָגֵ֥ן] ele hu [בּֽוֹ] em-ele"
+          },
+          {
+            "verse": 6,
+            "text": "a [עַל־דְּבָרָ֑יו] sobre devaráyv para-que-não [sem-traducao] bakkha' [sem-traducao]"
+          },
+          {
+            "verse": 7,
+            "text": "[שְׁ֭תַּיִם] שָׁאַלְתִּי [מֵאִתָּ֑ךְ] a [מִ֝מֶּ֗נִּי] [בְּטֶ֣רֶם] betereim-acento-águia morrer-ei:"
+          },
+          {
+            "verse": 8,
+            "text": "[שָׁ֤וְא] [׀] [וּֽדְבַר־כָּזָ֡ב] [הַרְחֵ֬ק] מִמֶּ֗נִּי cabeça [וָ֭עֹשֶׁר] a darás- pão [חֻקִּֽי] pão [sem-traducao]"
+          },
+          {
+            "verse": 9,
+            "text": "para-que-não [אֶשְׂבַּ֨ע] [׀] [וְכִחַשְׁתִּי֮] quem quem yhwh [וּפֶֽן־אִוָּרֵ֥שׁ] [וְגָנַ֑בְתִּי] [וְ֝תָפַ֗שְׂתִּי] nome אֱלֹהִים-meu"
+          },
+          {
+            "verse": 10,
+            "text": "a [עֶ֭בֶד] servo a para-que-não [וְאָשָֽׁמְתָּ] [sem-traducao]"
+          },
+          {
+            "verse": 11,
+            "text": "[דּ֭וֹר] seu-pai [יְקַלֵּ֑ל] e-a não não [sem-traducao]"
+          },
+          {
+            "verse": 12,
+            "text": "[דּ֭וֹר] [טָה֣וֹר] em-olhos-dele [וּ֝מִצֹּאָת֗וֹ] não [רֻחָֽץ]"
+          },
+          {
+            "verse": 13,
+            "text": "[דּ֭וֹר] o-quê [עֵינָ֑יו] os olhos [יִנָּשֵֽׂאוּ] [sem-traducao]"
+          },
+          {
+            "verse": 14,
+            "text": "[דּ֤וֹר] [׀] [חֲרָב֣וֹת] [שִׁנָּיו֮] [וּֽמַאֲכָל֢וֹת] para-comer pobres [עֲנִיִּ֣ים] [מֵאֶ֑רֶץ] [וְ֝אֶבְיוֹנִ֗ים]"
+          },
+          {
+            "verse": 15,
+            "text": "[לֽ͏ַעֲלוּקָ֨ה] duas-de [שְׁתֵּ֥י] [בָנוֹת֮] [הַ֤ב] [׀] [הַ֥ב] não [הֵ֭נָּה] não não [אַ֝רְבַּ֗ע] [לֹא־אָ֥מְרוּ]"
+          },
+          {
+            "verse": 16,
+            "text": "[שְׁאוֹל֮] [וְעֹ֢צֶ֫ר] [רָ֥חַם] terra não [מַּ֑יִם] águas וְ֝אֵ֗שׁ não [sem-traducao] [sem-traducao]"
+          },
+          {
+            "verse": 17,
+            "text": "olho [׀] [תִּֽלְעַ֣ג] [לְאָב֮] [וְתָב֢וּז] mãe [יִקְּר֥וּהָ] [עֹרְבֵי־נַ֑חַל] [וְֽיֹאכְל֥וּהָ] [בְנֵי־נָֽשֶׁר׃] filhos-de [sem-traducao]"
+          },
+          {
+            "verse": 18,
+            "text": "três הֵ֭מָּה [נִפְלְא֣וּ] de-mim não [**וְ֝אַרְבָּעָ֗ה]"
+          },
+          {
+            "verse": 19,
+            "text": "o-caminho-de [הַנֶּ֨שֶׁר] [׀] caminho o-caminho-de [נָחָ֗שׁ] tsur דרך־ [דֶּֽרֶךְ־אֳנִיָּ֥ה] בְּלֶב־ mar [גֶּ֣בֶר] [בְּעַלְמָֽה] [sem-traducao]"
+          },
+          {
+            "verse": 20,
+            "text": "כֵּ֤ן ׀ caminho o-caminho-de [אִשָּׁ֗ה] [מְנָ֫אָ֥פֶת] [אָ֭כְלָה] [וּמָ֣חֲתָה] [פִ֑יהָ] não [לֹֽא־פָעַ֥לְתִּי] iniquidade"
+          },
+          {
+            "verse": 21,
+            "text": "debaixo [שָׁ֭לוֹשׁ] [רָ֣גְזָה] terra [וְתַ֥חַת] quatro não [שְׂאֵֽת] [sem-traducao]"
+          },
+          {
+            "verse": 22,
+            "text": "debaixo-de que porque [וְ֝נָבָ֗ל] que porque [sem-traducao] pão"
+          },
+          {
+            "verse": 23,
+            "text": "debaixo [שְׂ֭נוּאָה] que [תִבָּעֵ֑ל] [וְ֝שִׁפְחָ֗ה] porque [גְּבִרְתָּֽהּ׃] [sem-traducao]"
+          },
+          {
+            "verse": 24,
+            "text": "quatro eles [קְטַנֵּי־אָ֑רֶץ] terra [חֲכָמִ֥ים] חֲכָמִ֥ים [sem-traducao]"
+          },
+          {
+            "verse": 25,
+            "text": "[הַ֭נְּמָלִים] povo não força [בַקַּ֣יִץ] [לַחְמָֽם] pão"
+          },
+          {
+            "verse": 26,
+            "text": "[שְׁ֭פַנִּים] povo não [וַיָּשִׂ֖ימוּ] e-foram-colocados [בֵּיתָֽם] [sem-traducao]"
+          },
+          {
+            "verse": 27,
+            "text": "rei não-há [לָאַרְבֶּ֑ה] e-ele-saiu [חֹצֵ֣ץ] [כֻּלּֽוֹ]"
+          },
+          {
+            "verse": 28,
+            "text": "[שְׂ֭מָמִית] [בְּיָדַ֣יִם] [תְּתַפֵּ֑שׂ] [וְ֝הִ֗יא] em seus palácios rei"
+          },
+          {
+            "verse": 29,
+            "text": "três הֵ֭מָּה [מֵיטִ֣יבֵי] [צָ֑עַד] [וְ֝אַרְבָּעָ֗ה] [מֵיטִ֥בֵי] para"
+          },
+          {
+            "verse": 30,
+            "text": "[לַ֭יִשׁ] homem em-animais e-não yashuv que todo"
+          },
+          {
+            "verse": 31,
+            "text": "[זַרְזִ֣יר] [מָתְנַ֣יִם] ou [וּ֝מֶ֗לֶךְ] [אַלְק֥וּם] [עִמּֽוֹ] com-ele"
+          },
+          {
+            "verse": 32,
+            "text": "se [בְהִתְנַשֵּׂ֑א] [וְאִם־זַ֝מּ֗וֹתָ] mão [לְפֶֽה] mão [sem-traducao]"
+          },
+          {
+            "verse": 33,
+            "text": "que [מִ֪יץ] [חָלָ֡ב] [י֘וֹצִ֤יא] [חֶמְאָ֗ה] [וּֽמִיץ־אַ֭ף] [י֣וֹצִיא] [דָ֑ם] sangue [אַ֝פַּ֗יִם] אף-יימ [רִֽיב׃] רִֽיב׃"
+          }
+        ]
+      },
+      {
+        "chapter": 31,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "[דִּ֭בְרֵי] [לְמוּאֵ֣ל] rei [מַ֝שָּׂ֗א] que sua-mãe mãe-de ele"
+          },
+          {
+            "verse": 2,
+            "text": "que meu-amigo umah- [בַּר־נְדָרָֽי] [sem-traducao] [sem-traducao] [sem-traducao] nossos-votos"
+          },
+          {
+            "verse": 3,
+            "text": "a darás [חֵילֶ֑ךָ] a-riqueza-teu [לַֽמְח֥וֹת] [מְלָכִֽין] [sem-traducao]"
+          },
+          {
+            "verse": 4,
+            "text": "El [לַֽמְלָכִ֨ים] [׀] El [אַ֣ל] [לַֽמְלָכִ֣ים] vinho [וּ֝לְרוֹזְנִ֗ים] e se cobriram;"
+          },
+          {
+            "verse": 5,
+            "text": "para-que-não [וְיִשְׁכַּ֣ח] [מְחֻקָּ֑ק] [וִֽ֝ישַׁנֶּה] [דִּ֣ין] julgamento todo filhos-de עֹֽנִי׃"
+          },
+          {
+            "verse": 6,
+            "text": "dai- [לְאוֹבֵ֑ד] [וְ֝יַיִן] [לְמָ֣רֵי] [נָֽפֶשׁ] alma"
+          },
+          {
+            "verse": 7,
+            "text": "[יִ֭שְׁתֶּה] [וְיִשְׁכַּ֣ח] [רִישׁ֑וֹ] [וַ֝עֲמָל֗וֹ] não [יִזְכָּר־עֽוֹד] ainda"
+          },
+          {
+            "verse": 8,
+            "text": "[פְּתַח־פִּ֥יךָ] a-tua-boca [אֶל־דִּ֝֗ין] a [חֲלֽוֹף] todo filhos-de [sem-traducao]"
+          },
+          {
+            "verse": 9,
+            "text": "[פְּתַח־פִּ֥יךָ] a-tua-boca [וְ֝דִ֗ין] justica [וְאֶבְיֽוֹן׃] עָנִ֥י וְאֶבְיֽוֹן׃"
+          },
+          {
+            "verse": 10,
+            "text": "esposa-de quem quem encontrará [מִפְּנִינִ֣ים] [מִכְרָֽהּ] [sem-traducao]"
+          },
+          {
+            "verse": 11,
+            "text": "[בָּ֣טַח] [בָּ֭הּ] coração [בַּעְלָ֑הּ] [וְ֝שָׁלָ֗ל] não [יֶחְסָֽר]"
+          },
+          {
+            "verse": 12,
+            "text": "[גְּמָלַ֣תְהוּ] bom e-não mau dias-de dias-de [sem-traducao]"
+          },
+          {
+            "verse": 13,
+            "text": "[דָּ֭רְשָׁה] [צֶ֣מֶר] [וּפִשְׁתִּ֑ים] [וַ֝תַּ֗עַשׂ] [בְּחֵ֣פֶץ] [כַּפֶּֽיהָ]"
+          },
+          {
+            "verse": 14,
+            "text": "era [כָּאֳנִיּ֣וֹת] [סוֹחֵ֑ר] [מִ֝מֶּרְחָ֗ק] trarás [לַחְמָֽהּ]"
+          },
+          {
+            "verse": 15,
+            "text": "[וַתָּ֤קָם] [׀] noite [לַ֗יְלָה] e-deu [טֶ֣רֶף] [לְבֵיתָ֑הּ] [וְ֝חֹ֗ק]"
+          },
+          {
+            "verse": 16,
+            "text": "[זָמְמָ֣ה] [שָׂ֭דֶה] [וַתִּקָּחֵ֑הוּ] do-fruto-de [כַ֝פֶּ֗יהָ] vinhedo"
+          },
+          {
+            "verse": 17,
+            "text": "[חָֽגְרָ֣ה] [בְע֣וֹז] [מָתְנֶ֑יהָ] [וַ֝תְּאַמֵּ֗ץ] [זְרֹעוֹתֶֽיהָ]"
+          },
+          {
+            "verse": 18,
+            "text": "[טָ֭עֲמָה] porque bom [לֹֽא־יִכְבֶּ֖ה] não [**בַלַּ֣יְלָה] [נֵרָֽהּ]"
+          },
+          {
+            "verse": 19,
+            "text": "[יָ֭דֶיהָ] [שִׁלְּחָ֣ה] [בַכִּישׁ֑וֹר] [וְ֝כַפֶּ֗יהָ] [תָּ֣מְכוּ] [פָֽלֶךְ]"
+          },
+          {
+            "verse": 20,
+            "text": "[כַּ֭פָּהּ] [פָּרְשָׂ֣ה] [לֶעָנִ֑י] [וְ֝יָדֶ֗יהָ] [שִׁלְּחָ֥ה] [לָֽאֶבְיֽוֹן]"
+          },
+          {
+            "verse": 21,
+            "text": "não [לְבֵיתָ֣הּ] [מִשָּׁ֑לֶג] que porque todo [שָׁנִֽים] [sem-traducao] dois"
+          },
+          {
+            "verse": 22,
+            "text": "[מַרְבַדִּ֥ים] [עָֽשְׂתָה־לָּ֑הּ] a-ela seis [לְבוּשָֽׁהּ] לבושה׃"
+          },
+          {
+            "verse": 23,
+            "text": "conhecido nas praças [בַּעְלָ֑הּ] [בְּ֝שִׁבְתּ֗וֹ] com os anciãos- terra"
+          },
+          {
+            "verse": 24,
+            "text": "[סָדִ֣ין] [עָ֭שְׂתָה] [וַתִּמְכֹּ֑ר] [וַ֝חֲג֗וֹר] deu [לַֽכְּנַעֲנִֽי]"
+          },
+          {
+            "verse": 25,
+            "text": "[עֹז־וְהָדָ֥ר] [לְבוּשָׁ֑הּ] [וַ֝תִּשְׂחַ֗ק] [לְי֣וֹם] para-o-dia אַחֲרֽוֹן׃"
+          },
+          {
+            "verse": 26,
+            "text": "[פִּ֭יהָ] [פָּתְחָ֣ה] [בְחָכְמָ֑ה] חֶ֝֗סֶד sobre [עַל־לְשׁוֹנָֽהּ]"
+          },
+          {
+            "verse": 27,
+            "text": "[צ֭וֹפִיָּה] [הֲלִיכ֣וֹת] [בֵּיתָ֑הּ] e-pão [עַ֝צְל֗וּת] não você-comerá"
+          },
+          {
+            "verse": 28,
+            "text": "levantaram-se [בָ֭נֶיהָ] [וַֽיְאַשְּׁר֑וּהָ] [בַּ֝עְלָ֗הּ] [וַֽיְהַֽלְלָהּ]"
+          },
+          {
+            "verse": 29,
+            "text": "רַבּ֣וֹת [בָּ֭נוֹת] עָשׂוּ força e-[OBJ] עָלִית sobre [sem-traducao]"
+          },
+          {
+            "verse": 30,
+            "text": "MENTIRA [הַ֭חֵן] [וְהֶ֣בֶל] [הַיֹּ֑פִי] mulher [יִרְאַת־יְ֝הוָ֗ה] yhwh ela [sem-traducao]"
+          },
+          {
+            "verse": 31,
+            "text": "dai- do-fruto-de [יָדֶ֑יהָ] [וִֽיהַלְל֖וּהָ] [בַשְּׁעָרִ֣ים] [מַעֲשֶֽׂיהָ] [sem-traducao]"
+          }
+        ]
+      }
+    ]
+  }
+}

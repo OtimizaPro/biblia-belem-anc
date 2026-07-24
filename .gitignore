@@ -19,6 +19,9 @@ leitor-kindle/dist/
 tradutor-web/dist/
 export/
 
+# Binario regeneravel a partir de dist/sql/ — anexado nas Releases, fora do git
+dist/sqlite/
+
 # Binarios
 *.exe
 

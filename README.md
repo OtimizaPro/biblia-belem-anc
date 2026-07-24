@@ -2,7 +2,7 @@
 
 # Tradução bíblica Belem-2025
 
-### A primeira tradução bíblica feita diretamente do hebraico, aramaico e grego para o português brasileiro — depois para TODOS os idiomas da Terra.
+### Tradução literal rígida do hebraico, aramaico e grego para o português brasileiro — corpus aberto, auditável e replicável para qualquer idioma da Terra.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/OtimizaPro/biblia-belem-anc/ci.yml?style=for-the-badge&label=CI)](https://github.com/OtimizaPro/biblia-belem-anc/actions)
 [![API Status](https://img.shields.io/badge/API-Online-brightgreen?style=for-the-badge)](https://biblia.aculpaedasovelhas.org)
@@ -20,6 +20,37 @@ Ler a Bíblia · API Docs · Contribuir · Roadmap
 "E este evangelho do reino será proclamado em todo o mundo habitado, em testemunho a todas as nações; e então virá o fim." — Mt 24:14
 
 </div>
+
+---
+
+## English
+
+**Belem-2025** is a rigidly literal Bible translation into Brazilian Portuguese, made
+directly from public-domain source codices in Hebrew, Aramaic and Koine Greek — with
+no intermediate translation and no Latin Vulgate in the chain. The full corpus,
+the tooling and the audit scripts are open under **CC BY 4.0**.
+
+| | |
+|---|---|
+| **Scope** | 66 books · 1,189 chapters · 31,156 verses |
+| **Source texts** | BHS / WLC (Hebrew) · SBLGNT, Nestle 1904, TR1550 (Greek) |
+| **Method** | Word-for-word; source structure prevails over fluency. Editorial insertions marked with `[ ]` |
+| **Untranslated by design** | `yhwh`, `Elohim`, `Eloah`, `El`, `Adonai`, `Theos`, `Iesous`, `Christos`, `Kyrios` |
+| **Formats** | JSON · USFM 3.0 · SQL · SQLite — see [`dist/`](dist/) |
+| **REST API** | <https://biblia.aculpaedasovelhas.org> — public, read-only, no auth |
+| **License** | CC BY 4.0 |
+
+> **Status: work in progress.** The corpus was produced with an AI-assisted pipeline and
+> still carries known defects — including 378 occurrences of characters from writing
+> systems unrelated to any source codex (Chinese, Cyrillic, Arabic, Hangul, Kana,
+> Devanagari) across 40 books, and untranslated Hebrew fragments beyond the words
+> preserved by design. Run `npm run validate` for the current audit. Do not treat this
+> as a finished text; corrections via issues and pull requests are the point of
+> publishing it openly.
+
+The long-term goal is not one translation but an open pipeline: source codices →
+any target language, with zero intermediaries. Contributions in any language are welcome —
+see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
@@ -170,6 +201,59 @@ A Belém An.C oferece 6 níveis de acesso ao texto — do bruto ao assistido. Vo
 | **Calculadora Gematria** | https://aculpaedasovelhas.org/tools/gematria/ |
 
 **Autenticação:** Nenhuma. API 100% pública, somente leitura. Sem cadastro. Sem custo.
+
+---
+
+## Baixar o Corpus (JSON · USFM · SQL · SQLite)
+
+O texto integral está disponível nos formatos padrão do ecossistema bíblico, prontos
+para uso em qualquer aplicação — sem depender da API.
+
+| Formato | Caminho | Uso típico |
+|---|---|---|
+| **JSON** (por livro) | `dist/json/GEN.json` … | Web, mobile, notebooks |
+| **JSON** (corpus completo) | `dist/json/belem-2025.json` | Pipelines, treinamento de modelos |
+| **USFM 3.0** | `dist/usfm/01-GEN.usfm` … | Paratext, Scripture Burrito, leitores |
+| **SQL** | `dist/sql/belem-2025.sql` | Qualquer banco relacional |
+| **SQLite** | anexo das [Releases](https://github.com/OtimizaPro/biblia-belem-anc/releases) | Consulta local, offline |
+
+```bash
+# Um livro em JSON
+curl -O https://raw.githubusercontent.com/OtimizaPro/biblia-belem-anc/main/dist/json/JHN.json
+
+# Banco local a partir do dump SQL
+sqlite3 belem.sqlite < dist/sql/belem-2025.sql
+sqlite3 belem.sqlite "SELECT text FROM verses WHERE book_id=43 AND chapter=1 AND verse=1;"
+```
+
+Regenerar tudo a partir dos `.txt` canônicos:
+
+```bash
+npm run export     # gera dist/ (JSON + USFM + SQL + SQLite)
+npm run validate   # auditoria de integridade do corpus
+```
+
+> **Nota USFM:** o livro 66 é publicado como *Desvelação*, mas seu identificador
+> USFM obrigatório é `REV` — exigência do padrão, não escolha editorial. O nome em
+> português é preservado em `\h` e `\toc`.
+
+---
+
+## Estado do Corpus — Leia Antes de Usar
+
+Esta tradução está **em revisão ativa** e o corpus contém defeitos conhecidos,
+herdados do pipeline de tradução assistida por IA. A auditoria é pública e
+reprodutível (`npm run validate`, relatório em [INTEGRIDADE-TRADUCAO.md](INTEGRIDADE-TRADUCAO.md)):
+
+| Achado | Situação |
+|---|---|
+| Caracteres de escritas alheias ao projeto (chinês, cirílico, árabe, hangul, kana, devanágari) | **378 ocorrências em 40 livros** — contaminação do pipeline, requer revisão contra o códice |
+| Trechos hebraicos não traduzidos além das palavras preservadas | Volume relevante, ainda não quantificado por categoria |
+| Repetição de termos dentro do mesmo versículo | Presente em parte do AT |
+
+**Nenhum desses defeitos é decisão editorial.** Se você encontrar mais,
+[abra uma issue](https://github.com/OtimizaPro/biblia-belem-anc/issues) — o
+escrutínio público é o depurador desta tradução.
 
 ---
 
