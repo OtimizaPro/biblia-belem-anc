@@ -1,0 +1,371 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 55,
+    "code": "2TI",
+    "name": "2 Timóteo",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Paulo apóstolo de-Christos Iesous através-de da-vontade de-Theos segundo promessa da-vida o em em-Christos Iesous"
+          },
+          {
+            "verse": 2,
+            "text": "Timóteo amado filho graça misericórdia paz de de-Theos do-Pai e de-Christos Iesous o do-Kyrios nosso"
+          },
+          {
+            "verse": 3,
+            "text": "graça tenho o a-Theos o qual sirvo de antepassados em pura consciência como incessante tenho o acerca-de teu menção em o súplicas meu noite e do-dia"
+          },
+          {
+            "verse": 4,
+            "text": "desejando-ardentemente te ver tendo-se-lembrado teu o lágrimas para que alegria seja-preenchido"
+          },
+          {
+            "verse": 5,
+            "text": "Lembrança tomando o em a-ti sem-hipocrisia da-fé a-qual habitou-em primeiro em o avó teu Loide e o mãe teu Eunice estou-persuadido porém que e em te"
+          },
+          {
+            "verse": 6,
+            "text": "por o qual causa faço-lembrar te reavivar o dom o de-Theos o qual é em a-ti através-de o imposição o mãos meu"
+          },
+          {
+            "verse": 7,
+            "text": "não pois deu a-nós o Theos espírito covardia mas do-poder e do-amor e de-sobriedade"
+          },
+          {
+            "verse": 8,
+            "text": "não portanto te-envergonhes o testemunho o do-Kyrios nosso nem mim o prisioneiro dele mas sofre-junto o no-evangelho segundo poder de-Theos"
+          },
+          {
+            "verse": 9,
+            "text": "o tendo-salvo nos e chamante chamado santa não segundo o obra nosso mas segundo própria propósito e graça o tendo-sido-dada a-nós em em-Christos Iesous antes-de tempos eternas"
+          },
+          {
+            "verse": 10,
+            "text": "tendo-sido-manifestada porém agora através-de o manifestação o do-Salvador nosso de-Christos Iesous tendo-anulado por-um-lado o morte do-que-iluminou porém vida e incorruptibilidade através-de o evangelho"
+          },
+          {
+            "verse": 11,
+            "text": "para o qual fui-colocado eu pregador e apóstolo e mestre"
+          },
+          {
+            "verse": 12,
+            "text": "através-de o qual causa e estas-coisas sofro mas não envergonho-me sei pois o qual tenho-crido e estou-persuadido que poderoso é o depósito meu guardar para aquela o dia"
+          },
+          {
+            "verse": 13,
+            "text": "modelo tem estando-sãos palavras o qual de mim ouviste em fé e amor o em em-Christos Iesous"
+          },
+          {
+            "verse": 14,
+            "text": "o boa depósito guarda através-de do-espírito do-santo o habitando em a-nós"
+          },
+          {
+            "verse": 15,
+            "text": "sei isto que desviaram-se me todos o em o Ásia o qual é Fígelo e Hermógenes"
+          },
+          {
+            "verse": 16,
+            "text": "dê misericórdia o Kyrios o Onesíforo na-casa que muitas-vezes me refrigerou e o corrente meu não envergonhou-se"
+          },
+          {
+            "verse": 17,
+            "text": "mas tendo-se-tornado em Roma diligentemente buscou me e encontrou"
+          },
+          {
+            "verse": 18,
+            "text": "dê a ele o Kyrios encontrar misericórdia de-junto-de do-Kyrios em naquela o dia e quanto em Éfeso serviu melhor tu conheces"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "tu portanto filho meu fortalece-te em o graça o em em-Christos Iesous"
+          },
+          {
+            "verse": 2,
+            "text": "e o qual ouviste de mim através-de muitos testemunhas estas-coisas deposita fiéis aos-homens os-quais suficientes serão e outros ensinar"
+          },
+          {
+            "verse": 3,
+            "text": "sofre-junto como belo soldado de-Christos Iesous"
+          },
+          {
+            "verse": 4,
+            "text": "ninguém guerreando enreda-se o o vida negócios para que o tendo-alistado agrade"
+          },
+          {
+            "verse": 5,
+            "text": "se porém e compete alguém não é-coroado se não legitimamente compita"
+          },
+          {
+            "verse": 6,
+            "text": "o trabalhando lavrador é necessário primeiro o frutos participar"
+          },
+          {
+            "verse": 7,
+            "text": "compreende o qual digo dará pois a-ti o Kyrios entendimento em todos"
+          },
+          {
+            "verse": 8,
+            "text": "lembra Iesous Christos tendo-sido-levantado de mortos de semente Davi segundo o boa-nova meu"
+          },
+          {
+            "verse": 9,
+            "text": "em o qual sofro-dificuldades até prisões como malfeitor mas o palavra o de-Theos não tem-sido-atado"
+          },
+          {
+            "verse": 10,
+            "text": "através-de isto todas-as-coisas Persevero através-de o escolhidos para que e eles-mesmos salvação obtenham o em em-Christos Iesous com da-glória eterno"
+          },
+          {
+            "verse": 11,
+            "text": "fiel o palavra se pois co-morremos e viveremos-com"
+          },
+          {
+            "verse": 12,
+            "text": "se Perseveramos e co-reinaremos se negaremos e-aquele negara nos"
+          },
+          {
+            "verse": 13,
+            "text": "se não-cremos aquele fiel permanece negar pois si-mesmo não pode"
+          },
+          {
+            "verse": 14,
+            "text": "estas-coisas Lembra testificando diante-de o de-Theos não contender-sobre-palavras sobre nada útil sobre ruína o ouvindo"
+          },
+          {
+            "verse": 15,
+            "text": "apressa-te a-ti-mesmo aprovado apresentar o a-Theos obreiro que-não-se-envergonha cortando-retamente o palavra o da-verdade"
+          },
+          {
+            "verse": 16,
+            "text": "o porém profanos palavras-vãs evita sobre mais pois progredirão impiedade"
+          },
+          {
+            "verse": 17,
+            "text": "e o palavra deles como gangrena pasto terá o qual é Himeneu e Fileto"
+          },
+          {
+            "verse": 18,
+            "text": "os-quais acerca-de o verdade desviaram-se dizendo ressurreição já ter-acontecido e transtornam o alguns fé"
+          },
+          {
+            "verse": 19,
+            "text": "o contudo sólido fundamento o de-Theos está-de-pé tendo o selo esta conheceu Kyrios o sendo dele e Afaste-se de da-injustiça todo o nomeando o nome do-Kyrios"
+          },
+          {
+            "verse": 20,
+            "text": "em grande porém casa não é somente vasos dourado e prata mas e madeira e de-barro e o qual por-um-lado para honra o qual porém para desonra"
+          },
+          {
+            "verse": 21,
+            "text": "se portanto alguém limpe si-mesmo de destes será vaso para honra Tendo-sido-santificado útil o soberano para todo obra bom tendo-sido-preparado"
+          },
+          {
+            "verse": 22,
+            "text": "o porém juvenis desejos foge persegue porém justiça fé amor paz com o invocando o Kyrion de pura do-coração"
+          },
+          {
+            "verse": 23,
+            "text": "o porém tolas e sem-instrução buscas recusa sei que geram contendas"
+          },
+          {
+            "verse": 24,
+            "text": "servo porém do-Kyrios não é necessário combater mas brandos ser junto-a todos apto-para-ensinar paciente"
+          },
+          {
+            "verse": 25,
+            "text": "em mansidão disciplinando o opondo-se não alguma-vez dê a-eles o Theos arrependimento para conhecimento-pleno da-verdade"
+          },
+          {
+            "verse": 26,
+            "text": "e voltem-à-sobriedade de o o diabo laço tendo-sido-capturados-vivos sob dele para o daquele vontade"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "isto porém conhece que em últimas dias se-apresentarão tempos difíceis"
+          },
+          {
+            "verse": 2,
+            "text": "serão pois o homens amantes-de-si-mesmos amantes-de-dinheiro arrogantes Soberbos blasfemos pais desobedientes ingratos profanos"
+          },
+          {
+            "verse": 3,
+            "text": "sem-afeição-natural implacáveis caluniadores sem-domínio-próprio selvagens sem-amor-ao-bem"
+          },
+          {
+            "verse": 4,
+            "text": "traidores precipitados tendo-sido-enfatuados amantes-do-prazer mais ou amantes-de-Theos"
+          },
+          {
+            "verse": 5,
+            "text": "tendo forma-exterior piedade o porém poder dela tendo-negado e estes afasta-te"
+          },
+          {
+            "verse": 6,
+            "text": "de destes pois são o infiltrando-se para o da-casa e levando-cativos mulherzinhas tendo-sido-amontoadas pecados sendo-conduzidos desejos diversas"
+          },
+          {
+            "verse": 7,
+            "text": "sempre aprendendo e nunca para conhecimento-pleno da-verdade vir podendo"
+          },
+          {
+            "verse": 8,
+            "text": "o qual modo porém Janes e Jambres resistiram Moisés assim e estes resistem o verdade homens tendo-sido-corrompidos o entendimento reprovados acerca-de o fé"
+          },
+          {
+            "verse": 9,
+            "text": "mas não progredirão sobre mais o pois insensatez deles Manifesto será todos como e o daqueles aconteceu"
+          },
+          {
+            "verse": 10,
+            "text": "tu porém seguiste meu o ensino o conduta o propósito o fé o paciência o amor o perseverança"
+          },
+          {
+            "verse": 11,
+            "text": "o perseguições o sofrimentos quais a-mim aconteceu em Antioquia em Icônio em Listra quais perseguições Suportei e de todos me livrou o Kyrios"
+          },
+          {
+            "verse": 12,
+            "text": "e todos porém o querendo viver piedosamente em em-Christos Iesous serão-perseguidos"
+          },
+          {
+            "verse": 13,
+            "text": "maus porém homens e impostores progredirão sobre o pior enganando e errantes"
+          },
+          {
+            "verse": 14,
+            "text": "tu porém permanece em o qual aprendeste e foste-confirmado sei de-junto-de de-quais aprendeste"
+          },
+          {
+            "verse": 15,
+            "text": "e que de criança-de-peito sagradas letras sei o podendo te tornar-sábio para salvação através-de da-fé o em em-Christos Iesous"
+          },
+          {
+            "verse": 16,
+            "text": "toda escritura inspirado-por-Theos e proveitoso junto-a ensino junto-a repreensão junto-a correção junto-a disciplina o em justiça"
+          },
+          {
+            "verse": 17,
+            "text": "para que completo seja o o de-Theos homem junto-a todo obra bom tendo-sido-completado"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Testifico-solenemente diante-de o de-Theos e de-Christos Iesous o do-que-está-por-vir julgar viventes e mortos e o manifestação dele e o reino dele"
+          },
+          {
+            "verse": 2,
+            "text": "prega o palavra apresenta-te oportunamente inoportunamente repreende repreende consola em toda paciência e em-ensino"
+          },
+          {
+            "verse": 3,
+            "text": "será pois tempo quando o sendo-sã ensino não suportarão mas segundo o próprias desejos si-mesmos Amontoarão mestres tendo-coceira o ouvido"
+          },
+          {
+            "verse": 4,
+            "text": "e de por-um-lado o da-verdade o audição desviarão sobre porém o fábulas desviar-se-ão"
+          },
+          {
+            "verse": 5,
+            "text": "tu porém sê-sóbrio em todos sofre-dificuldades obra faz anunciador-de-boa-nova o serviço teu cumpre-plenamente"
+          },
+          {
+            "verse": 6,
+            "text": "eu pois já sou-derramado-como-libação e o tempo o partida meu Está-presente"
+          },
+          {
+            "verse": 7,
+            "text": "o belo luta tenho-lutado o corrida tenho-completado o fé tenho-guardado"
+          },
+          {
+            "verse": 8,
+            "text": "restante está-reservado a-mim o o justiça coroa o qual retribuirá a-mim o kyrios em naquela o dia o justo juiz não somente porém mim mas e todos o tendo-amado o manifestação dele"
+          },
+          {
+            "verse": 9,
+            "text": "Apressa-te vir para me rapidamente"
+          },
+          {
+            "verse": 10,
+            "text": "Demas pois me abandonou tendo-amado o agora eternidade e foi para Tessalônica Crescente para Galácia Tito para Dalmácia"
+          },
+          {
+            "verse": 11,
+            "text": "Lucas é só com mim Marcos tendo-tomado vem com ti-mesmo é pois a-mim útil para serviço"
+          },
+          {
+            "verse": 12,
+            "text": "Tíquico porém enviei para Éfeso"
+          },
+          {
+            "verse": 13,
+            "text": "o capa o qual deixei em Trôade de-junto-de Carpo o-que-vem traz e o livros principalmente o pergaminhos"
+          },
+          {
+            "verse": 14,
+            "text": "Alexandre o ferreiro muitos a-mim males demonstrou retribuirá a ele o Kyrios segundo o obra dele"
+          },
+          {
+            "verse": 15,
+            "text": "o qual e tu guarda-te muito pois resistiu o nossos palavras"
+          },
+          {
+            "verse": 16,
+            "text": "em o primeiro meu defesa ninguém a-mim apresentou-se mas todos me abandonaram não a-eles seja-considerado"
+          },
+          {
+            "verse": 17,
+            "text": "o porém Kyrios a-mim apresentou-se e fortaleceu me para que através-de mim o pregação seja-plenamente-convicto e ouçam todas-as-coisas o nações e Fui-livrado de boca leão"
+          },
+          {
+            "verse": 18,
+            "text": "livrará me o Kyrios de todo obra do-mal e salvará para o reino dele o Celestial o qual o glória para o eras o eras amém"
+          },
+          {
+            "verse": 19,
+            "text": "Saúda Prisca e Áquila e o Onesíforo casa"
+          },
+          {
+            "verse": 20,
+            "text": "Erasto permaneceu em Corinto Trófimo porém deixei em Mileto estando-fraco"
+          },
+          {
+            "verse": 21,
+            "text": "Apressa-te antes-de inverno vir Saúda te Eubulo e Pudente e Lino e Cláudia e o irmãos todos"
+          },
+          {
+            "verse": 22,
+            "text": "o Kyrios com o espírito teu o graça com vosso"
+          }
+        ]
+      }
+    ]
+  }
+}

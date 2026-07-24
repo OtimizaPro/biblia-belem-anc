@@ -1,0 +1,278 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 61,
+    "code": "2PE",
+    "name": "2 Pedro",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Simeão Pedro servo e apóstolo Iesous de-Christos o De-igual-valor a-nós tendo-obtido-por-sorte fé em justiça o de-Theos nosso e do-Salvador Iesous de-Christos"
+          },
+          {
+            "verse": 2,
+            "text": "graça a-vós e paz seja-multiplicada em conhecimento-pleno o de-Theos e Iesous o do-Kyrios nosso"
+          },
+          {
+            "verse": 3,
+            "text": "como o todas-as-coisas a-nós o divina do-poder dele o junto-a vida e piedade tendo-sido-concedida através-de o pleno-conhecimento o chamante nos em-particular glória e virtude"
+          },
+          {
+            "verse": 4,
+            "text": "através-de o qual o preciosas e grandíssimas a-nós promessas tem-sido-concedido para que através-de destes torneis-vos divina participantes natureza tendo-escapado o em o ao-mundo em desejo corrupção"
+          },
+          {
+            "verse": 5,
+            "text": "e ele isto porém diligência toda tendo-trazido-além-disso Supliai em o fé vosso o virtude em porém o virtude o saibam"
+          },
+          {
+            "verse": 6,
+            "text": "em porém o conhecimento o domínio-próprio em porém o domínio-próprio o perseverança em porém o perseverança o piedade"
+          },
+          {
+            "verse": 7,
+            "text": "em porém o piedade o amor-fraternal em porém o amor-fraternal o amor"
+          },
+          {
+            "verse": 8,
+            "text": "estas-coisas pois a-vós posses e abundando não ociosos nem infrutíferos constitui para o o do-Kyrios nosso Iesous de-Christos conhecimento-pleno"
+          },
+          {
+            "verse": 9,
+            "text": "o qual pois não está-presente estas-coisas cego é sendo-míope esquecimento tomando o purificação o outrora dele pecados"
+          },
+          {
+            "verse": 10,
+            "text": "por-isso mais irmãos apressai-vos firme vosso o chamado e eleição fazer estas-coisas pois fazendo não não tropeçais alguma-vez"
+          },
+          {
+            "verse": 11,
+            "text": "assim pois ricamente Será-suprido a-vós o entrada para o eterno reino o do-Kyrios nosso e do-Salvador Iesous de-Christos"
+          },
+          {
+            "verse": 12,
+            "text": "por-isso estarei-a-ponto-de sempre vos Lembrar acerca-de destes embora sei e Tendo-sido-firmados em o presente verdade"
+          },
+          {
+            "verse": 13,
+            "text": "justo porém considero sobre quanto sou em neste o habitação despertar vos em lembrará"
+          },
+          {
+            "verse": 14,
+            "text": "sei que breve é o remoção o habitação meu assim-como e o Kyrios nosso Iesous Christos revelou a-mim"
+          },
+          {
+            "verse": 15,
+            "text": "serei-diligente porém e Cada-vez ter vos com o minha partida o destes memória fazer"
+          },
+          {
+            "verse": 16,
+            "text": "não pois tendo-sido-tornados-sábios fábulas tendo-seguido fizemos-conhecer a-vós o o do-Kyrios nosso Iesous de-Christos poder e vinda mas Testemunhas-oculares tendo-se-tornado o daquele grandeza"
+          },
+          {
+            "verse": 17,
+            "text": "tomando pois de-junto-de de-Theos do-Pai honra e glória voz tendo-sido-trazida a ele de-tal-tipo sob o majestosa da-glória o filho meu o amado meu este é para o qual eu agradei-me"
+          },
+          {
+            "verse": 18,
+            "text": "e esta o voz nós ouvimos de do-céu tendo-sido-trazida com a ele sendo em o no-santo no-monte"
+          },
+          {
+            "verse": 19,
+            "text": "e temos mais-firme o profético palavra o qual bem fazei prestando-atenção como candeia aparecendo em sombrio no-lugar até o qual dia amanheça e portador-de-luz nasça em o corações vosso"
+          },
+          {
+            "verse": 20,
+            "text": "isto primeiro conhecendo que toda profecia escritura próprias interpretação não torna-se"
+          },
+          {
+            "verse": 21,
+            "text": "não pois vontade do-homem foi-trazido profecia alguma-vez mas sob do-espírito do-santo sendo-levados falaram de de-Theos homens"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "tornaram-se porém e falsos-profetas em o povo como e em a-vós serão falsos-mestres os-quais introduzirão-secretamente heresias perdição e o tendo-comprado eles Soberano negando trazendo-sobre si-mesmos breve perdição"
+          },
+          {
+            "verse": 2,
+            "text": "e muitos seguirão deles o dissoluções através-de o qual o caminho o da-verdade será-blasfemado"
+          },
+          {
+            "verse": 3,
+            "text": "e em ganância fabricadas palavras vos negociarão o qual o julgamento desde-outrora não está-ocioso e o perdição deles não cochila"
+          },
+          {
+            "verse": 4,
+            "text": "se pois o Theos anjo tendo-pecado não poupou mas em-correntes trevas tendo-lançado-ao-Tártaro entregou para juízo sendo-guardados"
+          },
+          {
+            "verse": 5,
+            "text": "e antigo do-mundo não poupou mas oitavo Noé justiça pregador Guardou dilúvio ao-mundo ímpios tendo-trazido-sobre"
+          },
+          {
+            "verse": 6,
+            "text": "e cidades Sodoma e Gomorra tendo-reduzido-a-cinzas ruína condenou exemplo estando-para ser-ímpio tendo-posto"
+          },
+          {
+            "verse": 7,
+            "text": "e justo Ló sendo-oprimido sob o o iníquos em devassidão conduta livrou"
+          },
+          {
+            "verse": 8,
+            "text": "olhar pois e ouvido o justo habitando-em em a-eles dia de do-dia alma justa sem-lei obra atormentava"
+          },
+          {
+            "verse": 9,
+            "text": "sei Kyrios piedosos de provação livrar injustos porém para dia julgamento sendo-punidos guardar"
+          },
+          {
+            "verse": 10,
+            "text": "principalmente porém o atrás carne em desejo contaminação indo e senhorio desprezando ousados arrogantes glórias não tremendo blasfemando"
+          },
+          {
+            "verse": 11,
+            "text": "onde anjo força e poder maiores sendo não trazem segundo deles de-junto-de ao-Kyrios blasfemo juízo"
+          },
+          {
+            "verse": 12,
+            "text": "estes e/mas como irracionais ser vivente tendo-sido-gerados naturais para captura e corrupção em o qual ignoram blasfemando em o corrupção deles e serão-corrompidos"
+          },
+          {
+            "verse": 13,
+            "text": "sendo-injustiçados salário da-injustiça Prazer líderes o em dia luxúria manchas e manchas deleitando-se em o enganos deles banqueteando-junto a-vós"
+          },
+          {
+            "verse": 14,
+            "text": "olhos tendo cheios adúltera e incessantes do-pecado seduzindo almas instáveis coração tendo-sido-exercitada ganância tendo maldição filhos"
+          },
+          {
+            "verse": 15,
+            "text": "deixando reta caminho foram-enganados tendo-seguido o caminho o Balaão o Beor o qual salário da-injustiça amou"
+          },
+          {
+            "verse": 16,
+            "text": "Repreensão porém teve próprias de-iniquidade Animal-de-carga mudo em do-homem voz tendo-falado impediu o o profeta loucura"
+          },
+          {
+            "verse": 17,
+            "text": "estes são fontes sem-água e névoas sob tempestade sendo-impelidas o qual o escuridão o das-trevas tem-sido-guardado"
+          },
+          {
+            "verse": 18,
+            "text": "arrogantes pois vaidade falando seduzem em desejos carne dissoluções o por-pouco escapando o em engano conduzindo-se"
+          },
+          {
+            "verse": 19,
+            "text": "liberdade a-eles prometendo eles-mesmos servos existindo o corrupção o qual pois alguém Tem-sido-vencido neste tem-sido-escravizado"
+          },
+          {
+            "verse": 20,
+            "text": "se pois tendo-escapado o contaminações o do-mundo em conhecimento-pleno o do-Kyrios e do-Salvador Iesous de-Christos nestes porém novamente tendo-se-enredado São-vencidos aconteceu a-eles o últimas piores o primeiro"
+          },
+          {
+            "verse": 21,
+            "text": "melhor pois era a-eles não ter-reconhecido o caminho o da-justiça ou tendo-reconhecido retornar de o tendo-sido-entregue a-eles santa mandamento"
+          },
+          {
+            "verse": 22,
+            "text": "tem-acontecido a-eles o o verdadeiro provérbios Cão tendo-virado sobre o próprio vômito e Porca tendo-se-lavado para chafurdo lama"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "esta já amados segunda a-vós escrever carta em o qual desperto vosso em lembrará o sincero entendimento"
+          },
+          {
+            "verse": 2,
+            "text": "lembrar-se o tendo-sido-ditos-antes palavras sob o santos profetas e o o apóstolos vosso mandamento o do-Kyrios e do-Salvador"
+          },
+          {
+            "verse": 3,
+            "text": "isto primeiro conhecendo que virão sobre últimas o dias em escárnio zombadores segundo o próprias desejos deles indo"
+          },
+          {
+            "verse": 4,
+            "text": "e dizendo onde é o promessa o presença dele de o qual pois o pais adormeceram todas-as-coisas assim permanece de princípio criação"
+          },
+          {
+            "verse": 5,
+            "text": "está-oculto pois eles isto querendo que céus eram desde-outrora e terra de água e através-de água tendo-subsistido o o de-Theos em-palavra"
+          },
+          {
+            "verse": 6,
+            "text": "através-de o qual o então mundo água tendo-sido-inundado pereceram"
+          },
+          {
+            "verse": 7,
+            "text": "o porém agora céus e o terra o a ele em-palavra tendo-sido-entesourados são fogo sendo-guardados para dia julgamento e perdição o ímpios dos-homens"
+          },
+          {
+            "verse": 8,
+            "text": "um porém isto não esteja-oculto vos amados que uma dia de-junto-de ao-Kyrios como mil anos e mil anos como dia uma"
+          },
+          {
+            "verse": 9,
+            "text": "não demora Kyrios o promessa como alguns demora consideram mas é-longânimo para vos não querendo alguns perecer mas todos para arrependimento caber"
+          },
+          {
+            "verse": 10,
+            "text": "Virá porém dia do-Kyrios como ladrão em o qual o céus com-estrondo passarão elementos porém sendo-consumidas-pelo-fogo será-solto e terra e o em a-ela obra será-encontrado"
+          },
+          {
+            "verse": 11,
+            "text": "estas assim todos sendo-desatados que-espécie-de é necessário existir vos em santas condutas e piedades"
+          },
+          {
+            "verse": 12,
+            "text": "esperando e apressando-se o vinda o o de-Theos do-dia através-de o qual céus sendo-inflamados serão-desatados e elementos sendo-consumidas-pelo-fogo é-derretido"
+          },
+          {
+            "verse": 13,
+            "text": "novos porém céus e terra nova segundo o promessa dele esperemos em o qual justiça habita"
+          },
+          {
+            "verse": 14,
+            "text": "Por-isso amados estas-coisas esperando apressai-vos imaculados e irrepreensíveis a ele ser-encontrado em paz"
+          },
+          {
+            "verse": 15,
+            "text": "e o o do-Kyrios nosso paciência salvação considerai assim-como e o amado nosso irmão Paulo segundo o tendo-sido-dada a ele sabedoria escreveu a-vós"
+          },
+          {
+            "verse": 16,
+            "text": "como e em todas cartas falando em elas acerca-de destes em o qual é difíceis-de-entender alguém o qual o ignorantes e instáveis torcem como e o restantes escrituras junto-a o própria deles perdição"
+          },
+          {
+            "verse": 17,
+            "text": "vós portanto amados conhecendo-de-antemão guardai-vos para que não o o iníquos engano tendo-sido-levados-junto caiais-fora o próprio firmeza"
+          },
+          {
+            "verse": 18,
+            "text": "crescei porém em graça e conhecimento o do-Kyrios nosso e do-Salvador Iesous de-Christos a ele o glória e agora e para dia eternidade"
+          }
+        ]
+      }
+    ]
+  }
+}

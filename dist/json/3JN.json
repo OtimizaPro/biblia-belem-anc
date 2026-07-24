@@ -1,0 +1,84 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 64,
+    "code": "3JN",
+    "name": "3 João",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "o ancião Gaio o amado o qual eu amo em verdade"
+          },
+          {
+            "verse": 2,
+            "text": "Amado acerca-de todos oro te prosperar e estar-são assim-como prospera teu o alma"
+          },
+          {
+            "verse": 3,
+            "text": "Alegrei-me pois muito Vindo irmãos e testemunhando teu o verdade assim-como tu em verdade andas"
+          },
+          {
+            "verse": 4,
+            "text": "maior destes não tenho alegria para que ouço o minhas-coisas filhos em o verdade andando"
+          },
+          {
+            "verse": 5,
+            "text": "Amado fiel fazes o qual se Trabalhe para o irmãos e isto estrangeiros"
+          },
+          {
+            "verse": 6,
+            "text": "o qual testemunharam teu o amor diante-de da-assembleia o qual bem farás tendo-enviado-adiante dignamente o de-Theos"
+          },
+          {
+            "verse": 7,
+            "text": "em-favor-de pois o do-nome saíram nada recebendo de o gentios"
+          },
+          {
+            "verse": 8,
+            "text": "nós portanto devemos Supor o tais para que cooperadores tornemo-nos o verdade"
+          },
+          {
+            "verse": 9,
+            "text": "Escrevi algo o assembleia mas o amando-ser-o-primeiro deles Diótrefes não recebe nos"
+          },
+          {
+            "verse": 10,
+            "text": "através-de isto se venha Lembrarei dele o obra o qual faz palavras maus tagarelando nos e não contentando-se sobre nestes nem ele recebe o irmãos e o querendo impede e de o da-assembleia expulsa"
+          },
+          {
+            "verse": 11,
+            "text": "Amado não imita o mau mas o bom o fazendo-o-bem de o de-Theos é o malfeitores não tem-visto o Theos"
+          },
+          {
+            "verse": 12,
+            "text": "Demétrio tem-sido-testificado sob todos e sob dela o da-verdade e nós porém testemunhamos e sei que o testemunho nosso verdadeiro é"
+          },
+          {
+            "verse": 13,
+            "text": "muitos tinham escrever a-ti mas não quero através-de tinta e cana a-ti escrever"
+          },
+          {
+            "verse": 14,
+            "text": "espero porém imediatamente te ver e boca junto-a boca falaremos"
+          },
+          {
+            "verse": 15,
+            "text": "paz a-ti saúdam te o amigos saúda o amigos segundo nome"
+          }
+        ]
+      }
+    ]
+  }
+}

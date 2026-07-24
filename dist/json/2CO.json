@@ -1,0 +1,1108 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 47,
+    "code": "2CO",
+    "name": "2 Coríntios",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Paulo apóstolo de-Christos Iesous através-de da-vontade de-Theos e Timóteo o irmão o assembleia o de-Theos o estando em Corinto com o santos todos o estando em toda o Acaia"
+          },
+          {
+            "verse": 2,
+            "text": "graça a-vós e paz de de-Theos do-Pai nosso e do-Kyrios Iesous de-Christos"
+          },
+          {
+            "verse": 3,
+            "text": "Bendito o Theos e Pai o do-Kyrios nosso Iesous de-Christos o Pai o compaixões e Theos toda da-consolação"
+          },
+          {
+            "verse": 4,
+            "text": "o exortando nos sobre toda o tribulação nosso para o poder nos exortar o em toda tribulação através-de o da-consolação o qual somos-exortados eles-mesmos sob o de-Theos"
+          },
+          {
+            "verse": 5,
+            "text": "que assim-como abunda o sofrimentos o de-Christos para nos assim através-de o de-Christos abunda e o consolação nosso"
+          },
+          {
+            "verse": 6,
+            "text": "seja porém somos-afligidos em-favor-de o vosso da-consolação e salvação seja somos-exortados em-favor-de o vosso da-consolação o sendo-operada em perseverança o deles sofrimentos o qual e nós sofremos"
+          },
+          {
+            "verse": 7,
+            "text": "e o esperança nosso firme em-favor-de vosso sei que como participantes sois o sofrimentos assim e o da-consolação"
+          },
+          {
+            "verse": 8,
+            "text": "não pois queremos vos ignorar irmãos em-favor-de o tribulação nosso o tendo-acontecido em o Ásia que segundo excesso em-favor-de poder fomos-sobrecarregados de-modo-que desesperar-se nos e o viver"
+          },
+          {
+            "verse": 9,
+            "text": "mas eles-mesmos em si-mesmos o sentença o da-morte temos-tido para que não tendo-confiado sejamos sobre si-mesmos mas sobre o a-Theos o levantando o mortos"
+          },
+          {
+            "verse": 10,
+            "text": "o qual de tão-grande da-morte Livrou nos e livrará para o qual temos-esperado que e ainda livrará"
+          },
+          {
+            "verse": 11,
+            "text": "cooperando e vosso em-favor-de nosso o súplica para que de muitos de-faces o para nos dom através-de muitos seja-dada-graças em-favor-de nosso"
+          },
+          {
+            "verse": 12,
+            "text": "o pois glória nosso esta é o testemunho o consciência nosso que em santidade e sinceridade o de-Theos não em com-sabedoria carnal mas em graça de-Theos conduzimo-nos em o ao-mundo ainda-mais porém junto-a vos"
+          },
+          {
+            "verse": 13,
+            "text": "não pois outras-coisas escrevemos a-vós mas ou o qual ledes ou e conheceis-plenamente espero porém que até fim conhecereis-plenamente"
+          },
+          {
+            "verse": 14,
+            "text": "assim-como e conhecestes-plenamente nos de da-parte que orgulho vosso somos assim-como e vós nosso em o dia o do-Kyrios nosso Iesous"
+          },
+          {
+            "verse": 15,
+            "text": "e nesta o confiança desejava antes junto-a vos vir para que segunda graça tenhais"
+          },
+          {
+            "verse": 16,
+            "text": "e através-de vosso atravessar para Macedônia e novamente de Macedônia vir junto-a vos e sob vosso ser-enviado-adiante para o Judeia"
+          },
+          {
+            "verse": 17,
+            "text": "isto portanto querendo acaso então o leviandade Usei ou o qual delibero segundo carne delibero para que seja de-junto-de mim o Sim sim e o Não não"
+          },
+          {
+            "verse": 18,
+            "text": "fiel porém o Theos que o palavra nosso o junto-a vos não é sim e Não"
+          },
+          {
+            "verse": 19,
+            "text": "o o de-Theos pois Filho Christos Iesous o em a-vós através-de nosso tendo-sido-proclamado através-de mim e Silvano e Timóteo não aconteceu sim e Não mas sim em a ele aconteceu"
+          },
+          {
+            "verse": 20,
+            "text": "quanto pois promessas de-Theos em a ele o sim por-isso e através-de dele o Amém o a-Theos junto-a glória através-de nosso"
+          },
+          {
+            "verse": 21,
+            "text": "o porém confirmando nos com a-vós para Christos e tendo-ungido nos Theos"
+          },
+          {
+            "verse": 22,
+            "text": "o e tendo-selado nos e dando o penhor o do-espírito em o corações nosso"
+          },
+          {
+            "verse": 23,
+            "text": "eu porém testemunha o Theos invoco sobre o minha alma que poupando vosso não-mais vieram para Corinto"
+          },
+          {
+            "verse": 24,
+            "text": "não que dominamos vosso o da-fé mas cooperadores somos o alegria vosso o pois fé estais-de-pé"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "julguei porém a-mim-mesmo isto o não novamente em tristeza junto-a vos vir"
+          },
+          {
+            "verse": 2,
+            "text": "se pois eu entristeço vos e quem o alegrando me se não o entristecendo-se de mim"
+          },
+          {
+            "verse": 3,
+            "text": "e escrevi isto ele para que não vindo tristeza tenha de o qual é necessário me alegrar-se confiando sobre todos vos que o minha alegria todos vosso é"
+          },
+          {
+            "verse": 4,
+            "text": "de pois muita tribulação e angústia do-coração escrevi a-vós através-de muitos lágrimas não para que sejais-entristecidos mas o amor para que conheçais o qual tenho ainda-mais para vos"
+          },
+          {
+            "verse": 5,
+            "text": "se e/mas alguém tem-entristecido não mim tem-entristecido mas de da-parte para que não serei-pesado-sobre todos vos"
+          },
+          {
+            "verse": 6,
+            "text": "suficiente o tal o Repreensão esta o sob o mais"
+          },
+          {
+            "verse": 7,
+            "text": "de-modo-que pelo-contrário mais vos conceder-graciosamente e consolar não como o mais-abundante tristeza seja-tragado o tal"
+          },
+          {
+            "verse": 8,
+            "text": "por-isso rogo vos confirmar para ele amor"
+          },
+          {
+            "verse": 9,
+            "text": "para isto pois e escrevi para que conheça o prova vosso se para todas-as-coisas Obedientes sois"
+          },
+          {
+            "verse": 10,
+            "text": "o qual e/mas algo perdoai eu-também e pois eu o qual tenho-concedido-graciosamente se algo tenho-concedido-graciosamente através-de vos em face de-Christos"
+          },
+          {
+            "verse": 11,
+            "text": "para que não sejamos-explorados sob o Satanás não pois dele o pensamentos ignoramos"
+          },
+          {
+            "verse": 12,
+            "text": "tendo-vindo porém para o Trôade para o evangelho o de-Christos e porta a-mim tendo-sido-aberta em ao-Kyrios"
+          },
+          {
+            "verse": 13,
+            "text": "não Tenho-tido alívio o espírito meu o não encontrar me Tito o irmão meu mas despedindo-se a-eles saíram para Macedônia"
+          },
+          {
+            "verse": 14,
+            "text": "o porém a-Theos graça o sempre triunfando nos em o em-Christos e o cheiro o do-conhecimento dele manifestando através-de nosso em todo no-lugar"
+          },
+          {
+            "verse": 15,
+            "text": "que de-Christos fragrância somos o a-Theos em o aos-sendo-salvos e em o perecendo"
+          },
+          {
+            "verse": 16,
+            "text": "o qual por-um-lado aroma de da-morte para morte o qual porém aroma de da-vida para vida e junto-a estas-coisas quem suficiente"
+          },
+          {
+            "verse": 17,
+            "text": "não pois somos como o muitos mercadejando o palavra o de-Theos mas como de sinceridade mas como de de-Theos defronte-de de-Theos em em-Christos falamos"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Começamos novamente si-mesmos recomendar ou não temos-necessidade como alguns de-recomendação cartas junto-a vos ou de vosso"
+          },
+          {
+            "verse": 2,
+            "text": "o carta nosso vós sois tendo-sido-inscrita em o corações nosso sendo-conhecida e sendo-lida sob todos dos-homens"
+          },
+          {
+            "verse": 3,
+            "text": "sendo-manifestados que sois carta de-Christos tendo-sido-servida sob nosso tendo-sido-inscrita não tinta mas Espírito de-Theos vivente não em tábuas de-pedra mas em tábuas corações carnais"
+          },
+          {
+            "verse": 4,
+            "text": "confiança porém tal temos através-de o de-Christos junto-a o Theos"
+          },
+          {
+            "verse": 5,
+            "text": "não que de deles-mesmos suficientes somos considerar algo como de deles-mesmos mas o Suficiência nosso de o de-Theos"
+          },
+          {
+            "verse": 6,
+            "text": "o qual e Capacitou nos servos nova da-aliança não letra mas do-espírito o pois letra mata o porém espírito vivifica"
+          },
+          {
+            "verse": 7,
+            "text": "se porém o ministério o da-morte em letras tendo-sido-gravada pedras aconteceu em glória de-modo-que não poder fitar-os-olhos o filhos Israel para o face Moisés através-de o glória o face dele o sendo-anulada"
+          },
+          {
+            "verse": 8,
+            "text": "como não mais o ministério o do-espírito será em glória"
+          },
+          {
+            "verse": 9,
+            "text": "se pois o ministério o condenação glória muito mais abunda o ministério o justiça glória"
+          },
+          {
+            "verse": 10,
+            "text": "e pois não tem-sido-glorificado o tendo-sido-glorificado em neste o parte por-causa-de o Excedente da-glória"
+          },
+          {
+            "verse": 11,
+            "text": "se pois o sendo-anulado através-de da-glória muito mais o permanecendo em glória"
+          },
+          {
+            "verse": 12,
+            "text": "tendo portanto tal esperança muita com-ousadia usamos"
+          },
+          {
+            "verse": 13,
+            "text": "e não assim-como Moisés Punha véu sobre o face dele junto-a o não fitar-os-olhos o filhos Israel para o fim o sendo-anulado"
+          },
+          {
+            "verse": 14,
+            "text": "mas Foi-endurecido o pensamentos deles até pois o hoje do-dia o ele véu sobre o leitura o velha da-aliança permanece não sendo-desvelado que em em-Christos é-anulado"
+          },
+          {
+            "verse": 15,
+            "text": "mas até hoje quando partícula-condicional seja-lido Moisés véu sobre o coração deles está-posto"
+          },
+          {
+            "verse": 16,
+            "text": "quando porém se converta junto-a Kyrion é-removido o véu"
+          },
+          {
+            "verse": 17,
+            "text": "o porém Kyrios o Espírito é do-qual porém o espírito do-Kyrios liberdade"
+          },
+          {
+            "verse": 18,
+            "text": "nós porém todos tendo-sido-desvelado face o glória do-Kyrios contemplando-como-em-espelho o ela imagem somos-transformados de da-glória para glória assim-como de do-Kyrios do-espírito"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "através-de isto tendo o serviço esta assim-como fomos-alvos-de-misericórdia não desanimamos"
+          },
+          {
+            "verse": 2,
+            "text": "mas renunciamos o ocultas o vergonha não andando em astúcia nem adulterando o palavra o de-Theos mas o manifestação o da-verdade recomendando si-mesmos junto-a toda consciência dos-homens diante-de o de-Theos"
+          },
+          {
+            "verse": 3,
+            "text": "se porém e é tendo-sido-coberto o evangelho nosso em o perecendo é tendo-sido-coberto"
+          },
+          {
+            "verse": 4,
+            "text": "em o qual o Theos o eternidade deste cegou o pensamentos o incrédulos para o não resplandecer o iluminação o evangelho o da-glória o de-Christos o qual é imagem o de-Theos"
+          },
+          {
+            "verse": 5,
+            "text": "não pois si-mesmos pregamos mas Christos Iesous Kyrion si-mesmos porém servos vosso através-de Iesous"
+          },
+          {
+            "verse": 6,
+            "text": "que o Theos o dizendo de das-trevas luz brilhará o qual resplandeceu em o corações nosso junto-a iluminação o do-conhecimento o da-glória o de-Theos em face de-Christos"
+          },
+          {
+            "verse": 7,
+            "text": "Temos porém o tesouro este em de-barro vasos para que o Excesso o do-poder seja o de-Theos e não de nosso"
+          },
+          {
+            "verse": 8,
+            "text": "em todo sendo-atribulados mas não sendo-angustiados estando-perplexos mas não desesperando-se"
+          },
+          {
+            "verse": 9,
+            "text": "sendo-perseguidos mas não sendo-abandonados sendo-derrubados mas não perecendo"
+          },
+          {
+            "verse": 10,
+            "text": "sempre o mortificação o Iesous em o corpo carregando-ao-redor para que e o vida o Iesous em o corpo nosso seja-manifestada"
+          },
+          {
+            "verse": 11,
+            "text": "sempre pois nós o vivos para morte somos-entregues através-de Iesous para que e o vida o Iesous seja-manifestada em o mortal carne nosso"
+          },
+          {
+            "verse": 12,
+            "text": "de-modo-que o morte em a-nós é-operado o porém vida em a-vós"
+          },
+          {
+            "verse": 13,
+            "text": "tendo porém o ele espírito o da-fé segundo o escrito Cri por-isso falei e nós cremos por-isso e falamos"
+          },
+          {
+            "verse": 14,
+            "text": "sei que o tendo-levantado o Kyrion Iesous e nos com Iesous levantará e apresentará com a-vós"
+          },
+          {
+            "verse": 15,
+            "text": "o pois todas-as-coisas através-de vos para que o graça tendo-abundado através-de o mais o ação-de-graças abunde para o glória o de-Theos"
+          },
+          {
+            "verse": 16,
+            "text": "por-isso não desanimamos mas se e o fora nosso homem é-corrompido mas o dentro nosso é-renovado dia e dia"
+          },
+          {
+            "verse": 17,
+            "text": "o pois momentâneo leve o tribulação segundo excesso para excesso eterno peso da-glória opera a-nós"
+          },
+          {
+            "verse": 18,
+            "text": "não observando nosso o vistos mas o não vistos o pois vistos temporárias o porém não vistos eterna"
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "sei pois que se o terreno nosso casa o tenda seja-destruído edificação de de-Theos temos casa não-feito-por-mãos eterno em o nos-céus"
+          },
+          {
+            "verse": 2,
+            "text": "e pois em neste gememos o habitação nosso o de do-céu revestir-se desejando-ardentemente"
+          },
+          {
+            "verse": 3,
+            "text": "se pois e vestidos não nus seremos-encontrados"
+          },
+          {
+            "verse": 4,
+            "text": "e pois o sendo em o tenda gememos sendo-sobrecarregados sobre o qual não queremos despojar-se mas revestir-se para que seja-tragado o mortal sob o da-vida"
+          },
+          {
+            "verse": 5,
+            "text": "o porém tendo-realizado nos para ele isto Theos o dando a-nós o penhor o do-espírito"
+          },
+          {
+            "verse": 6,
+            "text": "Tendo-coragem portanto sempre e sei que estando-presentes em o corpo estamos-ausentes de o do-Kyrios"
+          },
+          {
+            "verse": 7,
+            "text": "através-de da-fé pois andamos não através-de forma"
+          },
+          {
+            "verse": 8,
+            "text": "temos-confiança porém e temos-prazer mais estar-ausente de o do-corpo e estar-em-casa junto-a o Kyrion"
+          },
+          {
+            "verse": 9,
+            "text": "por-isso e ambicionamos seja estando-presentes seja estando-ausentes agradáveis a ele ser"
+          },
+          {
+            "verse": 10,
+            "text": "o pois todos nos ser-manifestado é necessário diante o tribunal o de-Christos para que receba cada-um o através-de o do-corpo junto-a o qual praticou seja bom seja vil"
+          },
+          {
+            "verse": 11,
+            "text": "sei portanto o medo o do-Kyrios homens persuadimos a-Theos porém temos-sido-manifestados espero porém e em o consciências vosso ter-sido-manifestado"
+          },
+          {
+            "verse": 12,
+            "text": "não novamente si-mesmos recomendamos a-vós mas ocasião dando a-vós glorificação em-favor-de nosso para que tenhais junto-a o em face gloriando-se e não em no-coração"
+          },
+          {
+            "verse": 13,
+            "text": "seja pois ficamos-fora-de-nós a-Theos seja somos-sóbrios a-vós"
+          },
+          {
+            "verse": 14,
+            "text": "o pois amor o de-Christos constrange nos tendo-julgado isto que um em-favor-de todos morreu então o todos morreram"
+          },
+          {
+            "verse": 15,
+            "text": "e em-favor-de todos morreu para que o vivos não-mais si-mesmos vivam mas o em-favor-de deles ao-que-morreu e tendo-sido-levantado"
+          },
+          {
+            "verse": 16,
+            "text": "de-modo-que nós de o agora a-ninguém sei segundo carne se e temos-conhecido segundo carne Christon mas agora não-mais conhecemos"
+          },
+          {
+            "verse": 17,
+            "text": "de-modo-que se alguém em em-Christos nova criação o antigas passou eis aconteceu novas"
+          },
+          {
+            "verse": 18,
+            "text": "o porém todas-as-coisas de o de-Theos o tendo-reconciliado nos si-mesmo através-de de-Christos e tendo-dado a-nós o serviço o reconciliação"
+          },
+          {
+            "verse": 19,
+            "text": "como que Theos era em em-Christos mundo reconciliando si-mesmo não considerando a-eles o transgressões deles e tendo-posto em a-nós o palavra o reconciliação"
+          },
+          {
+            "verse": 20,
+            "text": "em-favor-de de-Christos portanto somos-embaixadores como o de-Theos do-que-consola através-de nosso suplicamos em-favor-de de-Christos sede-reconciliados o a-Theos"
+          },
+          {
+            "verse": 21,
+            "text": "o não tendo-conhecido pecado em-favor-de nosso pecado fez para que nós tornemo-nos justiça de-Theos em a ele"
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Cooperando porém e exortamos não para vazio o graça o de-Theos receber vos"
+          },
+          {
+            "verse": 2,
+            "text": "diz pois Tempo aceitável ouvi teu e em dia salvação socorri a-ti eis agora tempo aceitável eis agora dia salvação"
+          },
+          {
+            "verse": 3,
+            "text": "nenhuma em a-ninguém dando tropeço para que não seja-censurado o ministério"
+          },
+          {
+            "verse": 4,
+            "text": "mas em todo recomendando si-mesmos como de-Theos servos em perseverança muita em tribulações em necessidades em angústias"
+          },
+          {
+            "verse": 5,
+            "text": "em pragas em prisões em desordens em labores em vigílias em jejuns"
+          },
+          {
+            "verse": 6,
+            "text": "em pureza em conhecimento em paciência em benignidade em Espírito no-santo em amor sem-hipocrisia"
+          },
+          {
+            "verse": 7,
+            "text": "em em-palavra da-verdade em poder de-Theos através-de o armas o justiça o direita e esquerda"
+          },
+          {
+            "verse": 8,
+            "text": "através-de da-glória e desonra através-de difamação e boa-fama como enganadores e verdadeiros"
+          },
+          {
+            "verse": 9,
+            "text": "como sendo-ignorados e sendo-reconhecidos como morrendo e eis vivamos como sendo-disciplinados e não sendo-mortos"
+          },
+          {
+            "verse": 10,
+            "text": "como entristecendo-se sempre porém alegrando-se como pobres a-muitos porém enriquecendo como nada tendo e todas-as-coisas retendo"
+          },
+          {
+            "verse": 11,
+            "text": "o boca nosso tinha-aberto junto-a vos Coríntios o coração nosso tem-sido-alargado"
+          },
+          {
+            "verse": 12,
+            "text": "não estais-angustiados em a-nós estais-angustiados porém em o entranhas vosso"
+          },
+          {
+            "verse": 13,
+            "text": "o porém ela retribuição como filhos digo alargai-vos e vós"
+          },
+          {
+            "verse": 14,
+            "text": "não tornai-vos Pondo-se-em-jugo-desigual incrédulos quem pois participação justiça e iniquidade ou quem comunhão luz junto-a trevas"
+          },
+          {
+            "verse": 15,
+            "text": "quem porém concordância de-Christos junto-a Beliar ou quem porção fiel com incrédulo"
+          },
+          {
+            "verse": 16,
+            "text": "quem porém acordo templo de-Theos com ídolos nós pois templo de-Theos somos vivente assim-como disse o Theos que Habitarei-em em a-eles e andarei-em e serei deles Theos e eles-mesmos serão meu povo"
+          },
+          {
+            "verse": 17,
+            "text": "por-isso saí de meio deles e sede-separados diz Kyrios e impuro não toqueis e-eu receberei vos"
+          },
+          {
+            "verse": 18,
+            "text": "e serei a-vós para Pai e vós sereis a-mim para filhos e filhas diz Kyrios Todo-Poderoso"
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "estas portanto tendo o promessa amados purifiquemo-nos si-mesmos de de-todo contaminação carne e do-espírito completando santidade em medo de-Theos"
+          },
+          {
+            "verse": 2,
+            "text": "Dai-lugar nos a-ninguém cometemos-injustiça a-ninguém Corrompemos a-ninguém Exploramos"
+          },
+          {
+            "verse": 3,
+            "text": "junto-a condenação não digo predisse pois que em o corações nosso sois para o morrer-junto e co-viver"
+          },
+          {
+            "verse": 4,
+            "text": "muita a-mim ousadia junto-a vos muita a-mim glória em-favor-de vosso tenho-sido-preenchido o consolação Superabundo o alegria sobre toda o tribulação nosso"
+          },
+          {
+            "verse": 5,
+            "text": "e pois tendo-vindo nosso para Macedônia nenhuma Tem-tido alívio o carne nosso mas em todo sendo-atribulados de-fora contendas por-dentro temores"
+          },
+          {
+            "verse": 6,
+            "text": "mas o exortando o humildes exortou nos o Theos em o presença Tito"
+          },
+          {
+            "verse": 7,
+            "text": "não somente porém em o presença dele mas e em o consolação o qual foi-consolado sobre a-vós anunciando a-nós o vosso desejo-ardente o vosso lamento o vosso zelo em-favor-de mim de-modo-que me mais alegrar-se"
+          },
+          {
+            "verse": 8,
+            "text": "que se e entristeci vos em o carta não arrependo-me se e arrependia-me vejo que o carta aquela se e junto-a hora entristeceu vos"
+          },
+          {
+            "verse": 9,
+            "text": "agora alegro-me não que fostes-entristecidos mas que fostes-entristecidos para arrependimento fostes-entristecidos pois segundo Theos para que em a-ninguém sofrais-perda de nosso"
+          },
+          {
+            "verse": 10,
+            "text": "o pois segundo Theos tristeza arrependimento para salvação irrevogável trabalha o porém o do-mundo tristeza morte opera"
+          },
+          {
+            "verse": 11,
+            "text": "eis pois ele isto o segundo Theos ser-entristecido quanta produziu a-vós diligência mas defesa mas indignação mas medo mas desejo-ardente mas zelo mas vingança em todo recomendaste si-mesmos puros ser o assunto"
+          },
+          {
+            "verse": 12,
+            "text": "então se e escrevi a-vós não por-causa-de o tendo-sido-injusto nem por-causa-de o tendo-sido-injustiçado mas por-causa-de o ser-manifestado o diligência vosso o em-favor-de nosso junto-a vos diante-de o de-Theos"
+          },
+          {
+            "verse": 13,
+            "text": "através-de isto temos-sido-consolados sobre porém o consolação nosso ainda-mais mais Alegramo-nos sobre o alegria Tito que tem-descansado o espírito dele de todos vosso"
+          },
+          {
+            "verse": 14,
+            "text": "que se algo a ele em-favor-de vosso tenho-me-gloriado não fui-envergonhado mas como todas-as-coisas em verdade falamos a-vós assim e o glória nosso sobre Tito verdade aconteceu"
+          },
+          {
+            "verse": 15,
+            "text": "e o entranhas dele ainda-mais para vos é lembrando-se o todos vosso obediência como com medo e tremor recebestes ele"
+          },
+          {
+            "verse": 16,
+            "text": "alegro-me que em todo tenho-ânimo em a-vós"
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Fazemos-conhecer porém a-vós irmãos o graça o de-Theos o tendo-sido-dada em o assembleias o Macedônia"
+          },
+          {
+            "verse": 2,
+            "text": "que em muita prova tribulação o abundância o alegria deles e o segundo profundidade pobreza deles abundou para o riqueza o simplicidade deles"
+          },
+          {
+            "verse": 3,
+            "text": "que segundo poder testemunho e de-junto-de poder por-vontade-própria"
+          },
+          {
+            "verse": 4,
+            "text": "com muita da-consolação suplicando nosso o graça e o comunhão o ministério o para o santos"
+          },
+          {
+            "verse": 5,
+            "text": "e não assim-como esperamos mas si-mesmos deram primeiro o ao-Kyrios e a-nós através-de da-vontade de-Theos"
+          },
+          {
+            "verse": 6,
+            "text": "para o consolar nos Tito para que assim-como começou-de-antemão assim e Complete para vos e o graça esta"
+          },
+          {
+            "verse": 7,
+            "text": "mas assim-como em todo abundais fé e em-palavra e conhecimento e toda diligência e o de nosso em a-vós amor para que e em nesta o graça abundeis"
+          },
+          {
+            "verse": 8,
+            "text": "não segundo mandado digo mas através-de o outros diligência e o o vossa do-amor genuíno examinando"
+          },
+          {
+            "verse": 9,
+            "text": "sabeis pois o graça o do-Kyrios nosso Iesous de-Christos que através-de vos Empobreceu rico sendo para que vós o daquele em-pobreza enriqueçais"
+          },
+          {
+            "verse": 10,
+            "text": "e opinião em neste dou isto pois a-vós convém os-quais não somente o fazer mas e o querer começastes-de-antemão de desde-o-ano-passado"
+          },
+          {
+            "verse": 11,
+            "text": "agora porém e o fazer Completai para-que assim-como o prontidão o querer assim e o Completar de o ter"
+          },
+          {
+            "verse": 12,
+            "text": "se pois o prontidão está-exposto conforme se tenha aceitável não conforme não tem"
+          },
+          {
+            "verse": 13,
+            "text": "não pois para que a-outros alívio a-vós tribulação mas de Igualdade"
+          },
+          {
+            "verse": 14,
+            "text": "em o agora tempo o vosso abundância para o daqueles falta para que e o daqueles abundância aconteça para o vosso falta para-que aconteça igualdade"
+          },
+          {
+            "verse": 15,
+            "text": "assim-como está-escrito o o muito não abundou e o o pouco não teve-falta"
+          },
+          {
+            "verse": 16,
+            "text": "graça porém o a-Theos o dando o ela diligência em-favor-de vosso em o no-coração Tito"
+          },
+          {
+            "verse": 17,
+            "text": "que o por-um-lado consolação recebeu mais-diligente porém sendo por-vontade-própria saiu junto-a vos"
+          },
+          {
+            "verse": 18,
+            "text": "enviamos-junto porém com dele o irmão o qual o louvor em o no-evangelho através-de todas o igrejas"
+          },
+          {
+            "verse": 19,
+            "text": "não somente porém mas e tendo-sido-escolhido-por-mãos-estendidas sob o igrejas com-viajante nosso em o graça nesta o sendo-servida sob nosso junto-a o dele o do-Kyrios glória e prontidão nosso"
+          },
+          {
+            "verse": 20,
+            "text": "afastando-se isto não alguém nos seja-censurado em o abundância nesta o sendo-servida sob nosso"
+          },
+          {
+            "verse": 21,
+            "text": "cuidamos pois boas não somente diante-de do-Kyrios mas e diante-de dos-homens"
+          },
+          {
+            "verse": 22,
+            "text": "enviamos-junto porém a-eles o irmão nosso o qual fomos-aprovados em muitos muitas-vezes diligente sendo agora porém muito mais-diligente confiança muita o para vos"
+          },
+          {
+            "verse": 23,
+            "text": "seja em-favor-de Tito participante meu e para vos cooperador seja irmãos nosso apóstolos igrejas glória de-Christos"
+          },
+          {
+            "verse": 24,
+            "text": "o portanto demonstração o do-amor vosso e nosso glorificação em-favor-de vosso para eles mostrando para face o igrejas"
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "acerca-de por-um-lado pois o ministério o para o santos abundante me é o escrever a-vós"
+          },
+          {
+            "verse": 2,
+            "text": "sei pois o prontidão vosso o qual em-favor-de vosso glorio-me Macedônios que Acaia tem-sido-preparado de desde-o-ano-passado e o vosso zelo provocou o mais"
+          },
+          {
+            "verse": 3,
+            "text": "enviei porém o irmãos para que não o orgulho nosso o em-favor-de vosso seja-esvaziada em o parte neste para que assim-como diziam tendo-sido-preparados éreis"
+          },
+          {
+            "verse": 4,
+            "text": "não como se venham com mim Macedônios e encontrem vos despreparados sejamos-envergonhados nós para que não digamos vós em o confiança nesta"
+          },
+          {
+            "verse": 5,
+            "text": "necessário portanto considerei consolar o irmãos para que avancem para vos e preparem-de-antemão o tendo-sido-prometida-de-antemão bênção vosso esta preparada ser assim como bênção e não como ganância"
+          },
+          {
+            "verse": 6,
+            "text": "isto e/mas o o-que-semeia poupadamente poupadamente e ceifará e o o-que-semeia sobre bênçãos sobre bênçãos e ceifará"
+          },
+          {
+            "verse": 7,
+            "text": "cada-um assim-como tem-escolhido-de-antemão o no-coração não de tristeza ou de necessidade Alegre pois dador ama o Theos"
+          },
+          {
+            "verse": 8,
+            "text": "é-poderoso porém o Theos toda graça abundar para vos para que em todo sempre toda suficiência tendo abundeis para todo obra bom"
+          },
+          {
+            "verse": 9,
+            "text": "assim-como está-escrito Espalhou deu o pobres o justiça dele permanece para o eternidade"
+          },
+          {
+            "verse": 10,
+            "text": "o porém suprindo semente o semeando e pão para comida suprirá e multiplicará o semente vosso e fará-crescer o frutos o da-justiça vosso"
+          },
+          {
+            "verse": 11,
+            "text": "em todo sendo-enriquecidos para toda simplicidade a-qual opera através-de nosso ação-de-graças o a-Theos"
+          },
+          {
+            "verse": 12,
+            "text": "que o ministério o serviço desta não somente é suprindo o carências o santos mas e abundando através-de muitos ações-de-graças o a-Theos"
+          },
+          {
+            "verse": 13,
+            "text": "através-de o prova o ministério desta glorificando o Theos sobre o sujeição o confissão vosso para o evangelho o de-Christos e simplicidade o comunhão para eles e para todos"
+          },
+          {
+            "verse": 14,
+            "text": "e deles súplica em-favor-de vosso desejando-ardentemente vos através-de o excedente graça o de-Theos sobre a-vós"
+          },
+          {
+            "verse": 15,
+            "text": "graça o a-Theos sobre o inexprimível dele dom"
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "ele porém eu Paulo rogo vos através-de o mansidão e moderação o de-Christos o qual segundo face por-um-lado humilde em a-vós estando-ausente porém tenho-ânimo para vos"
+          },
+          {
+            "verse": 2,
+            "text": "suplico porém o não estando-presente ter-confiança o confiança o qual considero ousar sobre alguns o considerando nos como segundo carne andando"
+          },
+          {
+            "verse": 3,
+            "text": "em carne pois andando não segundo carne guerreamos"
+          },
+          {
+            "verse": 4,
+            "text": "o pois armas o guerra nosso não carnais mas possíveis o a-Theos junto-a destruição fortalezas raciocínios demolindo"
+          },
+          {
+            "verse": 5,
+            "text": "e todo altivez sendo-levantado segundo o do-conhecimento o de-Theos e levando-cativos todo pensamento para o obediência o de-Christos"
+          },
+          {
+            "verse": 6,
+            "text": "e em Preparado tendo vingar toda desobediência quando seja-cumprido vosso o Obediência"
+          },
+          {
+            "verse": 7,
+            "text": "o segundo face vede se alguém tem-confiado si-mesmo de-Christos ser isto considere novamente sobre si-mesmo que assim-como ele de-Christos assim e nós"
+          },
+          {
+            "verse": 8,
+            "text": "se e pois mais-abundantemente algo me-glorie acerca-de o da-autoridade nosso o qual deu o Kyrios para edificação e não para destruição vosso não serei-envergonhado"
+          },
+          {
+            "verse": 9,
+            "text": "para que não glorificarei como partícula-condicional amedrontar vos através-de o cartas"
+          },
+          {
+            "verse": 10,
+            "text": "que o cartas de-fato diz pesadas e Fortes o porém presença o do-corpo fraco e o palavra tendo-sido-desprezado"
+          },
+          {
+            "verse": 11,
+            "text": "isto considere o tal que quais somos o em-palavra através-de cartas estando-ausentes tais e estando-presentes o obra"
+          },
+          {
+            "verse": 12,
+            "text": "não pois ousamos classificar-entre ou comparar a-si-mesmos alguns o si-mesmos recomendando mas eles-mesmos em si-mesmos si-mesmos medindo e comparando si-mesmos si-mesmos não compreendem"
+          },
+          {
+            "verse": 13,
+            "text": "nós porém não para o desmedidas gloriar-nos-emos mas segundo o medida o regra o qual dividiu a-nós o Theos medida Alcançar até e vosso"
+          },
+          {
+            "verse": 14,
+            "text": "não pois como não Alcançando para vos Estendemo-nos-além a-si-mesmos até pois e vosso chegamos em o no-evangelho o de-Christos"
+          },
+          {
+            "verse": 15,
+            "text": "não para o desmedidas gloriando-se em alheios labores esperança porém tendo crescendo o da-fé vosso em a-vós ser-engrandecido segundo o regra nosso para abundância"
+          },
+          {
+            "verse": 16,
+            "text": "para o Além-de vosso evangelizar não em estranho regra para o preparadas ter-se-gloriado"
+          },
+          {
+            "verse": 17,
+            "text": "o porém gloriando-se em ao-Kyrios glorie-se"
+          },
+          {
+            "verse": 18,
+            "text": "não pois o si-mesmo recomendando aquele é aprovado mas o qual o Kyrios recomenda"
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "oxalá suportáveis meu pouco algo insensatez mas e suportais meu"
+          },
+          {
+            "verse": 2,
+            "text": "zelo pois vos de-Theos zelo desposei pois vos um marido virgem pura apresentar o em-Christos"
+          },
+          {
+            "verse": 3,
+            "text": "temo porém não como como o serpente enganou Eva em o astúcia dele seja-corrompido o pensamentos vosso de o simplicidade e o pureza o para Christon"
+          },
+          {
+            "verse": 4,
+            "text": "se por-um-lado pois o vindo outro Iesous proclama o qual não proclamamos ou espírito outro recebeis o qual não recebestes ou evangelho outro o qual não recebestes bem suportais"
+          },
+          {
+            "verse": 5,
+            "text": "considero pois nada ter-faltado o super-eminentes apóstolos"
+          },
+          {
+            "verse": 6,
+            "text": "se porém e leigo o em-palavra mas não o conhecimento mas em todo tendo-manifestado em todos para vos"
+          },
+          {
+            "verse": 7,
+            "text": "ou pecado fiz a-mim-mesmo humildes para que vós sede-exaltados que gratuitamente o o de-Theos evangelho evangelizei a-vós"
+          },
+          {
+            "verse": 8,
+            "text": "outras da-assembleia Despojei tomando soldo junto-a o vosso serviço"
+          },
+          {
+            "verse": 9,
+            "text": "e estando-presente junto-a vos e Tendo-faltado não fui-peso nenhum o pois Falta meu supriram o irmãos vindo de Macedônia e em todo sem-peso a-mim-mesmo a-vós Guardei e guardarei"
+          },
+          {
+            "verse": 10,
+            "text": "é verdade de-Christos em mim que o glória esta não será-fechada para mim em o regiões o Acaia"
+          },
+          {
+            "verse": 11,
+            "text": "através-de quê que não amo vos o Theos sei"
+          },
+          {
+            "verse": 12,
+            "text": "o qual porém faço e farei para que cortarei-fora o ocasião o dos-que-querem ocasião para que em o qual gloriam-se sejam-encontrados assim-como e nós"
+          },
+          {
+            "verse": 13,
+            "text": "o pois tais falsos-apóstolos trabalhadores enganosos transfigurando-se para apóstolos de-Christos"
+          },
+          {
+            "verse": 14,
+            "text": "e não maravilha ele pois o Satanás transfigura-se para anjo luz"
+          },
+          {
+            "verse": 15,
+            "text": "não grande portanto se e o servos dele transfiguram-se como servos justiça o qual o fim será segundo o obra deles"
+          },
+          {
+            "verse": 16,
+            "text": "novamente digo não quem me glória insensato ser se porém de-outro-modo e-se como insensato recebei me para que e-eu pouco algo me-glorie"
+          },
+          {
+            "verse": 17,
+            "text": "o qual falo não segundo Kyrion falo mas como em insensatez em nesta o confiança o glorificação"
+          },
+          {
+            "verse": 18,
+            "text": "porque muitos gloriam-se segundo o carne e-eu gloriar-me-ei"
+          },
+          {
+            "verse": 19,
+            "text": "prazerosamente pois suportais o insensatos prudentes sendo"
+          },
+          {
+            "verse": 20,
+            "text": "suportais pois se alguém vos escraviza se alguém devora se alguém recebe se alguém levanta-se se alguém para face vos bate"
+          },
+          {
+            "verse": 21,
+            "text": "segundo desonra digo como que nós Temos-enfraquecido em o qual e/mas se alguém ousa em insensatez digo ouso eu-também"
+          },
+          {
+            "verse": 22,
+            "text": "Hebreus são eu-também Israelitas são eu-também semente Abraão são eu-também"
+          },
+          {
+            "verse": 23,
+            "text": "servos de-Christos são sendo-louco falo em-favor-de eu em labores ainda-mais em prisões ainda-mais em pragas Excedentemente em mortes muitas-vezes"
+          },
+          {
+            "verse": 24,
+            "text": "sob judeus cinco-vezes quarenta de-junto-de uma receberam"
+          },
+          {
+            "verse": 25,
+            "text": "três-vezes Fui-açoitado-com-varas uma-vez fui-apedrejado três-vezes naufragei noite-e-dia em o abismo tenho-feito"
+          },
+          {
+            "verse": 26,
+            "text": "jornadas muitas-vezes perigos rios perigos ladrões perigos de raça perigos de nações perigos em cidade perigos em deserto perigos em mar perigos em falsos-irmãos"
+          },
+          {
+            "verse": 27,
+            "text": "labor e labor em vigílias muitas-vezes em fome e sede em jejuns muitas-vezes em esfria e nudez"
+          },
+          {
+            "verse": 28,
+            "text": "sem o exceto o conspiração a-mim o segundo dia o preocupação todas o igrejas"
+          },
+          {
+            "verse": 29,
+            "text": "quem está-fraco e não estou-fraco quem é-escandalizado e não eu sou-inflamado"
+          },
+          {
+            "verse": 30,
+            "text": "se gloriar-se é necessário o o fraqueza meu gloriar-me-ei"
+          },
+          {
+            "verse": 31,
+            "text": "o Theos e Pai o do-Kyrios Iesous sei o sendo bendito para o eras que não minto"
+          },
+          {
+            "verse": 32,
+            "text": "em Damasco o etnarca Aretas o rei Guardava o cidade Damascenos prender me"
+          },
+          {
+            "verse": 33,
+            "text": "e através-de janela em em-cesto Fui-descido através-de o muro e escaparam o mãos dele"
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Gloriar-se é necessário não conveniente de-fato virei porém para visão e revelações do-Kyrios"
+          },
+          {
+            "verse": 2,
+            "text": "sei homem em em-Christos antes-de anos quatorze seja em corpo não sei seja fora-de o do-corpo não sei o Theos sei tendo-sido-arrebatado o tal até terceiro do-céu"
+          },
+          {
+            "verse": 3,
+            "text": "e sei o tal homem seja em corpo seja sem o do-corpo não sei o Theos sei"
+          },
+          {
+            "verse": 4,
+            "text": "que Foi-arrebatado para o Paraíso e ouviu indizíveis palavras o qual não sendo-lícito ser-humano falar"
+          },
+          {
+            "verse": 5,
+            "text": "em-favor-de o tal gloriar-me-ei em-favor-de porém de-mim-mesmo não gloriar-me-ei se não em o fraquezas"
+          },
+          {
+            "verse": 6,
+            "text": "se pois quererei ter-se-gloriado não serei insensato verdade pois direi poupo e/mas não alguém para mim considere em-favor-de o qual vê me ou ouve de mim"
+          },
+          {
+            "verse": 7,
+            "text": "e o Excesso o revelações por-isso para que não me-exalte foi-dado a-mim espinho o na-carne anjo Satanás para que me esbofeteie para que não me-exalte"
+          },
+          {
+            "verse": 8,
+            "text": "em-favor-de deste três-vezes o Kyrion exortei para que afaste-se de mim"
+          },
+          {
+            "verse": 9,
+            "text": "e tem-dito a-mim Basta a-ti o graça meu o pois poder em fraqueza é-completado Muito-prazerosamente portanto mais gloriar-me-ei em o fraquezas para que habite-sobre sobre mim o poder o de-Christos"
+          },
+          {
+            "verse": 10,
+            "text": "por-isso comprazo-me em fraquezas em Ultrajes em necessidades em perseguições e angústias em-favor-de de-Christos quando pois estou-fraco então poderoso sou"
+          },
+          {
+            "verse": 11,
+            "text": "Tenho-me-tornado insensato vós me forçastes eu pois Devia sob vosso recomendar-se nada pois Faltei o super-eminentes apóstolos se e nada sou"
+          },
+          {
+            "verse": 12,
+            "text": "o por-um-lado sinais o apóstolo foi-realizado em a-vós em toda perseverança sinais e e prodígios e poderes"
+          },
+          {
+            "verse": 13,
+            "text": "quê pois é o qual fostes-inferiorizados em-favor-de o restantes da-assembleia se não que ele eu não fui-peso vosso perdoai a-mim o injustiça esta"
+          },
+          {
+            "verse": 14,
+            "text": "Eis terço isto prontamente tenho vir junto-a vos e não serei-peso não pois busco o vosso mas vos não pois deve o filhos o pais entesourar mas o pais o filhos"
+          },
+          {
+            "verse": 15,
+            "text": "eu porém Com-muito-prazer gastarei e serei-totalmente-gasto em-favor-de o almas vosso se ainda-mais vos amo menos sou-amado"
+          },
+          {
+            "verse": 16,
+            "text": "Seja e/mas eu não fui-peso vos mas sendo astuto engano vos receberam"
+          },
+          {
+            "verse": 17,
+            "text": "não alguém o qual tenho-enviado junto-a vos através-de dele Explorei vos"
+          },
+          {
+            "verse": 18,
+            "text": "exortei Tito e enviei-junto o irmão acaso Explorou vos Tito não o a ele Espírito andamos não o a-eles pegadas"
+          },
+          {
+            "verse": 19,
+            "text": "Desde-há-muito pensais que a-vós defendemo-nos defronte-de de-Theos em em-Christos falamos o porém todas-as-coisas amados em-favor-de o vosso edificação"
+          },
+          {
+            "verse": 20,
+            "text": "temo pois não como vindo não quais quero encontre vos e-eu seja-encontrado a-vós qual não quereis não como contenda zelo iras contendas maledicências murmurações inchações desordens"
+          },
+          {
+            "verse": 21,
+            "text": "não novamente tendo-vindo meu humilhe me o Theos meu junto-a vos e lamentarei a-muitos o tendo-pecado-antes e não tendo-se-arrependido sobre o impureza e imoralidade e devassidão o qual Praticaram"
+          }
+        ]
+      },
+      {
+        "chapter": 13,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "terço isto venho junto-a vos sobre boca dois testemunhas e três será-estabelecido todo palavra"
+          },
+          {
+            "verse": 2,
+            "text": "predisse e digo-de-antemão como estando-presente o segundo e estando-ausente agora o tendo-pecado-antes e o restantes todos que se venha para o novamente não pouparei"
+          },
+          {
+            "verse": 3,
+            "text": "porque prova buscais o em mim falando de-Christos o qual para vos não está-fraco mas é-poderoso em a-vós"
+          },
+          {
+            "verse": 4,
+            "text": "e pois foi-crucificado de fraqueza mas vive de do-poder de-Theos e pois nós somos-fracos em a ele mas viveremos com a ele de do-poder de-Theos para vos"
+          },
+          {
+            "verse": 5,
+            "text": "a-si-mesmos tentais se sois em o fé si-mesmos examinai ou não conheceis-plenamente si-mesmos que Iesous Christos em a-vós se acaso reprovados sois"
+          },
+          {
+            "verse": 6,
+            "text": "espero porém que conhecereis que nós não somos reprovados"
+          },
+          {
+            "verse": 7,
+            "text": "oramos porém junto-a o Theos não fazer vos mau nada não para que nós aprovados apareçamos mas para que vós o belo façais nós porém como reprovados sejamos"
+          },
+          {
+            "verse": 8,
+            "text": "não pois podemos algo segundo o da-verdade mas em-favor-de o da-verdade"
+          },
+          {
+            "verse": 9,
+            "text": "alegramo-nos pois quando nós sejamos-fracos vós porém poderosos éreis isto e oramos o vosso aperfeiçoamento"
+          },
+          {
+            "verse": 10,
+            "text": "através-de isto estas-coisas estando-ausente escrever para que estando-presente não severamente eu-use segundo o autoridade o qual o Kyrios Deu a-mim para edificação e não para destruição"
+          },
+          {
+            "verse": 11,
+            "text": "Quanto-ao-resto irmãos alegrai-vos sede-restaurados sois-consolados o ele pensais tende-paz e o Theos o do-amor e paz será com vosso"
+          },
+          {
+            "verse": 12,
+            "text": "Saudai uns-aos-outros em no-santo beijo Saúdam vos o santos todos"
+          },
+          {
+            "verse": 13,
+            "text": "o graça o do-Kyrios Iesous de-Christos e o amor o de-Theos e o comunhão o do-santo do-espírito com todos vosso"
+          }
+        ]
+      }
+    ]
+  }
+}

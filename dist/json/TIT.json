@@ -1,0 +1,218 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 56,
+    "code": "TIT",
+    "name": "Tito",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Paulo servo de-Theos apóstolo porém Iesous de-Christos segundo fé eleitos de-Theos e conhecimento-pleno da-verdade o segundo piedade"
+          },
+          {
+            "verse": 2,
+            "text": "sobre esperança da-vida eterno o qual prometeu o que-não-mente Theos antes-de tempos eternas"
+          },
+          {
+            "verse": 3,
+            "text": "manifestou porém tempos próprios o palavra dele em proclamação o qual fui-confiado eu segundo mandado o do-Salvador nosso de-Theos"
+          },
+          {
+            "verse": 4,
+            "text": "Tito genuíno filho segundo comum fé graça e paz de de-Theos do-Pai e de-Christos Iesous o do-Salvador nosso"
+          },
+          {
+            "verse": 5,
+            "text": "disto graça deixei te em Creta para que o faltando corrigas e constituas segundo cidade anciãos como eu a-ti ordenei"
+          },
+          {
+            "verse": 6,
+            "text": "se quem é irrepreensível uma mulher homem filhos tendo fiéis não em acusação dissolução ou insubmissas"
+          },
+          {
+            "verse": 7,
+            "text": "é necessário pois o supervisor irrepreensível ser como de-Theos administrador não arrogante não irascível não não-dado-ao-vinho não agressor não ganancioso-por-lucro-torpe"
+          },
+          {
+            "verse": 8,
+            "text": "mas hospitaleiro amante-do-bem sóbrio-de-mente justo santo dominado"
+          },
+          {
+            "verse": 9,
+            "text": "apegando-se o segundo o ensino fiel da-palavra para que poderoso seja e exortar em o ensino o sã e o contradizendo repreender"
+          },
+          {
+            "verse": 10,
+            "text": "são pois muitos insubmissos faladores-vãos e enganadores-de-mente principalmente o de o da-circuncisão"
+          },
+          {
+            "verse": 11,
+            "text": "o qual é necessário silenciar os-quais todos casas transtornam ensinando o qual não é necessário torpe lucro graça"
+          },
+          {
+            "verse": 12,
+            "text": "disse alguém de deles Próprio deles profeta Cretenses sempre mentirosos males feras ventres ociosas"
+          },
+          {
+            "verse": 13,
+            "text": "o testemunho esta é verdadeiro através-de o qual causa repreende eles severamente para que estejam-sãos em o fé"
+          },
+          {
+            "verse": 14,
+            "text": "não prestando-atenção Judaicos fábulas e mandamentos dos-homens dos-que-se-desviam o verdade"
+          },
+          {
+            "verse": 15,
+            "text": "todas-as-coisas pura o puros o porém tendo-sido-contaminados e incrédulos nada limpo mas têm-sido-contaminados deles e o mente e o consciência"
+          },
+          {
+            "verse": 16,
+            "text": "Theos confessam sei o porém obra negam abomináveis sendo e desobedientes e junto-a todo obra bom reprovados"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "tu porém fala o qual convém o sã ensino"
+          },
+          {
+            "verse": 2,
+            "text": "anciãos sóbrios ser dignos sóbrios-de-mente estando-sãos o fé o amor o perseverança"
+          },
+          {
+            "verse": 3,
+            "text": "mulheres-idosas da-mesma-forma em comportamento Dignos-de-sagrado não caluniadores nem vinho muito tendo-sido-escravizadas ensinando-o-bem"
+          },
+          {
+            "verse": 4,
+            "text": "para que ensinem-a-ser-sóbrias o novas amantes-dos-maridos ser amantes-dos-filhos"
+          },
+          {
+            "verse": 5,
+            "text": "sóbrios-de-mente puras trabalhadoras-do-lar boas Sujeitando-se o próprios homens para que não o palavra o de-Theos seja-blasfemado"
+          },
+          {
+            "verse": 6,
+            "text": "o mais-jovens da-mesma-forma exortava ser-sóbrio-de-mente"
+          },
+          {
+            "verse": 7,
+            "text": "acerca-de todas-as-coisas a-ti-mesmo fornecendo modelo boas obra em o ensino incorrupção dignidade"
+          },
+          {
+            "verse": 8,
+            "text": "palavra são irrepreensível para que o de contrária envergonhe-se nada tendo dizer acerca-de nosso vil"
+          },
+          {
+            "verse": 9,
+            "text": "servos próprios senhores sujeitar-se em todos agradáveis ser não contradizendo"
+          },
+          {
+            "verse": 10,
+            "text": "não retendo-para-si mas toda fé demonstrando boa para que o ensino o o do-Salvador nosso de-Theos adornem em todos"
+          },
+          {
+            "verse": 11,
+            "text": "Manifestou-se pois o graça o de-Theos salvífico todos aos-homens"
+          },
+          {
+            "verse": 12,
+            "text": "disciplinando nos para que tendo-negado o impiedade e o mundanas desejos sobriamente e justamente e piedosamente vivamos em o agora era"
+          },
+          {
+            "verse": 13,
+            "text": "aguardando o bem-aventurada esperança e manifestação o da-glória o grande de-Theos e do-Salvador nosso de-Christos Iesous"
+          },
+          {
+            "verse": 14,
+            "text": "o qual deu si-mesmo em-favor-de nosso para que resgate nos de toda iniquidade e purifique si-mesmo povo peculiar zeloso boas obra"
+          },
+          {
+            "verse": 15,
+            "text": "estas-coisas fala e exortava e repreende com toda Mandamento ninguém teu despreze"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Lembra eles governos autoridades sujeitar-se obedecer junto-a todo obra bom Preparados ser"
+          },
+          {
+            "verse": 2,
+            "text": "ninguém blasfemar não-contenciosos ser moderados toda demonstrando mansidão junto-a todos homens"
+          },
+          {
+            "verse": 3,
+            "text": "Éramos pois alguma-vez e nós insensatos desobedientes errantes servindo desejos e prazeres diversas em maldade e inveja vivendo odiosos odiando uns-aos-outros"
+          },
+          {
+            "verse": 4,
+            "text": "quando porém o benignidade e o filantropia apareceu o do-Salvador nosso de-Theos"
+          },
+          {
+            "verse": 5,
+            "text": "não de obra o em justiça o qual fizemos nós mas segundo o dele misericórdia salvou nos através-de lavagem de-regeneração e renovação do-espírito do-santo"
+          },
+          {
+            "verse": 6,
+            "text": "o qual derramou sobre nos ricamente através-de Iesous de-Christos o do-Salvador nosso"
+          },
+          {
+            "verse": 7,
+            "text": "para que tendo-sido-justificados o daquele graça herdeiros tornemo-nos segundo esperança da-vida eterno"
+          },
+          {
+            "verse": 8,
+            "text": "fiel o palavra e acerca-de destes quero te afirmar-com-certeza para que cuidem boas obra presidir o tendo-crido a-Theos estas-coisas é boas e Proveitosas o aos-homens"
+          },
+          {
+            "verse": 9,
+            "text": "tolas porém buscas e genealogias e contenda e contendas legais evita são pois inúteis e vãos"
+          },
+          {
+            "verse": 10,
+            "text": "herético homem com uma e segunda admoestação recusa"
+          },
+          {
+            "verse": 11,
+            "text": "sei que tem-sido-pervertido o tal e peca sendo autocondenado"
+          },
+          {
+            "verse": 12,
+            "text": "quando enviarei Artemas junto-a te ou Tíquico apressa-te vir para me para Nicópolis ali pois tenho-julgado passar-o-inverno"
+          },
+          {
+            "verse": 13,
+            "text": "Zenas o perito-na-lei e Apolo diligentemente envia-adiante para que nada a-eles falte"
+          },
+          {
+            "verse": 14,
+            "text": "aprendam porém e o Nossos boas obra presidir para o necessárias necessidade para que não sejam infrutíferos"
+          },
+          {
+            "verse": 15,
+            "text": "Saúdam te o com mim todos saúda o amando nos em fé o graça com todos vosso"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 65,
+    "code": "JUD",
+    "name": "Judas",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Judas Iesous de-Christos servo irmão porém de-Tiago o em a-Theos Pai tendo-sido-amados e Iesous em-Christos aos-tendo-sido-guardados chamados"
+          },
+          {
+            "verse": 2,
+            "text": "misericórdia a-vós e paz e amor seja-multiplicada"
+          },
+          {
+            "verse": 3,
+            "text": "Amados toda diligência fazendo escrever a-vós acerca-de o comum nosso salvação necessidade tiveram escrever a-vós exortando lutar-em-favor-de o uma-vez tendo-sido-entregue o santos fé"
+          },
+          {
+            "verse": 4,
+            "text": "infiltraram-se pois alguns homens o outrora tendo-sido-escritos-de-antemão para isto o julgamento ímpios o o de-Theos nosso graça transferindo para devassidão e o somente Soberano e Kyrion nosso Iesous Christos negando"
+          },
+          {
+            "verse": 5,
+            "text": "Lembrar porém vos quero sei uma-vez todas-as-coisas que Kyrios povo de da-terra Egito tendo-salvo o segundo o não tendo-crido perdeu"
+          },
+          {
+            "verse": 6,
+            "text": "anjo e o não tendo-guardado o deles-mesmos início mas tendo-abandonado o próprio habitação para juízo grande do-dia cadeias eternos sob trevas tem-guardado"
+          },
+          {
+            "verse": 7,
+            "text": "como Sodoma e Gomorra e o acerca-de elas cidades o semelhante modo nestes tendo-fornicado-intensamente e tendo-partido atrás carne outra estão-expostos exemplo fogo eterno castigo Sofrendo"
+          },
+          {
+            "verse": 8,
+            "text": "semelhantemente contudo e estes sonhando carne por-um-lado contaminam senhorio porém anulam glórias porém blasfemam"
+          },
+          {
+            "verse": 9,
+            "text": "o porém Miguel o arcanjo quando o diabo duvidando discutia acerca-de o Moisés do-corpo não Ousou juízo proferir blasfêmias mas disse Repreender a-ti Kyrios"
+          },
+          {
+            "verse": 10,
+            "text": "estes porém quanto por-um-lado não sei blasfemam quanto porém naturalmente como o irracionais ser vivente conhecem em nestes são-corrompidos"
+          },
+          {
+            "verse": 11,
+            "text": "ai a-eles que o caminho o Caim foram e o engano o Balaão salário foram-derramados e o contradição o Coré pereceram"
+          },
+          {
+            "verse": 12,
+            "text": "estes são o em o festas-de-amor vosso rochas-ocultas banqueteando-junto sem-temor si-mesmos apascentando nuvens sem-água sob ventos sendo-levadas árvores outonais infrutíferas duas-vezes tendo-morrido tendo-sido-desarraigado"
+          },
+          {
+            "verse": 13,
+            "text": "ondas selvagens mar espumando-sobre o deles-mesmos vergonhas estrelas seja-enganado o qual o escuridão o das-trevas para eternidade tem-sido-guardado"
+          },
+          {
+            "verse": 14,
+            "text": "Profetizou porém e nestes sétimo de Adão Enoque dizendo Eis veio Kyrios em santas miríades dele"
+          },
+          {
+            "verse": 15,
+            "text": "fazer juízo segundo todos e repreender todos o ímpios acerca-de todos o obra impiedade deles o qual agiram-impiamente e acerca-de todos o duros o qual falaram segundo dele pecadores ímpios"
+          },
+          {
+            "verse": 16,
+            "text": "estes são murmuradores murmuradores segundo o desejos deles indo e o boca deles fala arrogantes admirando faces Proveito graça"
+          },
+          {
+            "verse": 17,
+            "text": "vós e/mas amados lembrai-vos o palavras o tendo-sido-ditos-antes sob o apóstolos o do-Kyrios nosso Iesous de-Christos"
+          },
+          {
+            "verse": 18,
+            "text": "que diziam a-vós sobre último o tempo serão zombadores segundo o deles-mesmos desejos indo o impiedades"
+          },
+          {
+            "verse": 19,
+            "text": "estes são o causando-divisões naturais espírito não tendo"
+          },
+          {
+            "verse": 20,
+            "text": "vós e/mas amados Edificando-sobre si-mesmos o santíssima vosso fé em Espírito no-santo orando"
+          },
+          {
+            "verse": 21,
+            "text": "si-mesmos em amor de-Theos guardai aguardando o misericórdia o do-Kyrios nosso Iesous de-Christos para vida eterno"
+          },
+          {
+            "verse": 22,
+            "text": "e o qual por-um-lado tende-misericórdia sendo-divididos"
+          },
+          {
+            "verse": 23,
+            "text": "salvais de fogo arrebatando o qual porém tende-misericórdia em medo odiando e o de o carne Tendo-sido-manchado túnica"
+          },
+          {
+            "verse": 24,
+            "text": "o porém podendo guardar vos sem-tropeçar e estabelecer diante-de o da-glória dele irrepreensíveis em exultação"
+          },
+          {
+            "verse": 25,
+            "text": "somente a-Theos Salvador nosso através-de Iesous de-Christos o do-Kyrios nosso glória majestade domínio e autoridade antes-de todo o eternidade e agora e para todos o eras amém"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -52,27 +52,36 @@ dss.get('/manuscripts', async (c) => {
     }
 
     if (book) {
-      sql += " AND (canonical_books_json LIKE ? ESCAPE '\\' OR canonical_book_id IN (SELECT id FROM books WHERE code = ?))";
+      sql +=
+        " AND (canonical_books_json LIKE ? ESCAPE '\\' OR canonical_book_id IN (SELECT id FROM books WHERE code = ?))";
       params.push(`%${escapeLike(book)}%`, book);
     }
 
     sql += ' ORDER BY is_biblical DESC, total_words DESC LIMIT ? OFFSET ?';
     params.push(limit, offset);
 
-    const result = await c.env.DB.prepare(sql).bind(...params).all();
+    const result = await c.env.DB.prepare(sql)
+      .bind(...params)
+      .all();
 
     // Count total — must replicate same filters
     let countSql = 'SELECT COUNT(*) as total FROM dss_manuscripts WHERE 1=1';
     const countParams: (string | number)[] = [];
     if (biblical === 'true') countSql += ' AND is_biblical = 1';
     else if (biblical === 'false') countSql += ' AND is_biblical = 0';
-    if (cave) { countSql += ' AND cave = ?'; countParams.push(parseInt(cave)); }
+    if (cave) {
+      countSql += ' AND cave = ?';
+      countParams.push(parseInt(cave));
+    }
     if (book) {
-      countSql += " AND (canonical_books_json LIKE ? ESCAPE '\\' OR canonical_book_id IN (SELECT id FROM books WHERE code = ?))";
+      countSql +=
+        " AND (canonical_books_json LIKE ? ESCAPE '\\' OR canonical_book_id IN (SELECT id FROM books WHERE code = ?))";
       countParams.push(`%${escapeLike(book)}%`, book);
     }
 
-    const countResult = await c.env.DB.prepare(countSql).bind(...countParams).first<{ total: number }>();
+    const countResult = await c.env.DB.prepare(countSql)
+      .bind(...countParams)
+      .first<{ total: number }>();
 
     return c.json({
       success: true,
@@ -85,10 +94,13 @@ dss.get('/manuscripts', async (c) => {
       },
     });
   } catch (error) {
-    return c.json({
-      success: false,
-      error: error instanceof Error ? error.message : 'Erro ao listar manuscritos DSS',
-    }, 500);
+    return c.json(
+      {
+        success: false,
+        error: error instanceof Error ? error.message : 'Erro ao listar manuscritos DSS',
+      },
+      500
+    );
   }
 });
 
@@ -97,9 +109,9 @@ dss.get('/manuscripts/:sigla', async (c) => {
   try {
     const sigla = c.req.param('sigla');
 
-    const ms = await c.env.DB.prepare(
-      'SELECT * FROM dss_manuscripts WHERE sigla = ?'
-    ).bind(sigla).first();
+    const ms = await c.env.DB.prepare('SELECT * FROM dss_manuscripts WHERE sigla = ?')
+      .bind(sigla)
+      .first();
 
     if (!ms) {
       return c.json({ success: false, error: `Manuscript '${sigla}' not found` }, 404);
@@ -108,12 +120,16 @@ dss.get('/manuscripts/:sigla', async (c) => {
     // Get fragment count
     const fragments = await c.env.DB.prepare(
       'SELECT fragment_name, total_lines, total_words FROM dss_fragments WHERE manuscript_id = ? ORDER BY id'
-    ).bind(ms.id).all();
+    )
+      .bind(ms.id)
+      .all();
 
     // Get verse coverage (if biblical)
     const verseCoverage = await c.env.DB.prepare(
       'SELECT DISTINCT book, chapter FROM dss_verses WHERE manuscript_id = ? ORDER BY book, chapter'
-    ).bind(ms.id).all();
+    )
+      .bind(ms.id)
+      .all();
 
     return c.json({
       success: true,
@@ -124,10 +140,13 @@ dss.get('/manuscripts/:sigla', async (c) => {
       },
     });
   } catch (error) {
-    return c.json({
-      success: false,
-      error: error instanceof Error ? error.message : 'Erro ao buscar manuscrito DSS',
-    }, 500);
+    return c.json(
+      {
+        success: false,
+        error: error instanceof Error ? error.message : 'Erro ao buscar manuscrito DSS',
+      },
+      500
+    );
   }
 });
 
@@ -140,9 +159,9 @@ dss.get('/manuscripts/:sigla/tokens', async (c) => {
     const limit = safeLimit(c.req.query('limit'), 500);
     const offset = safeOffset(c.req.query('offset'));
 
-    const ms = await c.env.DB.prepare(
-      'SELECT id FROM dss_manuscripts WHERE sigla = ?'
-    ).bind(sigla).first<{ id: number }>();
+    const ms = await c.env.DB.prepare('SELECT id FROM dss_manuscripts WHERE sigla = ?')
+      .bind(sigla)
+      .first<{ id: number }>();
 
     if (!ms) {
       return c.json({ success: false, error: `Manuscript '${sigla}' not found` }, 404);
@@ -163,7 +182,9 @@ dss.get('/manuscripts/:sigla/tokens', async (c) => {
     sql += ' ORDER BY position LIMIT ? OFFSET ?';
     params.push(limit, offset);
 
-    const result = await c.env.DB.prepare(sql).bind(...params).all();
+    const result = await c.env.DB.prepare(sql)
+      .bind(...params)
+      .all();
 
     return c.json({
       success: true,
@@ -171,10 +192,13 @@ dss.get('/manuscripts/:sigla/tokens', async (c) => {
       meta: { count: result.results.length, limit, offset },
     });
   } catch (error) {
-    return c.json({
-      success: false,
-      error: error instanceof Error ? error.message : 'Erro ao buscar tokens DSS',
-    }, 500);
+    return c.json(
+      {
+        success: false,
+        error: error instanceof Error ? error.message : 'Erro ao buscar tokens DSS',
+      },
+      500
+    );
   }
 });
 
@@ -188,7 +212,9 @@ dss.get('/compare/:sigla/:chapter/:verse', async (c) => {
     // Get DSS verse
     const ms = await c.env.DB.prepare(
       'SELECT id, canonical_book_id FROM dss_manuscripts WHERE sigla = ?'
-    ).bind(sigla).first<{ id: number; canonical_book_id: number }>();
+    )
+      .bind(sigla)
+      .first<{ id: number; canonical_book_id: number }>();
 
     if (!ms) {
       return c.json({ success: false, error: `Manuscript '${sigla}' not found` }, 404);
@@ -196,10 +222,15 @@ dss.get('/compare/:sigla/:chapter/:verse', async (c) => {
 
     const dssVerse = await c.env.DB.prepare(
       'SELECT * FROM dss_verses WHERE manuscript_id = ? AND chapter = ? AND verse = ?'
-    ).bind(ms.id, chapter, verse).first();
+    )
+      .bind(ms.id, chapter, verse)
+      .first();
 
     if (!dssVerse) {
-      return c.json({ success: false, error: `Verse ${chapter}:${verse} not found in ${sigla}` }, 404);
+      return c.json(
+        { success: false, error: `Verse ${chapter}:${verse} not found in ${sigla}` },
+        404
+      );
     }
 
     // Get canonical verse
@@ -207,25 +238,33 @@ dss.get('/compare/:sigla/:chapter/:verse', async (c) => {
     if (ms.canonical_book_id) {
       canonicalVerse = await c.env.DB.prepare(
         'SELECT text_original, text_transliterated, text_translated FROM verses WHERE book_id = ? AND chapter = ? AND verse = ?'
-      ).bind(ms.canonical_book_id, chapter, verse).first();
+      )
+        .bind(ms.canonical_book_id, chapter, verse)
+        .first();
     }
 
     // Get DSS tokens for this verse
     const dssTokens = await c.env.DB.prepare(
       'SELECT glyph, glyph_translit, lemma, sp, morpho FROM dss_tokens WHERE manuscript_id = ? AND chapter = ? AND verse = ? ORDER BY position'
-    ).bind(ms.id, chapter, verse).all();
+    )
+      .bind(ms.id, chapter, verse)
+      .all();
 
     // Get canonical tokens
     let canonicalTokens = null;
     if (ms.canonical_book_id) {
       const canonVerse = await c.env.DB.prepare(
         'SELECT id FROM verses WHERE book_id = ? AND chapter = ? AND verse = ?'
-      ).bind(ms.canonical_book_id, chapter, verse).first<{ id: number }>();
+      )
+        .bind(ms.canonical_book_id, chapter, verse)
+        .first<{ id: number }>();
 
       if (canonVerse) {
         canonicalTokens = await c.env.DB.prepare(
           'SELECT text_original, text_transliterated, lemma, morph_code, pos FROM tokens WHERE verse_id = ? ORDER BY position'
-        ).bind(canonVerse.id).all();
+        )
+          .bind(canonVerse.id)
+          .all();
       }
     }
 
@@ -238,17 +277,22 @@ dss.get('/compare/:sigla/:chapter/:verse', async (c) => {
           text: dssVerse,
           tokens: dssTokens.results,
         },
-        canonical: canonicalVerse ? {
-          text: canonicalVerse,
-          tokens: canonicalTokens?.results || [],
-        } : null,
+        canonical: canonicalVerse
+          ? {
+              text: canonicalVerse,
+              tokens: canonicalTokens?.results || [],
+            }
+          : null,
       },
     });
   } catch (error) {
-    return c.json({
-      success: false,
-      error: error instanceof Error ? error.message : 'Erro ao comparar DSS vs canônico',
-    }, 500);
+    return c.json(
+      {
+        success: false,
+        error: error instanceof Error ? error.message : 'Erro ao comparar DSS vs canônico',
+      },
+      500
+    );
   }
 });
 
@@ -259,24 +303,32 @@ dss.get('/variants/:book/:chapter', async (c) => {
     const chapter = parseInt(c.req.param('chapter'));
 
     // Find all DSS verses for this book/chapter across all manuscripts
-    const variants = await c.env.DB.prepare(`
+    const variants = await c.env.DB.prepare(
+      `
       SELECT dv.*, dm.sigla, dm.name as manuscript_name, dm.date_range
       FROM dss_verses dv
       JOIN dss_manuscripts dm ON dv.manuscript_id = dm.id
       WHERE dv.book = ? AND dv.chapter = ?
       ORDER BY dv.verse, dm.sigla
-    `).bind(book, chapter).all();
+    `
+    )
+      .bind(book, chapter)
+      .all();
 
     // Get canonical verses for context
     const bookRecord = await c.env.DB.prepare(
       'SELECT id FROM books WHERE code = ? OR name_original = ?'
-    ).bind(book, book).first<{ id: number }>();
+    )
+      .bind(book, book)
+      .first<{ id: number }>();
 
     let canonicalVerses = null;
     if (bookRecord) {
       canonicalVerses = await c.env.DB.prepare(
         'SELECT verse, text_original FROM verses WHERE book_id = ? AND chapter = ? ORDER BY verse'
-      ).bind(bookRecord.id, chapter).all();
+      )
+        .bind(bookRecord.id, chapter)
+        .all();
     }
 
     return c.json({
@@ -293,10 +345,13 @@ dss.get('/variants/:book/:chapter', async (c) => {
       },
     });
   } catch (error) {
-    return c.json({
-      success: false,
-      error: error instanceof Error ? error.message : 'Erro ao buscar variantes DSS',
-    }, 500);
+    return c.json(
+      {
+        success: false,
+        error: error instanceof Error ? error.message : 'Erro ao buscar variantes DSS',
+      },
+      500
+    );
   }
 });
 
@@ -312,7 +367,8 @@ dss.get('/search', async (c) => {
     const escaped = escapeLike(q);
 
     // Search in tokens (glyph and lemma)
-    const tokenResults = await c.env.DB.prepare(`
+    const tokenResults = await c.env.DB.prepare(
+      `
       SELECT dt.glyph, dt.lemma, dt.sp, dt.morpho, dt.book, dt.chapter, dt.verse,
              dm.sigla, dm.name as manuscript_name
       FROM dss_tokens dt
@@ -320,10 +376,14 @@ dss.get('/search', async (c) => {
       WHERE dt.glyph LIKE ? ESCAPE '\\' OR dt.lemma LIKE ? ESCAPE '\\'
       ORDER BY dm.sigla, dt.position
       LIMIT ?
-    `).bind(`%${escaped}%`, `%${escaped}%`, limit).all();
+    `
+    )
+      .bind(`%${escaped}%`, `%${escaped}%`, limit)
+      .all();
 
     // Search in verse texts
-    const verseResults = await c.env.DB.prepare(`
+    const verseResults = await c.env.DB.prepare(
+      `
       SELECT dv.book, dv.chapter, dv.verse, dv.text_dss,
              dm.sigla, dm.name as manuscript_name
       FROM dss_verses dv
@@ -331,7 +391,10 @@ dss.get('/search', async (c) => {
       WHERE dv.text_dss LIKE ? ESCAPE '\\'
       ORDER BY dm.sigla, dv.book, dv.chapter, dv.verse
       LIMIT ?
-    `).bind(`%${escaped}%`, limit).all();
+    `
+    )
+      .bind(`%${escaped}%`, limit)
+      .all();
 
     return c.json({
       success: true,
@@ -346,20 +409,31 @@ dss.get('/search', async (c) => {
       },
     });
   } catch (error) {
-    return c.json({
-      success: false,
-      error: error instanceof Error ? error.message : 'Erro ao buscar nos textos DSS',
-    }, 500);
+    return c.json(
+      {
+        success: false,
+        error: error instanceof Error ? error.message : 'Erro ao buscar nos textos DSS',
+      },
+      500
+    );
   }
 });
 
 // GET /stats — DSS collection statistics
 dss.get('/stats', async (c) => {
   try {
-    const totalMs = await c.env.DB.prepare('SELECT COUNT(*) as total FROM dss_manuscripts').first<{ total: number }>();
-    const biblicalMs = await c.env.DB.prepare('SELECT COUNT(*) as total FROM dss_manuscripts WHERE is_biblical = 1').first<{ total: number }>();
-    const totalTokens = await c.env.DB.prepare('SELECT COUNT(*) as total FROM dss_tokens').first<{ total: number }>();
-    const totalVerses = await c.env.DB.prepare('SELECT COUNT(*) as total FROM dss_verses').first<{ total: number }>();
+    const totalMs = await c.env.DB.prepare('SELECT COUNT(*) as total FROM dss_manuscripts').first<{
+      total: number;
+    }>();
+    const biblicalMs = await c.env.DB.prepare(
+      'SELECT COUNT(*) as total FROM dss_manuscripts WHERE is_biblical = 1'
+    ).first<{ total: number }>();
+    const totalTokens = await c.env.DB.prepare('SELECT COUNT(*) as total FROM dss_tokens').first<{
+      total: number;
+    }>();
+    const totalVerses = await c.env.DB.prepare('SELECT COUNT(*) as total FROM dss_verses').first<{
+      total: number;
+    }>();
 
     const byCave = await c.env.DB.prepare(
       'SELECT cave, COUNT(*) as count FROM dss_manuscripts WHERE cave IS NOT NULL GROUP BY cave ORDER BY cave'
@@ -384,10 +458,13 @@ dss.get('/stats', async (c) => {
       },
     });
   } catch (error) {
-    return c.json({
-      success: false,
-      error: error instanceof Error ? error.message : 'Erro ao buscar estatísticas DSS',
-    }, 500);
+    return c.json(
+      {
+        success: false,
+        error: error instanceof Error ? error.message : 'Erro ao buscar estatísticas DSS',
+      },
+      500
+    );
   }
 });
 

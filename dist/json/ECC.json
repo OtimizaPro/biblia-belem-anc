@@ -1,0 +1,967 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 21,
+    "code": "ECC",
+    "name": "Eclesiastes",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "palavras-de [קֹהֶ֣לֶת] filho-de Davi rei"
+          },
+          {
+            "verse": 2,
+            "text": "הֲבֵ֤ל הֲבֵ֤ל disse קוהלת הֲבֵ֤ל הֲבֵ֤ל todo o que הֲבֵ֤ל"
+          },
+          {
+            "verse": 3,
+            "text": "que- [לָֽאָדָ֑ם] [בְּכָל־עֲמָל֔וֹ] em-todo debaixo [הַשָּֽׁמֶשׁ] o-sol"
+          },
+          {
+            "verse": 4,
+            "text": "[דּ֤וֹר] andou [וְד֣וֹר] veio E-a-terra para-sempre [עֹמָֽדֶת]"
+          },
+          {
+            "verse": 5,
+            "text": "וזרח o-sol ובא o-sol e-a מקומו שואף ele ele nome"
+          },
+          {
+            "verse": 6,
+            "text": "הלך a דרום וְסוֹבֵ֖ב a norte סָבֵ֤ב סובב andando o espírito e-sobre סְבִיבֹתָ֖יו retornou הָרֽוּחַ׃"
+          },
+          {
+            "verse": 7,
+            "text": "todo [הֹלְכִ֣ים] [אֶל־הַיָּ֔ם] a o-mar [מָלֵ֑א] [אֶל־מְק֗וֹם] enchei a [שָׁ֛ם] eles ides nome"
+          },
+          {
+            "verse": 8,
+            "text": "todo as-palavras יְגֵעִ֔ים não י-וכ-ל homem olho para-ver תִשְׂבַּ֥ע olho para ver e-não será cheia ore de ouvir:"
+          },
+          {
+            "verse": 9,
+            "text": "que- ele ele que seja ele שֶׁנּוֹעַשׂ ele que seja feito debaixo todo novo debaixo-de o-sol"
+          },
+          {
+            "verse": 10,
+            "text": "há palavra que seja dito olha, eis que este ele ele ser foi para os tempos ser foi ante nós:"
+          },
+          {
+            "verse": 11,
+            "text": "não recordação para-os-primeiros e-tambem para-os-últimos que-sejam não a-eles para-eles memória povo que-sejam para-os-últimos"
+          },
+          {
+            "verse": 12,
+            "text": "eu Qohelet era rei sobre Israel em-Jerusalém"
+          },
+          {
+            "verse": 13,
+            "text": "e-darei a meu-coração para-investigar e-para-percorrer sobre sobre todo debaixo será-feita ele os-céus ele mal dar deu Elohim o-homem o-homem para-responder em-ele"
+          },
+          {
+            "verse": 14,
+            "text": "vi a todo debaixo שֶֽׁנַּעֲשׂ֖וּ em-lugar-de o-sol e-eis o todo espírito espírito espírito"
+          },
+          {
+            "verse": 15,
+            "text": "[מְעֻוָּ֖ת] não [לִתְקֹ֑ן] [וְחֶסְר֖וֹן] [לֹא־יוּכַ֥ל] não"
+          },
+          {
+            "verse": 16,
+            "text": "[דִּבַּ֨רְתִּי] eu com dizendo para-dizer eis eis [וְהוֹסַ֙פְתִּי֙] [חָכְמָ֔ה] sobre sobre todo que foi ver sobre Jerusalém [וָדָֽעַת] viu"
+          },
+          {
+            "verse": 17,
+            "text": "e deu-lhe coração-meu para-conhecer sabedoria e conhecimento e alegria e temor eu-sei também ele ele espírito espírito"
+          },
+          {
+            "verse": 18,
+            "text": "que em abundância sabedoria רב- e ira conhecimento conhecimento יוֹסִ֥יף do fardo pesado;"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Eu disse eu no meu coração לְכָה־ נָא אֲנַשֵׁךְ com-alegria e-vê em boa parte e-eis também ele הבל׃"
+          },
+          {
+            "verse": 2,
+            "text": "para rir eu-disse de gozo e para alegria que- isto fez"
+          },
+          {
+            "verse": 3,
+            "text": "eu guardarei no meu coração para-dragar no-óleo a em-meu-corpo e meu coração agindo com-sabedoria e-pegando até até que bom qual o-homem bom para-filhos-de debaixo que façam dias-de os-céus número dias-de suas-vidas"
+          },
+          {
+            "verse": 4,
+            "text": "eu-cresci minha-ação eu-construí a-mim בָּתִּ֔ים eu-plantei para-mim vinhedos"
+          },
+          {
+            "verse": 5,
+            "text": "faça-eu para-mim jardins e-paradises e-plantei neles árvore todo frutos"
+          },
+          {
+            "verse": 6,
+            "text": "fiz para-mim lagos águas para-águas de-eles floresta צומח árvores:"
+          },
+          {
+            "verse": 7,
+            "text": "comprei avádim e-vasilhas: e-filhos-de ser foi também também gados: manhã e-ovelhas: ser foi de-toda de-todo foram: diante-de-mim em-Jerusalém"
+          },
+          {
+            "verse": 8,
+            "text": "eu-acumulei: a-mim também prata e-ouro e-riquezas: me-lachim e-as-cidades: faizest-vos para-mim שָׂרִים e-ovos: [בְּנֵ֥י] o-homem o-homem שִׁדָּ֥ה וְשִׁדּֽוֹת׃"
+          },
+          {
+            "verse": 9,
+            "text": "[וְגָדַ֣לְתִּי] [וְהוֹסַ֔פְתִּי] de-toda [שֶׁהָיָ֥ה] diante-de-mim em-Jerusalém certamente [חָכְמָתִ֖י] [עָ֥מְדָה] a-mim"
+          },
+          {
+            "verse": 10,
+            "text": "e-tudo que [שָֽׁאֲל֣וּ] [עֵינַ֔י] não [אָצַ֖לְתִּי] deles não [אֶת־לִבִּ֜י] a [כִּֽי־לִבִּ֤י] de-todo [מִכָּל־עֲמָלִ֔י] porque [חֶלְקִ֖י] [מִכָּל־עֲמָלִֽי] de-todo foi de-todo"
+          },
+          {
+            "verse": 11,
+            "text": "וּפָנִיתִי eu em-todo מַעֲשַׂי שֶׁעָשׂוּ יָדַי e-no trabalho eu trabalhei laasot e-eis todo o que הֶ֙בֶל֙ espírito espírito e-não-há debaixo debaixo-de o-sol"
+          },
+          {
+            "verse": 12,
+            "text": "e-olhei eu para-ver sabedoria e-ho-lemós e-inteligência que que o-homem o-homem depois-de o-rei a que já fiz-o"
+          },
+          {
+            "verse": 13,
+            "text": "e-vi eu há excesso para a sabedoria de a inteligência a-luz a-luz de a-escuridão"
+          },
+          {
+            "verse": 14,
+            "text": "o sábio os olhos com-no-cabeça-seu e o tolo na-escuridão que vai e eu saberia também eu um um será chamado a todos:"
+          },
+          {
+            "verse": 15,
+            "text": "e eu diria eu no meu coração como se chama הַכְּסִיל֙ também eu אינני וְלָ֧מָּה חָכַ֛מְתִּי eu então יוֹתֵ֑ר וְדִבַּ֣רְתִּי בְלִבִּ֔י שֶׁגַּם־ este הָֽבֶל׃"
+          },
+          {
+            "verse": 16,
+            "text": "que nao-ha זִכְר֧וֹן לֶחָכָ֛ם com הַכְּסִ֖יל para-sempre בְּשֶׁכְּבָ֞ר os-dias os-que-vêm o-todo foi-esquecido e-como morrerá o-sábio com o-estúpido"
+          },
+          {
+            "verse": 17,
+            "text": "e-repugnei-o a que porque mau sobre-mim a-obra debaixo em-lugar-de o-sol porque todo o que espírito espírito espírito"
+          },
+          {
+            "verse": 18,
+            "text": "e-repugnei-o eu a todo trabalhador debaixo trabalho em-lugar-de o-sol eu-lhe-deixei para-o-homem será depois-de-mim"
+          },
+          {
+            "verse": 19,
+            "text": "e-quem sabedor o sábio será ou o prudente e governará em-todo trabalhador שֶׁעָמַ֥לְתִּי debaixo em-lugar-de o-sol também este vãos:"
+          },
+          {
+            "verse": 20,
+            "text": "e girar-me-ei eu para amar a sobre sobre todo debaixo eu trabalhei debaixo-de o-sol"
+          },
+          {
+            "verse": 21,
+            "text": "porque homem homem seu trabalho com sabedoria e com conhecimento E-ao-homem e para o homem não haverá עָמַל־ em-ele ser-lhe-á sua parte também este הֶ֖בֶל e a maldição multiplicai"
+          },
+          {
+            "verse": 22,
+            "text": "que de-o- será para o homem em-todo o seu trabalho e na fertilidade no seu coração debaixo trabalho debaixo-de o-sol"
+          },
+          {
+            "verse": 23,
+            "text": "que todo seus-dias dor e ira seu assunto também na noite não dormiu ele também este הֶבֶל ela"
+          },
+          {
+            "verse": 24,
+            "text": "não há bom no homem e comeu e beberá e verá bom nafsho bom no seu trabalho também que vi eu porque de-mão-de Elohim ela"
+          },
+          {
+            "verse": 25,
+            "text": "que quem comerá e-quem de coragem fora de-mim"
+          },
+          {
+            "verse": 26,
+            "text": "que para o homem bom diante-dele dar sabedoria וּדְעָת e alegria e o pecador dar עִנְיָן para arrecadar e para entrar para dar para o bem diante-de הָֽאֱלֹהִ֔ים também este הֶ֖בֶל espírito espírito"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "para-todo tempo e tempo para-todo debaixo debaixo-de os-céus"
+          },
+          {
+            "verse": 2,
+            "text": "tempo para dar à luz e tempo para morrer tempo para errar e tempo para arrancar plantemos."
+          },
+          {
+            "verse": 3,
+            "text": "tempo para destruir e tempo para curar tempo para estourar e tempo para-construir"
+          },
+          {
+            "verse": 4,
+            "text": "tempo para chorar e-út para rir tempo lamento e tempo dançar;"
+          },
+          {
+            "verse": 5,
+            "text": "hora lançar pedras e hora reunir pedras tempo abraçar e tempo para longe de abraço"
+          },
+          {
+            "verse": 6,
+            "text": "tempo procurar e hora destruir tempo para guardar e tempo para lançar:"
+          },
+          {
+            "verse": 7,
+            "text": "tempo para arrancar e-út para perfurar tempo para sussurrar e tempo para falar:"
+          },
+          {
+            "verse": 8,
+            "text": "tempo para amar e-út para odiar tempo guerra וְעֵ֥ת paz"
+          },
+          {
+            "verse": 9,
+            "text": "que- [הָֽעוֹשֶׂ֔ה] [בַּאֲשֶׁ֖ר] ele ele"
+          },
+          {
+            "verse": 10,
+            "text": "vi a [אֲשֶׁ֨ר] dar deu Elohim o-homem o-homem [בּֽוֹ] em-ele"
+          },
+          {
+            "verse": 11,
+            "text": "a todo o que fez יָפֶ֣ה também também dar הָעֹלָם֙ deu בְּלִבָּ֔ם מִבְּלִ֞י o-homem não יִמְצָ֣א o-homem a o feito que fez Elohim do início e-até fim:"
+          },
+          {
+            "verse": 12,
+            "text": "eu-sei que não bom neles que se [וְלַעֲשׂ֥וֹת] bom bom"
+          },
+          {
+            "verse": 13,
+            "text": "e-também todo o-homem que comam e bebam bom bom em-todo trabalho-dele presente Elohim ela"
+          },
+          {
+            "verse": 14,
+            "text": "יָדַ֗עְתִּי que todo que fará ele será será para-sempre sobre-ele não-há para adicionar e de-lui não-há para retirar e os Elohim fez שֶׁיִּֽרְא֖וּ מִלְּפָנָֽיו׃"
+          },
+          {
+            "verse": 15,
+            "text": "que- [כְּבָ֣ר] ele ele e-que [כְּבָ֣ר] ser foi [יְבַקֵּ֥שׁ] [אֶת־נִרְדָּֽף] a"
+          },
+          {
+            "verse": 16,
+            "text": "וְע֥וֹד vi debaixo o-sol lugar-de o-julgamento ali o rebelde וּמְק֥וֹם הַצֶּ֖דֶק שָׁ֥מָּה הָרָֽשַׁע׃"
+          },
+          {
+            "verse": 17,
+            "text": "אָמַ֤רְתִּֽי eu no-me a o-santo e-a o-perverso julgue o-Elohim porque tempo para-todo yhwh e-sobre todo o feito nome"
+          },
+          {
+            "verse": 18,
+            "text": "Eu disse eu no-me sobre דְּבַר o-homem o-homem para-os-mesmos o-Elohim e-para-ver que-eles a-eles eles para-eles"
+          },
+          {
+            "verse": 19,
+            "text": "que reunião filhos-de o-homem os-animais o-gado um a-eles a-eles como este morrendo morte-de e-Espírito-de um um para-todo o-homem o-homem de que ain porque o-ouro הבל׃"
+          },
+          {
+            "verse": 20,
+            "text": "todo o que הלוך a um um ser foi de a poeira e todo o retornou a a poeira:"
+          },
+          {
+            "verse": 21,
+            "text": "quem sabe espírito filhos-de o-homem o subido ela para cima e-Espírito-de os-animais a descido ela para baixo para-a-terra"
+          },
+          {
+            "verse": 22,
+            "text": "e vi que não bom porque se alegrará o-homem em seus trabalhos porque ele que quem quem para-ver para ver em que será atrás-dele"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e voltarei eu eu vi a todo as ásperas debaixo seremos feitos em-lugar-de o-sol וְהִנֵּ֣ה ׀ lágrimas as tribulações a-eles para-eles consolação e imediatamente suas tribulações força a-eles a-eles מנחם:"
+          },
+          {
+            "verse": 2,
+            "text": "[וְשַׁבֵּ֧חַ] eu a os-mortos [מֵ֑תוּ] [מִן־הַ֣חַיִּ֔ים] de [הֵ֥מָּה] vida eles"
+          },
+          {
+            "verse": 3,
+            "text": "[וְטוֹב֙] [מִשְּׁנֵיהֶ֔ם] a que não ser foi que não viu a [נַעֲשָׂ֖ה] debaixo que o-sol"
+          },
+          {
+            "verse": 4,
+            "text": "וְרָאִ֨יתִי eu a tudo-de עָמָ֗ל e-את que כִּישׁוֹן a-obra porque ela קִנְאַת־ homem espírito também este הֶ֖בֶל espírito espírito"
+          },
+          {
+            "verse": 5,
+            "text": "[הַכְּסִיל֙] [חֹבֵ֣ק] a [וְאֹכֵ֖ל] [אֶת־בְּשָׂרֽוֹ] a"
+          },
+          {
+            "verse": 6,
+            "text": "bom enchei [כַ֖ף] [נָ֑חַת] [מִמְּלֹ֥א] [חָפְנַ֛יִם] [עָמָ֖ל] [וּרְע֥וּת] espírito"
+          },
+          {
+            "verse": 7,
+            "text": "[וְשַׁ֧בְתִּי] eu [וָאֶרְאֶ֥ה] הֶ֖בֶל debaixo o-sol"
+          },
+          {
+            "verse": 8,
+            "text": "há um [וְאֵ֨ין] segundo também filho [וָאָ֣ח] não há para-ele e-não-há [לְכָל־עֲמָל֔וֹ] para-todo [**עֵינ֖וֹ] também não [וּלְמִ֣י] dez [אֲנִ֣י] eu [וּמְחַסֵּ֤ר] [אֶת־נַפְשִׁי֙] a [גַּם־זֶ֥[t]ה] [הֶ֛בֶל] também mal ele mau ela"
+          },
+          {
+            "verse": 9,
+            "text": "טוֹבים הַשָּׁנַ֖יִם de o-echad que ha bom שָׂכָ֥ר bom בַּעֲמָלָֽם׃"
+          },
+          {
+            "verse": 10,
+            "text": "que se o-primeiro [יָקִ֣ים] [אֶת־חֲבֵר֑וֹ] a o-primeiro [שֶׁיִפּ֔וֹל] [וְאֵ֥ין] [שֵׁנִ֖י] e-não-há segundo"
+          },
+          {
+            "verse": 11,
+            "text": "também se יִשְׁכְּב֥וּ dois a-eles para-eles e-um como que-se-aqueça:"
+          },
+          {
+            "verse": 12,
+            "text": "וְאִֽם־ o-primeiro הָאֶחָ֔ד as-duas se-manterão diante-dele e-o-fio não não com-velocidade será-se-rompido:"
+          },
+          {
+            "verse": 13,
+            "text": "bom filho misken ve-chakham min-melekh zaken u-kosil que não conheceu le-hizaher ainda"
+          },
+          {
+            "verse": 14,
+            "text": "porque de-casa-de sair saiu que também também b-malkuto nolad raš"
+          },
+          {
+            "verse": 15,
+            "text": "vi a todo debaixo ham-melekhim em-lugar-de o-sol povo o-ninho o-segundo que יַעֲמֹ֖ד em-lugar-dele"
+          },
+          {
+            "verse": 16,
+            "text": "não há [לְכָל־הָעָ֗ם] a-todo o povo para-todo também foi não também [כִּֽי־גַם־זֶ֥ה] não [וְרַעְי֥וֹן] espírito porque também este הֶ֖בֶל espírito"
+          },
+          {
+            "verse": 17,
+            "text": "[שְׁמֹ֣ר] como-que [**רַגְלְךָ֗] a casa os-Elohim [הָאֱלֹהִ֔ים] [וְקָר֣וֹב] [לִשְׁמֹ֔עַ] [מִתֵּ֥ת] [הַכְּסִילִ֖ים] porque [כִּֽי־אֵינָ֥ם] [יוֹדְעִ֖ים] para-fazer mal"
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "a [עַל־פִּ֜יךָ] sobre [אַל־יְמַהֵ֛ר] [לְהוֹצִ֥יא] a [לִפְנֵ֣י] [הָאֱלֹהִ֑ים] que diante-de o-Elohim porque [עַל־הָאָ֔רֶץ] [עַֽ[t]ל־כֵּ֛ן] e-tu sobre a-terra"
+          },
+          {
+            "verse": 2,
+            "text": "que veio [הַחֲל֖וֹם] em-multidão [עִנְיָ֑ן] [וְק֥וֹל] [כְּסִ֖יל] [בְּרֹ֥ב] [דְּבָרִֽים]"
+          },
+          {
+            "verse": 3,
+            "text": "como-que [תִּדֹּ֨ר] voto [לֽ͏ֵאלֹהִ֗ים] a [לְשַׁלְּמ֔וֹ] que porque não [בַּכְּסִילִ֑ים] [OBJ] a que"
+          },
+          {
+            "verse": 4,
+            "text": "bom que não [מִשֶׁתִּדּ֖וֹר] [וְלֹ֥א] e-não"
+          },
+          {
+            "verse": 5,
+            "text": "a [אֶת־פִּ֙יךָ֙] a boca-tua [וְאַל־תֹּאמַר֙] a [הַמַּלְאָ֔ךְ] que [שְׁגָגָ֖ה] diante-de [לָ֣מָּה] porque [הָֽאֱלֹהִים֙] ela por-que [אֶת־מַעֲשֵׂ֥ה] הָֽאֱלֹהִים sobre a obra-de"
+          },
+          {
+            "verse": 6,
+            "text": "que em-muitos sonhos e-remédios e-de-palavras muito que a Elohim temor;"
+          },
+          {
+            "verse": 7,
+            "text": "se trabalho pobreza e-ladrão juízo וָצֶ֙דֶק֙ תִּרְאֶ֣ה בַמְּדִינָ֔ה a que sobre de-cima-de porque גָבֹ֜הַּ de-sobre גָּבֹ֙הַ֙ שֹׁמֵ֔ר וּגְבֹהִ֖ים sobre-eles"
+          },
+          {
+            "verse": 8,
+            "text": "[וְיִתְר֥וֹן] terra em-todo rei [**ה֑וּא] [מֶ֥לֶךְ]"
+          },
+          {
+            "verse": 9,
+            "text": "amou prata não [כֶּ֔סֶף] prata [בֶּהָמ֖וֹן] não [תְבוּאָ֑ה] não [הָֽבֶל] também este"
+          },
+          {
+            "verse": 10,
+            "text": "בִּרְבוֹת֙ a-boa בִּרְבוֹת֙ אוֹכְלֶ֑יהָ e-que כִּשְׁרוֹן֙ que porque se os-seus-olhos"
+          },
+          {
+            "verse": 11,
+            "text": "מְתוּקָה֙ ano-de הָעֹבֵ֔ד se má e-se הרבך comera e a fartura para o rico a-ele põe para-ele na língua"
+          },
+          {
+            "verse": 12,
+            "text": "há mal doença vi debaixo o-sol dez guardado para os seus dentes para o seu dano"
+          },
+          {
+            "verse": 13,
+            "text": "וְאָבַד הָעֹ֥שֶׁר o-aquele בְּעִנְיַ֣ן mal וְהוֹלִ֣יד filho e-não-há em-sua-mão qualquer-coisa"
+          },
+          {
+            "verse": 14,
+            "text": "como-que sair מבטן sua-mãe nu volta para-andar כְּשֶׁבָּ֑א וּמְא֙וּמָה֙ não yisa בַעֲמָל֔וֹ שֶׁיֹּלֵ֖ךְ em-mão-sua"
+          },
+          {
+            "verse": 15,
+            "text": "e-também [רָעָ֣ה] mal [כָּל־עֻמַּ֥ת] todo [כֵּ֣ן] [יֵלֵ֑ךְ] assim a-ele e-que [לָרֽוּחַ] a-ele"
+          },
+          {
+            "verse": 16,
+            "text": "também todo יָמִים na-escuridão comera וְכָעֵס הרבֶּה וְחָלִיּוֹ e-ira"
+          },
+          {
+            "verse": 17,
+            "text": "eis que vi bom bom que יָפֶה לֶאֱכֹל־ e-lishtot e-lerot bem-boa em-todo amalo shiye'amol debaixo-de hashemesh em-o-número dias-de que deu para-ele Elohim porque ele chelqo"
+          },
+          {
+            "verse": 18,
+            "text": "também todo o-homem que deu para-ele הָאֱלֹהִים dez unekasim nós para comer do-que-ele velasa' a chelqo e-lismoa ba-amalo zoh matat Elohim ela"
+          },
+          {
+            "verse": 19,
+            "text": "que não harbeh yizkor a dias-de que porque o-Elohim maaneh besimchath coração-dele"
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "há maldade que vi debaixo o-sol e muita ela sobre o-homem"
+          },
+          {
+            "verse": 2,
+            "text": "homem que dê para-ele ha-elohim dez unekasim e glória e não há falta para si mesmo de-toda que será avivado e-não dominará nós que dele porque homem estrangeiro o comerá este mal ele mau ela"
+          },
+          {
+            "verse": 3,
+            "text": "se [אִ֣ישׁ] homem cem [רַבּ֨וֹת] [יִֽחְיֶ֜ה] [וְרַ֣ב] [׀] [שֶׁיִּהְי֣וּ] dias-de [וְנַפְשׁוֹ֙] [לֹא־תִשְׂבַּ֣ע] não [וְגַם־קְבוּרָ֖ה] de para-ele e-também bom nós foi para-ele bom dele"
+          },
+          {
+            "verse": 4,
+            "text": "porque בהבל veio e-em-a-ós irá e-em-a-ós shemo cobrir-se-á"
+          },
+          {
+            "verse": 5,
+            "text": "também Sol não viu e-não conheceu Naate para-este deste-lado"
+          },
+          {
+            "verse": 6,
+            "text": "e-se viveu mil dois duas-vezes e-bom não ver há não a um um o todo vai; vai:"
+          },
+          {
+            "verse": 7,
+            "text": "todo o-homem o-homem para a boca; não a-alma não תִמָּלֵֽא׃"
+          },
+          {
+            "verse": 8,
+            "text": "que que- mais para o sábio de -o tolo; que- diante sabe para a caminhada; diante-de -a vida:"
+          },
+          {
+            "verse": 9,
+            "text": "bom aspecto olhos de-halek- alma também este espírito espírito espírito"
+          },
+          {
+            "verse": 10,
+            "text": "que shahayah כְּבָר֙ encontrou-se seu-nome v'noda' homem ele homem e-não podera ladin nós de-nós"
+          },
+          {
+            "verse": 11,
+            "text": "que ha palavras הַרְבֵּ֖ה marbim הָ֑בֶל que maior laadam"
+          },
+          {
+            "verse": 12,
+            "text": "que quem yodé'a que bom laadam nas-vivências מִסְפָּר dias-de chayye הֶבְלוֹ וְיַעֲשֵׂם כַּצֶּל que quem debaixo לָאָדָם que- יִהְיֶה atrás-dele debaixo-de o-sol"
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "bom nome de-a-oleo bom וְיוֹם a-morte מֵיֹום הִוַּלְדוֹ׃"
+          },
+          {
+            "verse": 2,
+            "text": "bom para-andar a casa-de [אֶל־בֵּ֣ית] [מִשְׁתֶּ֔ה] a ele banquete [כָּל־הָאָדָ֑ם] ele [יִתֵּ֥ן] todo o-homem a"
+          },
+          {
+            "verse": 3,
+            "text": "bom [כַּ֖עַס] [מִשְּׂחֹ֑ק] porque [פָּנִ֖ים] face [לֵֽב] coração"
+          },
+          {
+            "verse": 4,
+            "text": "coração sábios em-casa-de אֵ֔בֶל וְלֵב כְּסִילִ֖ים em-casa-de alegria"
+          },
+          {
+            "verse": 5,
+            "text": "bom para-ouvir גַּעֲרַ֣ת sabio de-um ouviu cântico כְּסִילִ֖ים"
+          },
+          {
+            "verse": 6,
+            "text": "que como-voz os-sirim debaixo os-sirim assim séquok o-císil e-também este ABEL:"
+          },
+          {
+            "verse": 7,
+            "text": "que há-óshéq yeholél sabio וִֽיאַבֵּ֥ד a coração מַתָּנָֽה׃"
+          },
+          {
+            "verse": 8,
+            "text": "bom [אַחֲרִ֥ית] palavra [מֽ͏ֵרֵאשִׁית֑וֹ] bom [אֶֽרֶךְ־ר֖וּחַ] espírito espírito"
+          },
+          {
+            "verse": 9,
+            "text": "a [בְּרֽוּחֲךָ֖] [לִכְע֑וֹס] que porque [בְּחֵ֥יק] [כְּסִילִ֖ים] [יָנֽוּחַ]"
+          },
+          {
+            "verse": 10,
+            "text": "a תֹּאמַר֙ ser foi שֶׁ֤הַיָּמִים֙ dos primeiros foram טוֹבִ֖ים que não não מֵחָכְמָ֖ה שָׁאַ֥לְתָּ sobre este"
+          },
+          {
+            "verse": 11,
+            "text": "Továh sabedoria com נַחֲלָ֑ה וְיֹתֵ֖ר לְרֹאֵ֥י o-sol"
+          },
+          {
+            "verse": 12,
+            "text": "que em-a-sombra הַֽחָכְמָ֖ה בְּצֵ֣ל o-prata וְיִתְר֣וֹן conhecimento הַֽחָכְמָ֖ה תְּחַיֶּ֥ה בְעָלֶֽיהָ׃"
+          },
+          {
+            "verse": 13,
+            "text": "viu a obra-de que quem quem [לְתַקֵּ֔ן] [OBJ] a que"
+          },
+          {
+            "verse": 14,
+            "text": "[בְּי֤וֹם] boa foi [בְט֔וֹב] [וּבְי֥וֹם] maldade viu também a este [עָשָׂ֣ה] este fez הָֽאֱלֹהִ֔ים sobre o-homem [אַחֲרָ֖יו] [מְאֽוּמָה] o-homem"
+          },
+          {
+            "verse": 15,
+            "text": "a todo o que vi em-dias-de הֶבְלִי ha just-o אבד בְּצִדְק֔וֹ וְיֵ֣שׁ perverso-o מַאֲרִ֖יךְ בְּרָעָתֽוֹ׃"
+          },
+          {
+            "verse": 16,
+            "text": "a [צַדִּיק֙] [הַרְבֵּ֔ה] [וְאַל־תִּתְחַכַּ֖ם] e-a [לָ֖מָּה] [תִּשּׁוֹמֵֽם]"
+          },
+          {
+            "verse": 17,
+            "text": "a [הַרְבֵּ֖ה] [וְאַל־תְּהִ֣י] e-a seja [תָמ֖וּת] por-que [עִתֶּֽךָ]"
+          },
+          {
+            "verse": 18,
+            "text": "bom que [תֶּאֱחֹ֣ז] neste e-também de-este a [כִּֽי־יְרֵ֥א] [OBJ]- [יֵצֵ֥א] porque Elohim a"
+          },
+          {
+            "verse": 19,
+            "text": "a sabedoria תועז לחוכם מעשרא שליטים que foram בעיר׃"
+          },
+          {
+            "verse": 20,
+            "text": "que homem não-há [צַדִּ֖יק] em-a-terra que fará- bom e-não"
+          },
+          {
+            "verse": 21,
+            "text": "também para-todo [אֲשֶׁ֣ר] que [אַל־תִּתֵּ֖ן] a [אֲשֶׁ֛ר] teu-coração que não a"
+          },
+          {
+            "verse": 22,
+            "text": "que também [רַבּ֖וֹת] saber conheceu teu-coração que também [קִלַּ֥לְתָּ] [אֲחֵרִֽים]"
+          },
+          {
+            "verse": 23,
+            "text": "todo [נִסִּ֣יתִי] [בַֽחָכְמָ֑ה] [אָמַ֣רְתִּי] eu-disse [וְהִ֖יא] e-ela [מִמֶּֽנִּי]"
+          },
+          {
+            "verse": 24,
+            "text": "[רָח֖וֹק] que [וְעָמֹ֥ק] [׀] [עָמֹ֖ק] quem [יִמְצָאֶֽנּוּ]"
+          },
+          {
+            "verse": 25,
+            "text": "סבותי eu ולבבי para-conhecer ולתור ובקש sabedoria וחשבון וְלָדַעַת֙ רֶ֣שַׁע כֶּ֔סֶל וְהַסִּכְל֖וּת הוֹלֵלֽוֹת׃"
+          },
+          {
+            "verse": 26,
+            "text": "וּמוֹצֶ֨א eu מַ֣ר מִמָּ֗וֶת a a-mulher que הִ֨יא מְצוֹדִ֧ים וַחֲרָמִ֛ים seu-láb bom יָדֶ֑יהָ bom diante-de o-Elohim יִמָּלֵ֣ט de-a וְחוֹטֵ֖א יִלָּ֥כֶד nela"
+          },
+          {
+            "verse": 27,
+            "text": "viu este מָצָ֔אתִי אָמְרָ֖ה קֹהֶ֑לֶת uma לְאַחַ֖ת para-a-capturar Chesbeon:"
+          },
+          {
+            "verse": 28,
+            "text": "que עַד־ Busquei-a alma-minha e-não homem um um de mil encontrei-a e mulher não estes não encontrei:"
+          },
+          {
+            "verse": 29,
+            "text": "sozinho- Eis- este encontrei-a que fez o-Elohim a o-homem justo e-elas busquem caminhos muitos:"
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "quem como a sabedoria e-quem que conhece a explicação palavra sabedoria da homem iluminará rosto-dele e o poder sua-face estabelecerá:"
+          },
+          {
+            "verse": 2,
+            "text": "eu [פִּי־מֶ֣לֶךְ] rei [וְעַ֕ל] e-sobre [שְׁבוּעַ֥ת] juramento-de Elohim"
+          },
+          {
+            "verse": 3,
+            "text": "a [מִפָּנָיו֙] [תֵּלֵ֔ךְ] [אַֽל־תַּעֲמֹ֖ד] a mal que mau porque todo que"
+          },
+          {
+            "verse": 4,
+            "text": "em-o-que palavra-de rei שלטון e-quem יאמר־ para-ele que Taase:"
+          },
+          {
+            "verse": 5,
+            "text": "guardiao mandamento não conheceu palavra mal ואת e julgamento conheceu coração חכם׃"
+          },
+          {
+            "verse": 6,
+            "text": "que para-todo desejo há tempo e-juízo o-homem maldade-de o-homem multiplicai sobre-ele"
+          },
+          {
+            "verse": 7,
+            "text": "porque sabe conheceu que que seja será quem será a-ele diga a-ele"
+          },
+          {
+            "verse": 8,
+            "text": "não-há homem príncipe בָּר֙וּחַ֙ para extinguir a o espírito e-não-há domínio em-dia-de a-morte e-não-há manda em-mo-batalha e-não salve injustiça a nele:"
+          },
+          {
+            "verse": 9,
+            "text": "a todo este vi e-dará a coração-meu debaixo מעשה que será-feita em-lugar-de o-homem עֵת que a-ele o-homem em-homem a-vós a-ele"
+          },
+          {
+            "verse": 10,
+            "text": "e-também Eu vi os ímpios sepultados e entraram e de lugar santo יְהַלּוּ וְיִֽשְׁתַּכְּח֥וּ: na cidade que כֵּן־ עָשׂוּ também este Havel:"
+          },
+          {
+            "verse": 11,
+            "text": "que não-há será feito פִתְגָ֔ם obra-de o-mal מְהֵרָ֑ה sobre assim enchei coração filhos-de mal neles para-fazer mau"
+          },
+          {
+            "verse": 12,
+            "text": "que [חֹטֶ֗א] fez mal [מְאַ֖ת] [וּמַאֲרִ֣יךְ] a-ele que também [אָ֔נִי] eu que [לְיִרְאֵ֣י] bom [אֲשֶׁ֥ר] o-Elohim que"
+          },
+          {
+            "verse": 13,
+            "text": "וְטוֹב֙ não será ao-malvado e-não יַאֲרִ֥יךְ dias cásel temer não-ela temendo de-a-frente-de Elohim"
+          },
+          {
+            "verse": 14,
+            "text": "há hevel que nasa sobre a-terra que há tsaddiqim que magga para-eles como-obra-de harasha'im ve'yesh rasha'im magga a-eles como-obra-de hatzaddiqim Eu disse ainda que este הָבֶל׃"
+          },
+          {
+            "verse": 15,
+            "text": "e eu louvaria eu a a-alegria que não-há debaixo ao homem que o-sol porque se para comer e para beber e para alegrar-se dias-de seria deleitado por seu trabalho dias-de debaixo que deu a-ele Elohim debaixo-de o-sol"
+          },
+          {
+            "verse": 16,
+            "text": "como-que dei a para-conhecer para conhecer חָכְמָה וְלִרְאוֹת֙ a הָ֣עִנְיָ֔ן que que sobre no-dia e-na-noite também בַּיּוֹם֙ וּבַלַּ֔יְלָה שֵׁנָ֕ה nos-seus-olhos não-ela viu"
+          },
+          {
+            "verse": 17,
+            "text": "וְרָאִיתִי֮ a todo que não porque o-homem יוּכַ֜ל o-homem לִמְצוֹא֙ a הַֽמַּעֲשֶׂה֙ que נעשָ debaixo-de o-homem בשֶל que יעמל o-homem para-pedir e-não para-conhecer não se Dará-dizer החכם para-conhecer não podia למצוא׃"
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "que a dei [אֶל־לִבִּי֙] [וְלָב֣וּר] a coração-meu [הַצַּדִּיקִ֧ים] a todo este que [גַּֽם־אַהֲבָ֣ה] [גַם־שִׂנְאָ֗ה] [אֵ֤ין] em-mão-de o-homem também [לִפְנֵיהֶֽם] também o-homem"
+          },
+          {
+            "verse": 2,
+            "text": "o-tudo como-que para-todo [מִקְרֶ֨ה] um [לַצַּדִּ֤יק] [וְלָרָשָׁע֙] [לַטּוֹב֙] [וְלַטָּה֣וֹר] [וְלַטָּמֵ֔א] [וְלַזֹּבֵ֔חַ] [וְלַאֲשֶׁ֖ר] [אֵינֶ֣נּוּ] [זֹבֵ֑חַ] [כַּטּוֹב֙] [כַּֽחֹטֶ֔א] [הַנִּשְׁבָּ֕ע] conforme [שְׁבוּעָ֥ה] temer"
+          },
+          {
+            "verse": 3,
+            "text": "este mau mal que [אֲשֶֽׁר־נַעֲשָׂה֙] debaixo o-sol porque um um para-todo e-também coração filhos-de o-homem [בִּלְבָבָם֙] mau [וְאַחֲרָ֖יו] [אֶל־הַמֵּתִֽים] a"
+          },
+          {
+            "verse": 4,
+            "text": "porque quem que El a os vivos há -o seguro porque vida ele bom bom de a ursos os mortos:"
+          },
+          {
+            "verse": 5,
+            "text": "que a-vida os que conhecem -sejam mortos os mortos: não conhecem מְא֗וּמָה e-nao-ha a-eles para-eles que porque -esquecido zichram:"
+          },
+          {
+            "verse": 6,
+            "text": "também ahavatam também sin'ataham também qin'atahem kavar abadah vechaleq não-há a-eles ainda debaixo em-todo que que debaixo-de o-sol"
+          },
+          {
+            "verse": 7,
+            "text": "vai e'kol בֲּשִׂמְחָה lachamekha e beba בְּלֵב־ bom que porque já aceite o-Elohim a seus feitos"
+          },
+          {
+            "verse": 8,
+            "text": "em-todo tempo serao em suas vestes brancos e óleo sobre sua cabeça a falta"
+          },
+          {
+            "verse": 9,
+            "text": "viu vida com mulher que ama-te todo os-dias chayyei debaixo que deu dias-de debaixo-de que ele dias-de seu-havel porque ele seu-herde debaixo e-no-teu-trabalho que tu trabalho debaixo-de o-sol"
+          },
+          {
+            "verse": 10,
+            "text": "todo que encontre tuas-mãos para-fazer no-teu-poder fez que nao-ha Masháv e-chesbôn e-conhecimento e-sabedoria בִּשְׁא֕וֹל que tu andou ali"
+          },
+          {
+            "verse": 11,
+            "text": "[שַׁ֜בְתִּי] [וְרָאֹ֣ה] [תַֽחַת־הַשֶּׁ֗מֶשׁ] que não não [הַמֵּר֜וֹץ] [וְלֹ֧א] e-não [הַמִּלְחָמָ֗ה] a-guerra não não pão pão não não [עֹ֔שֶׁר] dez não não [חֵ֑ן] [כִּי־עֵ֥ת] porque tempo [אֶת־כֻּלָּֽם] a"
+          },
+          {
+            "verse": 12,
+            "text": "que também não o-homem o-homem a seu tempo como peixes que são agarrados por sua mão maldade e como pombas a ação no seu ninho como eles o-homem filhos-de o-homem ao-tempo-de maldade quando caírem sobre-eles de repente:"
+          },
+          {
+            "verse": 13,
+            "text": "também isto Eu vi debaixo em-lugar-de o-sol e grande ela para-mim"
+          },
+          {
+            "verse": 14,
+            "text": "cidade e pequena e homens nela pouco e veio a-ela rei grande e cercou- a-ela e edificou sobre-ela fortalezas grandes-"
+          },
+          {
+            "verse": 15,
+            "text": "[וּמָ֣צָא] [בָ֗הּ] homem [מִסְכֵּן֙] [חָכָ֔ם] [וּמִלַּט־ה֥וּא] ele a a-cidade não [זָכַ֔ר] não macho a"
+          },
+          {
+            "verse": 16,
+            "text": "וְאָמַ֣רְתִּי eu טוֹבָ֥ה sabedoria מִגְּבוּרָ֑ה וְחָכְמַ֤ת o-misken be-zuia u-dvarai einam nismaim"
+          },
+          {
+            "verse": 17,
+            "text": "palavras-de חכמים be-nachat nismaim mi-za'qa moshel be-kasalim"
+          },
+          {
+            "verse": 18,
+            "text": "ótah sabedoria miklê qerav vachotea um יְאַבֵּ֥ד bem hărbeh"
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "zevuvê mavet יַבְעִישׁ yabba' óleo rakea' precioso de sabedoria de glória סכלות pouco"
+          },
+          {
+            "verse": 2,
+            "text": "coração sábio à sua direita וְלֵב estúpido à sua esquerda:"
+          },
+          {
+            "verse": 3,
+            "text": "e-também em-a-caminho andou seu coração falta e-disse para-todo סכל ela"
+          },
+          {
+            "verse": 4,
+            "text": "se espírito [תַּעֲלֶ֣ה] [עָלֶ֔יךָ] sobre-ti [אַל־תַּנַּ֑ח] que [מַרְפֵּ֔א] porque [חֲטָאִ֥ים] [גְּדוֹלִֽים]"
+          },
+          {
+            "verse": 5,
+            "text": "há maldade vi debaixo o-sol כשוגגת שיהיה de-a-frente-de o governante"
+          },
+          {
+            "verse": 6,
+            "text": "deu a sabedoria nos altos muitos e ricos בַּשֵּׁ֥פֶל: יֵשֵֽׁבוּ׃:"
+          },
+          {
+            "verse": 7,
+            "text": "Vi servos sobre cavaleiros וְשָׂרִ֛ים: andando כַּעֲבָדִ֖ים: sobre a-terra"
+          },
+          {
+            "verse": 8,
+            "text": "חֹפֵ֥ר: גּוּמָּ֖ץ: nele יִפּ֑וֹל: וּפֹרֵ֥ץ גָּדֵ֖ר יִשְּׁכֶ֥נּוּ נָחָֽשׁ׃"
+          },
+          {
+            "verse": 9,
+            "text": "מַסִּ֣יעַ pedras יֵעָצֵ֖ב com-eles בּוֹקֵ֥עַ madeiras יִסָּ֥כֶן em-eles"
+          },
+          {
+            "verse": 10,
+            "text": "se [הַבַּרְזֶ֗ל] [וְהוּא֙] e-ele não face [יְגַבֵּ֑ר] [וְיִתְר֥וֹן] [*הכשי[y]*ר] [**הַכְשֵׁ֖ר] [חָכְמָֽה]"
+          },
+          {
+            "verse": 11,
+            "text": "se [הַנָּחָ֖שׁ] a-serpente [וְאֵ֣ין] [יִתְר֔וֹן] e-não-há [הַלָּשֽׁוֹן]"
+          },
+          {
+            "verse": 12,
+            "text": "palavras-de a boca- sábio grace e-lábios -cobiça engolirá-lhe"
+          },
+          {
+            "verse": 13,
+            "text": "início דְּבָרֵי- sua-boca -prudente e-última boca-sua -risada mal"
+          },
+          {
+            "verse": 14,
+            "text": "e-a-sábia que multiplique-se palavras não o-homem o-homem que será e-que quem de detrás dele a-ele anunciará a-ele"
+          },
+          {
+            "verse": 15,
+            "text": "trabalho os preguiçosos tormentarão que não conheceu para-andar a cidade"
+          },
+          {
+            "verse": 16,
+            "text": "não- terra terra teu reino jovem e teus príncipes בַּבֹּ֥קֶר יֹאכֵֽלוּ׃"
+          },
+          {
+            "verse": 17,
+            "text": "[אַשְׁרֵ֣יךְ] terra [שֶׁמַּלְכֵּ֖ךְ] filho-de [וְשָׂרַ֙יִךְ֙] [בָּעֵ֣ת] em-o-tempo [בִּגְבוּרָ֖ה] [וְלֹ֥א] e-não"
+          },
+          {
+            "verse": 18,
+            "text": "בַּעֲצַלְתַּ֖יִם יִמַּ֣ךְ o-dragante e-em-pobreza mãos desvendar-á a-casa"
+          },
+          {
+            "verse": 19,
+            "text": "para-rir-se fazendo pão e-vinho alegrar-se-á vida e-o-prata responder-á a tudo-:"
+          },
+          {
+            "verse": 20,
+            "text": "também בְּמַדָּֽעֲךָ֗ rei a תְּקַלֵּ֔ל וּבְחַדְרֵי֙ מִשְׁכָּ֣בְךָ֔ a que ave porque ave os-céus יוֹלִ֣יךְ a הַקּ֔וֹל e-baal יַגֵּ֥יד palavra"
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "enviou [לַחְמְךָ֖] sobre as-águas as-águas porque [תִּמְצָאֶֽנּוּ]"
+          },
+          {
+            "verse": 2,
+            "text": "dá porção לְשִׁבְעָ֖ה e-também que não não תֵדַע que יִּהְיֶ֥ה maldade sobre a-terra"
+          },
+          {
+            "verse": 3,
+            "text": "se [הֶעָבִ֥ים] [גֶּ֙שֶׁם֙] [עַל־הָאָ֣רֶץ] sobre a-terra árvore e-se [וְאִ֣ם] [בַּצָּפ֑וֹן] [מְק֛וֹם] e-se a-árvore [שָׁ֥ם] [יְהֽוּא] nome"
+          },
+          {
+            "verse": 4,
+            "text": "guardando espírito não [יִזְרָ֑ע] [וְרֹאֶ֥ה] [בֶעָבִ֖ים] não [יִקְצֽוֹר]"
+          },
+          {
+            "verse": 5,
+            "text": "como-que [אֵֽינְךָ֤] conhecedor que caminho [כַּעֲצָמִ֖ים] [בְּבֶ֣טֶן] [הַמְּלֵאָ֑ה] [כָּ֗כָה] não não [אֶת־מַעֲשֵׂ֣ה] a obra-de הָֽאֱלֹהִ֔ים que a"
+          },
+          {
+            "verse": 6,
+            "text": "na-manhã זְרַ֣ע a זַרְעֶ֔ךָ e-no-éreb a que tua-mao porque a-en-kha yod-e-a a-ey este yi-kha-sha-r ha-zeh ou este e-se sh-neh-e-hem ke'echad bem-aventurados:"
+          },
+          {
+            "verse": 7,
+            "text": "u-ma-toq a-luz e-bom la-ay-na-im para-ver a o-sol"
+          },
+          {
+            "verse": 8,
+            "text": "que se dois ha-rab-be o-homem o-homem em-todos-os-lesmas será-alegrado e-recordará a dias-de a-escuridão porque muito serão todo sétimo havel:"
+          },
+          {
+            "verse": 9,
+            "text": "alegrar-se-á jovem-moço em-tua-infância לִבֶּֽךָ em-dias-de em-tua-juventude e-andarás nos-caminhos-de para-o-teu-coração e nos vislumbres teus-olhos e conhecimento porque que todo estes levará-te Elohim pelo julgamento"
+          },
+          {
+            "verse": 10,
+            "text": "e retira ira do teu coração e passarás maldade pela tua esperança porque a gravidez e a aurora Cavel:"
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e lembre-se a de teu criador nos-dias até até que dias-de vão dias-de a má e cheguem dois que תֹּאמַ֔ר não-há para-mim neles prazer:"
+          },
+          {
+            "verse": 2,
+            "text": "até que não terá escuridão o-sol e a luz ve-ha-yyarach e as estrelas וְשָׁ֥בוּ os nuvens achar a chuva:"
+          },
+          {
+            "verse": 3,
+            "text": "no-dia tremularem-se שמוראי a-casa e se espantaram homens-de a força e desvaneceram-se as nuvens que de pouca e-a-escuridão as visões בָּאֲרֻבּֽוֹת׃"
+          },
+          {
+            "verse": 4,
+            "text": "[וְסֻגְּר֤וּ] [דְלָתַ֙יִם֙] [בַּשּׁ֔וּק] [בִּשְׁפַ֖ל] voz [הַֽטַּחֲנָ֑ה] [וְיָקוּם֙] à-voz-de [הַצִּפּ֔וֹר] [וְיִשַּׁ֖חוּ] todo filhas-de"
+          },
+          {
+            "verse": 5,
+            "text": "também de-sua-altura virão e-estremecer-se-ão em-a-caminho e-tremeçam aquele-que-ardia e-torcem-se o-ciclope e-tesourem aquele-que-é-puro porque o-homem o-homem a casa seu-mundo וְסָבְב֥וּ בָשׁ֖וּק הַסֹּפְדִֽים׃"
+          },
+          {
+            "verse": 6,
+            "text": "até que não região [חֶ֣בֶל] [הַכֶּ֔סֶף] [וְתָרֻ֖ץ] [גֻּלַּ֣ת] o-ouro [וְתִשָּׁ֤בֶר] sobre [עַל־הַמַּבּ֔וּעַ] [וְנָרֹ֥ץ] [הַגַּלְגַּ֖ל] a"
+          },
+          {
+            "verse": 7,
+            "text": "e-sentou-se a poeira sobre a-terra quando ela foi e a respiração vai voltar a Elohim que ela deu׃"
+          },
+          {
+            "verse": 8,
+            "text": "vanidade vanidades disse a coletora tudo o vanidade׃"
+          },
+          {
+            "verse": 9,
+            "text": "e mais que havia sido Qohelet sabio ainda ensinou conhecimento a o-povo e ouviu e investigou corrigiu provérbios mais"
+          },
+          {
+            "verse": 10,
+            "text": "buscou קוהלת para achar דְּבָרֵי- prazer e escrito justo palavras-de verdade"
+          },
+          {
+            "verse": 11,
+            "text": "palavras de sábios como a cera e como o ferro plantados aos chefes colhidos foram dados de-rea um"
+          },
+          {
+            "verse": 12,
+            "text": "e-mais de-eles filhos-de cuidado-se fazer livros multiplique-te não-há destruição e-arraste multiplique יְגִיעַת carne"
+          },
+          {
+            "verse": 13,
+            "text": "סוֹף palavra o-todo נִשְׁמָע a os-Elohim יְרָא e-a מִצְוֺתָיו שְׁמֹור porque este todo o-homem"
+          },
+          {
+            "verse": 14,
+            "text": "a todo [הָאֱלֹהִ֛ים] o-Elohim [בְמִשְׁפָּ֖ט] sobre sobre todo [וְאִם־רָֽע] se bom mau"
+          }
+        ]
+      }
+    ]
+  }
+}

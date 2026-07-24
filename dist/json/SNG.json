@@ -1,0 +1,527 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 22,
+    "code": "SNG",
+    "name": "Cantares",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "cântico os Cânticos que לisleomo:"
+          },
+          {
+            "verse": 2,
+            "text": "beijes-me de beijos boca-sua porque bom [מִיָּֽיִן] de água"
+          },
+          {
+            "verse": 3,
+            "text": "pelo odor dos teus óleos bom she-men-en tuas gotas o-teu-nome sobre assim סימנים אהובך׃"
+          },
+          {
+            "verse": 4,
+            "text": "[מָשְׁכֵ֖נִי] [אַחֲרֶ֣יךָ] [נָּר֑וּצָה] [הֱבִיאַ֨נִי] o-rei [חֲדָרָ֗יו] [נָגִ֤ילָה] [וְנִשְׂמְחָה֙] sobre-ti [נַזְכִּ֤ירָה] [דֹדֶ֙יךָ֙] [מִיַּ֔יִן] [מֵישָׁרִ֖ים] [אֲהֵבֽוּךָ׃]"
+          },
+          {
+            "verse": 5,
+            "text": "[שְׁחוֹרָ֤ה] eu [וְֽנָאוָ֔ה] [בְּנ֖וֹת] Jerusalém [כְּאָהֳלֵ֣י] qedar כּיִרְע֖וֹת שְׁלֹמֹה"
+          },
+          {
+            "verse": 6,
+            "text": "a [שֶׁאֲנִ֣י] [שְׁחַרְחֹ֔רֶת] [שֶׁשֱּׁזָפַ֖תְנִי] [הַשָּׁ֑מֶשׁ] o-sol filhos-de [נִֽחֲרוּ־בִ֗י] [שָׂמֻ֙נִי֙] [נֹטֵרָ֣ה] [אֶת־הַכְּרָמִ֔ים] [כַּרְמִ֥י] a não [נָטָֽרְתִּי] não"
+          },
+          {
+            "verse": 7,
+            "text": "declara a-mim שֶׁאָהֵבָה֙ nafshi אֵיכָה תִּרְעֶה׃ אֵיכָה תִּרְבִּי׃ בְּצָהֳרָ֑יִם שַׁלְּמָה אֶהְיֶה כּוּעֹתְיָה sobre עֶדְרֵי חֲבֵרֶיךָ׃"
+          },
+          {
+            "verse": 8,
+            "text": "se não para-ti para-ti [בַּנָּשִׁ֑ים] [צְֽאִי־לָ֞ךְ] [בְּעִקְבֵ֣י] [הַצֹּ֗אן] [וּרְעִי֙] [אֶת־גְּדִיֹּתַ֔יִךְ] sobre a [הָרֹעִֽים׃] sobre"
+          },
+          {
+            "verse": 9,
+            "text": "para-seus-cavalos em-teus-carros פַּרְעֹה tuas-fez minha-companheiras;"
+          },
+          {
+            "verse": 10,
+            "text": "alegraram-se em-teus-dias com-oliveiras tuas-coroa de-turquesas;"
+          },
+          {
+            "verse": 11,
+            "text": "[תּוֹרֵ֤י] ouro [נַעֲשֶׂה־לָּ֔ךְ] para-ti povo [הַכָּֽסֶף]"
+          },
+          {
+            "verse": 12,
+            "text": "até [בִּמְסִבּ֔וֹ] [נִרְדִּ֖י] dar deu"
+          },
+          {
+            "verse": 13,
+            "text": "[צְר֨וֹר] [הַמֹּ֤ר] [׀] para-mim entre entre [שָׁדַ֖י]"
+          },
+          {
+            "verse": 14,
+            "text": "[אֶשְׁכֹּ֨ל] [הַכֹּ֤פֶר] [׀] para-mim [לִ֔י] olho [עֵ֥ין]"
+          },
+          {
+            "verse": 15,
+            "text": "הִנּוֹךְ יָפָה רַעְיָתִי eis-a יָפָה עֵינַיִךְ Jonim:"
+          },
+          {
+            "verse": 16,
+            "text": "Hinnekha֩ Yafe Dodi certamente Na'im também Arshenu֖ Raanana:"
+          },
+          {
+            "verse": 17,
+            "text": "Korot Betainu֙ cedros Berotim:"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "eu chavatzet hasharon shoshannat ha'amakim"
+          },
+          {
+            "verse": 2,
+            "text": "keshoshannah entre hachohim assim ra'iyati entre habbanot"
+          },
+          {
+            "verse": 3,
+            "text": "ketafpo'ach ba'atzey a-floresta assim meus-amores- entre הַבָּנִ֑ים בְּצִלּוֹ֙ חִמַּ֣דְתִּי וְיָשַׁ֔בְתִּי וּפִרְי֖וֹ מָת֥וֹק לְחִכִּֽי׃"
+          },
+          {
+            "verse": 4,
+            "text": "[הֱבִיאַ֙נִי֙] a casa [וְדִגְל֥וֹ] [עָלַ֖י] sobre-mim"
+          },
+          {
+            "verse": 5,
+            "text": "[סַמְּכ֙וּנִי֙] [בָּֽאֲשִׁישׁ֔וֹת] [רַפְּד֖וּנִי] [בַּתַּפּוּחִ֑ים] porque [אַהֲבָ֖ה] [אָֽנִי]"
+          },
+          {
+            "verse": 6,
+            "text": "שְׂמֹאלוֹ֙ debaixo לְרֹאשִׁ֔י וִימִינ֖וֹ abraça-me:"
+          },
+          {
+            "verse": 7,
+            "text": "jura-te a-vós filhas Jerusalém de-campistas ou de-ovejas o-campo se acordem ⚫ e se; arrebatem ⚫ até o-amor até que-desejare:"
+          },
+          {
+            "verse": 8,
+            "text": "voz [דּוֹדִ֔י] eis-que- este veio [עַל־הֶ֣הָרִ֔ים] sobre [עַל־הַגְּבָעֽוֹת] sobre"
+          },
+          {
+            "verse": 9,
+            "text": "[דּוֹמֶ֤ה] [דוֹדִי֙] [לִצְבִ֔י] ou [לְעֹ֣פֶר] [הָֽאַיָּלִ֑ים] eis-que- este [אַחַ֣ר] atrás-de [מַשְׁגִּ֙יחַ֙] [מִן־הַֽחֲלֹּנ֔וֹת] de [מִן־הֽ͏ַחֲרַכִּֽים] de"
+          },
+          {
+            "verse": 10,
+            "text": "[עָנָ֥ה] [דוֹדִ֖י] [וְאָ֣מַר] para-mim [ק֥וּמִי] para-ti [רַעְיָתִ֥י] [יָפָתִ֖י] [וּלְכִי־לָֽךְ] para-ti"
+          },
+          {
+            "verse": 11,
+            "text": "porque eis [**הַסְּתָ֖יו] [עָבָ֑ר] [הַגֶּ֕שֶׁם] andou andar"
+          },
+          {
+            "verse": 12,
+            "text": "הַנִּצָּנִים֙ נִרְא֣וּ na-terra tempo הַזָּמִ֖יר הִגִּ֑יעַ e-voz הַתּ֖וֹר foi-ouvido em-nos"
+          },
+          {
+            "verse": 13,
+            "text": "a-téenáh chanta págêyah ve-hagfánim sémadar natanu re'ach qumi ra'iyati יָפְתִּי וּלְכִי para-ti"
+          },
+          {
+            "verse": 14,
+            "text": "יוֹנַתִּי בְּחַגוֹווֶ הַסֶּ֗לַע בְּסֵ֙תֶר֙ הַמַּדְרֵגָ֔ה הַרְאִ֙ינִי֙ a מַרְאַ֔יִךְ הַשְׁמִיעִ֖ינִי a voze-te porque voze-te tarde e-te visão nós"
+          },
+          {
+            "verse": 15,
+            "text": "agarramos a-nós cães- cães- pequenos mordedores de-carris e-nos-castanhais disposto:"
+          },
+          {
+            "verse": 16,
+            "text": "meu-próximo a-mim e-eu a-ele que-cria nas-flor-de-lis:"
+          },
+          {
+            "verse": 17,
+            "text": "até e-estendeu o-dia e-elevaram-se as-sombra rodeou pareceu-se-a para ti דוֹדִ֜י li-tzi-ba ou le-afar ha-aiyali-m sobre ha-ri ba-tar"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "sobre mi-shkabi-yah bal-lay-loth בִּקַּ֕שְׁתִּי a she-ahav-ah minha-alma buscou-o e-não encontrei-o"
+          },
+          {
+            "verse": 2,
+            "text": "arrepiada por favor e andarei ao redor na cidade nos mercados e nas praças buscarei a que eu ame minha-alma buscou-o e-não encontrei-o"
+          },
+          {
+            "verse": 3,
+            "text": "encontrem-me os-guardas os que andam na-cidade objeto-direto que ame alma-minha vê-los"
+          },
+          {
+            "verse": 4,
+            "text": "por pouco eu passei de-eles até eu fui achada a que ame minha-alma peguei-o e-não אַרְפֶּ֔נּוּ até שֶׁ֤הֲבֵיאתִיו֙ a casa mãe-minha e-a חֶ֖דֶר הוֹרָתִֽי׃"
+          },
+          {
+            "verse": 5,
+            "text": "הִשְׁבַּ֨עְתִּי a-vós בְּנ֤וֹת Jerusalém בִּצְבָא֔וֹת ou בְּאַיְל֣וֹת o-campo se תָּעִ֧ירוּ ׀ e se; תְּעֽוֹרְר֛וּ até a-amor até que-deseje"
+          },
+          {
+            "verse": 6,
+            "text": "quem esta ʿōlāh de o-deserto como-citrinos de-lesmas coroada már de-toda de-todo aberta que-rolle"
+          },
+          {
+            "verse": 7,
+            "text": "eis em-a-sua-cama de-Solomão sessenta valentes em-volta para ela dos-maiores Israel"
+          },
+          {
+            "verse": 8,
+            "text": "todos-os das-possuias espada dos-aprendizes guerra homem sua-sabre sobre seus-joelhos do-medo nas-noites"
+          },
+          {
+            "verse": 9,
+            "text": "a-cupula fez a-ele o-rei Shelomoh dos-troncos do-Libanon"
+          },
+          {
+            "verse": 10,
+            "text": "de-suas-colunas fez prata refidáto ouro merkábo argamán tocho ratsuíf אַהֲבָ֔ה מִבְּנ֖וֹת Jerusalém"
+          },
+          {
+            "verse": 11,
+            "text": "zeiná uréiná filhas-de Sião bammelék Shelomoh ba'atará šé'etará לוֹ sua-mãe em-dia-de חתונתוֹ וביום שמחת coração-dele"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "הינך יפחה רעהתי הינך bela עינייך יונים מִבַּ֖עַד לְצַמָּתֵ֑ךְ שַׂעְרֵךְ֙ כְּעֵ֣דֶר העיזים שֶׁגָּלְשׁ֖וּ me-ha-mar gil-ad"
+          },
+          {
+            "verse": 2,
+            "text": "[שִׁנַּ֙יִךְ֙] [כְּעֵ֣דֶר] [הַקְּצוּב֔וֹת] [שֶׁעָל֖וּ] de [שֶׁכֻּלָּם֙] [מַתְאִימ֔וֹת] [וְשַׁכֻּלָ֖ה] [אֵ֥ין] não"
+          },
+          {
+            "verse": 3,
+            "text": "[כְּח֤וּט] [הַשָּׁנִי֙] [שִׂפְתֹתַ֔יִךְ] [וּמִדְבָּרֵ֖יךְ] [נָאוֶ֑ה] [כְּפֶ֤לַח] [הָֽרִמּוֹן֙] [רַקָּתֵ֔ךְ] [מִבַּ֖עַד] [לְצַמָּתֵֽךְ]"
+          },
+          {
+            "verse": 4,
+            "text": "כְּמִגְדַּל Davi צַוָּארֵךְ בָּנ֖וּי לְתַלְפִּיּ֑וֹת mil הַמָּגֵן֙ תָּל֣וּי sobre-ele todo שִׁלְטֵ֥י os-guerra-rem:"
+          },
+          {
+            "verse": 5,
+            "text": "segundo seus-poderes como asas gemelos glória os-que-guerram na-flor-de-lótus:"
+          },
+          {
+            "verse": 6,
+            "text": "até feios o-dia e-venceram הַצְּלָלִים אֵ֤לֶךְ a-mim a monte-de הַמּ֔וֹר e-a colina-de הַלְּבוֹנָֽה׃"
+          },
+          {
+            "verse": 7,
+            "text": "[כֻּלָּ֤ךְ] [יָפָה֙] [רַעְיָתִ֔י] [וּמ֖וּם] não sobre-ti"
+          },
+          {
+            "verse": 8,
+            "text": "אִתִּ֤י מִלְּבָנוֹן֙ כלה com eu מלבנון תבואי תshawuri מראש אמנה מראש שנייר והרמון ממעונות aray-o-t מֵהַרְרֵ֖י נְמֵרִֽים׃"
+          },
+          {
+            "verse": 9,
+            "text": "[לִבַּבְתִּ֖נִי] [אֲחֹתִ֣י] [כַלָּ֑ה] [לִבַּבְתִּ֙ינִי֙] [*באחד] [**בְּאַחַ֣ת] [מֵעֵינַ֔יִךְ] [בְּאַחַ֥ד]"
+          },
+          {
+            "verse": 10,
+            "text": "que- יָּפ֥וּ dodayikh achotiy kalah que- tobu dodayikh miyayin ve-reich shmanayikh de-todo beshamayim"
+          },
+          {
+            "verse": 11,
+            "text": "nafet תִּטֹּ֥פְנָה שִׂפְתוֹתַ֖יִךְ כַּלָּ֑ה דְּבַ֤שׁ וְחָלָב֙ debaixo לְשׁוֹנֵ֔ךְ וְרֵ֥יחַ שַׂלְמֹתַ֖יִךְ כְּרֵ֥יחַ לְבָנֽוֹן׃"
+          },
+          {
+            "verse": 12,
+            "text": "jardim נעוּל אחותי כלה גל נעוּל manancial חתום׃"
+          },
+          {
+            "verse": 13,
+            "text": "[שְׁלָחַ֙יִךְ֙] [פַּרְדֵּ֣ס] [רִמּוֹנִ֔ים] povo fruto [מְגָדִ֑ים] [כְּפָרִ֖ים] com"
+          },
+          {
+            "verse": 14,
+            "text": "[נֵ֣רְדְּ] [׀] [וְכַרְכֹּ֗ם] [קָנֶה֙] povo todo madeiras-de [לְבוֹנָ֑ה] [מֹ֚ר] [וַאֲהָל֔וֹת] povo todo topos-de"
+          },
+          {
+            "verse": 15,
+            "text": "[מַעְיַ֣ן] [גַּנִּ֔ים] [בְּאֵ֖ר] águas vida [וְנֹזְלִ֖ים] de"
+          },
+          {
+            "verse": 16,
+            "text": "[ע֤וּרִי] [צָפוֹן֙] [וּב֣וֹאִי] [תֵימָ֔ן] [הָפִ֥יחִי] [גַנִּ֖י] [יִזְל֣וּ] [בְשָׂמָ֑יו] [יָבֹ֤א] [דוֹדִי֙] [לְגַנּ֔וֹ] [וְיֹאכַ֖ל] fruto [מְגָדָֽיו]"
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "בָּ֣אתִי לְגַנִּי֮ irmã-mi côla- ari-te mori- com besham-iy akhal-ti ya'ari com davis-hi shatiti yeni-ni com meu leite comam seus companheiros bebam e bebam vinho meus parentes"
+          },
+          {
+            "verse": 2,
+            "text": "eu dorma e meu coração seu ventre voz meu parente דוֹפֵ֗ק פִּתְחִי־ para-mim irmã- רַעְיָתִי֙ יוֹנָתִ֣י תַמָּתִ֔י שֶׁרֹּאשִׁי֙ נִמְלָא־ טָ֔ל קְוֻּצּוֹתַ֖י noite noite"
+          },
+          {
+            "verse": 3,
+            "text": "[פָּשַׁ֙טְתִּי֙] a [אֵיכָ֖כָה] [אֶלְבָּשֶׁ֑נָּה] [רָחַ֥צְתִּי] [אֶת־רַגְלַ֖י] a [אֲטַנְּפֵֽם]"
+          },
+          {
+            "verse": 4,
+            "text": "[דּוֹדִ֗י] enviou sua-mão de [וּמֵעַ֖י] [הָמ֥וּ] [עָלָֽיו] sobre-ele"
+          },
+          {
+            "verse": 5,
+            "text": "[קַ֥מְתִּֽי] eu [לִפְתֹּ֣חַ] [לְדוֹדִ֑י] [וְיָדַ֣י] [נָֽטְפוּ־מ֗וֹר] [וְאֶצְבְּעֹתַי֙] [מ֣וֹר] [עֹבֵ֔ר] sobre sobre [הַמַּנְעֽוּל]"
+          },
+          {
+            "verse": 6,
+            "text": "Eu abri eu para meu amado e meu amado tremeu passou minha-nפשׁי saíram em sua palavra eu o busquei e-não encontrei-o chamou-o e-não respondeu-me"
+          },
+          {
+            "verse": 7,
+            "text": "[מְצָאֻ֧נִי] [הַשֹּׁמְרִ֛ים] [הַסֹּבְבִ֥ים] [בָּעִ֖יר] [הִכּ֣וּנִי] [פְצָע֑וּנִי] [נָשְׂא֤וּ] a [מֵֽעָלַ֔י] [שֹׁמְרֵ֖י] guardadores-de"
+          },
+          {
+            "verse": 8,
+            "text": "[הִשְׁבַּ֥עְתִּי] vós filhas-de Jerusalém se [אֶת־דּוֹדִ֔י] a a-ele que- conteis a-ele"
+          },
+          {
+            "verse": 9,
+            "text": "que- [מִדּ֔וֹד] [הַיָּפָ֖ה] [בַּנָּשִׁ֑ים] [מַה־דּוֹדֵ֣ךְ] que- [שֶׁכָּ֖כָה] [הִשְׁבַּעְתָּֽנוּ] fizeste-jurar-nos"
+          },
+          {
+            "verse": 10,
+            "text": "Dodi Tsach Ve'adom Dagul Mervabah"
+          },
+          {
+            "verse": 11,
+            "text": "cabeça-sua Ketem Paz Qutzotayav Taltallim Shchorot כּוֹעֵר׃"
+          },
+          {
+            "verse": 12,
+            "text": "[עֵינָ֕יו] [כְּיוֹנִ֖ים] sobre [מָ֑יִם] águas [בֶּֽחָלָ֔ב] [יֹשְׁב֖וֹת] [עַל־מִלֵּֽאת] sobre"
+          },
+          {
+            "verse": 13,
+            "text": "לְחַיָּו כַּעֲרֻגַת o abominável as alturas os espinhos suas bochechas as flores do campo os cachos o óleo passa"
+          },
+          {
+            "verse": 14,
+            "text": "suas-maos as circundâncias ouro cheios בת תרשׁיָשׁ מעיו עשׁת שֵׁן מעוללת ספירים"
+          },
+          {
+            "verse": 15,
+            "text": "[שׁוֹקָיו֙] [עַמּ֣וּדֵי] seis [מְיֻסָּדִ֖ים] sobre [מַרְאֵ֙הוּ֙] [כַּלְּבָנ֔וֹן] [בָּח֖וּר] [כָּאֲרָזִֽים]"
+          },
+          {
+            "verse": 16,
+            "text": "[חִכּוֹ֙] [מַֽמְתַקִּ֔ים] [וְכֻלּ֖וֹ] este [זֶ֤ה] [דוֹדִי֙] [וְזֶ֣ה] [רֵעִ֔י] Jerusalém"
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "אָ֚נָה andar דּוֹדֵ֔ךְ a bela nas mulheres Aná Pana do teu amado e busquemos-o contigo"
+          },
+          {
+            "verse": 2,
+            "text": "meu amado ele-desceu para o seu jardim para as suas espinheiras o vergonhoso para pastorear nas jardins e para recolher flores-de-roseiro;"
+          },
+          {
+            "verse": 3,
+            "text": "eu meu amado e meu amado para-mim que pastorea nas flores-de-roseiro;"
+          },
+          {
+            "verse": 4,
+            "text": "bonita tu minha pastora כְּתִרְצָ֔ה נָאוָ֖ה כִּירוּשָׁלָ֑͏ִם אֲיֻמָּ֖ה כַּנִּדְגָּלֽוֹת׃"
+          },
+          {
+            "verse": 5,
+            "text": "הָסֵ֤בִּי עֵינַ֙יִךְ֙ מִנֶּגְדִּ֔י שֶׁ֥הֵ֖ם הִרְהִיבֻ֑נִי seu-cabelo cara-ruiva העיזים caminharam-pé de o-Gileade"
+          },
+          {
+            "verse": 6,
+            "text": "suas-mãos cara-ruiva tremularam-se subiram-na de lavou-a todos-estes ferventes e toda não neles"
+          },
+          {
+            "verse": 7,
+            "text": "campo Harmom seu prazer por detrás de para a tua beleza:"
+          },
+          {
+            "verse": 8,
+            "text": "sessenta eles ushmonim concubinas e almas não Mispar"
+          },
+          {
+            "verse": 9,
+            "text": "uma ela meu jardim minha beleza uma ela para-a-mãe -virgem ela por-ter-nascido-a e-viram-a -filhas e-abenraram-na -rainhas ופילגשים e-cantaram-na:"
+          },
+          {
+            "verse": 10,
+            "text": "quem esta -a-que-foi-revelada como -o-dia bela calvá bará chámá ayúmá canágdólot"
+          },
+          {
+            "verse": 11,
+            "text": "a ginná egoz para-ver para-ver b'ivvé para-ver para-ver hafará hagáfên henetsú הָרִמֹּנִֽים׃"
+          },
+          {
+            "verse": 12,
+            "text": "não soube [נַפְשִׁ֣י] [שָׂמַ֔תְנִי] [מַרְכְּב֖וֹת] [עַמִּי־נָדִֽיב]"
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "[שׁ֤וּבִי] [שׁ֙וּבִי֙] [הַשּׁ֣וּלַמִּ֔ית] [שׁ֥וּבִי] volta [וְנֶחֱזֶה־בָּ֑ךְ] [מַֽה־תֶּחֱזוּ֙] que [כִּמְחֹלַ֖ת] [הַֽמַּחֲנָֽיִם]"
+          },
+          {
+            "verse": 2,
+            "text": "que- [פְעָמַ֛יִךְ] [בַּנְּעָלִ֖ים] [בַּת־נָדִ֑יב] filha-de [יְרֵכַ֔יִךְ] [כְּמ֣וֹ] [חֲלָאִ֔ים] [מַעֲשֵׂ֖ה] [יְדֵ֥י] obra-de mãos-de"
+          },
+          {
+            "verse": 3,
+            "text": "[שָׁרְרֵךְ֙] [אַגַּ֣ן] [הַסַּ֔הַר] a [הַמָּ֑זֶג] [בִּטְנֵךְ֙] [עֲרֵמַ֣ת] [חִטִּ֔ים] [סוּגָ֖ה] [בַּשּׁוֹשַׁנִּֽים]"
+          },
+          {
+            "verse": 4,
+            "text": "segundo [שָׁדַ֛יִךְ] [כִּשְׁנֵ֥י] [עֳפָרִ֖ים] [תָּאֳמֵ֥י] [צְבִיָּֽה]"
+          },
+          {
+            "verse": 5,
+            "text": "[צַוָּארֵ֖ךְ] [כְּמִגְדַּ֣ל] [הַשֵּׁ֑ן] olhos-teus [בְּרֵכ֣וֹת] [בְּחֶשְׁבּ֗וֹן] sobre [בַּת־רַבִּ֔ים] filha-de muitos [הַלְּבָנ֔וֹן] [צוֹפֶ֖ה] face-de [דַמָּֽשֶׂק] face-de"
+          },
+          {
+            "verse": 6,
+            "text": "[רֹאשֵׁ֤ךְ] sobre-ti [כַּכַּרְמֶ֔ל] [וְדַלַּ֥ת] [רֹאשֵׁ֖ךְ] [כָּאַרְגָּמָ֑ן] rei [אָס֥וּר] [בָּרְהָטִֽים]"
+          },
+          {
+            "verse": 7,
+            "text": "que- [וּמַה־נָּעַ֔מְתְּ] e-que [בַּתַּֽעֲנוּגִֽים]"
+          },
+          {
+            "verse": 8,
+            "text": "esta קומתך֙ דמתָ֣ה לתמר VASDAYICH para-ashkolot:"
+          },
+          {
+            "verse": 9,
+            "text": "dissesse e-ele em-tamar que-achaza em-sansinai e-serão- por-favor seus-seadyikh como-ashkolot hagáfên e-reich teu-apexek como-tapuchim:"
+          },
+          {
+            "verse": 10,
+            "text": "e-bico como-óleo o-bom הלך para-meu-amado para-linhas-retas dobre bocas dormem;"
+          },
+          {
+            "verse": 11,
+            "text": "eu para-meu-amado e-sobre-mim sua-desejo;"
+          },
+          {
+            "verse": 12,
+            "text": "לְכָ֤ה meu-amado sair-ei o-campo נָלִ֖ינָה בַּכְּפָרִֽים׃"
+          },
+          {
+            "verse": 13,
+            "text": "נַשְׁכִּ֙ימָה֙ לַכְּרָמִ֔ים נִרְאֶ֞ה פָּֽרְחָ֤ה הַגֶּ֙פֶן֙ פִּתַּ֣ח הַסְּמָדַ֔ר הֵנֵ֖צוּ הָרִמּוֹנִים nome אֶתֵּ֥ן a meu-dedo para-ti"
+          },
+          {
+            "verse": 14,
+            "text": "[הַֽדּוּדָאִ֣ים] [נָֽתְנוּ־רֵ֗יחַ] [וְעַל־פְּתָחֵ֙ינוּ֙] e-sobre [חֲדָשִׁ֖ים] todo [דּוֹדִ֖י] [צָפַ֥נְתִּי] para-ti para-ti"
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "quem יתןך כאח para-mim jonake Shaddai mim-i אמצاك בַחוּץ֙ ESHakka também não יובזו para-mim"
+          },
+          {
+            "verse": 2,
+            "text": "ENGagakh ABIakha a casa AMI TALAMDENI aschakkâ meyyayîn hărekakh me'assîs rimmônî"
+          },
+          {
+            "verse": 3,
+            "text": "šômê'ôlō debaixo roshi vî'imyînô tăchabqêni"
+          },
+          {
+            "verse": 4,
+            "text": "hisbâ'itti vós filhas-de Jerusalém que- tă'îrû וּֽמַה־ תְּעֹֽרְר֛וּ até הָאַהֲבָ֖ה até שֶׁתֶּחְפָּֽץ׃"
+          },
+          {
+            "verse": 5,
+            "text": "quem esta ʿōlāh de o-deserto מִתְרַפֶּ֖קֶת debaixo דּוֹדָ֑הּ em-lugar-de הַתַּפּ֙וּחַ֙ עֽוֹרַרְתִּ֔יךָ שָׁ֚מָּה חִבְּלַ֣תְךָ a-teua-mãe para lá חִבְּלָ֥ה יְלָדַֽתְךָ׃"
+          },
+          {
+            "verse": 6,
+            "text": "[שִׂימֵ֨נִי] [כַֽחוֹתָ֜ם] sobre [כַּֽחוֹתָם֙] [עַל־זְרוֹעֶ֔ךָ] sobre [כַמָּ֙וֶת֙] porque [קָשָׁ֥ה] [כִשְׁא֖וֹל] [קִנְאָ֑ה] dura [רִשְׁפֵּ֕י] [אֵ֖שׁ] [שַׁלְהֶ֥בֶתְיָֽה] fogo"
+          },
+          {
+            "verse": 7,
+            "text": "águas [רַבִּ֗ים] não [יֽוּכְלוּ֙] [לְכַבּ֣וֹת] a [וּנְהָר֖וֹת] não não [אִם־יִתֵּ֨ן] se [אֶת־כָּל־ה֤וֹן] homem a todo [יָב֥וּזוּ] a-ele a-ele"
+          },
+          {
+            "verse": 8,
+            "text": "[אָח֥וֹת] a-nós [קְטַנָּ֔ה] [וְשָׁדַ֖יִם] não-há para ela que [לַאֲחֹתֵ֔נוּ] no-dia [שֶׁיְּדֻבַּר־בָּֽהּ]"
+          },
+          {
+            "verse": 9,
+            "text": "se [הִ֔יא] ela [עָלֶ֖יהָ] sobre-ela [כָּ֑סֶף] prata e-se [נָצ֥וּר] ela [ל֥וּחַ] sobre-ela"
+          },
+          {
+            "verse": 10,
+            "text": "eu חוֹמָה וְשָׁדַי כְּמִגְדָּלוֹת então era em-seus-olhos כְּמֹצְאֵת paz"
+          },
+          {
+            "verse": 11,
+            "text": "[כֶּ֣רֶם] ser para-Salomão em-Baal [הָמ֔וֹן] dar a [לַנֹּטְרִ֑ים] [אִ֛ישׁ] homem [בְּפִרְי֖וֹ] [אֶ֥לֶף] mil"
+          },
+          {
+            "verse": 12,
+            "text": "[כַּרְמִ֥י[t]] diante-de-mim [לְפָנָ֑י] para-ti a-ti [שְׁלֹמֹ֔ה] [וּמָאתַ֖יִם] a [אֶת־פִּרְיֽוֹ]"
+          },
+          {
+            "verse": 13,
+            "text": "[הַיוֹשֶׁ֣בֶת] [בַּגַּנִּ֗ים] [חֲבֵרִ֛ים] [מַקְשִׁיבִ֥ים] [לְקוֹלֵ֖ךְ] [הַשְׁמִיעִֽינִי]"
+          },
+          {
+            "verse": 14,
+            "text": "[בְּרַ֣ח] [׀] [דּוֹדִ֗י] para-ti [לִצְבִי֙] ou [לְעֹ֣פֶר] [הָֽאַיָּלִ֔ים] sobre montes-de [בְשָׂמִֽים]"
+          }
+        ]
+      }
+    ]
+  }
+}

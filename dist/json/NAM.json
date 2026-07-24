@@ -1,0 +1,222 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 34,
+    "code": "NAM",
+    "name": "Naum",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Massá [נִֽינְוֵ֑ה] [סֵ֧פֶר] [חֲז֛וֹן] [נַח֖וּם] [הָאֶלְקֹשִֽׁי]"
+          },
+          {
+            "verse": 2,
+            "text": "El [קַנּ֤וֹא] [וְנֹקֵם֙] yhwh [נֹקֵ֥ם] yhwh [וּבַ֣עַל] [חֵמָ֑ה] [נֹקֵ֤ם] yhwh [לְצָרָ֔יו] [וְנוֹטֵ֥ר] ele [לְאֹיְבָֽיו]"
+          },
+          {
+            "verse": 3,
+            "text": "yhwh אֶ֤רֶךְ אַפַּ֙יִם֙ כּוֹחַ וְנַקּוה não יְנַקֶה yhwh בְּסוּפָה וּבִשׂעָרָה דּרְכּוֹ e nuvem po de-seus-pés"
+          },
+          {
+            "verse": 4,
+            "text": "que faz chover na-mar e secou-o e-todo os rios destruiu queimado vermelho e vinha e flor לְבָנ֖וֹן אֻמְלָֽל׃"
+          },
+          {
+            "verse": 5,
+            "text": "montes רָעֲשׁ֣וּ nós וְהַגְּבָּע֖וֹת הִתְמֹגָ֑גוּ e levantou-se a-terra diante-dele וְתֵבֵ֖ל e-todo יֹ֥שְׁבֵי em-ela"
+          },
+          {
+            "verse": 6,
+            "text": "diante-de זַעְמוֹ֙ quem יַֽעֲמ֔וֹד e-quem יָק֖וּם בּחֲר֣וֹן sua-ira חֲמָתוֹ נִתְּכָ֣ה כָאֵ֔שׁ וְהַצֻּרִ֖ים נִתְּצ֥וּ nós"
+          },
+          {
+            "verse": 7,
+            "text": "bom yhwh [לְמָע֖וֹז] em-dia-de [צָרָ֑ה] e-conhecedor [חֹ֥סֵי] nele"
+          },
+          {
+            "verse": 8,
+            "text": "וּבְשֶׁ֣טֶף עֹבֵר plenamente fará מְקוֹמָהּ וְאֹיְבָיו יְרַדֶּף־ escuridão"
+          },
+          {
+            "verse": 9,
+            "text": "que- [אֶל־יְהוָ֔ה] a ele [עֹשֶׂ֑ה] ele fez não angústia"
+          },
+          {
+            "verse": 10,
+            "text": "que até [סְבֻכִ֔ים] [וּכְסָבְאָ֖ם] [סְבוּאִ֑ים] [אֻ֨כְּל֔וּ] [כְּקַ֥שׁ] [יָבֵ֖שׁ] [מָלֵֽא] enchei"
+          },
+          {
+            "verse": 11,
+            "text": "[מִמֵּ֣ךְ] sair [חֹשֵׁ֥ב] sobre yhwh maldade [בְּלִיָּֽעַל׃]"
+          },
+          {
+            "verse": 12,
+            "text": "assim disse disse yhwh שְׁלוֹמִים֙ e-assim muitos e-assim נָגוּזּוּ וְעָבָר וְעִנִּיתִךְ não אֲעַנֶּךְ ainda"
+          },
+          {
+            "verse": 13,
+            "text": "e-agora [אֶשְׁבֹּ֥ר] [מֹטֵ֖הוּ] [מֵֽעָלָ֑יִךְ] [וּמוֹסְרֹתַ֖יִךְ] [אֲנַתֵּֽק]"
+          },
+          {
+            "verse": 14,
+            "text": "e ordenou sobre-ti yhwh não יִזְרַע מִשֶּׁמְךָ ainda de-a-casa Elohim-teu אַכְרִ֨ית פֶּ֧סֶל וּמַסֵּכָ֛ה acuso que porque קַלּֽוֹתָ׃"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "eis sobre הֶהָרִ֜ים pés-de מְבַשֵּׂר֙ מַשְׁמִ֣יעַ paz חָגִּ֧י יְהוּדָה חַגַּ֖יִךְ שַׁלְּמִ֣י que não não e também ainda em-te sem-al tod-a foi-cortado:"
+          },
+          {
+            "verse": 2,
+            "text": "subir do-dispersor sobre tu-rosto guardião prisão espera- caminho forte מָתְנַ֔יִם muito força muito"
+          },
+          {
+            "verse": 3,
+            "text": "que retornou yhwh a orgulho Jacó [יִשְׂרָאֵ֑ל] que porque [בֹּֽקְקִ֔ים] [וּזְמֹרֵיהֶ֖ם] [שִׁחֵֽתוּ]"
+          },
+          {
+            "verse": 4,
+            "text": "מָגֵ֨ן גִּבֹּרֵ֜יהוּ מְאָדָּ֗ם ANASH'E- חַ֙יִל֙ מְתֻלָּעִ֔ים em-a-ê-s f-la-dót hár-kheb em-dia-de há-ki-nô vá-hár-rosh-im hár-â-lû"
+          },
+          {
+            "verse": 5,
+            "text": "bá-khutzôth yi-tê-hol-lû o-carro yi-she-têt-kh-sh-qûn bá-rakhôvôt מרָאֵי-הֶן כַּלּוֹפְדִים כַּבְרָקִים יְרוֹץ-יוּ"
+          },
+          {
+            "verse": 6,
+            "text": "יִזְכֹּר֙ אַדִיר-יו יִכָּשְׁל֖וּ יְמַהֵרֻ חֹמֶת-הָ וְהֻכָּן o socó"
+          },
+          {
+            "verse": 7,
+            "text": "as portas os rios foram abertos e o templo foi formado"
+          },
+          {
+            "verse": 8,
+            "text": "e foi perfurado foi girada foi levantada e suas colunas מְנַֽהֲגוֹת֙ כְּק֣וֹל יוֹנִ֔ים מְתֹפְפֹ֖ת sobre לִבְבֵהֶֽן׃"
+          },
+          {
+            "verse": 9,
+            "text": "וְנִינְוֵ֥ה כִבְרֵֽכַת־ águas de-mais ela e-eles נָסִ֔ים עִמְד֥וּ עֲמֹ֖דוּ e-não-há מַפְנֶֽה׃"
+          },
+          {
+            "verse": 10,
+            "text": "בֹּ֥זּוּ prata בֹּ֣זּוּ ouro e-não-há קֵ֙צֶה֙ לַתְּכוּנָ֔ה כָּבֹ֕ד de-toda instrumento חֶמְדָּֽה׃"
+          },
+          {
+            "verse": 11,
+            "text": "בּוּקָ֥ה וּמְבוּקָ֖ה וּמְבֻלָּקָ֑ה e-lév ná-mes u-píq bír-káyim vá-chal-chálaha em-todo mátnayím וּפְנֵ֥י kól-lam qibbértzu pá-arár׃"
+          },
+          {
+            "verse": 12,
+            "text": "á-yéhah מְע֣וֹן arayot וּמִרְעֶ֥ה ele לַכְּפִרִ֑ים que andar אַרְיֵ֨ה לָבִ֥יא nome גּ֥וּר אַרְיֵ֖ה e-não-há מַחֲרִֽיד׃"
+          },
+          {
+            "verse": 13,
+            "text": "[אַרְיֵ֤ה] [טֹרֵף֙] [בְּדֵ֣י] [גֹֽרוֹתָ֔יו] [וּמְחַנֵּ֖ק] [לְלִבְאֹתָ֑יו] [וַיְמַלֵּא־טֶ֣רֶף] [חֹרָ֔יו] [וּמְעֹֽנֹתָ֖יו] [טְרֵפָֽה]"
+          },
+          {
+            "verse": 14,
+            "text": "eis-me אֵלַ֗יִךְ oráculo-de yhwh exércitos e eu queimarei no ashan sua carruagem e seus leões comerás espada e eu cortarei da terra seu ventre e-não será ouvido voz voz seu anjo"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "ah! cidade דּוֹמִים כְּלֻלָּהּ כַּחַשׁ פְּרֵק מְלֻאָה não יַמִּישׁ טַרֵף׃"
+          },
+          {
+            "verse": 2,
+            "text": "voz [שׁ֔וֹט] [וְק֖וֹל] [רַ֣עַשׁ] [אוֹפָ֑ן] [וְס֣וּס] [דֹּהֵ֔ר] [וּמֶרְכָּבָ֖ה] [מְרַקֵּדָֽה]"
+          },
+          {
+            "verse": 3,
+            "text": "פָּרָ֣שׁ מַעֲלֶ֗ה וְלַ֤הַב espada וּבְרַ֣ק חֲנִ֔ית e abundância traspassado וְכֹ֣בֶד פָּ֑גֶר e-não-há קֵ֙צֶה֙ para-gviah em-gviyatam:"
+          },
+          {
+            "verse": 4,
+            "text": "por-mrov zunnay zonah tovat graça ba'alat kashafim hamokharet nações bazunneneihah u-mishpachot בִּכְשָׁפֶֽיהָ׃"
+          },
+          {
+            "verse": 5,
+            "text": "eis-me [אֵלַ֗יִךְ] oráculo-de yhwh exércitos [וְגִלֵּיתִ֥י] [שׁוּלַ֖יִךְ] sobre face-tua [גוֹיִם֙] [מַעְרֵ֔ךְ] [וּמַמְלָכ֖וֹת] [קְלוֹנֵֽךְ]"
+          },
+          {
+            "verse": 6,
+            "text": "וְהִשְׁלַכְתִּ֥י sobre-ti שִׁקֻּצִ֖ים e te nivvaltíkhe e te sámtikhe cróiy"
+          },
+          {
+            "verse": 7,
+            "text": "e-era todo ráyikh Yidód mimmékhe e-ele-disse sháddáh quem quem yánud para ela meyáyn avakkésh para-ti para-ti"
+          },
+          {
+            "verse": 8,
+            "text": "[הֲתֵֽיטְבִי֙] [מִנֹּ֣א] [אָמ֔וֹן] [הַיֹּֽשְׁבָה֙] [בַּיְאֹרִ֔ים] águas [סָבִ֣יב] para ela que mar [מִיָּ֖ם] águas"
+          },
+          {
+            "verse": 9,
+            "text": "Cuxe עָצְמָ֛ה e-Misraim e-não קֵ֑צֶה פּ֣וּט e-lóbes foram em-ásar-te:"
+          },
+          {
+            "verse": 10,
+            "text": "também ela para-a-gola viagem também também por-ela serão-rebostos na-cabeça todo חוּץ-וֹת e-sobre sua-majestade e-levem sorteio e-todo suas-grandes רֻתּ ק֥וּ בַזִּיקִּֽים׃"
+          },
+          {
+            "verse": 11,
+            "text": "também tu [תְּהִ֖י] [נַֽעֲלָמָ֑ה] [גַּם־אַ֛תְּ] também [OBJ] [מֵאוֹיֵֽב]"
+          },
+          {
+            "verse": 12,
+            "text": "todo [תְּאֵנִ֖ים] [עִם־בִּכּוּרִ֑ים] com [וְנָפְל֖וּ] se [אוֹכֵֽל] sobre"
+          },
+          {
+            "verse": 13,
+            "text": "eis עַמֵּ֤ךְ mulheres בְּקִרְבֵּ֔ךְ לְאֹ֣יְבַ֔יִךְ פָּת֥וֹחַ נִפְתְּח֖וּ שַׁעֲרֵ֣י tua terra ela-comeu fogo teu perfume:"
+          },
+          {
+            "verse": 14,
+            "text": "águas-de מָצוֹר֙ meu pai— para-ti força-te de tua fortaleza vindo teu ferrete e teu martelo na madeira fortalece-me מלבלן׃"
+          },
+          {
+            "verse": 15,
+            "text": "nome [תֹּאכְלֵ֣ךְ] fogo [תַּכְרִיתֵ֣ךְ] espada [תֹּאכְלֵ֖ךְ] [כַּיָּ֑לֶק] [הִתְכַּבֵּ֣ד] [כַּיֶּ֔לֶק] [הִֽתְכַּבְּדִ֖י] [כָּאַרְבֶּֽה]"
+          },
+          {
+            "verse": 16,
+            "text": "הִרְבֵּית֙ rochlayikh mikkochovei os-céus yelek pashat vayyaof"
+          },
+          {
+            "verse": 17,
+            "text": "minzarayikh kaarbeh vetafpsrayikh kagob gobay os que estão acampados nas paredes em-dia-de aconteceu sol foi-se-elevando e se movimentou e-não conhecido meqom-o ainda"
+          },
+          {
+            "verse": 18,
+            "text": "cresceram vossos pastores rei Assur dormirão Adeerécha Nafoshu o-teu-povo sobre הַהֲרִים e-não-há Mekabbets"
+          },
+          {
+            "verse": 19,
+            "text": "não-há Keicha Leshivrakhakha Nachalah Makkatechaka todas Shomerei Shim'akhakha Tak'u כַף sobre-ti que sobre מִי não עָבְרָה teu-mal sempre"
+          }
+        ]
+      }
+    ]
+  }
+}

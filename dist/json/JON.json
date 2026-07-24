@@ -1,0 +1,231 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 32,
+    "code": "JON",
+    "name": "Jonas",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e-houve palavra-de yhwh a dizendo filho-de para-dizer"
+          },
+          {
+            "verse": 2,
+            "text": "levantou לך a נינוה a-cidade a-grande וקרא sobre-ela porque subiu suas maldades para-meu"
+          },
+          {
+            "verse": 3,
+            "text": "E-levantou יונה לברך תרשיה de-diante-de yhwh e-descer יפוא WAYYIMTZAA אניה בָּאָ֗ה תַרְשִׁ֗ישׁ E-deu E-colocou e-ele-descerrou nela #adventar עִמָּהֶם֙ תַּרְשִׁ֔ישָׁה de-diante-de yhwh"
+          },
+          {
+            "verse": 4,
+            "text": "[וַֽיהוָ֗ה] [הֵטִ֤יל] espírito-de [אֶל־הַיָּ֔ם] e-houve o-mar E-foi [וְהָ֣אֳנִיָּ֔ה] grande [לְהִשָּׁבֵֽר]"
+          },
+          {
+            "verse": 5,
+            "text": "vayir'e'u הַמַּלָּחִ֗ים e gritaram homem a Elohim dele e lançaram a as ferramentas que na nau a o-mar para se jazer de cima deles e Jóvão desceu a as escadas a-sfinah e-deitou-se e-eradam:"
+          },
+          {
+            "verse": 6,
+            "text": "vayiqra a-ele muito ha-chovel E-disse a-ele que- para-ti nardam levantou chamou a Elohim-teu ulay yita'ashet o-Elohim para-nós e-não noebad:"
+          },
+          {
+            "verse": 7,
+            "text": "e-eles-disseram homem a companheiro-seu vão-vocês venafila goralot e-nedáah בְּשֶׁלְּמִ֛י a-maldade a-esta para-nós vayaffilú gorálot e-caiu hagorál sobre Yoán:"
+          },
+          {
+            "verse": 8,
+            "text": "e-disseram a-ele hágidá: agora para-nós ba'asher para-quem- a-maldade a-esta para-nós que- melakhtaká úme'ayín תבוא que a-tzé-kha וְאֵֽי־ mizze povo tu"
+          },
+          {
+            "verse": 9,
+            "text": "E-disse a-eles i-vri eu e-a yhwh Elohim-de os-céus temer temia que fez a o-mar e-a há-yá-ba-shá-ha:"
+          },
+          {
+            "verse": 10,
+            "text": "vay-ri-khu os-homens yé-ra-á grande e-disseram a-ele que- isto fizeste porque ya-da-khu yhwh ele mil-lif-nei que declarou a-eles porque disse para-eles"
+          },
+          {
+            "verse": 11,
+            "text": "e-disseram a-ele que- na-ă-shé-ha para-ti o-mar o-mar que o-mar o-mar הלך vés-o-ré:"
+          },
+          {
+            "verse": 12,
+            "text": "E-disse a-eles Sejam-me-elevados e lançaram-me a o-mar o-mar o-mar que porque sabe que porque no-meu-entendimento o-tormento o grande este sobre-vós"
+          },
+          {
+            "verse": 13,
+            "text": "e-eles-suspiraram os-homens para-devolver a a-terra e-não que o-mar o-mar הלך e-a-nuvem sobre-eles"
+          },
+          {
+            "verse": 14,
+            "text": "e-eles-chamaram a yhwh e-disseram yhwh yhwh a por-favor נוֹאֲבַדְתֶּן בְּנֶ֙פֶשׁ֙ o-homem esta e-a dareis sobre nós yhwh נָקִי porque tu yhwh como-que חָפַץ tu"
+          },
+          {
+            "verse": 15,
+            "text": "e-levantaram a Jonas וַיְטִלוּהוּ a o-mar e-estabeleceu o-mar מִזַּעְפּוֹ"
+          },
+          {
+            "verse": 16,
+            "text": "וַיִּירְאוּ os-homens יִרְאָה grande a yhwh וַיִּזְבְּחוּ oferta para-יהוה וַיִּדְרּוּ nédarim∶"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e man· yhwh peixe grande para engolir· a e-houve E-foi Joná· nos intestinos· do peixe· três dias e três· noites∶"
+          },
+          {
+            "verse": 2,
+            "text": "e orou· Jonas a yhwh Elohim-dele dos intestinos· a-pesca׃"
+          },
+          {
+            "verse": 3,
+            "text": "E-disse eu-chamei da-miséria para-mim a yhwh וַֽיַּעֲנֵ֑נִי do-ventre de-tormento שִׁוּ֖עְתִּי ouviste קוֹלִֽי׃"
+          },
+          {
+            "verse": 4,
+            "text": "e-ele-jo-ga-me de-punhalada no-coração mares e-um-réu me-rodeava todo מִשׁוֹבְרֶךָ וְגַלֵּךָ sobre-mim עָבְרוּ׃"
+          },
+          {
+            "verse": 5,
+            "text": "e-eu eu-disse [נִגְרַ֖שְׁתִּי] desde-em-frente-de [עֵינֶ֑יךָ] somente [אוֹסִ֣יף] [לְהַבִּ֔יט] a [קָדְשֶֽׁךָ]"
+          },
+          {
+            "verse": 6,
+            "text": "[אֲפָפ֤וּנִי] águas até alma [יְסֹבְבֵ֑נִי] [ס֖וּף] [חָב֥וּשׁ] [לְרֹאשִֽׁי]"
+          },
+          {
+            "verse": 7,
+            "text": "לְקִצְבֵ֤י montes יָרַ֔דְתִּי a-terra בְּרִחֶ֥יהָ בַעֲדִ֖י para-sempre e-ela-subiu מִשַׁ֛חַת חַיַּ֖י yhwh Elohim-meu"
+          },
+          {
+            "verse": 8,
+            "text": "[בְּהִתְעַטֵּ֤ף] sobre-mim [נַפְשִׁ֔י] a yhwh [וַתָּב֤וֹא] [אֵלֶ֙יךָ֙] a-ti [אֶל־הֵיכַ֖ל] a"
+          },
+          {
+            "verse": 9,
+            "text": "[מְשַׁמְּרִ֖ים] [הַבְלֵי־שָׁ֑וְא] [חַסְדָּ֖ם] [יַעֲזֹֽבוּ]"
+          },
+          {
+            "verse": 10,
+            "text": "e-eu [בְּק֤וֹל] [תּוֹדָה֙] [אֶזְבְּחָה־לָּ֔ךְ] para-ti que [אֲשַׁלֵּ֑מָה] [יְשׁוּעָ֖תָה] [לַיהוָֽה׃] para-יהוה"
+          },
+          {
+            "verse": 11,
+            "text": "E-disse yhwh [לַדָּ֑ג] [וַיָּקֵ֥א] a pomba a"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e-houve palavra-de yhwh a dizendo para-dizer"
+          },
+          {
+            "verse": 2,
+            "text": "levantou vai a נינוה a-cidade o-grande VUKERA' para-ela a eu que eu palavra para-ti"
+          },
+          {
+            "verse": 3,
+            "text": "E-levantou יונה E-andou a conforme-a-palavra-de yhwh VNINVEH era עיר- g'dolah para-Elohim MALAKH três dias"
+          },
+          {
+            "verse": 4,
+            "text": "e começou יונא para-vir na cidade andar dia um E-chamou E-disse ainda quarenta dia e Ninive foi arrebatada"
+          },
+          {
+            "verse": 5,
+            "text": "e creram homens-de Ninive em Elohim e-ele-chamou- צוֹם֙ e vestiram-se sacos deles e-até que eles"
+          },
+          {
+            "verse": 6,
+            "text": "וַיִּגַּ֤ע a-palavra a rei Nínive E-levantou de seu trono e passou adornou-o dele cobriu-se saco e-habitou sobre הָאֵֽפֶר׃"
+          },
+          {
+            "verse": 7,
+            "text": "e clamou E-disse a Nínive por causa de o-rei e seus grandes dizendo o-homem e-o-animal o gado e a ovelha a comerão que-feito a pastarão não a beberão"
+          },
+          {
+            "verse": 8,
+            "text": "e cobrirão olhos o-homem והבהמה e clamaram a Elohim com força e voltarão homem de-seu-caminho a má e-de o furor que em suas mãos:"
+          },
+          {
+            "verse": 9,
+            "text": "quem- que conhece יָשׁ֔וּב e consolou o-Elohim e voltou de ardor sua-ira e-não nós morreremos:"
+          },
+          {
+            "verse": 10,
+            "text": "E-viu הָֽאֱלֹהִים את- seus feitos porque voltaram em seus caminhos a-maldade e-lamentou os-Elohim sobre הָרָעָה que palavra לַעֲשׂוֹת־ a-eles e-não fez"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e-foi-mal a pomba mal grande a-ele a-ele"
+          },
+          {
+            "verse": 2,
+            "text": "[וַיִּתְפַּלֵּ֨ל] a yhwh E-disse yhwh yhwh porventura-não este [עַל־אַדְמָתִ֔י] até [קִדַּ֖מְתִּי] sobre [תַּרְשִׁ֑ישָׁה] que assim que tu [אֵֽל־חַנּ֣וּן] porque [אֶ֤רֶךְ] porque tu a [עַל־הָרָעָֽה] bondade sobre"
+          },
+          {
+            "verse": 3,
+            "text": "e-agora yhwh toma agora a que bom porque bom"
+          },
+          {
+            "verse": 4,
+            "text": "E-disse yhwh o-que-alimenta ardeu para-ti"
+          },
+          {
+            "verse": 5,
+            "text": "e-saiu joná: de a-cidade ao-oriente do-leste para-a-cidade a-ele a-ele nome sussa: e-habitou su-ba-a: até até que ver-irá: que- ser-irá: em-cidade:"
+          },
+          {
+            "verse": 6,
+            "text": "e-ele-preparou: yhwh Elohim cicávio: e subiu de-cima-de a joná para-ser sombra sobre cabeça-sua a-ele para-ele de ruim dele e alegrou-se joná sobre o gafanhoto שִׂמְחָ֥ה g'dolah"
+          },
+          {
+            "verse": 7,
+            "text": "e fez הָֽאֱלֹהִים verme em subida הַשַׁ֖חַר para o dia seguinte e cobriu-se a o quicão e secou-se"
+          },
+          {
+            "verse": 8,
+            "text": "e-houve kîzrōach o sol e se tornou Elohim espírito espírito crespo e cobriu-se o-sol sobre cabeça pomba e secou-se e-ele-perguntou a a sua alma E-disse bom bom minha morte de minha vida"
+          },
+          {
+            "verse": 9,
+            "text": "E-disse Elohim a [הַהֵיטֵ֥ב] [חָרָֽה־לְךָ֖] [עַל־הַקִּֽיקָי֑וֹן] E-disse sobre [חָֽרָה־לִ֖י] E-disse para-mim até"
+          },
+          {
+            "verse": 10,
+            "text": "E-disse yhwh tu [חַ֙סְתָּ֙] sobre [אֲשֶׁ֛ר] que não [וְלֹ֣א] nele e-não ser [וּבִן־לַ֥יְלָה] noite foi noite"
+          },
+          {
+            "verse": 11,
+            "text": "[וַֽאֲנִי֙] não [אָח֔וּס] sobre [הָעִ֣יר] a-cidade o-grande que há [מִֽשְׁתֵּים־עֶשְׂרֵ֨ה] [רִבּ֜וֹ] homem dez [לֹֽא־יָדַע֙] homem que não conheceu entre multiplicai"
+          }
+        ]
+      }
+    ]
+  }
+}

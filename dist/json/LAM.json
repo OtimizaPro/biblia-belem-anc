@@ -1,0 +1,660 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 25,
+    "code": "LAM",
+    "name": "Lamentações",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Eica יָשַׁבְתָּ בָּדָד a-cidade רַבָּתִי povo הָיְתָה era רַבָּתִי nos-goyim שָׂרָתִי בְּמִדְינֹות הָיְתָה era"
+          },
+          {
+            "verse": 2,
+            "text": "בָּכ֨וֹ תִּבְכֶּה noite e-lágrimas-ela sobre na-maçã-do-rosto-dele não há para-ela m'nachem de-todo amores-sua todo seus-amigos enganaram nela a-ele para-ela inimigos:"
+          },
+          {
+            "verse": 3,
+            "text": "גָּלְתָה Judá por-pobreza e-por-muitas trabalhos ela em-ba nos-goyim não encontr-a מנוח todo seus-perseguidores entre entre os-mal-crian"
+          },
+          {
+            "verse": 4,
+            "text": "דַּרְכֵ֨י Sion lutos מִבְּלִי֙ em-ai encontro todo suas-portas silenciadas coheneyha neenachim betuloteye e ela amargo a-ela"
+          },
+          {
+            "verse": 5,
+            "text": "היוּ tsareyha lereosh oyeveye shalou porque yhwh sobre sobre rov- peshaeye olaleye הלכו שִׁבְיָ diante-de צר׃"
+          },
+          {
+            "verse": 6,
+            "text": "e-ele-saiu Sião todo [כָּל־הֲדָרָ֑הּ] foram [שָׂרֶ֗יהָ] [כְּאַיָּלִים֙] não [מִרְעֶ֔ה] [וַיֵּלְכ֥וּ] e-caminharam [לִפְנֵ֥י] [רוֹדֵֽף׃] diante-de"
+          },
+          {
+            "verse": 7,
+            "text": "זָכְרָה Jerusalém dias-de עָנְיָהּ e-a-merudéyahā todo seu-a que foram de-mais oriente caído-a seu-á-á por-mão-de adversário e-não-há auxiliador para-ela viram-a adversários sobre sobre de-sua-casa"
+          },
+          {
+            "verse": 8,
+            "text": "erro pecou-a Jerusalém sobre assim para a nida היתה todo suas santificações e derribaram-na porque viram sua nudez também ela e a encharcaram e-ela-voltou-se depois"
+          },
+          {
+            "verse": 9,
+            "text": "sua impureza em-suas-sulhas não e a lembraram depois dela e-ela-desceu mil não m'nachem para ela viu yhwh a que porque הגדיל inimigo"
+          },
+          {
+            "verse": 10,
+            "text": "sua-mão פרשה צר sobre todo מחמדיה porque ראתה nações vieram santuário que ציוית para-ti virão בקהל para-ti"
+          },
+          {
+            "verse": 11,
+            "text": "todo עם נהנחים pão Belém נָתְנ֧וּ בְּאֹ֖כֶל faça alma viu yhwh yhwh porque que זוֹלֵלָֽה׃"
+          },
+          {
+            "verse": 12,
+            "text": "ל֣וֹא אֲלֵיכֶם֮ todo עֹ֣בְרֵי caminho הַבּ֣יטוּ e-vede se ha מַכְאוֹב֙ כְּמַכְאֹבִ֔י que עוֹלַ֖ל para-mim yhwh הוֹגָ֣ה yhwh em-dia nós אַפּֽוֹ׃"
+          },
+          {
+            "verse": 13,
+            "text": "מִמָּר֛וֹם שָׁלַח־ fogo בְּעַצְמֹתַ֖י e desceram expôs rede pelas minhas me-trouxe-de-volta trás colocaram-me silenciosa todo o-dia do"
+          },
+          {
+            "verse": 14,
+            "text": "arrebataram-se sobre מֵעֲוֹנֹתַי beyado ישׂרגוּ subiram sobre צַוָּעֲרִי הִכְשַׁל minha-força נְתַנַּנִי Adonai בִּידֵי não posso levantou"
+          },
+          {
+            "verse": 15,
+            "text": "סִלַּח todo אַבְרִיַ֤י Adonai בְּקִרְבִּי chamou sobre-mim encontro לִשׁ-בּוֹר בַּחֲוּרָי גַּת caminho Adonai para-remoção filha-de Judá"
+          },
+          {
+            "verse": 16,
+            "text": "sobre אלה eu בכיה עיני עיני יורדה águas porque רחוק de-mi m'nachem משיב minha-alma eram filhos-de שממים que גבר inimigo"
+          },
+          {
+            "verse": 17,
+            "text": "פרשה Tsíyyôn bí-yādehā não-há מְנַחֵם֙ para-ela ordenou yhwh para-Jacobe səvı̂bāyw seus inimigos era Yérushālāyim ləniddāh בֵּינֵיהֶֽם׃"
+          },
+          {
+            "verse": 18,
+            "text": "justo ele yhwh que pı̂hyū mārīty ouvi por-favor todo e-vede makkāvōy bətūlōtway wəbaḥūrāway הלכו בַשֶֽׁבִי׃"
+          },
+          {
+            "verse": 19,
+            "text": "קָרָ֤אתִי לַֽמְאַהֲבַי֙ eles רִמּ֔וּנִי כֹּהֲנַ֥י וּזְקֵנַ֖י na-cidade גָּוָ֑עוּ porque בִקְשׁ֥וּ אֹ֙כֶל֙ לָ֔moֹ וְיָשִׁ֖יבוּ a alma-deles"
+          },
+          {
+            "verse": 20,
+            "text": "viu yhwh porque angústia a-mim de-me chamar-marû nehef-pakh que beker-bêri porque mar-âv mar-itî de-fora shiklâ espada BBÍYT kam-mavet"
+          },
+          {
+            "verse": 21,
+            "text": "שָׁמְעוּ que ne'anachâ eu não-há מְנַחֵם֙ para-mim todo o'evê-bay ouviram minha mágoa que tu tu fizeste )(((הֵבֵ֥אתָ))) dia-de chamaste e sejam como eu"
+          },
+          {
+            "verse": 22,
+            "text": "venha todo suas mágoas diante-de-ti וְעוֹלֵ֣ל [כַּאֲשֶׁ֥ר] como-que eu sofrer sobre sobre todo meus pecados porque muitas minhas dores e meu coração דַוָּֽי׃"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Eis que: Deu-se a vê-lo: em-sua-ira Adonai a filha-de Sião Jogou: terra terra esplendor-de Israel e-não macho A vergonha: pés-dele em-dia אַפּֽוֹ׃"
+          },
+          {
+            "verse": 2,
+            "text": "Engoliu: Adonai Perdoou: את todo pastagens Jacó Destruiu: Na sua brecha: Dos seus dentes: filha-de יְהוּדָה higga para a terra הילל מלכות ושריha:"
+          },
+          {
+            "verse": 3,
+            "text": "גדעה בחורי certamente todo קרן Israel השיב אחור ימינו de-diante-de אֹיֵב ויבער בייעקב כאש ЛЕХАВА אכלנה ao-redor"
+          },
+          {
+            "verse": 4,
+            "text": "caminho קשתו KOVAIV נצב ימינו KETSAR WAYYAHARG todo MAḤAMDAY- olho BAʾOHEL filha-de Sião derramou como fogo sua ira"
+          },
+          {
+            "verse": 5,
+            "text": "ser Adonai ׀ como inimigo engoliu Israel בִּלַּע֙ todo seus exércitos destruiu dos seus fortalezas e rugiu בְּבַת־ Judá תַּאֲנִיָּ֖ה וַאֲנִיָּֽה׃"
+          },
+          {
+            "verse": 6,
+            "text": "וַיַּחְמֹ֤ס כַּגַּן֙ שֻׂכּ֔וֹ שִׁחֵ֖ת מוֹעֲד֑וֹ שִׁכַּ֨ח yhwh בְּצִיּוֹן֙ na-festa e sábbo e se exaureu em zé'um- sua-ira rei e sacerdote:"
+          },
+          {
+            "verse": 7,
+            "text": "deitou אדונָ֤י do altar dele acendeu do santuário dele se isolou por-mão-de inimigo חוֹמֹות אַרְמְנוֹתֶיהָ voz eles-deram na-casa-de yhwh como um dia encontro"
+          },
+          {
+            "verse": 8,
+            "text": "[חָשַׁ֨ב] yhwh [׀] muro-de filha-de Sião [נָ֣טָה] [קָ֔ו] não sua-mão mão-sua [וַיּֽ͏ַאֲבֶל־חֵ֥ל] [וְחוֹמָ֖ה] [יַחְדָּ֥ו] [אֻמְלָֽלוּ׃]"
+          },
+          {
+            "verse": 9,
+            "text": "טָבְע֤וּ na-terra שְׁעָרֶ֔יהָ אִבַּ֥ד וְשִׁבַּ֖ר em-suas-aromas מַלְכָּ֨הּ וְשָׂרֶ֤יהָ בַגּוֹיִם֙ não-há תּוֹרָ֔ה também suas profetisas não מָצְאוּ visão De-Yahweh:"
+          },
+          {
+            "verse": 10,
+            "text": "[יֵשְׁב֨וּ] [לָאָ֤רֶץ] [יִדְּמוּ֙] anciãos-de filha-de Sião pó pó sobre [שַׂקִּ֑ים] [הוֹרִ֤ידוּ] [לָאָ֙רֶץ֙] [רֹאשָׁ֔ן] [בְּתוּלֹ֖ת] [יְרוּשָׁלָֽ͏ִם׃]"
+          },
+          {
+            "verse": 11,
+            "text": "[כָּל֨וּ] [בַדְּמָע֤וֹת] [עֵינַי֙] [חֳמַרְמְר֣וּ] [מֵעַ֔י] [נִשְׁפַּ֤ךְ] [לָאָ֙רֶץ֙] [כְּבֵדִ֔י] sobre Sheber filha-de meu-povo [וְיוֹנֵ֔ק] [בִּרְחֹב֖וֹת] [קִרְיָֽה׃]"
+          },
+          {
+            "verse": 12,
+            "text": "A-LAS dirão onde GRÃO e-vinho EM-SEUS-VENTOS COMO-U-CHALAL NAS-RUAZINHAS cidade em-te-sheftakh as suas almas a COSTELA E-LAS:"
+          },
+          {
+            "verse": 13,
+            "text": "que [מָ֣ה] que [הַבַּת֙] [יְר֣וּשָׁלִַ֔ם] [מָ֤ה] Jerusalém que [בְּתוּלַ֖ת] [בַּת־צִיּ֑וֹן] [כִּֽי־גָד֥וֹל] [כַּיָּ֛ם] filha-de quem porque grande para-ti"
+          },
+          {
+            "verse": 14,
+            "text": "נְבִיאַ֗יִךְ viram para-ti vazio e enganaram e-não exporam sobre seu pecado faça e viram para-ti מַשְׂא֥וֹת vazio e falsos"
+          },
+          {
+            "verse": 15,
+            "text": "enganaram sobre-vos duas-mãos todo que-passaram caminho cortaram-se e-deram cabeças-as sobre filha-de Jerusalém isto é a-cidade que-dizem concha bonito משׂושׂ para-todo a-terra"
+          },
+          {
+            "verse": 16,
+            "text": "[פָּצ֨וּ] [עָלַ֤יִךְ] [פִּיהֶם֙] todo [שָֽׁרְקוּ֙] [וַיַּֽחַרְקוּ־שֵׁ֔ן] [אָמְר֖וּ] [בִּלָּ֑עְנוּ] [אַ֣ךְ] [זֶ֥ה] o-dia este o-dia [רָאִֽינוּ׃]"
+          },
+          {
+            "verse": 17,
+            "text": "fez yhwh que zamām bittṣa' emratō que ordenou mīme- qēdēm hārasa' e-não חָמָ֑ל wašāmā sobre-ti ōyev hērima' chifre-de צָרָֽיִךְ׃"
+          },
+          {
+            "verse": 18,
+            "text": "[צָעַ֥ק] [לִבָּ֖ם] a Adonai muro-de filha-de [כַנַּ֤חַל] [דִּמְעָה֙] [יוֹמָ֣ם] [וָלַ֔יְלָה] dia e-noite para-ti [אַל־תִּדֹּ֖ם] [בַּת־עֵינֵֽךְ׃] para-ti a filha-de"
+          },
+          {
+            "verse": 19,
+            "text": "arsta alegra-te cabeça guardiães derrama-te como-água no teu coração נחבק face-de Adonai levanta-te face-de como as tuas mãos sobre a-ele עֽוֹלָלַ֔יִךְ הָעֲטוּפִ֥ים בְּרָעָ֖ב na cabeça todo חוּץ-וֹת׃"
+          },
+          {
+            "verse": 20,
+            "text": "viu yhwh [וְֽהַבִּ֔יטָה] de-quem [עוֹלַ֣לְתָּ] [כֹּ֑ה] se [נָשִׁ֤ים] [פִּרְיָם֙] [עֹלֲלֵ֣י] [טִפֻּחִ֔ים] [אִם־יֵהָרֵ֛ג] se [Adonai] [כֹּהֵ֥ן] Adonai sacerdote"
+          },
+          {
+            "verse": 21,
+            "text": "שָׁכְב֨וּ לָאָ֤רֶץ חוּצוֹת֙ jovem e velho בֲּתוּלֹתַ֥י וּבַחוּרַ֖י caíram בֶחָ֑רֶב הרגתָ em-dia-de אףך טבחתָ não חמלתָ׃"
+          },
+          {
+            "verse": 22,
+            "text": "[תִּקְרָא֩] [כְי֨וֹם] [מוֹעֵ֤ד] [מְגוּרַי֙] de-ao-redor e-não ser em-dia também yhwh [וְשָׂרִ֑יד] [אֲשֶׁר־טִפַּ֥חְתִּי] que [אֹיְבִ֥י] [כִלָּֽם׃]"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "eu [הַגֶּ֙בֶר֙] ver [עֳנִ֔י] [בְּשֵׁ֖בֶט] [עֶבְרָתֽוֹ]"
+          },
+          {
+            "verse": 2,
+            "text": "[אוֹתִ֥י] [נָהַ֛ג] E-andou escuridão e-não luz"
+          },
+          {
+            "verse": 3,
+            "text": "porém em-mi habitou היפוך sua-mão todo o-dia"
+          },
+          {
+            "verse": 4,
+            "text": "[בִּלָּ֤ה] [בְשָׂרִי֙] [וְעוֹרִ֔י] [שִׁבַּ֖ר] [עַצְמוֹתָֽי]"
+          },
+          {
+            "verse": 5,
+            "text": "edificar sobre-mim [וַיַּקַּ֖ף] cabeça [וּתְלָאָֽה]"
+          },
+          {
+            "verse": 6,
+            "text": "[בְּמַחֲשַׁכִּ֥ים] [הוֹשִׁיבַ֖נִי] [כְּמֵתֵ֥י] eternidade"
+          },
+          {
+            "verse": 7,
+            "text": "[גָּדַ֧ר] [בַּעֲדִ֛י] e-não [אֵצֵ֖א] [הִכְבִּ֥יד] [נְחָשְׁתִּֽי]"
+          },
+          {
+            "verse": 8,
+            "text": "também que אֶזְעַק וַאֲשׁ-אוּעַ שׂ-תַמ minha-oração:"
+          },
+          {
+            "verse": 9,
+            "text": "[גָּדַ֤ר] [דְּרָכַי֙] [בְּגָזִ֔ית] [נְתִיבֹתַ֖י] [עִוָּֽה׃]"
+          },
+          {
+            "verse": 10,
+            "text": "דֹּ֣ב espião ele para-mim בְּמִסְתָּרִֽים׃"
+          },
+          {
+            "verse": 11,
+            "text": "minhas-caminhos SORER וַֽיְפַשְּׁחֵ֖נִי שָׂמַ֥נִי שֹׁמֵֽם׃"
+          },
+          {
+            "verse": 12,
+            "text": "caminho [קַשְׁתוֹ֙] [וַיַּצִּיבֵ֔נִי] [כַּמַּטָּרָ֖א] [לַחֵֽץ׃]"
+          },
+          {
+            "verse": 13,
+            "text": "[הֵבִיא֙] [בְּכִלְיוֹתָ֔י] filhos-de [אַשְׁפָּתֽוֹ]"
+          },
+          {
+            "verse": 14,
+            "text": "estive [שְּׂחֹק֙] para-todo povo-meu [כָּל־הַיּֽוֹם] todo o-dia"
+          },
+          {
+            "verse": 15,
+            "text": "הִשְׂבִּיעַ֥נִי nos amargos irrigan-me para Aná:"
+          },
+          {
+            "verse": 16,
+            "text": "e expulsou com o cajado segundo bateu em mim בָּאֵֽפֶר׃"
+          },
+          {
+            "verse": 17,
+            "text": "e se afastou de Sião alma-minha eu fui lançada boa"
+          },
+          {
+            "verse": 18,
+            "text": "e-אֹמַר se perderem meu נִצְחִי e-tochalti וְתוֹחַלְתּי מֵיְהוָֽה׃"
+          },
+          {
+            "verse": 19,
+            "text": "lembra-de [וּמְרוּדִ֖י] [לַעֲנָ֥ה] [וָרֹֽאשׁ]"
+          },
+          {
+            "verse": 20,
+            "text": "lembra זָכ֣וֹר lembras תִּזְכּ֔וֹר sobre-mim alma-de-mim"
+          },
+          {
+            "verse": 21,
+            "text": "esta eu retribuirei אָשִׁ֥יב a לבבי sobre assim אוחיל׃"
+          },
+          {
+            "verse": 22,
+            "text": "[חַֽסְדֵ֤י] yhwh que não que porque não"
+          },
+          {
+            "verse": 23,
+            "text": "חדשים לבקרים multiplicai a tua fidelidade:"
+          },
+          {
+            "verse": 24,
+            "text": "חלקי yhwh disse nafshi sobre assim a-ele a-ele"
+          },
+          {
+            "verse": 25,
+            "text": "bom yhwh [לְקֹוָ֔ו] [לְנֶ֖פֶשׁ] [תִּדְרְשֶֽׁנּוּ]"
+          },
+          {
+            "verse": 26,
+            "text": "bom [וְיָחִיל֙] [וְדוּמָ֔ם] [לִתְשׁוּעַ֖ת] yhwh"
+          },
+          {
+            "verse": 27,
+            "text": "bom [לַגֶּ֔בֶר] porque [עֹ֖ל] sobre"
+          },
+          {
+            "verse": 28,
+            "text": "habitou [בָּדָד֙] [וְיִדֹּ֔ם] que [נָטַ֖ל] sobre-ele"
+          },
+          {
+            "verse": 29,
+            "text": "dará [בֶּֽעָפָר֙] boca-sua [אוּלַ֖י] há [תִּקְוָֽה]"
+          },
+          {
+            "verse": 30,
+            "text": "dê לִמְכֹּחַ לָחֶד יִשְׁבֹּעַ בְּחֵיק"
+          },
+          {
+            "verse": 31,
+            "text": "que não [יִזְנַ֛ח] para-sempre Adonai"
+          },
+          {
+            "verse": 32,
+            "text": "que se [וְרִחַ֖ם] [כְּרֹ֥ב] [*חסדו]"
+          },
+          {
+            "verse": 33,
+            "text": "que não עִנָּה do-seu-líbbo e-va-jágh homem"
+          },
+          {
+            "verse": 34,
+            "text": "para-dakkéa debaixo seus-pes todo prisioneiros terra"
+          },
+          {
+            "verse": 35,
+            "text": "para-totá מִשְׁפַּט־ diante face-de face-de altíssimo"
+          },
+          {
+            "verse": 36,
+            "text": "para-avét homem בריבו Adonai não ver"
+          },
+          {
+            "verse": 37,
+            "text": "quem este disse e-tehi Adonai não ordem:"
+          },
+          {
+            "verse": 38,
+            "text": "de minha Superior não Saia as más e o bom:"
+          },
+          {
+            "verse": 39,
+            "text": "que- homem homem viveu gever sobre"
+          },
+          {
+            "verse": 40,
+            "text": "busquemos nosso caminho e investiguemos e voltaremos até yhwh"
+          },
+          {
+            "verse": 41,
+            "text": "נישעה nossos corações a como as palmas das mãos a El em-os-ceus-verso"
+          },
+          {
+            "verse": 42,
+            "text": "nós נִפְשַׁעְנוּ וּמָרִינֻהְיוּ tu não סַלְחְתָּ׃"
+          },
+          {
+            "verse": 43,
+            "text": "סַכְתָּה בַּאֲפֵךְ וַתִּרְדְּפֵינָהּ mataste não hamalta:"
+          },
+          {
+            "verse": 44,
+            "text": "סַכְתָּה בֵּעָנָן para-ti מֵעַבְרִי oração"
+          },
+          {
+            "verse": 45,
+            "text": "sí e amos im-nos em-meio-de הָעַמִּים׃"
+          },
+          {
+            "verse": 46,
+            "text": "quebrarão sobre nós פִיהֶם todo inimigos-nossos"
+          },
+          {
+            "verse": 47,
+            "text": "medo e temor ser para-nós levado e o trigo:"
+          },
+          {
+            "verse": 48,
+            "text": "as divisões- águas terá-se dividido Olho sobre Sheber filha-de povo-meu"
+          },
+          {
+            "verse": 49,
+            "text": "minha vista será enganada e-não parecer-se-á sem הֲפֻגֽוֹת׃"
+          },
+          {
+            "verse": 50,
+            "text": "até olhará yhwh yhwh dos céus:"
+          },
+          {
+            "verse": 51,
+            "text": "minha vista עֽוֹלְלָ֣ה לְנַפְשִׁ֔י de-toda filhas-de עִירִֽי׃"
+          },
+          {
+            "verse": 52,
+            "text": "צ֥וֹד צָד֛וּנִי כַּצִּפּ֖וֹר אֹיְבַ֥י por-nada:"
+          },
+          {
+            "verse": 53,
+            "text": "צָֽמְת֤וּ בַבּוֹר֙ חַיָּ֔י וַיַּדּוּ־ eben em-mim"
+          },
+          {
+            "verse": 54,
+            "text": "[צָֽפוּ־מַ֥יִם] águas sobre [נִגְזָֽרְתִּי׃] disse"
+          },
+          {
+            "verse": 55,
+            "text": "[קָרָ֤אתִי] [שִׁמְךָ֙] yhwh [מִבּ֖וֹר] [תַּחְתִּיּֽוֹת]"
+          },
+          {
+            "verse": 56,
+            "text": "קוֹלִ֖י שָׁמָ֑עְתָּ a תַּעְלֵ֧ם אָזְנְךָ֛ para-me-achar para-me-ouvir"
+          },
+          {
+            "verse": 57,
+            "text": "você-te-approchaste em-dia-de eu-te-chamarei אָמַ֖רְתָּ a você-te-temerá"
+          },
+          {
+            "verse": 58,
+            "text": "muita-te-foste Adonai רִיבֵ֥י alma-minha exaltaste-te Chayyā∶"
+          },
+          {
+            "verse": 59,
+            "text": "viste-te yhwh injustiça-me שָׁפְטָה מִשְׁפָּטִי׃"
+          },
+          {
+            "verse": 60,
+            "text": "[רָאִ֙יתָה֙] todo [כָּל־מַחְשְׁבֹתָ֖ם] todo para-mim"
+          },
+          {
+            "verse": 61,
+            "text": "[שָׁמַ֤עְתָּ] [חֶרְפָּתָם֙] yhwh todo [עָלָֽי] sobre-mim"
+          },
+          {
+            "verse": 62,
+            "text": "שַׂפְתֵ֤י קָמַי֙ e a visão deles sobre-mim todo o-dia"
+          },
+          {
+            "verse": 63,
+            "text": "a sua sentada e a sua levantamento o olhar eu as suas harpas"
+          },
+          {
+            "verse": 64,
+            "text": "retornará a-eles גְּמ֛וּל yhwh כְּמַעֲשֵׂה de suas mãos:"
+          },
+          {
+            "verse": 65,
+            "text": "תִּתֵּ֤ן a-eles de harpa coração a-eles para-eles"
+          },
+          {
+            "verse": 66,
+            "text": "perseguirás com ira e destruí-los debaixo-de nosso yhwh"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "como povo ouro dormirá o tenebroso הַטּ֑וֹב vai te unir pedras-de santidade no topo todo חוּץ-וֹת׃"
+          },
+          {
+            "verse": 2,
+            "text": "filhos-de Siao os preciosos os-mussulados no-paz eica nechshubu lenivlei- silencio obra-de mãos-de yozer"
+          },
+          {
+            "verse": 3,
+            "text": "também חָלְצוּ shad hineiku gureiheen filha-de meu-povo para-acezar no-deserto"
+          },
+          {
+            "verse": 4,
+            "text": "unir-se para-língua joven a no-escuro olalim perguntaram pão פרוס não a-eles"
+          },
+          {
+            "verse": 5,
+            "text": "os-que-comem para-mudanças inspiraram-se בַּחוּצ֑וֹת הָאֱמֻנִים֙ sobre תוֹלָ֔ע חִבְּק֖וּ אַשְׁפַּתּֽוֹת׃"
+          },
+          {
+            "verse": 6,
+            "text": "ele-foi-crecido iniquidade filha-de povo-meu מֵֽחַטַּ֖את Sodoma a invertida כְּמָה־ רָ֔גַע e-não חָ֥לוּ nela יָדָֽיִם׃"
+          },
+          {
+            "verse": 7,
+            "text": "zakkū neziyréhā ṣaḥū mehalāb admu ʿetsem osso sapir gizzrāṯam"
+          },
+          {
+            "verse": 8,
+            "text": "escuridão mishḥōr tāʾōrām não foram cortados nas transversais se estendeu sua pele sobre suas carnes ser foi como árvore:"
+          },
+          {
+            "verse": 9,
+            "text": "Tovim foram traspassados-de espada dos que são contaminados fome e sede יָזֹבֻ֔ו מְדֻקָּרִ֔ים [שָׂדָֽי׃] Shaddai"
+          },
+          {
+            "verse": 10,
+            "text": "יְדֵ֗י mulheres רַחֲמָ֣נִיּ֔וֹת בִּשּׁׁלוּ filhas eram לְבָרֹות֙ לָהֶם בְּשׁוֹבֵר filha-de povo-meu"
+          },
+          {
+            "verse": 11,
+            "text": "כּילה yhwh a חמתו שׁפך חרון sua-ira וַיָּצֶת־ e-comeste בְּצִיּון e comeu- suas-fundações:"
+          },
+          {
+            "verse": 12,
+            "text": "não הֶאֱמִינוּ reis-de terra habitantes-de תֵּבֵל porque que angústia-de e inimigo בְּשַׁעֲרֵי Jerusalém"
+          },
+          {
+            "verse": 13,
+            "text": "de-eret as-nabiya os-avonot as-cohaniyah os-shophkim em-seu-interior דֹּם צַדִּיקִֽims"
+          },
+          {
+            "verse": 14,
+            "text": "se-alegraram os-avirim em-suas-exterioridades נְגֹֽאֲל֖וּ no-sangue בְּלֹ֣א יֽוּכְל֔וּ יִגְּע֖וּ בִּלְבֻשֵׁיהֶֽם׃"
+          },
+          {
+            "verse": 15,
+            "text": "[ס֣וּרוּ] [טָמֵ֞א] [קָ֣רְאוּ] [לָ֗מוֹ] [ס֤וּרוּ] [ס֙וּרוּ֙] a que porque [גַּם־נָ֑עוּ] também [בַּגּוֹיִ֔ם] não entre-as-nações não"
+          },
+          {
+            "verse": 16,
+            "text": "face-de yhwh חליקם não יוסיפ להביטם face-de kohanim não נסאוּ não חnanoו׃"
+          },
+          {
+            "verse": 17,
+            "text": "תcilנה עינינו a nossa-ajuda הָ֑בֶל em-nossas-campanhas nossas-campanhas a nação não josué"
+          },
+          {
+            "verse": 18,
+            "text": "se-direcionaram nossos-passos מלכת em-nossas-rua-s qarab nossos-limites se-preencheram נַחֲלֻ֥י porque veio קְצִיתֵֽנוּ׃"
+          },
+          {
+            "verse": 19,
+            "text": "קָלִ֣ים foram רֹדְפֵ֔ינוּ מִנִּשְרֵ֖י céus sobre הַחֲרִימִ֣ים דְּלַקֻ֔נוּ em-o-midbar אָרְבוּ para-nós"
+          },
+          {
+            "verse": 20,
+            "text": "espírito [אַפֵּ֙ינוּ֙] [מְשִׁ֣יחַ] yhwh [נִלְכַּ֖ד] [בִּשְׁחִיתוֹתָ֑ם] que [אָמַ֔רְנוּ] [בְּצִלּ֖וֹ] [נִֽחְיֶ֥ה] [בַגּוֹיִֽם׃]"
+          },
+          {
+            "verse": 21,
+            "text": "[שִׂ֤ישִׂי] [וְשִׂמְחִי֙] filha-de Edom em-terra-de [בְּאֶ֣רֶץ] também sobre-ti [תַּעֲבָר־כּ֔וֹס] copo [וְתִתְעָרִֽי׃]"
+          },
+          {
+            "verse": 22,
+            "text": "[תַּם־עֲוֺנֵךְ֙] [בַּת־צִיּ֔וֹן] não Sião não [פָּקַ֤ד] [עֲוֺנֵךְ֙] [בַּת־אֱד֔וֹם] [גִּלָּ֖ה] filha-de sobre"
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "macho yhwh de-o- foi para-nós וּרְאֵ֥ה a חֶרְפָּתֵֽנוּ׃"
+          },
+          {
+            "verse": 2,
+            "text": "נַחֲלָתֵנוּ נֶהֶפְכָה para os zérim nas nossas batá para os nacarim:"
+          },
+          {
+            "verse": 3,
+            "text": "orfanos fomos nós pai nossas-mães pai"
+          },
+          {
+            "verse": 4,
+            "text": "de-nos em prata nosso vinho nossas árvores בִּמְחִ֥יר יָבֹֽאוּ׃"
+          },
+          {
+            "verse": 5,
+            "text": "sobre [צַוָּארֵ֙נוּ֙] [נִרְדָּ֔פְנוּ] [יָגַ֖עְנוּ] [*לא] para-nós"
+          },
+          {
+            "verse": 6,
+            "text": "Mitzrayim [נָתַ֣נּוּ] mão Assíria [לִשְׂבֹּ֥עַֽ] pão"
+          },
+          {
+            "verse": 7,
+            "text": "אֲבֹתֵ֤ינוּ חָֽטְאוּ֙ os seus pecados sofreram:"
+          },
+          {
+            "verse": 8,
+            "text": "עֲבָדִים e falaram vendê-los quebra não-há deles:"
+          },
+          {
+            "verse": 9,
+            "text": "em nossas almas profeta לַחְמֵ֔נוּ de-diante-de espada o-meadero"
+          },
+          {
+            "verse": 10,
+            "text": "nosso couro forno foram calcinados de-diante-de zelafot ra'ab׃"
+          },
+          {
+            "verse": 11,
+            "text": "mulheres betsiyon inu [בְּתֻלֹ֖ת] em-cidades-de Judá"
+          },
+          {
+            "verse": 12,
+            "text": "sarim em-lhes nitlu face-de zekenim não nehedaru׃"
+          },
+          {
+            "verse": 13,
+            "text": "bachurim tehon nasa'u u'neirim ba'ets kashalu :"
+          },
+          {
+            "verse": 14,
+            "text": "זְקֵנִים mishar shavatu em jovens minaginatam :"
+          },
+          {
+            "verse": 15,
+            "text": "cessou משׂושׂ nosso-líbbo se-tornar para-abel nossa-mechol"
+          },
+          {
+            "verse": 16,
+            "text": "caímos-naphala coroa nossa-rosh ai-de agora que porque pecamos"
+          },
+          {
+            "verse": 17,
+            "text": "sobre ser foi davoh nosso-líbbo sobre estes tornaram-se-chashu עֵינֵֽינוּ׃"
+          },
+          {
+            "verse": 18,
+            "text": "sobre monte-de Siao se-sheshamem sua-šualim הלכו- nele-verso"
+          },
+          {
+            "verse": 19,
+            "text": "tu yhwh para-sempre [תֵּשֵׁ֔ב] [כִּסְאֲךָ֖] para-geração [וָדֽוֹר]"
+          },
+          {
+            "verse": 20,
+            "text": "por-que LANETZACH- תישכחנו- תּעַזְבֵ֖נוּ לארך- dias"
+          },
+          {
+            "verse": 21,
+            "text": "HASHIBENU- yhwh a-ti novo יاما- como-dantes:"
+          },
+          {
+            "verse": 22,
+            "text": "que se maos me-assustaste-nos foste-irritado sobre nós até muito"
+          }
+        ]
+      }
+    ]
+  }
+}

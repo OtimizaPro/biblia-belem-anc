@@ -19,6 +19,12 @@ leitor-kindle/dist/
 tradutor-web/dist/
 export/
 
+# Binario regeneravel a partir de dist/sql/ — anexado nas Releases, fora do git
+dist/sqlite/
+
+# Cache do D1 (corpus baixado da API, ~13 MB) — intermediario, regeneravel
+dist/.cache/
+
 # Binarios
 *.exe
 

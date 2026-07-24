@@ -1,0 +1,3640 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 43,
+    "code": "JHN",
+    "name": "João",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "em princípio era o palavra e o palavra era junto-a o Theos e Theos era o palavra"
+          },
+          {
+            "verse": 2,
+            "text": "este era em princípio junto-a o Theos"
+          },
+          {
+            "verse": 3,
+            "text": "todas-as-coisas através-de dele aconteceu e sem dele aconteceu nem um o qual aconteceu"
+          },
+          {
+            "verse": 4,
+            "text": "em a ele vida era e o vida era o luz o dos-homens"
+          },
+          {
+            "verse": 5,
+            "text": "e o luz em o trevas brilha e o trevas ele não alcançou"
+          },
+          {
+            "verse": 6,
+            "text": "aconteceu homem tendo-sido-enviado de-junto-de de-Theos nome a ele João"
+          },
+          {
+            "verse": 7,
+            "text": "este veio para testemunho para que testemunhe acerca-de o luz para que todos creiam através-de dele"
+          },
+          {
+            "verse": 8,
+            "text": "não era aquele o luz mas para que testemunhe acerca-de o luz"
+          },
+          {
+            "verse": 9,
+            "text": "era o luz o verdadeiro o qual ilumina todas-as-coisas homem vindo para o mundo"
+          },
+          {
+            "verse": 10,
+            "text": "em o ao-mundo era e o mundo através-de dele aconteceu e o mundo ele não conheceu"
+          },
+          {
+            "verse": 11,
+            "text": "para o próprias veio e o Próprios ele não recebi"
+          },
+          {
+            "verse": 12,
+            "text": "quanto porém receberam ele deu a-eles autoridade filhos de-Theos tornar-se o creem para o nome dele"
+          },
+          {
+            "verse": 13,
+            "text": "o qual não de sangue nem de da-vontade carne nem de da-vontade homem mas de de-Theos foram-gerados"
+          },
+          {
+            "verse": 14,
+            "text": "e o palavra carne aconteceu e Habitou-em-tenda em a-nós e contemplamos o glória dele glória como unigênito de-junto-de Pai cheio da-graça e da-verdade"
+          },
+          {
+            "verse": 15,
+            "text": "João testifica acerca-de dele e tem-clamado dizendo este era o qual disseram o atrás meu vindo diante-de meu aconteceu que primeiro meu era"
+          },
+          {
+            "verse": 16,
+            "text": "que de o plenitude dele nós todos recebemos e graça em-troca-de da-graça"
+          },
+          {
+            "verse": 17,
+            "text": "que o lei através-de Moisés foi-dado o graça e o verdade através-de Iesous de-Christos aconteceu"
+          },
+          {
+            "verse": 18,
+            "text": "Theos ninguém tem-visto jamais unigênito Theos o sendo para o seio o do-Pai aquele relatou"
+          },
+          {
+            "verse": 19,
+            "text": "e esta é o testemunho o João quando enviaram junto-a ele o judeus de Jerusalém sacerdotes e levitas para que Perguntem ele tu quem és"
+          },
+          {
+            "verse": 20,
+            "text": "e confessou e não negou e confessou que eu não sou o Christos"
+          },
+          {
+            "verse": 21,
+            "text": "e perguntaram ele quê portanto tu Elias és e diz não sou o profeta és tu e respondeu Não"
+          },
+          {
+            "verse": 22,
+            "text": "disseram portanto a ele quem és para que resposta demos o tendo-enviado nos quê dizes acerca-de ti-mesmo"
+          },
+          {
+            "verse": 23,
+            "text": "disse eu voz clamando em o deserto Endireitai o caminho do-Kyrios assim-como disse Isaías o profeta"
+          },
+          {
+            "verse": 24,
+            "text": "e enviados eram de o fariseus"
+          },
+          {
+            "verse": 25,
+            "text": "e perguntaram ele e disseram a ele quê portanto batizas se tu não és o Christos nem Elias nem o profeta"
+          },
+          {
+            "verse": 26,
+            "text": "respondeu a-eles o João dizendo eu batizo em água meio vosso está-firme o qual vós não sei"
+          },
+          {
+            "verse": 27,
+            "text": "o atrás meu vindo o qual não sou eu digno para que desatarei dele o correia o Sandália"
+          },
+          {
+            "verse": 28,
+            "text": "estas-coisas em Betânia aconteceu além o Jordão onde era o João batizando"
+          },
+          {
+            "verse": 29,
+            "text": "o no-dia-seguinte vê o Iesous o-que-vem junto-a ele e diz Vê o Cordeiro o de-Theos o levantando o pecado o do-mundo"
+          },
+          {
+            "verse": 30,
+            "text": "este é em-favor-de o qual eu disseram atrás meu vem homem o qual diante-de meu aconteceu que primeiro meu era"
+          },
+          {
+            "verse": 31,
+            "text": "e-eu não sei ele mas para que seja-manifestada o Israel através-de isto vieram eu em água batizando"
+          },
+          {
+            "verse": 32,
+            "text": "e testemunhou João dizendo que Tenho-contemplado o espírito descendo como pomba de do-céu e permaneceu sobre ele"
+          },
+          {
+            "verse": 33,
+            "text": "e-eu não sei ele mas o tendo-enviado me batizar em água aquele a-mim disse sobre o qual partícula-condicional Vejas o espírito descendo e permanecendo sobre ele este é o batizando em Espírito no-santo"
+          },
+          {
+            "verse": 34,
+            "text": "e-eu tenho-visto e tenho-testemunhado que este é o Filho o de-Theos"
+          },
+          {
+            "verse": 35,
+            "text": "o no-dia-seguinte novamente estava-de-pé o João e de o discípulos dele dois"
+          },
+          {
+            "verse": 36,
+            "text": "e olhando-fixamente o Iesous andando diz Vê o Cordeiro o de-Theos"
+          },
+          {
+            "verse": 37,
+            "text": "e ouviram o dois discípulos dele falando e seguiram o Iesous"
+          },
+          {
+            "verse": 38,
+            "text": "voltando-se porém o Iesous e tendo-contemplado eles seguindo diz a-eles quê buscais o porém disseram a ele Rabi o qual é-chamado sendo-traduzido Mestre onde permaneces"
+          },
+          {
+            "verse": 39,
+            "text": "diz a-eles Vinde e vereis vieram portanto e viram onde permanece e de a ele permaneceram o dia aquela hora era como décima"
+          },
+          {
+            "verse": 40,
+            "text": "era André o irmão de-Simão de-Pedro um de o dois o tendo-ouvido de-junto-de João e tendo-seguido a ele"
+          },
+          {
+            "verse": 41,
+            "text": "encontra este primeiro o irmão o próprio Simão e diz a ele Encontramos o Messias o qual é sendo-traduzido Christos"
+          },
+          {
+            "verse": 42,
+            "text": "conduziu ele junto-a o Iesous olhando-fixamente a ele o Iesous disse tu és Simão o Filho João tu serás-chamado Cefas o qual é-interpretado Pedro"
+          },
+          {
+            "verse": 43,
+            "text": "o no-dia-seguinte quis sair para o Galileia e encontra Filipe e diz a ele o Iesous Segue a-mim"
+          },
+          {
+            "verse": 44,
+            "text": "era porém o Filipe de Betsaida de o cidade André e de-Pedro"
+          },
+          {
+            "verse": 45,
+            "text": "encontra Filipe o Natanael e diz a ele o qual escreveu Moisés em o lei e o profetas encontramos Iesous Filho o José o de Nazaré"
+          },
+          {
+            "verse": 46,
+            "text": "e disse a ele Natanael de Nazaré pode algo bom ser diz a ele o Filipe Vem e vê"
+          },
+          {
+            "verse": 47,
+            "text": "viu Iesous o Natanael vindo junto-a ele e diz acerca-de dele Vê verdadeiramente Israelita em o qual engano não é"
+          },
+          {
+            "verse": 48,
+            "text": "diz a ele Natanael de-onde me conheces respondeu Iesous e disse a ele Antes-de o te Filipe chamar sendo sob o figueira viram te"
+          },
+          {
+            "verse": 49,
+            "text": "respondeu a ele Natanael Rabi tu és o Filho o de-Theos tu Rei és o Israel"
+          },
+          {
+            "verse": 50,
+            "text": "respondeu Iesous e disse a ele que dize a-ti que viram te debaixo o figueira crês maior destes verás"
+          },
+          {
+            "verse": 51,
+            "text": "e diz a ele Amém amém digo a-vós vereis o céu tendo-sido-abertos e o anjo o de-Theos subindo e descendo sobre o Filho o do-homem"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e o dia o no-terceiro bodas aconteceu em Caná o Galileia e era o mãe o Iesous ali"
+          },
+          {
+            "verse": 2,
+            "text": "foi-chamado porém e o Iesous e o discípulos dele para o casamento"
+          },
+          {
+            "verse": 3,
+            "text": "e Tendo-faltado vinho diz o mãe o Iesous junto-a ele vinho não têm"
+          },
+          {
+            "verse": 4,
+            "text": "e diz a-ela o Iesous quê mim e te mulher ainda-não chegou o hora meu"
+          },
+          {
+            "verse": 5,
+            "text": "diz o mãe dele o servos o qual algo partícula-condicional diga a-vós fazei"
+          },
+          {
+            "verse": 6,
+            "text": "eram porém ali de-pedra talhas seis segundo o purificação o judeus jazendo contendo cada metretas dois ou três"
+          },
+          {
+            "verse": 7,
+            "text": "diz a-eles o Iesous Enchei o talhas água e encheram elas até acima"
+          },
+          {
+            "verse": 8,
+            "text": "e diz a-eles Tirai agora e trazei o mestre-de-cerimônias o porém trouxeram"
+          },
+          {
+            "verse": 9,
+            "text": "como porém provou o mestre-de-cerimônias o água vinho tendo-sido-feito e não sei de-onde é o porém servos sei o tendo-tirado o água chama o noivo o mestre-de-cerimônias"
+          },
+          {
+            "verse": 10,
+            "text": "e diz a ele todo homem primeiro o belo vinho põe e quando embriaguem-se o menor tu tens-guardado o belo vinho até agora"
+          },
+          {
+            "verse": 11,
+            "text": "esta fez início o sinais o Iesous em Caná o Galileia e manifestou o glória dele e creram para ele o discípulos dele"
+          },
+          {
+            "verse": 12,
+            "text": "com isto desceu para Cafarnaum ele e o mãe dele e o irmãos e o discípulos dele e ali permaneceram não muitas do-dia"
+          },
+          {
+            "verse": 13,
+            "text": "e perto era o páscoa o judeus e subiu para Jerusalém o Iesous"
+          },
+          {
+            "verse": 14,
+            "text": "e encontrou em o templo o vendendo bois e ovelhas e pombas e o cambistas sentados"
+          },
+          {
+            "verse": 15,
+            "text": "e tendo-feito flagelo de de-cordas todos expulsou de o do-templo o e ovelhas e o bois e o cambistas derramou o moedas e o mesas transtornou"
+          },
+          {
+            "verse": 16,
+            "text": "e o o pombas vendem disse Levantai estas-coisas daqui não fazei o casa o Pai meu casa comércio"
+          },
+          {
+            "verse": 17,
+            "text": "lembraram-se o discípulos dele que escrito é o zelo o da-casa teu devorará me"
+          },
+          {
+            "verse": 18,
+            "text": "responderam portanto o judeus e disseram a ele quê sinal mostras a-nós que estas-coisas fazes"
+          },
+          {
+            "verse": 19,
+            "text": "respondeu Iesous e disse a-eles Desatai o templo este e em três dias levantarei ele"
+          },
+          {
+            "verse": 20,
+            "text": "disseram portanto o judeus quarenta e seis anos foi-edificada o templo este e tu em três dias levantarás ele"
+          },
+          {
+            "verse": 21,
+            "text": "aquele porém dizia acerca-de o templo o do-corpo dele"
+          },
+          {
+            "verse": 22,
+            "text": "quando portanto foi-ressuscitado de mortos lembraram-se o discípulos dele que isto dizia e creram o escritura e o em-palavra o qual disse o Iesous"
+          },
+          {
+            "verse": 23,
+            "text": "como porém era em o em-Jerusalém em o páscoa em o festa muitos creram para o nome dele observando dele o sinais o qual fazia"
+          },
+          {
+            "verse": 24,
+            "text": "ele porém Iesous não cria si-mesmo a-eles através-de o ele conhecer todos"
+          },
+          {
+            "verse": 25,
+            "text": "e que não necessidade tinha para que alguém testemunhe acerca-de o do-homem ele pois conhecia quê era em o ser-humano"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "era porém homem de o fariseus Nicodemos nome a ele governante o judeus"
+          },
+          {
+            "verse": 2,
+            "text": "este veio junto-a ele noite e disse a ele Rabi sei que de de-Theos tens-vindo mestre ninguém pois pode estas-coisas o sinais fazer o qual tu fazes se não seja o Theos com dele"
+          },
+          {
+            "verse": 3,
+            "text": "respondeu Iesous e disse a ele Amém amém digo a-ti se não alguém seja-gerado de-cima não pode ver o reino o de-Theos"
+          },
+          {
+            "verse": 4,
+            "text": "diz junto-a ele o Nicodemos como pode homem ser-gerado ancião sendo não pode para o ventre o mãe dele segundo entrar e ser-gerado"
+          },
+          {
+            "verse": 5,
+            "text": "respondeu Iesous Amém amém digo a-ti se não alguém seja-gerado de água e do-espírito não pode entrar para o reino o de-Theos"
+          },
+          {
+            "verse": 6,
+            "text": "o gerado de o carne carne é e o gerado de o do-espírito espírito é"
+          },
+          {
+            "verse": 7,
+            "text": "não maravilles que dize a-ti é necessário vos ser-gerado de-cima"
+          },
+          {
+            "verse": 8,
+            "text": "o espírito onde quer sopra e o voz dele ouves mas não sei de-onde vem e onde vai assim é todo o gerado de o do-espírito"
+          },
+          {
+            "verse": 9,
+            "text": "respondeu Nicodemos e disse a ele como pode estas-coisas tornar-se"
+          },
+          {
+            "verse": 10,
+            "text": "respondeu Iesous e disse a ele tu és o mestre o Israel e estas-coisas não conheces"
+          },
+          {
+            "verse": 11,
+            "text": "amém amém digo a-ti que o qual sei falamos e o qual vimos testemunhamos e o testemunho nosso não recebeis"
+          },
+          {
+            "verse": 12,
+            "text": "se o terrenas disseram a-vós e não credes como se diga a-vós o celestiais crereis"
+          },
+          {
+            "verse": 13,
+            "text": "e ninguém tem-subido para o céu se não o de o do-céu tendo-descido o Filho o do-homem"
+          },
+          {
+            "verse": 14,
+            "text": "e assim-como Moisés exaltou o serpente em o deserto assim ser-exaltado é necessário o Filho o do-homem"
+          },
+          {
+            "verse": 15,
+            "text": "para que todo o crendo em a ele tenha vida eterno"
+          },
+          {
+            "verse": 16,
+            "text": "assim pois amou o Theos o mundo de-modo-que o Filho o unigênito deu para que todo o crendo para ele não pereça mas tenha vida eterno"
+          },
+          {
+            "verse": 17,
+            "text": "não pois enviou o Theos o Filho para o mundo para que julgue o mundo mas para que seja-salvo o mundo através-de dele"
+          },
+          {
+            "verse": 18,
+            "text": "o crendo para ele não é-julgado o não crendo já tem-sido-julgado que não tem-crido para o nome o unigênito do-Filho o de-Theos"
+          },
+          {
+            "verse": 19,
+            "text": "esta e/mas é o julgamento que o luz tem-vindo para o mundo e amaram o homens mais o trevas ou o luz era pois deles má o obra"
+          },
+          {
+            "verse": 20,
+            "text": "todo pois o vis praticando odeia o luz e não vem junto-a o luz para que não seja-repreendido o obra dele"
+          },
+          {
+            "verse": 21,
+            "text": "o porém fazendo o verdade vem junto-a o luz para que seja-manifestada dele o obra que em a-Theos é tendo-sido-trabalhadas"
+          },
+          {
+            "verse": 22,
+            "text": "com estas-coisas veio o Iesous e o discípulos dele para o Judeia terra e ali permanecia com deles e batizava"
+          },
+          {
+            "verse": 23,
+            "text": "era porém e João batizando em Enom perto o Salim que água muitas-coisas era ali e chegavam e eram-batizados"
+          },
+          {
+            "verse": 24,
+            "text": "ainda-não pois era tendo-sido-lançado para o prisão João"
+          },
+          {
+            "verse": 25,
+            "text": "aconteceu portanto busca de o discípulos João com Judeu acerca-de purificação"
+          },
+          {
+            "verse": 26,
+            "text": "e vieram junto-a o João e disseram a ele Rabi o qual era com teu além o Jordão o qual tu tens-testemunhado vê este batiza e todos vêm junto-a ele"
+          },
+          {
+            "verse": 27,
+            "text": "respondeu João e disse não pode homem receber nada se não seja dado a ele de o do-céu"
+          },
+          {
+            "verse": 28,
+            "text": "eles-mesmos vós a-mim testemunhais que disseram não sou eu o Christos mas que Tendo-sido-enviado sou diante daquele"
+          },
+          {
+            "verse": 29,
+            "text": "o tendo o noiva noivo é o porém amigo o noivo o tendo-ficado-de-pé e ouvindo dele alegria alegra-se através-de o voz o noivo esta portanto o alegria o minha foi-cumprido"
+          },
+          {
+            "verse": 30,
+            "text": "aquele é necessário crescer mim porém ser-diminuído"
+          },
+          {
+            "verse": 31,
+            "text": "o de-cima vindo sobre todos é o sendo de o da-terra de o da-terra é e de o da-terra fala o de o do-céu vindo sobre todos é"
+          },
+          {
+            "verse": 32,
+            "text": "o qual tem-visto e ouviu isto testifica e o testemunho dele ninguém recebe"
+          },
+          {
+            "verse": 33,
+            "text": "o tomando dele o testemunho Selou que o Theos verdadeiro é"
+          },
+          {
+            "verse": 34,
+            "text": "o qual pois enviou o Theos o palavras o de-Theos fala não pois de medida dá o espírito"
+          },
+          {
+            "verse": 35,
+            "text": "o Pai ama o filho e todas-as-coisas tem-dado em o mão dele"
+          },
+          {
+            "verse": 36,
+            "text": "o crendo para o Filho tem vida eterno o porém desobedecendo o filho não verá vida mas o ira o de-Theos permanece sobre ele"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "como portanto conheceu o Kyrios que ouviram o fariseus que Iesous mais discípulos faz e batiza ou João"
+          },
+          {
+            "verse": 2,
+            "text": "embora Iesous ele não batizava mas o discípulos dele"
+          },
+          {
+            "verse": 3,
+            "text": "deixou o Judeia e partiu novamente para o Galileia"
+          },
+          {
+            "verse": 4,
+            "text": "é necessário porém ele atravessar através-de o Samaria"
+          },
+          {
+            "verse": 5,
+            "text": "vem portanto para cidade o Samaria chamada Sicar próximo o campo o qual deu Jacó José o filho dele"
+          },
+          {
+            "verse": 6,
+            "text": "era porém ali fonte o Jacó o portanto Iesous tendo-trabalhado de o jornada sentava-se assim sobre o fonte hora era como sexta"
+          },
+          {
+            "verse": 7,
+            "text": "vem mulher de o Samaria tirar-água água diz a-ela o Iesous Dá a-mim beber"
+          },
+          {
+            "verse": 8,
+            "text": "o pois discípulos dele tinham-partido para o cidade para que alimentos comprem"
+          },
+          {
+            "verse": 9,
+            "text": "diz portanto a ele o mulher o Samaritana como tu judeu sendo de-junto-de mim beber pedes mulher Samaritana sendo não pois têm-trato-com judeus Samaritanos"
+          },
+          {
+            "verse": 10,
+            "text": "respondeu Iesous e disse a-ela se sei o gratuitamente o de-Theos e quem é o dizendo a-ti Dá a-mim beber tu partícula-condicional Pediste ele e deu se a-ti água vivendo"
+          },
+          {
+            "verse": 11,
+            "text": "diz a ele Kyrie nem balde tens e o poço é profundo de-onde portanto tens o água o vivendo"
+          },
+          {
+            "verse": 12,
+            "text": "não tu maior és o do-Pai nosso Jacó o qual deu a-nós o poço e ele de dele bebeu e o filhos dele e o rebanhos dele"
+          },
+          {
+            "verse": 13,
+            "text": "respondeu Iesous e disse a-ela todo o bebendo de o água deste terá-sede novamente"
+          },
+          {
+            "verse": 14,
+            "text": "o qual e/mas partícula-condicional beba de o água o qual eu darei a ele não não terá-sede para o eternidade mas o água o qual darei a ele acontecerá em a ele fonte água saltando para vida eterno"
+          },
+          {
+            "verse": 15,
+            "text": "diz junto-a ele o mulher Kyrie dá a-mim isto o água para que não tenho-sede nem passe-através aqui tirar-água"
+          },
+          {
+            "verse": 16,
+            "text": "diz a-ela Vai chama o homem teu e vem aqui"
+          },
+          {
+            "verse": 17,
+            "text": "respondeu o mulher e disse não tenho homem diz a-ela o Iesous Bem disseste que homem não tenho"
+          },
+          {
+            "verse": 18,
+            "text": "cinco pois homens Tiveste e agora o qual tens não é teu homem isto verdadeiro tens-dito"
+          },
+          {
+            "verse": 19,
+            "text": "diz a ele o mulher Kyrie observo que profeta és tu"
+          },
+          {
+            "verse": 20,
+            "text": "o pais nosso em o no-monte neste adoraram e vós dizeis que em em-Jerusalém é o lugar onde adorar é necessário"
+          },
+          {
+            "verse": 21,
+            "text": "diz a-ela o Iesous Crê a-mim mulher que vem hora quando nem em o no-monte neste nem em em-Jerusalém prostrar-vos-eis o Pai"
+          },
+          {
+            "verse": 22,
+            "text": "vós prostrais-vos o qual não sei nós prostramo-nos o qual sei que o salvação de o judeus é"
+          },
+          {
+            "verse": 23,
+            "text": "mas vem hora e agora é quando o verdadeiras adoradores adorarão o Pai em espírito e verdade e pois o Pai tais busca o adorando ele"
+          },
+          {
+            "verse": 24,
+            "text": "espírito o Theos e o adorando em espírito e verdade é necessário adorar"
+          },
+          {
+            "verse": 25,
+            "text": "diz a ele o mulher sei que Messias vem o chamado Christos quando venha aquele anunciará a-nós todas-as-coisas"
+          },
+          {
+            "verse": 26,
+            "text": "diz a-ela o Iesous Eu sou o falando a-ti"
+          },
+          {
+            "verse": 27,
+            "text": "e sobre neste vieram o discípulos dele e admiravam-se que com mulher falava ninguém contudo disse quê buscas ou quê falas com dela"
+          },
+          {
+            "verse": 28,
+            "text": "deixou portanto o talha dela o mulher e partiu para o cidade e diz o aos-homens"
+          },
+          {
+            "verse": 29,
+            "text": "vinde vede homem o qual disse a-mim todas-as-coisas o qual fiz acaso este é o Christos"
+          },
+          {
+            "verse": 30,
+            "text": "saíram de o cidade e vinham junto-a ele"
+          },
+          {
+            "verse": 31,
+            "text": "em o entre perguntavam ele o discípulos dizendo Rabi come"
+          },
+          {
+            "verse": 32,
+            "text": "o porém disse a-eles eu comida tenho comer o qual vós não sei"
+          },
+          {
+            "verse": 33,
+            "text": "diziam portanto o discípulos junto-a uns-aos-outros não alguém trouxe a ele comer"
+          },
+          {
+            "verse": 34,
+            "text": "diz a-eles o Iesous Meu alimento é para que faço o vontade o que-enviou me e aperfeiçoarei dele o obra"
+          },
+          {
+            "verse": 35,
+            "text": "não vós dizeis que Ainda de-quatro-meses é e o ceifa vem eis digo a-vós levantai o olhos vosso e contemplai o região que brancas são junto-a ceifa já"
+          },
+          {
+            "verse": 36,
+            "text": "o ceifando salário recebe e reúne fruto para vida eterno para que o o-que-semeia juntamente alegra-se e o ceifando"
+          },
+          {
+            "verse": 37,
+            "text": "em pois neste o palavra é verdadeiro que outro é o o-que-semeia e outro o ceifando"
+          },
+          {
+            "verse": 38,
+            "text": "eu enviei vos ceifar o qual não vós tendes-trabalhado outros têm-trabalhado e vós para o trabalho deles tendes-entrado"
+          },
+          {
+            "verse": 39,
+            "text": "de porém o cidade daquela muitos creram para ele o samaritanos através-de o palavra o mulher testemunhando que disse a-mim todas-as-coisas o qual fiz"
+          },
+          {
+            "verse": 40,
+            "text": "como portanto vieram junto-a ele o Samaritanos perguntavam ele permanecer de a-eles e permaneceu ali dois do-dia"
+          },
+          {
+            "verse": 41,
+            "text": "e muito mais creram através-de o palavra dele"
+          },
+          {
+            "verse": 42,
+            "text": "o e mulher diziam que não-mais através-de o tua fala cremos eles-mesmos pois temos-ouvido e sei que este é verdadeiramente o Salvador o do-mundo"
+          },
+          {
+            "verse": 43,
+            "text": "com porém o dois do-dia saiu dali para o Galileia"
+          },
+          {
+            "verse": 44,
+            "text": "ele pois Iesous testemunhou que profeta em o em-particular pátria honra não tem"
+          },
+          {
+            "verse": 45,
+            "text": "quando portanto veio para o Galileia receberam ele o galileus todas-as-coisas Tendo-visto quanto fez em em-Jerusalém em o festa e eles-mesmos pois vieram para o festa"
+          },
+          {
+            "verse": 46,
+            "text": "veio portanto novamente para o Caná o Galileia onde fez o água vinho e era alguém real o qual o Filho estava-doente em Cafarnaum"
+          },
+          {
+            "verse": 47,
+            "text": "este ouvindo que Iesous chegou de o Judeia para o Galileia partiu junto-a ele e perguntava para que desça e Cure dele o filho estava-prestes-a pois morrer"
+          },
+          {
+            "verse": 48,
+            "text": "disse portanto o Iesous junto-a ele se não sinais e prodígios vejais não não creiais"
+          },
+          {
+            "verse": 49,
+            "text": "diz junto-a ele o real Kyrie desce antes-de morrer o criança meu"
+          },
+          {
+            "verse": 50,
+            "text": "diz a ele o Iesous vai o filho teu vive creu o homem o em-palavra o qual disse a ele o Iesous e ia"
+          },
+          {
+            "verse": 51,
+            "text": "já porém dele descendo o servos encontraram a ele dizendo que o servo dele vive"
+          },
+          {
+            "verse": 52,
+            "text": "Inquiriu portanto o hora de deles em o qual melhor teve disseram portanto a ele que Ontem hora sétima deixou ele o febre"
+          },
+          {
+            "verse": 53,
+            "text": "conheceu portanto o Pai que naquela o hora em o qual disse a ele o Iesous o filho teu vive e creu ele e o casa dele toda"
+          },
+          {
+            "verse": 54,
+            "text": "isto porém novamente segundo sinal fez o Iesous vindo de o Judeia para o Galileia"
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "com estas-coisas era festa o judeus e subiu Iesous para Jerusalém"
+          },
+          {
+            "verse": 2,
+            "text": "é porém em o em-Jerusalém sobre o das-ovelhas tanque o sendo-chamada em-hebraico Betzatá cinco pórticos tendo"
+          },
+          {
+            "verse": 3,
+            "text": "em estas estava-deitado multidão o estando-fracos cegos de-mancos secos esperando o o água movimento"
+          },
+          {
+            "verse": 4,
+            "text": "anjo pois segundo tempo descia em o tanque e Perturbava o água o portanto primeiro embarcando com o perturbação o água são tornava-se o qual alguma-vez era-retida doença"
+          },
+          {
+            "verse": 5,
+            "text": "era e/mas alguém homem ali trinta e oito anos tendo em o fraqueza dele"
+          },
+          {
+            "verse": 6,
+            "text": "este vendo o Iesous reclinado e sabendo que muito já tempo tem diz a ele Queres são tornar-se"
+          },
+          {
+            "verse": 7,
+            "text": "respondeu a ele o fracos Kyrie homem não tenho para que quando seja-perturbado o água lance me para o tanque em o qual porém venho eu outro antes-de mim desce"
+          },
+          {
+            "verse": 8,
+            "text": "diz a ele o Iesous Levanta-te levanta o maca teu e anda"
+          },
+          {
+            "verse": 9,
+            "text": "e imediatamente aconteceu são o homem e levantou o maca dele e andava era porém sábado em naquela o dia"
+          },
+          {
+            "verse": 10,
+            "text": "diziam portanto o judeus o tendo-sido-curado Sábado é e não é-lícito a-ti levantar o maca"
+          },
+          {
+            "verse": 11,
+            "text": "o qual porém respondeu a-eles o tendo-feito me são aquele a-mim disse Levanta o maca teu e anda"
+          },
+          {
+            "verse": 12,
+            "text": "perguntaram ele quem é o homem o dizendo a-ti Levanta e anda"
+          },
+          {
+            "verse": 13,
+            "text": "o porém Tendo-sido-curado não sei quem é o pois Iesous retirou-se multidão sendo em o no-lugar"
+          },
+          {
+            "verse": 14,
+            "text": "com estas-coisas encontra ele o Iesous em o templo e disse a ele Vê são tens-te-tornado não-mais peca para que não pior te algo aconteça"
+          },
+          {
+            "verse": 15,
+            "text": "partiu o homem e disse o judeus que Iesous é o tendo-feito ele são"
+          },
+          {
+            "verse": 16,
+            "text": "e através-de isto perseguiam o judeus o Iesous que estas-coisas fazia em no-sábado"
+          },
+          {
+            "verse": 17,
+            "text": "o porém respondeu a-eles o Pai meu até agora trabalha e-eu trabalho"
+          },
+          {
+            "verse": 18,
+            "text": "através-de isto portanto mais buscavam ele o judeus matar que não somente Desatava o sábado mas e Pai próprio dizia o Theos Igual si-mesmo fazendo o a-Theos"
+          },
+          {
+            "verse": 19,
+            "text": "Respondeu portanto o Iesous e dizia a-eles Amém amém digo a-vós não pode o Filho fazer de si-mesmo nada partícula-condicional não algo veja o Pai fazendo o qual pois partícula-condicional aquele faça estas-coisas e o Filho semelhantemente faz"
+          },
+          {
+            "verse": 20,
+            "text": "o pois Pai ama o Filho e todas-as-coisas mostra a ele o qual ele faz e maior destes mostrará a ele obra para que vós maravilheis"
+          },
+          {
+            "verse": 21,
+            "text": "como pois o Pai levanta o mortos e vivifica assim e o Filho o qual quer vivifica"
+          },
+          {
+            "verse": 22,
+            "text": "nem pois o Pai julga a-ninguém mas o juízo toda tem-dado o filho"
+          },
+          {
+            "verse": 23,
+            "text": "para que todos honrem o Filho assim-como honrem o Pai o não honrando o Filho não honra o Pai o tendo-enviado ele"
+          },
+          {
+            "verse": 24,
+            "text": "amém amém digo a-vós que o o palavra meu ouvindo e crendo o tendo-enviado me tem vida eterno e para juízo não vem mas tem-passado de o da-morte para o vida"
+          },
+          {
+            "verse": 25,
+            "text": "amém amém digo a-vós que vem hora e agora é quando o mortos ouvirão o voz o do-Filho o de-Theos e o ouvindo viverão"
+          },
+          {
+            "verse": 26,
+            "text": "assim-como pois o Pai tem vida em si-mesmo assim e o filho deu vida ter em si-mesmo"
+          },
+          {
+            "verse": 27,
+            "text": "e autoridade deu a ele juízo fazer que Filho do-homem é"
+          },
+          {
+            "verse": 28,
+            "text": "não admirais isto que vem hora em o qual todos o em o sepulcros ouvirão o voz dele"
+          },
+          {
+            "verse": 29,
+            "text": "e sairão o o boas-coisas tendo-feito para ressurreição da-vida o o vis tendo-praticado para ressurreição julgamento"
+          },
+          {
+            "verse": 30,
+            "text": "não posso eu fazer de de-mim-mesmo nada assim-como ouço julgo e o julgamento o minha justa é que não busco o vontade o meu mas o vontade o que-enviou me"
+          },
+          {
+            "verse": 31,
+            "text": "se eu testemunho acerca-de de-mim-mesmo o testemunho meu não é verdadeiro"
+          },
+          {
+            "verse": 32,
+            "text": "outro é o testemunhando acerca-de mim e sei que verdadeiro é o testemunho o qual testifica acerca-de mim"
+          },
+          {
+            "verse": 33,
+            "text": "vós enviastes junto-a João e tem-testemunhado o verdade"
+          },
+          {
+            "verse": 34,
+            "text": "eu porém não de-junto-de do-homem o testemunho recebo mas estas-coisas digo para que vós sejais-salvos"
+          },
+          {
+            "verse": 35,
+            "text": "aquele era o lâmpada o ardendo e brilhando vós porém quisestes exultar junto-a hora em o luz dele"
+          },
+          {
+            "verse": 36,
+            "text": "eu porém tenho o testemunho maior o João o pois obra o qual deu a-mim o Pai para que aperfeiçoarei elas elas o obra o qual faço testifica acerca-de mim que o Pai me enviou"
+          },
+          {
+            "verse": 37,
+            "text": "e o tendo-enviado me Pai aquele tem-testemunhado acerca-de mim nem voz dele jamais tendes-ouvido nem forma dele tendes-visto"
+          },
+          {
+            "verse": 38,
+            "text": "e o palavra dele não tendes em a-vós permanecendo que o qual enviou aquele neste vós não credes"
+          },
+          {
+            "verse": 39,
+            "text": "Examinais o escrituras que vós pensais em elas vida eterno ter e aquelas são o testemunhando acerca-de mim"
+          },
+          {
+            "verse": 40,
+            "text": "e não quereis vir para me para que vida tenhais"
+          },
+          {
+            "verse": 41,
+            "text": "glória de-junto-de dos-homens não recebo"
+          },
+          {
+            "verse": 42,
+            "text": "mas Tenho-conhecido vos que o amor o de-Theos não tendes em si-mesmos"
+          },
+          {
+            "verse": 43,
+            "text": "eu tenho-vindo em o em-nome o Pai meu e não recebeis me se outro venha em o em-nome o próprio aquele recebereis"
+          },
+          {
+            "verse": 44,
+            "text": "como podeis vós crer glória de-junto-de uns-aos-outros recebendo e o glória o de-junto-de o somente de-Theos não buscais"
+          },
+          {
+            "verse": 45,
+            "text": "não pensais que eu acusarei vosso junto-a o Pai é o acusando vosso Moisés para o qual vós tendes-esperado"
+          },
+          {
+            "verse": 46,
+            "text": "se pois acreditáveis Moisés acreditáveis partícula-condicional me acerca-de pois mim aquele escreveu"
+          },
+          {
+            "verse": 47,
+            "text": "se porém o daquele letras não credes como o meus Palavras crereis"
+          }
+        ]
+      },
+      {
+        "chapter": 6,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "com estas-coisas partiu o Iesous além o do-mar o Galileia o Tiberíades"
+          },
+          {
+            "verse": 2,
+            "text": "seguia porém a ele multidão muito que Viam o sinais o qual fazia sobre o estando-fracos"
+          },
+          {
+            "verse": 3,
+            "text": "subiu porém para o monte Iesous e ali sentava-se com o discípulos dele"
+          },
+          {
+            "verse": 4,
+            "text": "era porém perto o páscoa o festa o judeus"
+          },
+          {
+            "verse": 5,
+            "text": "levantando portanto o olhos o Iesous e tendo-contemplado que muito multidão vem junto-a ele diz junto-a Filipe de-onde compremos pães para que comam estes"
+          },
+          {
+            "verse": 6,
+            "text": "isto porém dizia tentando ele ele pois sei quê estava-prestes fazer"
+          },
+          {
+            "verse": 7,
+            "text": "respondeu a ele o Filipe Duzentos denários pães não bastam a-eles para que cada-um pouco algo tome"
+          },
+          {
+            "verse": 8,
+            "text": "diz a ele um de o discípulos dele André o irmão de-Simão de-Pedro"
+          },
+          {
+            "verse": 9,
+            "text": "é rapazinho aqui o qual tem cinco pães de-cevada e dois peixinhos mas estas-coisas quê é para tantos"
+          },
+          {
+            "verse": 10,
+            "text": "disse o Iesous Fazei o homens reclinar-se era porém erva muito em o no-lugar reclinaram-se portanto o homens o número como cinco-mil"
+          },
+          {
+            "verse": 11,
+            "text": "recebeu portanto o pães o Iesous e tendo-dado-graças distribuiu o reclinados semelhantemente e de o peixinhos quanto queriam"
+          },
+          {
+            "verse": 12,
+            "text": "como porém foram-enchidos diz o discípulos dele Reuni o tendo-abundado pedaços para que não algo pereça"
+          },
+          {
+            "verse": 13,
+            "text": "reuniram portanto e encheram doze cestos pedaços de o cinco pães o de-cevada o qual abundaram o tendo-comido"
+          },
+          {
+            "verse": 14,
+            "text": "o portanto homens vendo o qual fez sinal diziam que Este é verdadeiramente o profeta o vindo para o mundo"
+          },
+          {
+            "verse": 15,
+            "text": "Iesous portanto sabendo que estão-a-ponto-de vir e arrebatar ele para que façam rei retirou-se novamente para o monte ele só"
+          },
+          {
+            "verse": 16,
+            "text": "como porém tarde aconteceu desceram o discípulos dele sobre o mar"
+          },
+          {
+            "verse": 17,
+            "text": "e tendo-embarcado para barco vinham além o mar para Cafarnaum e trevas já tinha-acontecido e ainda-não tinha-vindo junto-a eles o Iesous"
+          },
+          {
+            "verse": 18,
+            "text": "o e mar vento grande soprando despertava-se"
+          },
+          {
+            "verse": 19,
+            "text": "tendo-remado portanto como estádios vinte cinco ou trinta contemplam o Iesous andando sobre o mar e perto o do-barco acontecendo e temeram"
+          },
+          {
+            "verse": 20,
+            "text": "o porém diz a-eles Eu sou não temei"
+          },
+          {
+            "verse": 21,
+            "text": "queriam portanto receber ele para o barco e imediatamente aconteceu o barco sobre o da-terra para o qual iam"
+          },
+          {
+            "verse": 22,
+            "text": "o no-dia-seguinte o multidão o tendo-ficado-de-pé além o do-mar vi que barquinho outro não era ali se não um e que não entrou-junto o discípulos dele o Iesous para o barco mas sós o discípulos dele foram"
+          },
+          {
+            "verse": 23,
+            "text": "mas veio barquinhos de Tiberíades perto o lugar onde comeram o pão tendo-dado-graças o do-Kyrios"
+          },
+          {
+            "verse": 24,
+            "text": "quando portanto viu o multidão que Iesous não é ali nem o discípulos dele embarcaram eles-mesmos para o barquinhos e vieram para Cafarnaum buscando o Iesous"
+          },
+          {
+            "verse": 25,
+            "text": "e tendo-encontrado ele além o mar disseram a ele Rabi quando aqui tens-te-tornado"
+          },
+          {
+            "verse": 26,
+            "text": "respondeu a-eles o Iesous e disse Amém amém digo a-vós buscais me não que vistes sinais mas que Comestes de o pães e Fostes-saciados"
+          },
+          {
+            "verse": 27,
+            "text": "trabalhai não o comida o sendo-destruída mas o comida o permanecendo para vida eterno o qual o Filho o do-homem a-vós dará este pois o Pai selou o Theos"
+          },
+          {
+            "verse": 28,
+            "text": "disseram portanto junto-a ele quê façamos para que trabalhemos o obra o de-Theos"
+          },
+          {
+            "verse": 29,
+            "text": "respondeu Iesous e disse a-eles isto é o obra o de-Theos para que creiais para o qual enviou aquele"
+          },
+          {
+            "verse": 30,
+            "text": "disseram portanto a ele quê portanto fazes tu sinal para que vejamos e creiamos a-ti quê Trabalhas"
+          },
+          {
+            "verse": 31,
+            "text": "o pais nosso o maná comeram em o deserto assim-como é escrito Pão de o do-céu deu a-eles comer"
+          },
+          {
+            "verse": 32,
+            "text": "disse portanto a-eles o Iesous Amém amém digo a-vós não Moisés tem-dado a-vós o pão de o do-céu mas o Pai meu dá a-vós o pão de o do-céu o verdadeiro"
+          },
+          {
+            "verse": 33,
+            "text": "o pois pão o de-Theos é o descendo de o do-céu e vida dando o ao-mundo"
+          },
+          {
+            "verse": 34,
+            "text": "disseram portanto junto-a ele Kyrie sempre dá a-nós o pão este"
+          },
+          {
+            "verse": 35,
+            "text": "disse a-eles o Iesous Eu sou o pão o da-vida o vindo junto-a mim não não tenha-fome e o crendo para mim não não terá-sede jamais"
+          },
+          {
+            "verse": 36,
+            "text": "mas disseram a-vós que e Tendes-visto me e não credes"
+          },
+          {
+            "verse": 37,
+            "text": "todo o qual dá a-mim o Pai junto-a mim virá e o vindo para me não não expulse fora"
+          },
+          {
+            "verse": 38,
+            "text": "que tenho-descido de o do-céu não para que faço o vontade o meu mas o vontade o que-enviou me"
+          },
+          {
+            "verse": 39,
+            "text": "isto e/mas é o vontade o que-enviou me para que todo o qual deu a-mim não destrua de dele mas ressuscitarei ele em o última dia"
+          },
+          {
+            "verse": 40,
+            "text": "isto pois é o vontade o Pai meu para que todo o observando o Filho e crendo para ele tenha vida eterno e ressuscitarei ele eu em o última dia"
+          },
+          {
+            "verse": 41,
+            "text": "Murmuravam portanto o judeus acerca-de dele que disse Eu sou o pão o descendo de o do-céu"
+          },
+          {
+            "verse": 42,
+            "text": "e diziam não este é Iesous o Filho José o qual nós sei o Pai e o mãe como agora diz que de o do-céu tenho-descido"
+          },
+          {
+            "verse": 43,
+            "text": "respondeu Iesous e disse a-eles não murmurais com uns-aos-outros"
+          },
+          {
+            "verse": 44,
+            "text": "ninguém pode vir para me se não o Pai o tendo-enviado me Arraste ele e-eu ressuscitarei ele em o última dia"
+          },
+          {
+            "verse": 45,
+            "text": "é escrito em o profetas e serão todos ensinados de-Theos todo o ouvindo de-junto-de o do-Pai e tendo-aprendido vem junto-a a-mim"
+          },
+          {
+            "verse": 46,
+            "text": "não que o Pai Tem-visto alguém se não o sendo de-junto-de o de-Theos este tem-visto o Pai"
+          },
+          {
+            "verse": 47,
+            "text": "amém amém digo a-vós o crendo tem vida eterno"
+          },
+          {
+            "verse": 48,
+            "text": "eu sou o pão o da-vida"
+          },
+          {
+            "verse": 49,
+            "text": "o pais vosso comeram em o deserto o maná e morreram"
+          },
+          {
+            "verse": 50,
+            "text": "este é o pão o de o do-céu descendo para que alguém de dele coma e não morra"
+          },
+          {
+            "verse": 51,
+            "text": "eu sou o pão o vivendo o de o do-céu tendo-descido se alguém coma de deste o pão viverá para o eternidade e o pão porém o qual eu darei o carne meu é em-favor-de o o do-mundo da-vida"
+          },
+          {
+            "verse": 52,
+            "text": "Contendiam portanto junto-a uns-aos-outros o judeus dizendo como pode este a-nós dar o carne comer"
+          },
+          {
+            "verse": 53,
+            "text": "disse portanto a-eles o Iesous Amém amém digo a-vós se não comei o carne o do-Filho o do-homem e bebais dele o sangue não tendes vida em si-mesmos"
+          },
+          {
+            "verse": 54,
+            "text": "o comendo meu o carne e bebendo meu o sangue tem vida eterno e-eu ressuscitarei ele o última dia"
+          },
+          {
+            "verse": 55,
+            "text": "o pois carne meu verdadeiro é comida e o sangue meu verdadeiro é bebida"
+          },
+          {
+            "verse": 56,
+            "text": "o comendo meu o carne e bebendo meu o sangue em mim permanece e-eu em a ele"
+          },
+          {
+            "verse": 57,
+            "text": "assim-como enviou me o vivendo Pai e-eu vivo através-de o Pai e o comendo me e-aquele viverá através-de me"
+          },
+          {
+            "verse": 58,
+            "text": "este é o pão o de do-céu tendo-descido não assim-como comeram o pais e morreram o comendo este o pão viverá para o eternidade"
+          },
+          {
+            "verse": 59,
+            "text": "estas-coisas disse em na-sinagoga ensinando em Cafarnaum"
+          },
+          {
+            "verse": 60,
+            "text": "muitos portanto ouvindo de o discípulos dele disseram Duro é o palavra este quem pode dele ouvir"
+          },
+          {
+            "verse": 61,
+            "text": "sei porém o Iesous em si-mesmo que murmuram acerca-de deste o discípulos dele disse a-eles isto vos escandaliza"
+          },
+          {
+            "verse": 62,
+            "text": "se portanto contempleis o Filho o do-homem subindo onde era o antes"
+          },
+          {
+            "verse": 63,
+            "text": "o espírito é o vivificando o carne não aproveita nada o palavras o qual eu tenho-falado a-vós espírito é e vida é"
+          },
+          {
+            "verse": 64,
+            "text": "mas são de vosso alguns o qual não creem sei pois de princípio o Iesous quem são o não crendo e quem é o estando-para-entregar ele"
+          },
+          {
+            "verse": 65,
+            "text": "e dizia através-de isto disse a-vós que ninguém pode vir para me se não seja dado a ele de o Pai"
+          },
+          {
+            "verse": 66,
+            "text": "de deste muitos o discípulos dele foram para o atrás e não-mais com dele andavam"
+          },
+          {
+            "verse": 67,
+            "text": "disse portanto o Iesous o doze não e vós quereis ir"
+          },
+          {
+            "verse": 68,
+            "text": "respondeu a ele Simão Pedro Kyrie junto-a quem iremos palavras da-vida eterno tens"
+          },
+          {
+            "verse": 69,
+            "text": "e nós temos-crido e temos-conhecido que tu és o santo o de-Theos"
+          },
+          {
+            "verse": 70,
+            "text": "respondeu a-eles o Iesous não eu vos o doze escolhi e de vosso um diabo é"
+          },
+          {
+            "verse": 71,
+            "text": "dizia porém o Judas de-Simão Iscariotes este pois estava-prestes entregar ele um de o doze"
+          }
+        ]
+      },
+      {
+        "chapter": 7,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e com estas-coisas andava o Iesous em o Galileia não pois queria em o Judeia andar que buscavam ele o judeus matar"
+          },
+          {
+            "verse": 2,
+            "text": "era porém perto o festa o judeus o festa-das-tendas"
+          },
+          {
+            "verse": 3,
+            "text": "disseram portanto junto-a ele o irmãos dele Passa-daqui daqui e vai para o Judeia para que e o discípulos teu contemplarão o obra teu o qual fazes"
+          },
+          {
+            "verse": 4,
+            "text": "ninguém pois algo em oculto faz e busca ele em com-ousadia ser se estas-coisas fazes manifesta a-ti-mesmo o ao-mundo"
+          },
+          {
+            "verse": 5,
+            "text": "nem pois o irmãos dele criam para ele"
+          },
+          {
+            "verse": 6,
+            "text": "diz portanto a-eles o Iesous o tempo o meu ainda-não está-presente o porém tempo o vosso sempre é preparado"
+          },
+          {
+            "verse": 7,
+            "text": "não pode o mundo odiar vos mim porém odeia que eu testemunho acerca-de dele que o obra dele má é"
+          },
+          {
+            "verse": 8,
+            "text": "vós subi para o festa eu ainda-não subo para o festa esta que o meu tempo ainda-não foi-cumprido"
+          },
+          {
+            "verse": 9,
+            "text": "estas-coisas porém dizendo a-eles permaneceu em o Galileia"
+          },
+          {
+            "verse": 10,
+            "text": "como porém subiram o irmãos dele para o festa então e ele subiu não manifestamente mas como em oculto"
+          },
+          {
+            "verse": 11,
+            "text": "o portanto judeus buscavam ele em o festa e diziam onde é aquele"
+          },
+          {
+            "verse": 12,
+            "text": "e murmuração acerca-de dele era muito em o às-multidões o por-um-lado diziam que Bom é outros porém diziam Não mas engana o multidão"
+          },
+          {
+            "verse": 13,
+            "text": "ninguém contudo com-ousadia falava acerca-de dele através-de o medo o judeus"
+          },
+          {
+            "verse": 14,
+            "text": "já porém o festa estando-no-meio subiu Iesous para o templo e ensinava"
+          },
+          {
+            "verse": 15,
+            "text": "admiravam-se portanto o judeus dizendo como este letras sei não tendo-aprendido"
+          },
+          {
+            "verse": 16,
+            "text": "respondeu portanto a-eles Iesous e disse o minha ensino não é minha mas o que-enviou me"
+          },
+          {
+            "verse": 17,
+            "text": "se alguém queira o vontade dele fazer conhecerá acerca-de o ensino qual-dos-dois de o de-Theos é ou eu de de-mim-mesmo falo"
+          },
+          {
+            "verse": 18,
+            "text": "o de si-mesmo falando o glória o própria busca o porém buscando o glória o tendo-enviado ele este verdadeiro é e injustiça em a ele não é"
+          },
+          {
+            "verse": 19,
+            "text": "não Moisés deu a-vós o lei e ninguém de vosso faz o lei quê me buscais matar"
+          },
+          {
+            "verse": 20,
+            "text": "respondeu o multidão Demônio tens quem te busca matar"
+          },
+          {
+            "verse": 21,
+            "text": "respondeu Iesous e disse a-eles um obra fiz e todos admirais"
+          },
+          {
+            "verse": 22,
+            "text": "através-de isto Moisés tem-dado a-vós o circuncisão não que de o Moisés é mas de o dos-pais e em no-sábado circuncidais homem"
+          },
+          {
+            "verse": 23,
+            "text": "se circuncisão recebe homem em no-sábado para que não seja-desatado o lei Moisés mim irais-vos que todo homem são fiz em no-sábado"
+          },
+          {
+            "verse": 24,
+            "text": "não julgais segundo aparência mas o justa juízo julgai"
+          },
+          {
+            "verse": 25,
+            "text": "diziam portanto alguns de o Jerosolimitas não este é o qual buscam matar"
+          },
+          {
+            "verse": 26,
+            "text": "e vê com-ousadia fala e nada a ele dizem não alguma-vez verdadeiramente conheceram o governantes que este é o Christos"
+          },
+          {
+            "verse": 27,
+            "text": "mas este sei de-onde é o porém Christos quando venha ninguém conhece de-onde é"
+          },
+          {
+            "verse": 28,
+            "text": "gritou portanto em o templo ensinando o Iesous e dizendo E-a-mim sei e sei de-onde sou e de de-mim-mesmo não tenho-vindo mas é verdadeiro o tendo-enviado me o qual vós não sei"
+          },
+          {
+            "verse": 29,
+            "text": "eu sei ele que de dele sou e-aquele me enviou"
+          },
+          {
+            "verse": 30,
+            "text": "Buscavam portanto ele prender e ninguém lançou-sobre sobre ele o mão que ainda-não tinha-vindo o hora dele"
+          },
+          {
+            "verse": 31,
+            "text": "de o multidão porém muitos creram para ele e diziam o Christos quando venha não maiores sinais fará o qual este fez"
+          },
+          {
+            "verse": 32,
+            "text": "Ouviram o fariseus o multidão murmurando acerca-de dele estas-coisas e enviaram o sumos-sacerdotes e o fariseus servos para que agarrem ele"
+          },
+          {
+            "verse": 33,
+            "text": "disse portanto o Iesous ainda tempo pouco com vosso sou e vou junto-a o o-que-enviou me"
+          },
+          {
+            "verse": 34,
+            "text": "buscareis me e não encontrareis e onde sou eu vós não podeis vir"
+          },
+          {
+            "verse": 35,
+            "text": "disseram portanto o judeus junto-a a-si-mesmos onde este está-para ir que nós não encontraremos ele não para o dispersão o gregos está-para ir e ensinar o Gregos"
+          },
+          {
+            "verse": 36,
+            "text": "quem é o palavra este o qual disse Buscareis me e não encontrareis e onde sou eu vós não podeis vir"
+          },
+          {
+            "verse": 37,
+            "text": "em porém o última dia o grande o festa estava-de-pé o Iesous e gritou dizendo se alguém tem-sede Venha para me e beba"
+          },
+          {
+            "verse": 38,
+            "text": "o crendo para me assim-como disse o escritura rios de o ventre dele fluirão água vivente"
+          },
+          {
+            "verse": 39,
+            "text": "isto porém disse acerca-de o do-espírito o qual estavam-para receber o tendo-crido para ele ainda-não pois era espírito que Iesous ainda-não foi-glorificado"
+          },
+          {
+            "verse": 40,
+            "text": "de o multidão portanto ouvindo o palavras destes diziam Este é verdadeiramente o profeta"
+          },
+          {
+            "verse": 41,
+            "text": "outros diziam Este é o Christos o porém diziam não pois de o Galileia o Christos vem"
+          },
+          {
+            "verse": 42,
+            "text": "não o escritura disse que de o semente Davi e de Belém o aldeia onde era Davi vem o Christos"
+          },
+          {
+            "verse": 43,
+            "text": "divisão portanto aconteceu em o à-multidão através-de ele"
+          },
+          {
+            "verse": 44,
+            "text": "alguns porém queriam de deles prender ele mas ninguém lançou-sobre sobre ele o mãos"
+          },
+          {
+            "verse": 45,
+            "text": "vieram portanto o servos junto-a o sumos-sacerdotes e Fariseus e disseram a-eles aqueles através-de quê não conduzistes ele"
+          },
+          {
+            "verse": 46,
+            "text": "responderam o servos Nunca falou assim homem como este fala o homem"
+          },
+          {
+            "verse": 47,
+            "text": "responderam portanto a-eles o fariseus não e vós tendes-sido-enganados"
+          },
+          {
+            "verse": 48,
+            "text": "não alguém de o governantes creu para ele ou de o fariseus"
+          },
+          {
+            "verse": 49,
+            "text": "mas o multidão este o não conhecendo o lei malditos são"
+          },
+          {
+            "verse": 50,
+            "text": "diz Nicodemos junto-a eles o vindo junto-a ele antes um sendo de deles"
+          },
+          {
+            "verse": 51,
+            "text": "não o lei nosso julga o homem se não ouça primeiro de-junto-de dele e conheça quê faz"
+          },
+          {
+            "verse": 52,
+            "text": "responderam e disseram a ele não e tu de o Galileia és Examina e vê que de o Galileia profeta não é-levantado"
+          },
+          {
+            "verse": 53,
+            "text": "e foi cada-um para o casa dele"
+          }
+        ]
+      },
+      {
+        "chapter": 8,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Iesous porém foi para o monte o oliveiras"
+          },
+          {
+            "verse": 2,
+            "text": "Madrugada porém novamente apresentou-se para o templo e todo o povo vinha junto-a ele e sentando-se ensinava eles"
+          },
+          {
+            "verse": 3,
+            "text": "conduzem porém o escribas e o fariseus junto-a ele mulher em adultério tendo-sido-apanhada e tendo-colocado-de-pé ela em meio"
+          },
+          {
+            "verse": 4,
+            "text": "dizem a ele Mestre esta o mulher foi-alcançado em-flagrante sendo-adulterada"
+          },
+          {
+            "verse": 5,
+            "text": "em porém o lei Moisés a-nós ordenou o tais ser-apedrejado tu portanto quê dizes"
+          },
+          {
+            "verse": 6,
+            "text": "isto porém diziam tentando ele para que tenham acusar dele o porém Iesous abaixo tendo-se-inclinado o dedo escrevia para o terra"
+          },
+          {
+            "verse": 7,
+            "text": "como porém permaneciam Perguntando ele tendo-se-erguido disse junto-a eles o sem-pecado vosso primeiro o pedra sobre a-ela lance"
+          },
+          {
+            "verse": 8,
+            "text": "e novamente abaixo tendo-se-inclinado escrevia para o terra"
+          },
+          {
+            "verse": 9,
+            "text": "o porém ouvindo e sob o consciência sendo-repreendidos saíam um cada-um tendo-começado de o anciãos até o últimas e foi-deixado só o Iesous e o mulher em meio Estando-de-pé"
+          },
+          {
+            "verse": 10,
+            "text": "tendo-se-erguido porém o Iesous e ninguém tendo-contemplado exceto o mulher disse a-ela o mulher onde são aqueles o acusadores teu ninguém te condenou"
+          },
+          {
+            "verse": 11,
+            "text": "o porém disse ninguém kyrie disse porém a-ela o Iesous nem eu te condeno vai e não-mais peca"
+          },
+          {
+            "verse": 12,
+            "text": "novamente portanto a-eles falou o Iesous dizendo Eu sou o luz o do-mundo o seguindo a-mim não não ande em o trevas mas terá o luz o da-vida"
+          },
+          {
+            "verse": 13,
+            "text": "disseram portanto a ele o fariseus tu acerca-de ti-mesmo testemunhas o testemunho teu não é verdadeiro"
+          },
+          {
+            "verse": 14,
+            "text": "respondeu Iesous e disse a-eles Mesmo-se eu testemunho acerca-de de-mim-mesmo verdadeiro é o testemunho meu que sei de-onde vieram e onde vou vós porém não sei de-onde venho ou onde vou"
+          },
+          {
+            "verse": 15,
+            "text": "vós segundo o carne julgais eu não julgo a-ninguém"
+          },
+          {
+            "verse": 16,
+            "text": "e se julgo porém eu o julgamento o minha verdadeira é que só não sou mas eu e o tendo-enviado me"
+          },
+          {
+            "verse": 17,
+            "text": "e em o lei porém o vosso está-escrito que dois dos-homens o testemunho verdadeiro é"
+          },
+          {
+            "verse": 18,
+            "text": "eu sou o testemunhando acerca-de de-mim-mesmo e testifica acerca-de mim o tendo-enviado me Pai"
+          },
+          {
+            "verse": 19,
+            "text": "diziam portanto a ele Onde é o Pai teu respondeu Iesous Nem mim sei nem o Pai meu se mim sei e o Pai meu partícula-condicional sei"
+          },
+          {
+            "verse": 20,
+            "text": "estas-coisas o palavras falou em o tesouro ensinando em o templo e ninguém prendeu ele que ainda-não tinha-vindo o hora dele"
+          },
+          {
+            "verse": 21,
+            "text": "disse portanto novamente a-eles eu vou e buscareis me e em o pecado vosso morrereis onde eu vou vós não podeis vir"
+          },
+          {
+            "verse": 22,
+            "text": "diziam portanto o judeus Acaso matará si-mesmo que diz onde eu vou vós não podeis vir"
+          },
+          {
+            "verse": 23,
+            "text": "e dizia a-eles vós de o abaixo sois eu de o acima sou vós de deste o do-mundo sois eu não sou de o do-mundo deste"
+          },
+          {
+            "verse": 24,
+            "text": "disseram portanto a-vós que morrereis em o pecados vosso se pois não creiais que eu sou morrereis em o pecados vosso"
+          },
+          {
+            "verse": 25,
+            "text": "diziam portanto a ele tu quem és disse a-eles o Iesous o início o qual algo e falo a-vós"
+          },
+          {
+            "verse": 26,
+            "text": "muitas-coisas tenho acerca-de vosso falar e julgar mas o tendo-enviado me verdadeiro é e-eu o qual ouvi de dele estas-coisas falo para o mundo"
+          },
+          {
+            "verse": 27,
+            "text": "não conheceram que o Pai a-eles dizia"
+          },
+          {
+            "verse": 28,
+            "text": "disse portanto o Iesous quando Exalteis o Filho o do-homem então conhecereis que eu sou e de de-mim-mesmo faço nada mas assim-como ensinou me o Pai estas-coisas falo"
+          },
+          {
+            "verse": 29,
+            "text": "e o tendo-enviado me com mim é não deixou me somente que eu o agradáveis a ele faço sempre"
+          },
+          {
+            "verse": 30,
+            "text": "estas-coisas dele falando muitos creram para ele"
+          },
+          {
+            "verse": 31,
+            "text": "Dizia portanto o Iesous junto-a o tendo-crido a ele judeus se vós permaneçais em o em-palavra o meu verdadeiramente discípulos meu sois"
+          },
+          {
+            "verse": 32,
+            "text": "e conhecereis o verdade e o verdade libertará vos"
+          },
+          {
+            "verse": 33,
+            "text": "responderam junto-a ele Semente Abraão somos e a-ninguém temos-servido jamais como tu dizes que Livres sereis"
+          },
+          {
+            "verse": 34,
+            "text": "respondeu a-eles o Iesous Amém amém digo a-vós que todo o fazendo o pecado servo é o do-pecado"
+          },
+          {
+            "verse": 35,
+            "text": "o porém servo não permanece em o casa para o eternidade o Filho permanece para o eternidade"
+          },
+          {
+            "verse": 36,
+            "text": "se portanto o Filho vos liberte verdadeiramente livres sereis"
+          },
+          {
+            "verse": 37,
+            "text": "sei que semente Abraão sois mas buscais me matar que o palavra o meu não tem-espaço em a-vós"
+          },
+          {
+            "verse": 38,
+            "text": "o qual eu tenho-visto de-junto-de o Pai falo e vós portanto o qual ouvistes de-junto-de o do-Pai fazei"
+          },
+          {
+            "verse": 39,
+            "text": "responderam e disseram a ele o Pai nosso Abraão é diz a-eles o Iesous se filhos o Abraão sois o obra o Abraão fazei"
+          },
+          {
+            "verse": 40,
+            "text": "agora porém buscais me matar homem o qual o verdade a-vós tenho-falado o qual ouvi de-junto-de o de-Theos isto Abraão não fez"
+          },
+          {
+            "verse": 41,
+            "text": "vós fazei o obra o do-Pai vosso disseram a ele nós de imoralidade não fomos-gerados um Pai temos o Theos"
+          },
+          {
+            "verse": 42,
+            "text": "disse a-eles o Iesous se o Theos Pai vosso era amáveis partícula-condicional a-mim eu pois de o de-Theos saíram e venho nem pois de de-mim-mesmo tenho-vindo mas aquele me enviou"
+          },
+          {
+            "verse": 43,
+            "text": "através-de quê o fala o minha não sabeis que não podeis ouvir o palavra o meu"
+          },
+          {
+            "verse": 44,
+            "text": "vós de o do-Pai o diabo sois e o desejos o do-Pai vosso quereis fazer aquele homicida era de princípio e em o verdade não Tem-permanecido-de-pé que não é verdade em a ele quando fale o mentira de o próprios fala que mentiroso é e o Pai dele"
+          },
+          {
+            "verse": 45,
+            "text": "eu porém que o verdade digo não credes a-mim"
+          },
+          {
+            "verse": 46,
+            "text": "quem de vosso repreende me acerca-de do-pecado se verdade digo através-de quê vós não credes a-mim"
+          },
+          {
+            "verse": 47,
+            "text": "o sendo de o de-Theos o palavras o de-Theos ouve através-de isto vós não ouvi que de o de-Theos não sois"
+          },
+          {
+            "verse": 48,
+            "text": "Responderam o judeus e disseram a ele não bem dizemos nós que Samaritano és tu e demônio tens"
+          },
+          {
+            "verse": 49,
+            "text": "respondeu Iesous eu demônio não tenho mas honro o Pai meu e vós desonrais me"
+          },
+          {
+            "verse": 50,
+            "text": "eu porém não busco o glória meu é o buscando e julgando"
+          },
+          {
+            "verse": 51,
+            "text": "amém amém digo a-vós se alguém o meu palavra guarde morte não não contemple para o eternidade"
+          },
+          {
+            "verse": 52,
+            "text": "disseram a ele o judeus agora temos-conhecido que demônio tens Abraão morreu e o profetas e tu dizes se alguém o palavra meu guarde não não prove da-morte para o eternidade"
+          },
+          {
+            "verse": 53,
+            "text": "não tu maior és o do-Pai nosso Abraão qualquer-que morreu e o profetas morreram quem a-ti-mesmo fazes"
+          },
+          {
+            "verse": 54,
+            "text": "respondeu Iesous se eu glorificarei a-mim-mesmo o glória meu nada é é o Pai meu o glorificando me o qual vós dizeis que Theos nosso é"
+          },
+          {
+            "verse": 55,
+            "text": "e não conhecestes ele eu porém sei ele e-se diga que não sei ele serei semelhante a-vós mentiroso mas sei ele e o palavra dele guardo"
+          },
+          {
+            "verse": 56,
+            "text": "Abraão o Pai vosso exultou para que veja o dia o minha e viu e alegrou-se"
+          },
+          {
+            "verse": 57,
+            "text": "disseram portanto o judeus junto-a ele Cinquenta anos ainda-não tens e Abraão tens-visto"
+          },
+          {
+            "verse": 58,
+            "text": "disse a-eles Iesous Amém amém digo a-vós antes-de Abraão tornar-se eu sou"
+          },
+          {
+            "verse": 59,
+            "text": "levantaram portanto pedras para que lancem sobre ele Iesous porém escondeu-se e saiu de o do-templo"
+          }
+        ]
+      },
+      {
+        "chapter": 9,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e passando viu homem cego de nascimento"
+          },
+          {
+            "verse": 2,
+            "text": "e perguntaram ele o discípulos dele dizendo Rabi quem pecou este ou o pais dele para que cego seja-gerado"
+          },
+          {
+            "verse": 3,
+            "text": "respondeu Iesous nem este pecou nem o pais dele mas para que seja-manifestada o obra o de-Theos em a ele"
+          },
+          {
+            "verse": 4,
+            "text": "nos é necessário trabalhar o obra o que-enviou me até dia é vem noite quando ninguém pode trabalhar"
+          },
+          {
+            "verse": 5,
+            "text": "quando em o ao-mundo Ômega luz sou o do-mundo"
+          },
+          {
+            "verse": 6,
+            "text": "estas-coisas dizendo Cuspiu ao-chão e fez barro de o de-cuspe e pôs-sobre dele o barro sobre o olhos"
+          },
+          {
+            "verse": 7,
+            "text": "e disse a ele Vai lavar para o tanque o Siloé o qual é-interpretado Tendo-sido-enviado partiu portanto e lavou e veio vendo"
+          },
+          {
+            "verse": 8,
+            "text": "o portanto vizinhos e o observando ele o antes que mendigo era diziam não este é o sentado e mendigando"
+          },
+          {
+            "verse": 9,
+            "text": "outros diziam que Este é outros diziam não mas semelhante a ele é aquele dizia que Eu sou"
+          },
+          {
+            "verse": 10,
+            "text": "diziam portanto a ele como portanto foram-abertas teu o olhos"
+          },
+          {
+            "verse": 11,
+            "text": "respondeu aquele o homem o chamado Iesous barro fez e ungiu-sobre meu o olhos e disse a-mim que Vai para o Siloé e lavar partindo portanto e tendo-se-lavado recuperei-a-vista"
+          },
+          {
+            "verse": 12,
+            "text": "e disseram a ele onde é aquele diz não sei"
+          },
+          {
+            "verse": 13,
+            "text": "Conduzem ele junto-a o Fariseus o alguma-vez cego"
+          },
+          {
+            "verse": 14,
+            "text": "era porém sábado em o qual dia o barro fez o Iesous e abriu dele o olhos"
+          },
+          {
+            "verse": 15,
+            "text": "novamente portanto perguntavam ele e o fariseus como olhou-para-cima o porém disse a-eles Lodo colocou-sobre meu sobre o olhos e lavei e vejo"
+          },
+          {
+            "verse": 16,
+            "text": "diziam portanto de o fariseus alguns não é este de-junto-de de-Theos o homem que o sábado não guarda outros diziam como pode homem pecador tais-coisas sinais fazer e divisão era em a-eles"
+          },
+          {
+            "verse": 17,
+            "text": "dizem portanto o cego novamente quê tu dizes acerca-de dele que abriu teu o olhos o porém disse que Profeta é"
+          },
+          {
+            "verse": 18,
+            "text": "não creram portanto o judeus acerca-de dele que era cego e olhou-para-cima até de-quem Chamaram-em-voz-alta o pais dele o tendo-recuperado-a-visão"
+          },
+          {
+            "verse": 19,
+            "text": "e perguntaram eles dizendo Este é o Filho vosso o qual vós dizeis que cego foi-gerado como portanto vê agora"
+          },
+          {
+            "verse": 20,
+            "text": "responderam portanto o pais dele e disseram sei que este é o Filho nosso e que cego foi-gerado"
+          },
+          {
+            "verse": 21,
+            "text": "como porém agora vê não sei ou quem abriu dele o olhos nós não sei ele Perguntai estatura tem ele acerca-de si-mesmo falará"
+          },
+          {
+            "verse": 22,
+            "text": "estas-coisas disseram o pais dele que temiam o judeus já pois tinham-combinado o judeus para que se alguém ele confesse Christon expulso-da-sinagoga aconteça"
+          },
+          {
+            "verse": 23,
+            "text": "através-de isto o pais dele disseram que Estatura tem ele perguntai"
+          },
+          {
+            "verse": 24,
+            "text": "Clamaram portanto o homem de segunda o qual era cego e disseram a ele Dá glória o a-Theos nós sei que este o homem pecador é"
+          },
+          {
+            "verse": 25,
+            "text": "respondeu portanto aquele se pecador é não sei um sei que cego sendo agora vejo"
+          },
+          {
+            "verse": 26,
+            "text": "disseram portanto a ele quê fez a-ti como abriu teu o olhos"
+          },
+          {
+            "verse": 27,
+            "text": "respondeu a-eles disseram a-vós já e não ouvistes quê novamente quereis ouvir não e vós quereis dele discípulos tornar-se"
+          },
+          {
+            "verse": 28,
+            "text": "e injuriaram ele e disseram tu discípulo és daquele nós porém o de-Moisés somos discípulos"
+          },
+          {
+            "verse": 29,
+            "text": "nós sei que Moisés tem-falado o Theos este porém não sei de-onde é"
+          },
+          {
+            "verse": 30,
+            "text": "respondeu o homem e disse a-eles em neste pois o maravilhoso é que vós não sei de-onde é e abriu meu o olhos"
+          },
+          {
+            "verse": 31,
+            "text": "sei que o Theos dos-pecadores não ouve mas se alguém piedoso-a-Theos seja e o vontade dele faça deste ouve"
+          },
+          {
+            "verse": 32,
+            "text": "de o eternidade não foi-ouvido que abriu alguém olhos cego tendo-sido-gerado"
+          },
+          {
+            "verse": 33,
+            "text": "se não era este de-junto-de de-Theos não podia fazer nada"
+          },
+          {
+            "verse": 34,
+            "text": "responderam e disseram a ele em pecados tu foste-gerado todo e tu ensinas nos e expulsaram ele fora"
+          },
+          {
+            "verse": 35,
+            "text": "ouviu Iesous que expulsaram ele fora e encontrando ele disse tu crês para o Filho o do-homem"
+          },
+          {
+            "verse": 36,
+            "text": "respondeu aquele e disse e quem é Kyrie para que creia para ele"
+          },
+          {
+            "verse": 37,
+            "text": "disse a ele o Iesous e tens-visto ele e o falando com teu aquele é"
+          },
+          {
+            "verse": 38,
+            "text": "o porém disse creio Kyrie e adorou a ele"
+          },
+          {
+            "verse": 39,
+            "text": "e disse o Iesous para julgamento eu para o mundo este vieram para que o não vendo vejam e o vendo cegos tornem-se"
+          },
+          {
+            "verse": 40,
+            "text": "ouviram de o fariseus estas-coisas o com dele sendo e disseram a ele não e nós cegos somos"
+          },
+          {
+            "verse": 41,
+            "text": "disse a-eles o Iesous se cegos éreis não partícula-condicional tínheis pecado agora porém dizeis que vemos o pecado vosso permanece"
+          }
+        ]
+      },
+      {
+        "chapter": 10,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Amém amém digo a-vós o não entrando através-de o porta para o pátio o ovelhas mas subindo por-outro-lugar aquele ladrão é e salteador"
+          },
+          {
+            "verse": 2,
+            "text": "o porém entrando através-de o porta pastor é o ovelhas"
+          },
+          {
+            "verse": 3,
+            "text": "neste o porteiro abre e o ovelhas o voz dele ouve e o próprias ovelhas chama segundo nome e conduz-para-fora elas"
+          },
+          {
+            "verse": 4,
+            "text": "quando o próprias todas-as-coisas expulse diante deles vai e o ovelhas a ele segue que sei o voz dele"
+          },
+          {
+            "verse": 5,
+            "text": "estranho porém não não seguirão mas fugirão de dele que não sei o estranhos o voz"
+          },
+          {
+            "verse": 6,
+            "text": "esta o provérbio disse a-eles o Iesous aqueles porém não conheceram quem era o qual falava a-eles"
+          },
+          {
+            "verse": 7,
+            "text": "disse portanto novamente o Iesous Amém amém digo a-vós que eu sou o porta o ovelhas"
+          },
+          {
+            "verse": 8,
+            "text": "todos quanto vieram antes-de mim ladrões são e salteadores mas não ouviram deles o ovelhas"
+          },
+          {
+            "verse": 9,
+            "text": "eu sou o porta através-de mim se alguém entre será-salvo e entrará e sairá e pasto encontrará"
+          },
+          {
+            "verse": 10,
+            "text": "o ladrão não vem se não para que furte e sacrifique e destrua eu vieram para que vida tenham e abundante tenham"
+          },
+          {
+            "verse": 11,
+            "text": "eu sou o pastor o bom o pastor o belo o alma dele põe em-favor-de o ovelhas"
+          },
+          {
+            "verse": 12,
+            "text": "o assalariado e não sendo pastor o qual não é o ovelhas próprias contempla o lobo o-que-vem e perdoa o ovelhas e foge e o lobo arrebata eles e dispersa"
+          },
+          {
+            "verse": 13,
+            "text": "que assalariado é e não importa a ele acerca-de o ovelhas"
+          },
+          {
+            "verse": 14,
+            "text": "eu sou o pastor o bom e conheço o minhas-coisas e conhecem me o minhas"
+          },
+          {
+            "verse": 15,
+            "text": "assim-como conhece me o Pai e-eu conheço o Pai e o alma meu ponho em-favor-de o ovelhas"
+          },
+          {
+            "verse": 16,
+            "text": "e outras-coisas ovelhas tenho o qual não é de o pátio desta e-aquelas é necessário me conduzir e o voz meu ouvirão e acontecerá uma rebanho um pastor"
+          },
+          {
+            "verse": 17,
+            "text": "através-de isto me o Pai ama que eu ponho o alma meu para que novamente tome ela"
+          },
+          {
+            "verse": 18,
+            "text": "ninguém levantou ela de mim mas eu ponho ela de de-mim-mesmo autoridade tenho pôr ela e autoridade tenho novamente receber ela esta o mandamento receberam de-junto-de o Pai meu"
+          },
+          {
+            "verse": 19,
+            "text": "Divisão novamente aconteceu em o judeus através-de o palavras estes"
+          },
+          {
+            "verse": 20,
+            "text": "diziam porém muitos de deles Demônio tem e enlouquece quê dele ouvi"
+          },
+          {
+            "verse": 21,
+            "text": "outros diziam estas-coisas o palavras não é sendo-endemoninhado não demônio pode cegos olhos abrir"
+          },
+          {
+            "verse": 22,
+            "text": "aconteceu então o inauguração em o em-Jerusalém tempestade era"
+          },
+          {
+            "verse": 23,
+            "text": "e andava o Iesous em o templo em o pórtico o Salomão"
+          },
+          {
+            "verse": 24,
+            "text": "cercaram portanto ele o judeus e diziam a ele até quando o alma nosso levantas se tu és o Christos dize a-nós com-ousadia"
+          },
+          {
+            "verse": 25,
+            "text": "respondeu a-eles o Iesous disseram a-vós e não credes o obra o qual eu faço em o em-nome o Pai meu estas-coisas testifica acerca-de mim"
+          },
+          {
+            "verse": 26,
+            "text": "mas vós não credes que não sois de o ovelhas o meus"
+          },
+          {
+            "verse": 27,
+            "text": "o ovelhas o minhas-coisas o voz meu ouvem e-eu conheço elas e seguem a-mim"
+          },
+          {
+            "verse": 28,
+            "text": "e-eu dou a-eles vida eterno e não não pereçam para o eternidade e não arrebatará alguém elas de o mão meu"
+          },
+          {
+            "verse": 29,
+            "text": "o Pai meu o qual deu a-mim todos maior é e ninguém pode arrebatar de o da-mão o do-Pai"
+          },
+          {
+            "verse": 30,
+            "text": "eu e o Pai um somos"
+          },
+          {
+            "verse": 31,
+            "text": "Carregaram novamente pedras o judeus para que apedrejem ele"
+          },
+          {
+            "verse": 32,
+            "text": "respondeu a-eles o Iesous muitos obra Mostrei a-vós boas de o do-Pai através-de qual deles obra mim apedrejais"
+          },
+          {
+            "verse": 33,
+            "text": "responderam a ele o judeus acerca-de bom obra não apedrejamos te mas acerca-de blasfêmias e que tu homem sendo fazes a-ti-mesmo Theos"
+          },
+          {
+            "verse": 34,
+            "text": "respondeu a-eles o Iesous não é escrito em o lei vosso que eu disse theoi sois"
+          },
+          {
+            "verse": 35,
+            "text": "se aqueles disse theoi junto-a o qual o palavra o de-Theos aconteceu e não pode ser-solto o escritura"
+          },
+          {
+            "verse": 36,
+            "text": "o qual o Pai Santificou e enviou para o mundo vós dizeis que Blasfemas que disseram Filho o de-Theos sou"
+          },
+          {
+            "verse": 37,
+            "text": "se não faço o obra o do-Pai meu não credes a-mim"
+          },
+          {
+            "verse": 38,
+            "text": "se porém faço e-se mim não creiais o obra credes para que conheçais e conheçais que em mim o Pai e-eu em o Pai"
+          },
+          {
+            "verse": 39,
+            "text": "Buscavam portanto ele novamente prender e saiu de o da-mão deles"
+          },
+          {
+            "verse": 40,
+            "text": "e partiu novamente além o Jordão para o lugar onde era João o primeiro batizando e permanecia ali"
+          },
+          {
+            "verse": 41,
+            "text": "e muitos vieram junto-a ele e diziam que João por-um-lado sinal fez nada todas-as-coisas porém quanto disse João acerca-de deste verdadeiras era"
+          },
+          {
+            "verse": 42,
+            "text": "e muitos creram para ele ali"
+          }
+        ]
+      },
+      {
+        "chapter": 11,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "era e/mas alguém fracos Lázaro de Betânia de o aldeia Maria e Marta o irmã dela"
+          },
+          {
+            "verse": 2,
+            "text": "era porém Maria o tendo-ungido o Kyrion ungüento e tendo-enxugado o pés dele o cabelos dela o qual o irmão Lázaro estava-doente"
+          },
+          {
+            "verse": 3,
+            "text": "enviaram portanto o irmãs junto-a ele dizendo Kyrie vê o qual amas está-fraco"
+          },
+          {
+            "verse": 4,
+            "text": "ouvindo porém o Iesous disse esta o fraqueza não é junto-a morte mas em-favor-de o da-glória o de-Theos para que seja-glorificado o Filho o de-Theos através-de dela"
+          },
+          {
+            "verse": 5,
+            "text": "amava porém o Iesous o Marta e o irmã dela e o Lázaro"
+          },
+          {
+            "verse": 6,
+            "text": "como portanto ouviu que está-fraco então por-um-lado permaneceu em o qual era no-lugar dois do-dia"
+          },
+          {
+            "verse": 7,
+            "text": "depois com isto diz o discípulos Vamos para o Judeia novamente"
+          },
+          {
+            "verse": 8,
+            "text": "dizem a ele o discípulos Rabi agora buscavam te apedrejar o judeus e novamente vais ali"
+          },
+          {
+            "verse": 9,
+            "text": "respondeu Iesous Não doze hora são o do-dia se alguém ande em o dia não tropeça que o luz o do-mundo deste vê"
+          },
+          {
+            "verse": 10,
+            "text": "se e/mas alguém ande em o noite tropeça que o luz não é em a ele"
+          },
+          {
+            "verse": 11,
+            "text": "estas-coisas disse e com isto diz a-eles Lázaro o amigo nosso tem-adormecido mas vou para que despertarei ele"
+          },
+          {
+            "verse": 12,
+            "text": "disseram portanto o discípulos a ele Kyrie se tem-adormecido será-salvo"
+          },
+          {
+            "verse": 13,
+            "text": "tinha-dito porém o Iesous acerca-de o da-morte dele aqueles porém glorificaram que acerca-de o sono o sono diz"
+          },
+          {
+            "verse": 14,
+            "text": "então portanto disse a-eles o Iesous com-ousadia Lázaro morreu"
+          },
+          {
+            "verse": 15,
+            "text": "e alegro-me através-de vos para que creiais que não eu-era ali mas vamos junto-a ele"
+          },
+          {
+            "verse": 16,
+            "text": "disse portanto Tomé o chamado Dídimo o co-discípulos Vamos e nós para que morramos com dele"
+          },
+          {
+            "verse": 17,
+            "text": "tendo-vindo portanto o Iesous encontrou ele quatro já do-dia tendo em o sepulcro"
+          },
+          {
+            "verse": 18,
+            "text": "era porém Betânia perto o Jerusalém como de estádios quinze"
+          },
+          {
+            "verse": 19,
+            "text": "muitos porém de o judeus tinham-vindo junto-a o Marta e Maria para que consolem elas acerca-de o do-irmão"
+          },
+          {
+            "verse": 20,
+            "text": "o portanto Marta como ouviu que Iesous vem encontrou a ele Maria porém em o na-casa sentava-se"
+          },
+          {
+            "verse": 21,
+            "text": "disse portanto o Marta junto-a Iesous Kyrie se fosses aqui não partícula-condicional morreu o irmão meu"
+          },
+          {
+            "verse": 22,
+            "text": "e agora sei que quanto partícula-condicional peça o Theos dará a-ti o Theos"
+          },
+          {
+            "verse": 23,
+            "text": "diz a-ela o Iesous Levantar-se-á o irmão teu"
+          },
+          {
+            "verse": 24,
+            "text": "diz a ele o Marta sei que ressuscitará em o ressurreição em o última dia"
+          },
+          {
+            "verse": 25,
+            "text": "disse a-ela o Iesous Eu sou o ressurreição e o vida o crendo para mim e-se morra viverá"
+          },
+          {
+            "verse": 26,
+            "text": "e todo o vivendo e crendo para mim não não morra para o eternidade crês isto"
+          },
+          {
+            "verse": 27,
+            "text": "diz a ele Sim Kyrie eu tenho-crido que tu és o Christos o Filho o de-Theos o para o mundo o-que-vem"
+          },
+          {
+            "verse": 28,
+            "text": "e isto tendo-dito partiu e chamou Maria o irmã dela secretamente tendo-dito o Mestre está-presente e chama te"
+          },
+          {
+            "verse": 29,
+            "text": "aquela porém como ouviu é-levantado rapidamente e vinha junto-a ele"
+          },
+          {
+            "verse": 30,
+            "text": "ainda-não porém tinha-vindo o Iesous para o aldeia mas era ainda em o no-lugar onde encontrou a ele o Marta"
+          },
+          {
+            "verse": 31,
+            "text": "o portanto judeus o sendo com dela em o casa e consolando ela vendo o Maria que rapidamente levantou-se e saiu seguiram a-ela tendo-parecido que vai para o túmulo para que chore ali"
+          },
+          {
+            "verse": 32,
+            "text": "o portanto Maria como veio onde era Iesous vendo ele caiu dele junto-a o pés dizendo a ele Kyrie se fosses aqui não se meu morreu o irmão"
+          },
+          {
+            "verse": 33,
+            "text": "Iesous portanto como viu ela chorando e o tendo-se-reunido a-ela judeus chorando repreendeu-severamente o espírito e Perturbou a-si-mesmo"
+          },
+          {
+            "verse": 34,
+            "text": "e disse onde tendes-posto ele dizem a ele Kyrie vem e vê"
+          },
+          {
+            "verse": 35,
+            "text": "chorou o Iesous"
+          },
+          {
+            "verse": 36,
+            "text": "diziam portanto o judeus Vê como amava ele"
+          },
+          {
+            "verse": 37,
+            "text": "alguns porém de deles disseram não podia este o abrindo o olhos o cego fazer para que e este não morra"
+          },
+          {
+            "verse": 38,
+            "text": "Iesous portanto novamente repreendendo-severamente em si-mesmo vem para o túmulo era porém caverna e pedra pressionava-sobre sobre a ele"
+          },
+          {
+            "verse": 39,
+            "text": "diz o Iesous Levantai o pedra diz a ele o irmã o tendo-morrido Marta Kyrie já cheira-mal de-quatro-dias pois é"
+          },
+          {
+            "verse": 40,
+            "text": "diz a-ela o Iesous não dize a-ti que se creias verás o glória o de-Theos"
+          },
+          {
+            "verse": 41,
+            "text": "levantaram portanto o pedra o porém Iesous levantou o olhos acima e disse Pai dou-graças a-ti que Ouviste meu"
+          },
+          {
+            "verse": 42,
+            "text": "eu porém sei que sempre meu ouves mas através-de o multidão o tendo-estado-ao-redor disseram para que creiam que tu me enviaste"
+          },
+          {
+            "verse": 43,
+            "text": "e estas-coisas dizendo com-voz grande clamou Lázaro vem fora"
+          },
+          {
+            "verse": 44,
+            "text": "saiu o tendo-morrido amarrado o pés e o mãos faixas e o aparência dele lenço tinha-sido-amarrado-ao-redor diz a-eles o Iesous Desatai ele e deixai ele ir"
+          },
+          {
+            "verse": 45,
+            "text": "muitos portanto de o judeus o vindo junto-a o Maria e tendo-contemplado o qual fez creram para ele"
+          },
+          {
+            "verse": 46,
+            "text": "alguns porém de deles foram junto-a o Fariseus e disseram a-eles o qual fez Iesous"
+          },
+          {
+            "verse": 47,
+            "text": "Reuniram portanto o sumos-sacerdotes e o fariseus sinédrio e diziam quê fazemos que este o homem muitas-coisas faz sinais"
+          },
+          {
+            "verse": 48,
+            "text": "se deixemos ele assim todos crerão para ele e virão o Romanos e levantarão nosso e o lugar e o nação"
+          },
+          {
+            "verse": 49,
+            "text": "um e/mas alguém de deles Caifás sumo-sacerdote sendo o ano daquele disse a-eles vós não sei nada"
+          },
+          {
+            "verse": 50,
+            "text": "nem considerai que convém a-vós para que um homem morra em-favor-de o povo e não todo o nação pereça"
+          },
+          {
+            "verse": 51,
+            "text": "isto porém de si-mesmo não disse mas sumo-sacerdote sendo o ano daquele profetizou que estava-prestes Iesous morrer em-favor-de o nação"
+          },
+          {
+            "verse": 52,
+            "text": "e não em-favor-de o nação somente mas para que e o filhos o de-Theos o tendo-sido-dispersos reúna para um"
+          },
+          {
+            "verse": 53,
+            "text": "de daquela portanto o do-dia deliberaram para que matem ele"
+          },
+          {
+            "verse": 54,
+            "text": "o portanto Iesous não-mais com-ousadia andava em o judeus mas partiu dali para o região perto o deserto para Efraim chamada cidade e-ali permaneceu com o discípulos"
+          },
+          {
+            "verse": 55,
+            "text": "era porém perto o páscoa o judeus e subiram muitos para Jerusalém de o região antes-de o páscoa para que purifiquem a-si-mesmos"
+          },
+          {
+            "verse": 56,
+            "text": "buscavam portanto o Iesous e diziam com uns-aos-outros em o templo Tendo-permanecido-de-pé quê parece a-vós que não não venha para o festa"
+          },
+          {
+            "verse": 57,
+            "text": "tinham-dado porém o sumos-sacerdotes e o fariseus mandamentos para que se alguém conheça onde é informe para-que agarrem ele"
+          }
+        ]
+      },
+      {
+        "chapter": 12,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "o portanto Iesous antes-de seis dos-dias o páscoa veio para Betânia onde era Lázaro o qual ressuscitou de mortos Iesous"
+          },
+          {
+            "verse": 2,
+            "text": "fizeram portanto a ele ceia ali e o Marta servia o porém Lázaro um era de o reclinados com a ele"
+          },
+          {
+            "verse": 3,
+            "text": "o portanto Maria tomando libra perfume nardo genuína muito-precioso ungiu o pés o Iesous e enxugou o cabelos dela o pés dele o porém casa foi-cumprido de o cheiro o perfume"
+          },
+          {
+            "verse": 4,
+            "text": "diz porém Judas o Iscariotes um o discípulos dele o estando-prestes-a ele entregar"
+          },
+          {
+            "verse": 5,
+            "text": "através-de quê isto o mirra não Foi-vendido trezentos denários e foi-dado pobres"
+          },
+          {
+            "verse": 6,
+            "text": "disse porém isto não que acerca-de o pobres importava a ele mas que ladrão era e o bolsa tendo o sendo-lançadas carregava"
+          },
+          {
+            "verse": 7,
+            "text": "disse portanto o Iesous Deixa ela para que para o dia o embalsamento meu guarde isso"
+          },
+          {
+            "verse": 8,
+            "text": "o pobres pois sempre tendes com deles-mesmos mim porém não sempre tendes"
+          },
+          {
+            "verse": 9,
+            "text": "conheceu portanto o multidão muito de o judeus que ali é e vieram não através-de o Iesous somente mas para que e o Lázaro vejam o qual ressuscitou de mortos"
+          },
+          {
+            "verse": 10,
+            "text": "deliberaram porém o sumos-sacerdotes para que e o Lázaro matem"
+          },
+          {
+            "verse": 11,
+            "text": "que muitos através-de ele iam o judeus e criam para o Iesous"
+          },
+          {
+            "verse": 12,
+            "text": "o no-dia-seguinte o multidão muito o vindo para o festa ouvindo que vem Iesous para Jerusalém"
+          },
+          {
+            "verse": 13,
+            "text": "receberam o ramos-de-palmeira o de-palmeiras e saíram para encontro a ele e clamavam Hosana tendo-sido-bendito o o-que-vem em em-nome do-Kyrios e o Rei o Israel"
+          },
+          {
+            "verse": 14,
+            "text": "encontrando porém o Iesous jumentinho sentou-se sobre isso assim-como é escrito"
+          },
+          {
+            "verse": 15,
+            "text": "não temas filha Sião eis o rei teu vem sentado sobre jumentinho jumento"
+          },
+          {
+            "verse": 16,
+            "text": "estas-coisas não conheceram dele o discípulos o primeiro mas quando foi-glorificado Iesous então lembraram-se que estas-coisas era sobre a ele escritas e estas-coisas fizeram a ele"
+          },
+          {
+            "verse": 17,
+            "text": "Testemunhava portanto o multidão o sendo com dele quando o Lázaro clamou de o sepulcro e ressuscitou ele de mortos"
+          },
+          {
+            "verse": 18,
+            "text": "através-de isto e encontrou a ele o multidão que ouviram isto ele ter-feito o sinal"
+          },
+          {
+            "verse": 19,
+            "text": "o portanto fariseus disseram junto-a a-si-mesmos Contemplai que não Aproveitais nada vê o mundo atrás dele partiu"
+          },
+          {
+            "verse": 20,
+            "text": "eram porém Gregos alguns de o subindo para que adorem em o festa"
+          },
+          {
+            "verse": 21,
+            "text": "estes portanto aproximaram-se Filipe o de Betsaida o Galileia e perguntavam ele dizendo Kyrie queremos o Iesous ver"
+          },
+          {
+            "verse": 22,
+            "text": "vem o Filipe e diz o André vem André e Filipe e dizem o Iesous"
+          },
+          {
+            "verse": 23,
+            "text": "o porém Iesous responde a-eles dizendo Tem-vindo o hora para que seja-glorificado o Filho o do-homem"
+          },
+          {
+            "verse": 24,
+            "text": "amém amém digo a-vós se não o grão o trigo caindo para o terra morra ele só permanece se porém morra muito fruto carrega"
+          },
+          {
+            "verse": 25,
+            "text": "o amando o alma dele destrói ela e o odiando o alma dele em o ao-mundo neste para vida eterno guardará ela"
+          },
+          {
+            "verse": 26,
+            "text": "se a-mim alguém sirva mim siga e onde sou eu ali e o servo o meu será se alguém mim sirva honrará ele o Pai"
+          },
+          {
+            "verse": 27,
+            "text": "agora o alma meu tem-sido-perturbado e quê diga Pai salva me de o hora desta mas através-de isto vieram para o hora esta"
+          },
+          {
+            "verse": 28,
+            "text": "Pai glorifica teu o nome veio portanto voz de o do-céu e glorifiquei e novamente glorificarei"
+          },
+          {
+            "verse": 29,
+            "text": "o portanto multidão o estando-de-pé e ouvindo dizia trovão ter-acontecido outros diziam anjo a ele tem-falado"
+          },
+          {
+            "verse": 30,
+            "text": "respondeu Iesous e disse não através-de mim o voz esta aconteceu mas através-de vos"
+          },
+          {
+            "verse": 31,
+            "text": "agora juízo é o do-mundo deste agora o governante o do-mundo deste será-lançado-fora fora"
+          },
+          {
+            "verse": 32,
+            "text": "e-eu se Seja-exaltado de o da-terra todos Arrastarei junto-a a-mim-mesmo"
+          },
+          {
+            "verse": 33,
+            "text": "isto porém dizia sinalizando qual morte estava-prestes-a morrer"
+          },
+          {
+            "verse": 34,
+            "text": "respondeu portanto a ele o multidão nós ouvimos de o da-lei que o Christos permanece para o eternidade e como dizes tu que é necessário ser-exaltado o Filho o do-homem quem é este o Filho o do-homem"
+          },
+          {
+            "verse": 35,
+            "text": "disse portanto a-eles o Iesous ainda pouco tempo o luz em a-vós é andai como o luz tendes para que não trevas vos alcance e o caminhando em o trevas não sei onde vai"
+          },
+          {
+            "verse": 36,
+            "text": "como o luz tendes credes para o luz para que filhos luz torneis-vos estas-coisas falou Iesous e partindo escondeu-se de deles"
+          },
+          {
+            "verse": 37,
+            "text": "Tantas-coisas porém dele sinais tendo-feito diante-de deles não criam para ele"
+          },
+          {
+            "verse": 38,
+            "text": "para que o palavra Isaías o profeta seja-cumprido o qual disse Kyrie quem creu o ouvido nosso e o braço do-Kyrios a-quem foi-revelado"
+          },
+          {
+            "verse": 39,
+            "text": "através-de isto não podiam crer que novamente disse Isaías"
+          },
+          {
+            "verse": 40,
+            "text": "Tem-cegado deles o olhos e Endureceu deles o coração para que não vejam o olhos e compreendam o no-coração e virem-se e curarei eles"
+          },
+          {
+            "verse": 41,
+            "text": "estas-coisas disse Isaías que viu o glória dele e falou acerca-de dele"
+          },
+          {
+            "verse": 42,
+            "text": "contudo contudo e de o governantes muitos creram para ele mas através-de o Fariseus não Confessavam para que não expulsos-da-sinagoga tornem-se"
+          },
+          {
+            "verse": 43,
+            "text": "amaram pois o glória o dos-homens mais Do-que o glória o de-Theos"
+          },
+          {
+            "verse": 44,
+            "text": "Iesous porém clamou e disse o crendo para mim não crê para mim mas para o o-que-enviou me"
+          },
+          {
+            "verse": 45,
+            "text": "e o observando mim contempla o o-que-enviou me"
+          },
+          {
+            "verse": 46,
+            "text": "eu luz para o mundo tenho-vindo para que todo o crendo para mim em o trevas não permaneça"
+          },
+          {
+            "verse": 47,
+            "text": "e se quem meu ouça o palavras e não guarde eu não julgo ele não pois vieram para que julgo o mundo mas para que salvarei o mundo"
+          },
+          {
+            "verse": 48,
+            "text": "o rejeitando mim e não recebendo o palavras meu tem o julgando ele o palavra o qual falei aquele julgará ele em o última dia"
+          },
+          {
+            "verse": 49,
+            "text": "que eu de de-mim-mesmo não falei mas o tendo-enviado me Pai ele-mesmo a-mim mandamento tem-dado quê diga e quê falarei"
+          },
+          {
+            "verse": 50,
+            "text": "e sei que o mandamento dele vida eterno é o qual portanto eu falo assim-como tem-dito a-mim o Pai assim falo"
+          }
+        ]
+      },
+      {
+        "chapter": 13,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Antes-de porém o festa o páscoa sei o Iesous que veio dele o hora para que passe de o do-mundo deste junto-a o Pai tendo-amado o próprios o em o ao-mundo para fim amou eles"
+          },
+          {
+            "verse": 2,
+            "text": "e ceia acontecendo o diabo já tendo-lançado para o coração para que entregue ele Judas de-Simão Iscariotes"
+          },
+          {
+            "verse": 3,
+            "text": "sei que todas-as-coisas deu a ele o Pai para o mãos e que de de-Theos saiu e junto-a o Theos vai"
+          },
+          {
+            "verse": 4,
+            "text": "é-levantado de o ceia e põe o vestes e tomando toalha cingiu a-si-mesmo"
+          },
+          {
+            "verse": 5,
+            "text": "então lança água para o bacia e começou lavar o pés o discípulos e enxugar o toalha o qual era tendo-se-cingido"
+          },
+          {
+            "verse": 6,
+            "text": "vem portanto junto-a Simão Pedro diz a ele Kyrie tu meu lavas o pés"
+          },
+          {
+            "verse": 7,
+            "text": "respondeu Iesous e disse a ele o qual eu faço tu não sei agora conheças porém com estas-coisas"
+          },
+          {
+            "verse": 8,
+            "text": "diz a ele Pedro não não laves meu o pés para o eternidade respondeu Iesous a ele se não lavarei te não tens parte com mim"
+          },
+          {
+            "verse": 9,
+            "text": "diz a ele Simão Pedro Kyrie não o pés meu somente mas e o mãos e o cabeça"
+          },
+          {
+            "verse": 10,
+            "text": "diz a ele Iesous o tendo-sido-lavado não tem necessidade se não o pés lavar mas é puro todo e vós puros sois mas não todos"
+          },
+          {
+            "verse": 11,
+            "text": "sei pois o entregando ele através-de isto disse que Não todos puros sois"
+          },
+          {
+            "verse": 12,
+            "text": "Quando portanto lavou o pés deles e recebeu o vestes dele e reclinou-se novamente disse a-eles Conhecei quê tenho-feito a-vós"
+          },
+          {
+            "verse": 13,
+            "text": "vós chamais me o Mestre e o Kyrios e bem dizeis sou pois"
+          },
+          {
+            "verse": 14,
+            "text": "se portanto eu Lavei vosso o pés o Kyrios e o Mestre e vós deveis uns-aos-outros lavar o pés"
+          },
+          {
+            "verse": 15,
+            "text": "exemplo pois Dei a-vós para que assim-como eu fiz a-vós e vós façais"
+          },
+          {
+            "verse": 16,
+            "text": "amém amém digo a-vós não é servo maior o do-Kyrios dele nem apóstolo maior o tendo-enviado ele"
+          },
+          {
+            "verse": 17,
+            "text": "se estas-coisas sei bem-aventurados sois se façais elas"
+          },
+          {
+            "verse": 18,
+            "text": "não acerca-de todos vosso digo eu sei quais escolhi mas para que o escritura seja-cumprido o comendo meu o pão levantou sobre mim o calcanhar dele"
+          },
+          {
+            "verse": 19,
+            "text": "de agora digo a-vós antes-de o tornar-se para que creiais quando aconteça que eu sou"
+          },
+          {
+            "verse": 20,
+            "text": "amém amém digo a-vós o recebendo se alguém enviarei mim recebe o porém mim recebendo recebe o o-que-enviou me"
+          },
+          {
+            "verse": 21,
+            "text": "estas-coisas dizendo Iesous perturbou-se o espírito e testemunhou e disse Amém amém digo a-vós que um de vosso entregará me"
+          },
+          {
+            "verse": 22,
+            "text": "Viam para uns-aos-outros o discípulos estando-perplexos acerca-de de-quem diz"
+          },
+          {
+            "verse": 23,
+            "text": "era reclinado um de o discípulos dele em o seio o Iesous o qual amava o Iesous"
+          },
+          {
+            "verse": 24,
+            "text": "acena portanto neste Simão Pedro e diz a ele Dize quem é acerca-de o qual diz"
+          },
+          {
+            "verse": 25,
+            "text": "tendo-reclinado aquele assim sobre o peito o Iesous diz a ele Kyrie quem é"
+          },
+          {
+            "verse": 26,
+            "text": "responde portanto o Iesous Aquele é o qual eu mergulharei o bocado e darei a ele tendo-mergulhado portanto o bocado recebe e dá Judá de-Simão Iscariotes"
+          },
+          {
+            "verse": 27,
+            "text": "e com o bocado então entrou para aquele o Satanás diz portanto a ele Iesous o qual fazes faze mais-rapidamente"
+          },
+          {
+            "verse": 28,
+            "text": "isto porém ninguém conheceu o reclinados junto-a quê disse a ele"
+          },
+          {
+            "verse": 29,
+            "text": "alguns pois pensavam porque o bolsa tinha Judas que diz a ele Iesous Compra o qual necessidade temos para o festa ou o pobres para que algo dê"
+          },
+          {
+            "verse": 30,
+            "text": "tomando portanto o bocado aquele saiu reto era porém noite"
+          },
+          {
+            "verse": 31,
+            "text": "Quando portanto saiu diz Iesous Agora foi-glorificado o Filho o do-homem e o Theos foi-glorificado em a ele"
+          },
+          {
+            "verse": 32,
+            "text": "se o Theos foi-glorificado em a ele e o Theos glorificará ele em a-si-mesmo e imediatamente glorificará ele"
+          },
+          {
+            "verse": 33,
+            "text": "filhinhos ainda pouco com vosso sou buscareis me e assim-como disseram o judeus que onde eu vou vós não podeis vir e a-vós digo agora"
+          },
+          {
+            "verse": 34,
+            "text": "mandamento nova dou a-vós para que amai uns-aos-outros assim-como amei vos para que e vós amai uns-aos-outros"
+          },
+          {
+            "verse": 35,
+            "text": "em neste conhecerão todos que mim discípulos sois se amor tenhais em uns-aos-outros"
+          },
+          {
+            "verse": 36,
+            "text": "diz a ele Simão Pedro Kyrie onde vais respondeu Iesous onde vou não podes a-mim agora seguir seguirás porém depois"
+          },
+          {
+            "verse": 37,
+            "text": "diz a ele Pedro Kyrie através-de quê não posso a-ti seguir agora o alma meu em-favor-de teu porei"
+          },
+          {
+            "verse": 38,
+            "text": "responde Iesous o alma teu em-favor-de mim porás amém amém digo a-ti não não galo chame até o qual negues me três-vezes"
+          }
+        ]
+      },
+      {
+        "chapter": 14,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "não seja-perturbado vosso o coração credes para o Theos e para mim credes"
+          },
+          {
+            "verse": 2,
+            "text": "em o casa o do-Pai meu moradas muitas são se porém não disseram partícula-condicional a-vós que vou preparar lugar a-vós"
+          },
+          {
+            "verse": 3,
+            "text": "e se vá e Prepararei lugar a-vós novamente venho e tomarei vos junto-a a-mim-mesmo para que onde sou eu e vós éreis"
+          },
+          {
+            "verse": 4,
+            "text": "e onde eu vou sei o caminho"
+          },
+          {
+            "verse": 5,
+            "text": "diz a ele Tomé Kyrie não sei onde vais como sei o caminho"
+          },
+          {
+            "verse": 6,
+            "text": "diz a ele Iesous Eu sou o caminho e o verdade e o vida ninguém vem junto-a o Pai se não através-de mim"
+          },
+          {
+            "verse": 7,
+            "text": "se tínheis-conhecido me e o Pai meu partícula-condicional sei de agora sabeis ele e tendes-visto"
+          },
+          {
+            "verse": 8,
+            "text": "diz a ele Filipe Kyrie mostra a-nós o Pai e basta a-nós"
+          },
+          {
+            "verse": 9,
+            "text": "diz a ele o Iesous Tanto tempo com vosso sou e não Tens-conhecido me Filipe o tendo-visto mim tem-visto o Pai como tu dizes Mostra a-nós o Pai"
+          },
+          {
+            "verse": 10,
+            "text": "não crês que eu em o Pai e o Pai em a-mim é o palavras o qual eu digo a-vós de de-mim-mesmo não falo o porém Pai em mim permanecendo faz o obra dele"
+          },
+          {
+            "verse": 11,
+            "text": "credes a-mim que eu em o Pai e o Pai em a-mim se porém não através-de o obra eles credes"
+          },
+          {
+            "verse": 12,
+            "text": "amém amém digo a-vós o crendo para mim o obra o qual eu faço e-aquele fará e maior destes fará que eu junto-a o Pai vou"
+          },
+          {
+            "verse": 13,
+            "text": "e o qual algo partícula-condicional peçais em o no-nome meu isto farei para que seja-glorificado o Pai em o Filho"
+          },
+          {
+            "verse": 14,
+            "text": "se algo peçais me em o no-nome meu eu farei"
+          },
+          {
+            "verse": 15,
+            "text": "se amai me o mandamentos o minhas guardareis"
+          },
+          {
+            "verse": 16,
+            "text": "e-eu perguntarei o Pai e outro Consolador dará a-vós para que seja com vosso para o eternidade"
+          },
+          {
+            "verse": 17,
+            "text": "o espírito o da-verdade o qual o mundo não pode receber que não contempla ele nem conhece vós sabeis isso que de-junto-de a-vós permanece e em a-vós será"
+          },
+          {
+            "verse": 18,
+            "text": "não deixarei vos órfãos venho junto-a vos"
+          },
+          {
+            "verse": 19,
+            "text": "ainda pouco e o mundo me não-mais contempla vós porém contemplais me que eu vivo e vós vivereis"
+          },
+          {
+            "verse": 20,
+            "text": "em naquela o dia conhecereis vós que eu em o Pai meu e vós em mim e-eu em a-vós"
+          },
+          {
+            "verse": 21,
+            "text": "o tendo o mandamentos meu e guardando a-elas aquele é o amando me o porém amando me será-amado sob o do-Pai meu e-eu amarei ele e revelarei a ele a-mim-mesmo"
+          },
+          {
+            "verse": 22,
+            "text": "diz a ele Judas não o Iscariotes Kyrie e quê aconteceu que a-nós estás-a-ponto-de manifestar a-ti-mesmo e não o ao-mundo"
+          },
+          {
+            "verse": 23,
+            "text": "respondeu Iesous e disse a ele Se alguém ama me o palavra meu guardará e o Pai meu amará ele e junto-a ele viremos e morada de-junto-de a ele faremos"
+          },
+          {
+            "verse": 24,
+            "text": "o não amando me o palavras meu não guarda e o palavra o qual ouvi não é meu mas o que-enviou me do-Pai"
+          },
+          {
+            "verse": 25,
+            "text": "estas-coisas tenho-falado a-vós de-junto-de a-vós permanecendo"
+          },
+          {
+            "verse": 26,
+            "text": "o porém Consolador o espírito o santo o qual enviará o Pai em o no-nome meu aquele vos ensinará todas-as-coisas e lembrará vos todas-as-coisas o qual disseram a-vós eu"
+          },
+          {
+            "verse": 27,
+            "text": "Paz deixo a-vós paz o minha dou a-vós não assim-como o mundo dá eu dou a-vós não seja-perturbado vosso o coração nem acovarde-se"
+          },
+          {
+            "verse": 28,
+            "text": "ouvistes que eu disseram a-vós Vou e venho junto-a vos se amáveis me Alegrastes-vos se que vou junto-a o Pai que o Pai maior meu é"
+          },
+          {
+            "verse": 29,
+            "text": "e agora tenho-dito a-vós antes-de tornar-se para que quando aconteça creiais"
+          },
+          {
+            "verse": 30,
+            "text": "não-mais muitas-coisas falarei com vosso vem pois o o do-mundo governante e em mim não tem nada"
+          },
+          {
+            "verse": 31,
+            "text": "mas para que conheça o mundo que amo o Pai e assim-como ordenou a-mim o Pai assim faço Levantai-vos vamos daqui"
+          }
+        ]
+      },
+      {
+        "chapter": 15,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Eu sou o videira o verdadeira e o Pai meu o lavrador é"
+          },
+          {
+            "verse": 2,
+            "text": "todo ramo em mim não trazendo fruto levanta isso e todo o fruto trazendo poda ele para que fruto mais leve"
+          },
+          {
+            "verse": 3,
+            "text": "já vós puros sois através-de o palavra o qual tenho-falado a-vós"
+          },
+          {
+            "verse": 4,
+            "text": "permanecei em a-mim e-eu em a-vós assim-como o ramo não pode fruto trazer de si-mesmo se não permaneça em o videira assim nem vós se não em mim permaneçais"
+          },
+          {
+            "verse": 5,
+            "text": "eu sou o videira vós o ramos o permanecendo em mim e-eu em a ele este carrega fruto muito que sem mim não podeis fazer nada"
+          },
+          {
+            "verse": 6,
+            "text": "se não alguém permaneça em a-mim foi-lançado fora como o ramo e secou-se e reúnem eles e para o fogo lançam e queima-se"
+          },
+          {
+            "verse": 7,
+            "text": "se permaneçais em mim e o palavras meu em a-vós permaneça o qual se queirais pedi-para-vós e acontecerá a-vós"
+          },
+          {
+            "verse": 8,
+            "text": "em neste foi-glorificado o Pai meu para que fruto muito tragais e sereis mim discípulos"
+          },
+          {
+            "verse": 9,
+            "text": "assim-como amou me o Pai e-eu vos amei permanecei em o amor o minha"
+          },
+          {
+            "verse": 10,
+            "text": "se o mandamentos meu guardeis permanecereis em o amor meu assim-como eu o do-Pai meu o mandamentos tenho-guardado e permaneço dele em o amor"
+          },
+          {
+            "verse": 11,
+            "text": "estas-coisas tenho-falado a-vós para que o alegria o minha em a-vós seja e o alegria vosso seja-cumprido"
+          },
+          {
+            "verse": 12,
+            "text": "esta é o mandamento o minha para que amai uns-aos-outros assim-como amei vos"
+          },
+          {
+            "verse": 13,
+            "text": "maior desta amor ninguém tem para que alguém o alma dele ponha em-favor-de o amigos dele"
+          },
+          {
+            "verse": 14,
+            "text": "vós amigos meu sois se façais o qual eu ordeno a-vós"
+          },
+          {
+            "verse": 15,
+            "text": "não-mais digo vos servos que o servo não sei quê faz dele o kyrios vos porém tenho-dito amigos que todas-as-coisas o qual ouvi de-junto-de o do-Pai meu fiz-conhecido a-vós"
+          },
+          {
+            "verse": 16,
+            "text": "não vós me escolhestes mas eu escolhi vos e pus vos para que vós ide e fruto tragais e o fruto vosso permaneça para que o qual algo partícula-condicional peçais o Pai em o no-nome meu dê a-vós"
+          },
+          {
+            "verse": 17,
+            "text": "estas-coisas ordeno a-vós para que amai uns-aos-outros"
+          },
+          {
+            "verse": 18,
+            "text": "se o mundo vos odeia sabeis que mim primeiro vosso tem-odiado"
+          },
+          {
+            "verse": 19,
+            "text": "se de o do-mundo éreis o mundo partícula-condicional o próprio amava que porém de o do-mundo não sois mas eu escolhi vos de o do-mundo através-de isto odeia vos o mundo"
+          },
+          {
+            "verse": 20,
+            "text": "lembrai-vos o da-palavra o qual eu disseram a-vós não é servo maior o do-Kyrios dele se mim perseguiram e vos perseguirão se o palavra meu Guardaram e o vosso guardarão"
+          },
+          {
+            "verse": 21,
+            "text": "mas estas-coisas todas-as-coisas farão para vos através-de o nome meu que não sei o o-que-enviou me"
+          },
+          {
+            "verse": 22,
+            "text": "se não vieram e falei a-eles pecado não tinham agora porém pretexto não têm acerca-de o do-pecado deles"
+          },
+          {
+            "verse": 23,
+            "text": "o mim odiando e o Pai meu odeia"
+          },
+          {
+            "verse": 24,
+            "text": "se o obra não fiz em a-eles o qual ninguém outro fez pecado não tinham agora porém e Têm-visto e têm-odiado e mim e o Pai meu"
+          },
+          {
+            "verse": 25,
+            "text": "mas para que seja-cumprido o palavra o em o lei deles tendo-sido-escrito que Odiaram me gratuitamente"
+          },
+          {
+            "verse": 26,
+            "text": "quando venha o Consolador o qual eu enviarei a-vós de-junto-de o do-Pai o espírito o da-verdade o qual de-junto-de o do-Pai sai aquele testemunhará acerca-de mim"
+          },
+          {
+            "verse": 27,
+            "text": "e vós porém testemunhais que de princípio com mim sois"
+          }
+        ]
+      },
+      {
+        "chapter": 16,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "estas-coisas tenho-falado a-vós para que não sejais-escandalizados"
+          },
+          {
+            "verse": 2,
+            "text": "expulsos-da-sinagoga farão vos mas vem hora para que todo o tendo-matado vos glória serviço-sagrado oferecer o a-Theos"
+          },
+          {
+            "verse": 3,
+            "text": "e estas-coisas farão que não conheceram o Pai nem a-mim"
+          },
+          {
+            "verse": 4,
+            "text": "mas estas-coisas tenho-falado a-vós para que quando venha o hora deles lembreis deles que eu disseram a-vós estas-coisas porém a-vós de princípio não disseram que com vosso eu-era"
+          },
+          {
+            "verse": 5,
+            "text": "agora porém vou junto-a o o-que-enviou me e ninguém de vosso pede me Onde vais"
+          },
+          {
+            "verse": 6,
+            "text": "mas que estas-coisas tenho-falado a-vós o tristeza tem-cumprido vosso o coração"
+          },
+          {
+            "verse": 7,
+            "text": "mas eu o verdade digo a-vós convém a-vós para que eu parta se pois não parta o Consolador não não venha junto-a vos se porém vá enviarei ele junto-a vos"
+          },
+          {
+            "verse": 8,
+            "text": "e vindo aquele repreenderá o mundo acerca-de do-pecado e acerca-de da-justiça e acerca-de juízo"
+          },
+          {
+            "verse": 9,
+            "text": "acerca-de do-pecado de-fato que não creem para a-mim"
+          },
+          {
+            "verse": 10,
+            "text": "acerca-de da-justiça e/mas que junto-a o Pai vou e não-mais contemplais me"
+          },
+          {
+            "verse": 11,
+            "text": "acerca-de porém juízo que o governante o do-mundo deste tem-sido-julgado"
+          },
+          {
+            "verse": 12,
+            "text": "Ainda muitas-coisas tenho a-vós dizer mas não podeis carregar agora"
+          },
+          {
+            "verse": 13,
+            "text": "quando porém venha aquele o espírito o da-verdade guiará vos para o verdade toda não pois falará de si-mesmo mas quanto ouve falará e o vindas anunciará a-vós"
+          },
+          {
+            "verse": 14,
+            "text": "aquele mim glorificará que de o mim receberá e anunciará a-vós"
+          },
+          {
+            "verse": 15,
+            "text": "todas-as-coisas quanto tem o Pai minhas é através-de isto disseram que de o mim recebe e anunciará a-vós"
+          },
+          {
+            "verse": 16,
+            "text": "Pouco e não-mais contemplais me e novamente pouco e vereis me"
+          },
+          {
+            "verse": 17,
+            "text": "Disseram portanto de o discípulos dele junto-a uns-aos-outros quê é isto o qual diz a-nós Pouco e não contemplais me e novamente pouco e vereis me e que vou junto-a o Pai"
+          },
+          {
+            "verse": 18,
+            "text": "diziam portanto isto quê é o qual diz o pequeno não sei quê fala"
+          },
+          {
+            "verse": 19,
+            "text": "conheceu Iesous que queriam ele Perguntar e disse a-eles acerca-de deste buscais com uns-aos-outros que disseram Pouco e não contemplais me e novamente pouco e vereis me"
+          },
+          {
+            "verse": 20,
+            "text": "amém amém digo a-vós que chorareis e lamentareis vós o porém mundo alegrará vós sereis-entristecidos mas o tristeza vosso para alegria acontecerá"
+          },
+          {
+            "verse": 21,
+            "text": "o mulher quando dê-à-luz tristeza tem que veio o hora dela quando porém gere o criança não-mais lembra o tribulação através-de o alegria que foi-gerado homem para o mundo"
+          },
+          {
+            "verse": 22,
+            "text": "e vós portanto agora por-um-lado tristeza tendes novamente porém verei vos e alegrará vosso o coração e o alegria vosso ninguém levanta de vosso"
+          },
+          {
+            "verse": 23,
+            "text": "e em naquela o dia mim não perguntareis nada amém amém digo a-vós se algo peçais o Pai dará a-vós em o no-nome meu"
+          },
+          {
+            "verse": 24,
+            "text": "até agora não Pedistes nada em o no-nome meu pedi e recebereis para que o alegria vosso seja tendo-sido-preenchida"
+          },
+          {
+            "verse": 25,
+            "text": "estas-coisas em provérbios tenho-falado a-vós vem hora quando não-mais em provérbios falarei a-vós mas com-ousadia acerca-de o do-Pai anunciarei a-vós"
+          },
+          {
+            "verse": 26,
+            "text": "em naquela o dia em o no-nome meu pedireis e não digo a-vós que eu perguntarei o Pai acerca-de vosso"
+          },
+          {
+            "verse": 27,
+            "text": "ele pois o Pai ama vos que vós mim tendes-amado e tendes-crido que eu de-junto-de o de-Theos saíram"
+          },
+          {
+            "verse": 28,
+            "text": "saíram de o do-Pai e tenho-vindo para o mundo novamente deixo o mundo e vou junto-a o Pai"
+          },
+          {
+            "verse": 29,
+            "text": "Dizem o discípulos dele Vê agora em com-ousadia falas e provérbio nenhuma dizes"
+          },
+          {
+            "verse": 30,
+            "text": "agora sei que sei todas-as-coisas e não necessidade tens para que quem te pede em neste cremos que de de-Theos saíste"
+          },
+          {
+            "verse": 31,
+            "text": "respondeu a-eles Iesous Agora credes"
+          },
+          {
+            "verse": 32,
+            "text": "eis vem hora e tem-vindo para que sejais-dispersos cada-um para o próprias também-a-mim somente perdoeis e não sou só que o Pai com mim é"
+          },
+          {
+            "verse": 33,
+            "text": "estas-coisas tenho-falado a-vós para que em mim paz tenhais em o ao-mundo aflição tendes mas tende-ânimo eu tenho-vencido o mundo"
+          }
+        ]
+      },
+      {
+        "chapter": 17,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "estas-coisas falou Iesous e levantando o olhos dele para o céu disse Pai tem-vindo o hora glorifica teu o Filho para que o Filho glorifique te"
+          },
+          {
+            "verse": 2,
+            "text": "assim-como deste a ele autoridade toda carne para que todo o qual tens-dado a ele dê a-eles vida eterno"
+          },
+          {
+            "verse": 3,
+            "text": "esta e/mas é o eterno vida para que conheçam te o somente verdadeiro Theos e o qual enviaste Iesous Christos"
+          },
+          {
+            "verse": 4,
+            "text": "eu te glorifiquei sobre o da-terra o obra tendo-aperfeiçoado o qual tens-dado a-mim para que farei"
+          },
+          {
+            "verse": 5,
+            "text": "e agora glorifica me tu Pai de-junto-de a-ti-mesmo o glória o qual tinham antes-de o o mundo ser de-junto-de a-ti"
+          },
+          {
+            "verse": 6,
+            "text": "Manifestei teu o nome o aos-homens o qual deste a-mim de o do-mundo a-ti eram e-a-mim eles deste e o palavra teu têm-guardado"
+          },
+          {
+            "verse": 7,
+            "text": "agora Conheceram que todas-as-coisas quanto tens-dado a-mim de-junto-de teu são"
+          },
+          {
+            "verse": 8,
+            "text": "que o palavras o qual deste a-mim tenho-dado a-eles e eles-mesmos receberam e conheceram verdadeiramente que de-junto-de teu saíram e creram que tu me enviaste"
+          },
+          {
+            "verse": 9,
+            "text": "eu acerca-de deles peço não acerca-de o do-mundo peço mas acerca-de o qual tens-dado a-mim que a-ti são"
+          },
+          {
+            "verse": 10,
+            "text": "e o minhas-coisas todas-as-coisas tuas é e o tuas minhas e tenho-sido-glorificado em a-eles"
+          },
+          {
+            "verse": 11,
+            "text": "e não-mais sou em o ao-mundo e eles-mesmos em o ao-mundo são e-eu junto-a te venho Pai santo guarda eles em o no-nome teu o qual tens-dado a-mim para que sejam um assim-como nós"
+          },
+          {
+            "verse": 12,
+            "text": "quando eu-era com deles eu guardavam eles em o no-nome teu o qual tens-dado a-mim e guardei e ninguém de deles pereceu se não o Filho o perdição para que o escritura seja-cumprido"
+          },
+          {
+            "verse": 13,
+            "text": "agora porém junto-a te venho e estas-coisas falo em o ao-mundo para que tenham o alegria o minha tendo-sido-cumprida em si-mesmos"
+          },
+          {
+            "verse": 14,
+            "text": "eu tenho-dado a-eles o palavra teu e o mundo odiou eles que não são de o do-mundo assim-como eu não sou de o do-mundo"
+          },
+          {
+            "verse": 15,
+            "text": "não peço para que levantes eles de o do-mundo mas para que guardes eles de o do-mal"
+          },
+          {
+            "verse": 16,
+            "text": "de o do-mundo não são assim-como eu não sou de o do-mundo"
+          },
+          {
+            "verse": 17,
+            "text": "santifica eles em o verdade o palavra o teu verdade é"
+          },
+          {
+            "verse": 18,
+            "text": "assim-como mim enviaste para o mundo e-eu enviei eles para o mundo"
+          },
+          {
+            "verse": 19,
+            "text": "e em-favor-de deles eu santifico a-mim-mesmo para que sejam e eles-mesmos tendo-sido-santificados em verdade"
+          },
+          {
+            "verse": 20,
+            "text": "não acerca-de destes porém peço somente mas e acerca-de o crentes através-de o da-palavra deles para a-mim"
+          },
+          {
+            "verse": 21,
+            "text": "para que todos um sejam assim-como tu Pai em mim e-eu em a-ti para que e eles-mesmos em a-nós sejam para que o mundo creia que tu me enviaste"
+          },
+          {
+            "verse": 22,
+            "text": "e-eu o glória o qual tens-dado a-mim tenho-dado a-eles para que sejam um assim-como nós um"
+          },
+          {
+            "verse": 23,
+            "text": "eu em a-eles e tu em a-mim para que sejam tendo-sido-aperfeiçoados para um para que conheças o mundo que tu me enviaste e amaste eles assim-como mim amaste"
+          },
+          {
+            "verse": 24,
+            "text": "Pai o qual tens-dado a-mim quero para que onde sou eu e-aqueles sejam com mim para que contemplem o glória o minha o qual tens-dado a-mim que amaste me antes-de fundação do-mundo"
+          },
+          {
+            "verse": 25,
+            "text": "Pai justo e o mundo te não conheceu eu e/mas te conheci e estes conheceram que tu me enviaste"
+          },
+          {
+            "verse": 26,
+            "text": "e fiz-conhecido a-eles o nome teu e farei-conhecer para que o amor o qual amaste me em a-eles seja e-eu em a-eles"
+          }
+        ]
+      },
+      {
+        "chapter": 18,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "estas-coisas dizendo Iesous saiu com o discípulos dele além o de-torrente o Cedrom onde era jardim para o qual entrou ele e o discípulos dele"
+          },
+          {
+            "verse": 2,
+            "text": "sei porém e Judas o entregando ele o lugar que muitas-vezes reuniu-se Iesous ali com o discípulos dele"
+          },
+          {
+            "verse": 3,
+            "text": "o portanto Judas tomando o coorte e de o sumos-sacerdotes e de o fariseus servos vem ali com lanternas e lâmpadas e armas"
+          },
+          {
+            "verse": 4,
+            "text": "Iesous portanto sei todas-as-coisas o vindas sobre ele saiu e diz a-eles Quem buscais"
+          },
+          {
+            "verse": 5,
+            "text": "responderam a ele Iesous o Nazareno diz a-eles Eu sou estava-de-pé porém e Judas o entregando ele com deles"
+          },
+          {
+            "verse": 6,
+            "text": "como portanto disse a-eles Eu sou partiram para o atrás e caíram ao-chão"
+          },
+          {
+            "verse": 7,
+            "text": "novamente portanto perguntou eles Quem buscais o porém disseram Iesous o Nazareno"
+          },
+          {
+            "verse": 8,
+            "text": "respondeu Iesous Disseram a-vós que eu sou se portanto mim buscais deixai estes ir"
+          },
+          {
+            "verse": 9,
+            "text": "para que seja-cumprido o palavra o qual disse que o qual tens-dado a-mim não perdi de deles a-ninguém"
+          },
+          {
+            "verse": 10,
+            "text": "Simão portanto Pedro tendo espada arrastou ela e golpeou o o do-sumo-sacerdote servo e cortou dele o orelha o direito era porém nome o servo Malco"
+          },
+          {
+            "verse": 11,
+            "text": "disse portanto o Iesous o a-Pedro Lança o espada para o bainha o cálice o qual deu a-mim o Pai não não beba isso"
+          },
+          {
+            "verse": 12,
+            "text": "o portanto coorte e o quiliarca e o servos o judeus prenderam o Iesous e amarraram ele"
+          },
+          {
+            "verse": 13,
+            "text": "e levaram junto-a Anás primeiro era pois sogro o Caifás o qual era sumo-sacerdote o ano daquele"
+          },
+          {
+            "verse": 14,
+            "text": "era porém Caifás o tendo-aconselhado o judeus que convém um homem morrer em-favor-de o povo"
+          },
+          {
+            "verse": 15,
+            "text": "Seguia porém o Iesous Simão Pedro e outro discípulo o porém discípulo aquele era conhecido o sumo-sacerdote e entrou-junto o Iesous para o pátio o do-sumo-sacerdote"
+          },
+          {
+            "verse": 16,
+            "text": "o porém Pedro estava-de-pé junto-a o porta fora saiu portanto o discípulo o outro o conhecido o do-sumo-sacerdote e disse o porteiro e introduziu o Pedro"
+          },
+          {
+            "verse": 17,
+            "text": "diz portanto o a-Pedro o serva o porteiro não e tu de o discípulos és o do-homem deste diz aquele não sou"
+          },
+          {
+            "verse": 18,
+            "text": "estavam-de-pé porém o servos e o servos braseiro tendo-feito que frio era e aqueciam-se era porém e o Pedro com deles estando-de-pé e aquecendo-se"
+          },
+          {
+            "verse": 19,
+            "text": "o portanto sumo-sacerdote perguntou o Iesous acerca-de o discípulos dele e acerca-de o ensino dele"
+          },
+          {
+            "verse": 20,
+            "text": "respondeu a ele Iesous eu com-ousadia tenho-falado o ao-mundo eu sempre ensinei em na-sinagoga e em o templo onde todos o judeus reúnem-se e em oculto falei nada"
+          },
+          {
+            "verse": 21,
+            "text": "quê me perguntas Pergunta o tendo-ouvido quê falei a-eles vê estes sei o qual disseram eu"
+          },
+          {
+            "verse": 22,
+            "text": "estas-coisas porém dele tendo-dito um tendo-estado-de-pé o servindo deu Bofetada o Iesous dizendo Assim respondes o sumo-sacerdote"
+          },
+          {
+            "verse": 23,
+            "text": "respondeu a ele Iesous se mal falei testemunha acerca-de o mal se porém bem quê me bates"
+          },
+          {
+            "verse": 24,
+            "text": "enviou portanto ele o Anás amarrado junto-a Caifás o sumo-sacerdote"
+          },
+          {
+            "verse": 25,
+            "text": "era porém Simão Pedro estando-de-pé e aquecendo-se disseram portanto a ele não e tu de o discípulos dele és negou aquele e disse não sou"
+          },
+          {
+            "verse": 26,
+            "text": "diz um de o escravos o do-sumo-sacerdote parente sendo o qual cortou Pedro o orelha não eu te vi em o jardim com dele"
+          },
+          {
+            "verse": 27,
+            "text": "novamente portanto negou Pedro e imediatamente galo chamou"
+          },
+          {
+            "verse": 28,
+            "text": "Conduzem portanto o Iesous de o Caifás para o pretório era porém de-manhã e eles-mesmos não entraram para o pretório para que não sejam-contaminados mas comam o páscoa"
+          },
+          {
+            "verse": 29,
+            "text": "saiu portanto o Pilatos fora junto-a eles e diz Quem acusação trazei o do-homem deste"
+          },
+          {
+            "verse": 30,
+            "text": "responderam e disseram a ele se não era este mau fazendo não se a-ti entregamos ele"
+          },
+          {
+            "verse": 31,
+            "text": "disse portanto a-eles o Pilatos Tomai ele vós e segundo o lei vosso julgai ele disseram a ele o judeus a-nós não é-lícito matar a-ninguém"
+          },
+          {
+            "verse": 32,
+            "text": "para que o palavra o Iesous seja-cumprido o qual disse sinalizando qual morte estava-prestes-a morrer"
+          },
+          {
+            "verse": 33,
+            "text": "Entrou portanto novamente para o pretório o Pilatos e chamou o Iesous e disse a ele tu és o Rei o judeus"
+          },
+          {
+            "verse": 34,
+            "text": "respondeu Iesous desde si-mesmo tu isto dizes ou outros dize a-ti acerca-de mim"
+          },
+          {
+            "verse": 35,
+            "text": "respondeu o Pilatos Acaso eu judeu sou o nação o teu e o sumos-sacerdotes entregaram te a-mim quê Fizeste"
+          },
+          {
+            "verse": 36,
+            "text": "respondeu Iesous o reino o minha não é de o do-mundo deste se de o do-mundo deste era o reino o minha o servos partícula-condicional o mim lutavam para que não eu-seja-entregue o judeus agora porém o reino o minha não é daqui"
+          },
+          {
+            "verse": 37,
+            "text": "disse portanto a ele o Pilatos Portanto rei és tu respondeu o Iesous tu dizes que rei sou eu para isto tenho-sido-gerado e para isto tenho-vindo para o mundo para que testemunharei o verdade todo o sendo de o da-verdade ouve meu o voz"
+          },
+          {
+            "verse": 38,
+            "text": "diz a ele o Pilatos quê é verdade e isto dizendo novamente saiu junto-a o judeus e diz a-eles eu nenhuma encontro em a ele causa"
+          },
+          {
+            "verse": 39,
+            "text": "é porém costume a-vós para que um soltarei a-vós em o páscoa quereis portanto soltarei a-vós o Rei o judeus"
+          },
+          {
+            "verse": 40,
+            "text": "gritaram portanto novamente dizendo não este mas o Barrabás era porém o Barrabás salteador"
+          }
+        ]
+      },
+      {
+        "chapter": 19,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Então portanto recebeu o Pilatos o Iesous e açoitou"
+          },
+          {
+            "verse": 2,
+            "text": "e o soldados tendo-trançado coroa de espinhos puseram-sobre dele o cabeça e manto púrpura vestiram ele"
+          },
+          {
+            "verse": 3,
+            "text": "e vinham junto-a ele e diziam Alegra-te o Rei o judeus e davam a ele bofetadas"
+          },
+          {
+            "verse": 4,
+            "text": "e saiu novamente fora o Pilatos e diz a-eles Vê conduzo a-vós ele fora para que conheçais que nenhuma causa encontro em a ele"
+          },
+          {
+            "verse": 5,
+            "text": "saiu portanto o Iesous fora carregando o de-espinhos coroa e o púrpura manto e diz a-eles Eis o homem"
+          },
+          {
+            "verse": 6,
+            "text": "quando portanto vi ele o sumos-sacerdotes e o servos gritaram dizendo Crucifica crucifica diz a-eles o Pilatos Tomai ele vós e crucificai eu pois não encontro em a ele causa"
+          },
+          {
+            "verse": 7,
+            "text": "responderam a ele o judeus nós lei temos e segundo o lei deve morrer que Filho de-Theos si-mesmo fez"
+          },
+          {
+            "verse": 8,
+            "text": "Quando portanto ouviu o Pilatos este o palavra mais temeu"
+          },
+          {
+            "verse": 9,
+            "text": "e entrou para o pretório novamente e diz o Iesous De-onde és tu o porém Iesous resposta não deu a ele"
+          },
+          {
+            "verse": 10,
+            "text": "diz portanto a ele o Pilatos A-mim não falas não sei que autoridade tenho soltar te e autoridade tenho crucificar te"
+          },
+          {
+            "verse": 11,
+            "text": "respondeu Iesous não tinhas autoridade segundo mim nenhuma se não era dado a-ti de-cima através-de isto o tendo-entregado me a-ti maior pecado tem"
+          },
+          {
+            "verse": 12,
+            "text": "de deste o Pilatos buscava soltar ele o porém judeus gritaram dizendo se este soltes não és amigo o de-César todo o rei si-mesmo fazendo contradiz o César"
+          },
+          {
+            "verse": 13,
+            "text": "o portanto Pilatos ouvindo o palavras destes conduziu fora o Iesous e sentou-se sobre tribunal para lugar chamado Litóstrotos Em-hebraico porém Gabatá"
+          },
+          {
+            "verse": 14,
+            "text": "era porém Preparação o páscoa hora era como sexta e diz o judeus Vê o Rei vosso"
+          },
+          {
+            "verse": 15,
+            "text": "gritaram portanto aqueles Levanta levanta crucifica ele diz a-eles o Pilatos o Rei vosso crucificarei responderam o sumos-sacerdotes não temos rei se não César"
+          },
+          {
+            "verse": 16,
+            "text": "então portanto entregou ele a-eles para que seja-crucificado Recebi portanto o Iesous"
+          },
+          {
+            "verse": 17,
+            "text": "e carregando si-mesmo o cruz saiu para o chamado Crânio lugar o qual é-dito Em-hebraico Gólgota"
+          },
+          {
+            "verse": 18,
+            "text": "onde ele crucificaram e com dele outros dois daqui e daqui meio porém o Iesous"
+          },
+          {
+            "verse": 19,
+            "text": "escreveu porém e inscrição o Pilatos e colocou sobre o da-cruz era porém escrito Iesous o nazareno o REI o JUDEUS"
+          },
+          {
+            "verse": 20,
+            "text": "este portanto o inscrição muitos leram o judeus que perto era o lugar o cidade onde foi-crucificado o Iesous e era escrito Em-hebraico Em-romano Em-grego"
+          },
+          {
+            "verse": 21,
+            "text": "diziam portanto o Pilatos o sumos-sacerdotes o judeus não escreve o Rei o judeus mas que aquele disse Rei sou o judeus"
+          },
+          {
+            "verse": 22,
+            "text": "respondeu o Pilatos o qual tenho-escrito tenho-escrito"
+          },
+          {
+            "verse": 23,
+            "text": "o portanto soldados quando crucificaram o Iesous receberam o vestes dele e fizeram quatro partes a-cada-um soldado parte e o túnica era porém o túnica sem-costura de o de-cima Tecido através-de inteiro"
+          },
+          {
+            "verse": 24,
+            "text": "disseram portanto junto-a uns-aos-outros não rasguemos ele mas obtenhamos-por-sorte acerca-de dele de-quem será para que o escritura seja-cumprido Dividiram-entre-si o Vestes meu si-mesmos e sobre o Vestuário meu lançaram sorte o por-um-lado portanto soldados estas-coisas fizeram"
+          },
+          {
+            "verse": 25,
+            "text": "estavam-de-pé porém de-junto-de o cruz o Iesous o mãe dele e o irmã o mãe dele Maria o o Clopas e Maria o Madalena"
+          },
+          {
+            "verse": 26,
+            "text": "Iesous portanto vendo o mãe e o discípulo os-que-estão-de-pé-junto o qual amava diz o mãe Mulher vê o filho teu"
+          },
+          {
+            "verse": 27,
+            "text": "então diz o discípulo Vê o mãe teu e de daquela o hora recebeu o discípulo ela para o próprias"
+          },
+          {
+            "verse": 28,
+            "text": "com isto sei o Iesous que já todas-as-coisas tem-sido-completado para que seja-aperfeiçoado o escritura diz Tenho-sede"
+          },
+          {
+            "verse": 29,
+            "text": "vaso jazia vinagre cheio esponja portanto cheio o vinagre Hissopo tendo-colocado-ao-redor trouxeram dele o boca"
+          },
+          {
+            "verse": 30,
+            "text": "quando portanto recebeu o vinagre o Iesous disse Tem-sido-consumado e tendo-inclinado o cabeça entregou o espírito"
+          },
+          {
+            "verse": 31,
+            "text": "o portanto judeus porque Preparação era para que não permaneça sobre o da-cruz o corpos em o no-sábado era pois grande o dia daquele o do-sábado perguntaram o Pilatos para que sejam-quebrados deles o pernas e sejam-levantados"
+          },
+          {
+            "verse": 32,
+            "text": "vieram portanto o soldados e o por-um-lado primeiro quebraram o pernas e o outro o co-crucificado a ele"
+          },
+          {
+            "verse": 33,
+            "text": "sobre porém o Iesous vindo como vi já ele tendo-morrido não quebraram dele o pernas"
+          },
+          {
+            "verse": 34,
+            "text": "mas um o soldados lança dele o lado Perfurou e saiu imediatamente sangue e água"
+          },
+          {
+            "verse": 35,
+            "text": "e o tendo-visto tem-testemunhado e verdadeira dele é o testemunho e aquele sei que verdadeiras diz para que e vós creiais"
+          },
+          {
+            "verse": 36,
+            "text": "aconteceu pois estas-coisas para que o escritura seja-cumprido Osso não será-quebrado dele"
+          },
+          {
+            "verse": 37,
+            "text": "e novamente outra escritura diz Verão para o qual traspassaram"
+          },
+          {
+            "verse": 38,
+            "text": "com porém estas-coisas perguntou o Pilatos José de Arimateia sendo discípulo o Iesous tendo-sido-escondido porém através-de o medo o judeus para que levante o corpo o Iesous e permitiu o Pilatos veio portanto e levantou o corpo dele"
+          },
+          {
+            "verse": 39,
+            "text": "veio porém e Nicodemos o vindo junto-a ele da-noite o primeiro trazendo mistura mirra e aloés como libras Cem"
+          },
+          {
+            "verse": 40,
+            "text": "receberam portanto o corpo o Iesous e amarraram ele faixas-de-linho com o aromas assim-como costume é o judeus embalsamar"
+          },
+          {
+            "verse": 41,
+            "text": "era porém em o no-lugar onde foi-crucificado jardim e em o jardim túmulo novo em o qual ainda-não ninguém era tendo-sido-posto"
+          },
+          {
+            "verse": 42,
+            "text": "ali portanto através-de o Preparação o judeus que perto era o túmulo puseram o Iesous"
+          }
+        ]
+      },
+      {
+        "chapter": 20,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "o porém uma o sábados Maria o Madalena vem de-manhã trevas ainda sendo para o túmulo e vê o pedra tendo-sido-levantado de o sepulcro"
+          },
+          {
+            "verse": 2,
+            "text": "corre portanto e vem junto-a Simão Pedro e junto-a o outro discípulo o qual amava o Iesous e diz a-eles Levantaram o Kyrion de o sepulcro e não sei onde puseram ele"
+          },
+          {
+            "verse": 3,
+            "text": "Saiu portanto o Pedro e o outro discípulo e vinham para o túmulo"
+          },
+          {
+            "verse": 4,
+            "text": "Corriam porém o dois juntamente e o outro discípulo correu-adiante mais-rapidamente o de-Pedro e veio primeiro para o túmulo"
+          },
+          {
+            "verse": 5,
+            "text": "e inclinando-se vê postos o faixas-de-linho não contudo entrou"
+          },
+          {
+            "verse": 6,
+            "text": "vem portanto e Simão Pedro seguindo a ele e entrou para o túmulo e contempla o faixas-de-linho postos"
+          },
+          {
+            "verse": 7,
+            "text": "e o lenço o qual era sobre o cabeça dele não com o faixas-de-linho posto mas sem tendo-sido-enrolado para um lugar"
+          },
+          {
+            "verse": 8,
+            "text": "então portanto entrou e o outro discípulo o vindo primeiro para o túmulo e viu e creu"
+          },
+          {
+            "verse": 9,
+            "text": "ainda-não pois sei o escritura que é necessário ele de mortos levantar-se"
+          },
+          {
+            "verse": 10,
+            "text": "foram portanto novamente junto-a si-mesmos o discípulos"
+          },
+          {
+            "verse": 11,
+            "text": "Maria porém estava-de-pé junto-a o sepulcro fora chorando como portanto chorava inclinou-se para o túmulo"
+          },
+          {
+            "verse": 12,
+            "text": "e contempla dois anjo em brancos sentando-se um junto-a o cabeça e um junto-a o pés onde jazia o corpo o Iesous"
+          },
+          {
+            "verse": 13,
+            "text": "e dizem a-ela aqueles Mulher quê choras diz a-eles que Levantaram o Kyrion meu e não sei onde puseram ele"
+          },
+          {
+            "verse": 14,
+            "text": "estas-coisas tendo-dito Voltou-se para o atrás e contempla o Iesous de-pé e não sei que Iesous é"
+          },
+          {
+            "verse": 15,
+            "text": "diz a-ela Iesous Mulher quê choras quem buscas aquela parecendo que o jardineiro é diz a ele Kyrie se tu carregaste ele dize a-mim onde colocaste ele e-eu ele levantarei"
+          },
+          {
+            "verse": 16,
+            "text": "diz a-ela Iesous Miriam tendo-se-virado aquela diz a ele Em-hebraico Rabôni o qual é-dito Mestre"
+          },
+          {
+            "verse": 17,
+            "text": "diz a-ela Iesous Não meu não-toques ainda-não pois tenho-subido junto-a o Pai vai porém junto-a o irmãos meu e dize a-eles Subo junto-a o Pai meu e Pai vosso e Theos meu e Theos vosso"
+          },
+          {
+            "verse": 18,
+            "text": "vem Maria o Madalena anunciando o discípulos que Tenho-visto o Kyrion e estas-coisas disse a-ela"
+          },
+          {
+            "verse": 19,
+            "text": "Sendo portanto tarde o dia naquela o uma sábados e o portas tendo-sido-fechadas onde eram o discípulos através-de o medo o judeus veio o Iesous e pôs-se-de-pé para o meio e diz a-eles Paz a-vós"
+          },
+          {
+            "verse": 20,
+            "text": "e isto dizendo mostrou e o mãos e o lado a-eles alegraram-se portanto o discípulos vendo o Kyrion"
+          },
+          {
+            "verse": 21,
+            "text": "disse portanto a-eles o Iesous novamente Paz a-vós assim-como tem-enviado me o Pai e-eu envio vos"
+          },
+          {
+            "verse": 22,
+            "text": "e isto dizendo soprou-sobre e diz a-eles Tomai espírito santo"
+          },
+          {
+            "verse": 23,
+            "text": "se alguns perdoeis o do-pecado são-perdoados a-eles se alguns segureis têm-sido-retidos"
+          },
+          {
+            "verse": 24,
+            "text": "Tomé porém um de o doze o chamado Dídimo não era com deles quando veio Iesous"
+          },
+          {
+            "verse": 25,
+            "text": "diziam portanto a ele o outros discípulos Temos-visto o Kyrion o porém disse a-eles se não veja em o com-mãos dele o modelo o cravos e lance o dedo meu para o lugar o cravos e lance meu o mão para o lado dele não não creia"
+          },
+          {
+            "verse": 26,
+            "text": "e com do-dia oito novamente eram dentro o discípulos dele e Tomé com deles vem o Iesous o portas tendo-sido-fechadas e pôs-se-de-pé para o meio e disse Paz a-vós"
+          },
+          {
+            "verse": 27,
+            "text": "então diz o Tomé Traz o dedo teu aqui e vê o mãos meu e traz o mão teu e lança para o lado meu e não torna-te incrédulo mas fiel"
+          },
+          {
+            "verse": 28,
+            "text": "respondeu Tomé e disse a ele o Kyrios meu e o Theos meu"
+          },
+          {
+            "verse": 29,
+            "text": "diz a ele o Iesous que Tens-visto me tens-crido bem-aventurados o não vendo e tendo-crido"
+          },
+          {
+            "verse": 30,
+            "text": "Muitas-coisas por-um-lado portanto e outras-coisas sinais fez o Iesous diante-de o discípulos o qual não é escritas em o livro neste"
+          },
+          {
+            "verse": 31,
+            "text": "estas-coisas porém está-escrito para que creiais que Iesous é o Christos o Filho o de-Theos e para que crendo vida tenhais em o em-nome dele"
+          }
+        ]
+      },
+      {
+        "chapter": 21,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "com estas-coisas manifestou si-mesmo novamente Iesous o discípulos sobre o do-mar o Tiberíades manifestou porém assim"
+          },
+          {
+            "verse": 2,
+            "text": "eram juntamente Simão Pedro e Tomé o chamado Dídimo e Natanael o de Caná o Galileia e o o Zebedeu e outros de o discípulos dele dois"
+          },
+          {
+            "verse": 3,
+            "text": "diz a-eles Simão Pedro Vou pescar dizem a ele Vimos e nós com a-ti saíram e embarcaram para o barco e em naquela o à-noite prenderam nada"
+          },
+          {
+            "verse": 4,
+            "text": "de-manhã porém já acontecendo pôs-se-de-pé Iesous para o praia não contudo sei o discípulos que Iesous é"
+          },
+          {
+            "verse": 5,
+            "text": "diz portanto a-eles Iesous Criancinhas não algo comida tendes responderam a ele Não"
+          },
+          {
+            "verse": 6,
+            "text": "o porém disse a-eles Lançai para o direita partes o do-barco o rede e encontrareis lançaram portanto e não-mais ele Arrastar tinham-força de o multidão o peixes"
+          },
+          {
+            "verse": 7,
+            "text": "diz portanto o discípulo aquele o qual amava o Iesous o a-Pedro o Kyrios é Simão portanto Pedro ouvindo que o Kyrios é o veste-exterior cingiu-se era pois nu e lançou si-mesmo para o mar"
+          },
+          {
+            "verse": 8,
+            "text": "o porém outros discípulos o barquinho vieram não pois eram longe de o da-terra mas como de côvados duzentos arrastando o rede o peixes"
+          },
+          {
+            "verse": 9,
+            "text": "como portanto desembarcaram para o terra veem braseiro jazendo e peixinho imposto-sobre e pão"
+          },
+          {
+            "verse": 10,
+            "text": "diz a-eles o Iesous Trazei de o peixinhos o qual prendei agora"
+          },
+          {
+            "verse": 11,
+            "text": "subiu Simão Pedro e arrastou o rede para o terra cheio peixes grandes cem cinquenta três e tantos existindo não rasgou-se o rede"
+          },
+          {
+            "verse": 12,
+            "text": "diz a-eles o Iesous Vinde comei-a-refeição-da-manhã ninguém ousava o discípulos examinar ele tu quem és sei que o Kyrios é"
+          },
+          {
+            "verse": 13,
+            "text": "vem Iesous e recebe o pão e dá a-eles e o peixinho semelhantemente"
+          },
+          {
+            "verse": 14,
+            "text": "isto já terceira-vez foi-manifestado Iesous o discípulos levantando-se de mortos"
+          },
+          {
+            "verse": 15,
+            "text": "Quando portanto almoçaram diz o Simão a-Pedro o Iesous Simão João amas me mais destes diz a ele Sim Kyrie tu sei que amo te diz a ele Apascenta o cordeiros meu"
+          },
+          {
+            "verse": 16,
+            "text": "diz a ele novamente segunda-vez Simão João amas me diz a ele Sim Kyrie tu sei que amo te diz a ele pastoreia o ovelhinhas meu"
+          },
+          {
+            "verse": 17,
+            "text": "diz a ele o terceira-vez Simão João amas me foi-entristecido o Pedro que disse a ele o terceira-vez Amas me e disse a ele Kyrie todas-as-coisas tu sei tu conheces que amo te diz a ele Iesous Apascenta o ovelhinhas meu"
+          },
+          {
+            "verse": 18,
+            "text": "amém amém digo a-ti quando eras mais-jovem te-cingias a-ti-mesmo e andavas onde Querias quando porém envelheças fervorosos o mãos teu e outro cingirá te e levará onde não queres"
+          },
+          {
+            "verse": 19,
+            "text": "isto porém disse sinalizando qual morte glorificará o Theos e isto dizendo diz a ele Segue a-mim"
+          },
+          {
+            "verse": 20,
+            "text": "tendo-se-voltado o Pedro vê o discípulo o qual amava o Iesous seguindo o qual e reclinou-se em o ceia sobre o peito dele e disse Kyrie quem é o entregando te"
+          },
+          {
+            "verse": 21,
+            "text": "este portanto vendo o Pedro diz o Iesous Kyrios este porém quê"
+          },
+          {
+            "verse": 22,
+            "text": "diz a ele o Iesous se ele quero permanecer até venho quê junto-a te tu a-mim segue"
+          },
+          {
+            "verse": 23,
+            "text": "saiu portanto este o palavra para o irmãos que o discípulo aquele não morre não disse porém a ele o Iesous que não morre mas se ele quero permanecer até venho quê junto-a te"
+          },
+          {
+            "verse": 24,
+            "text": "Este é o discípulo o testemunhando acerca-de destes e o tendo-escrito estas-coisas e sei que verdadeiro dele o testemunho é"
+          },
+          {
+            "verse": 25,
+            "text": "É porém e outras-coisas muitas-coisas o qual fez o Iesous quaisquer se seja-escrito segundo um nem ele suponho o mundo conter o sendo-escritos livros"
+          }
+        ]
+      }
+    ]
+  }
+}

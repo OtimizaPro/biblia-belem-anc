@@ -1,0 +1,379 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 8,
+    "code": "RUT",
+    "name": "Rute",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e-houve em-os-dias-de julgar os-juízes e-houve fome em-a-terra E-andou homem de-casa-de pão Judá para-habitar em-campos-de Moabe ele e-esposa-dele e-dois-de filhos-dele"
+          },
+          {
+            "verse": 2,
+            "text": "e-nome-de o-homem Elimelech e-nome-de esposa-dele Naomi e-nome-de dois filhos-dele Mahlon e-Quilion efratitas de-casa-de pão Judá e-vieram campos-de Moabe e-foram nome"
+          },
+          {
+            "verse": 3,
+            "text": "E-morreu Elimelech homem Naomi e-restou ela e-dois-de filhos-dela"
+          },
+          {
+            "verse": 4,
+            "text": "e-tomaram a-eles mulheres moabitas nome a-uma Orfa e-nome-de a-segunda Rute e-habitaram nome como-dez dois"
+          },
+          {
+            "verse": 5,
+            "text": "e-morreram também dois-deles Mahlon e-Quilion e-restou a-mulher de-dois-de filhos-dela e-de-marido-dela"
+          },
+          {
+            "verse": 6,
+            "text": "e-levantou-se ela e-noras-dela e-retornou de-campos-de Moabe que ouviu em-campo-de Moabe porque yhwh yhwh a a-eles a-dar a-eles pão"
+          },
+          {
+            "verse": 7,
+            "text": "e-saiu de o-lugar que estava ali com-ela noras-dela com-ela e-andaram no-caminho para-retornar a terra Judá"
+          },
+          {
+            "verse": 8,
+            "text": "E-disse Naomi para-duas-de noras-dela ide voltai mulher para-casa-de mãe-dela yhwh com-vós yhwh como-que fizestes com os-mortos e-comigo"
+          },
+          {
+            "verse": 9,
+            "text": "dará yhwh a-vós e-acheis descanso mulher casa marido-dela e-beijou a-elas e-levantaram voz-delas e-choraram"
+          },
+          {
+            "verse": 10,
+            "text": "e-disseram a-ela porque contigo retornaremos para-povo-teu"
+          },
+          {
+            "verse": 11,
+            "text": "E-disse Naomi voltai filhas-minhas por-que ireis comigo há-ainda filhos filhos e-sejam a-vós para-vocês para-homens"
+          },
+          {
+            "verse": 12,
+            "text": "voltai filhas-minhas ide que envelheci de-ser para-homem que dissesse há a-mim também também estive a-noite para-homem e-também filhos filhos"
+          },
+          {
+            "verse": 13,
+            "text": "acaso-para-elas esperareis até até crescerão acaso-para-elas vos-detereis para-não para-não estar El filhas-minhas porque amargo muito muito de-vós porque saiu em-mim mão-de yhwh"
+          },
+          {
+            "verse": 14,
+            "text": "e-levantaram voz-delas e-choraram ainda e-beijou Orfa para-sogra-dela e-Rute apegou-se nela"
+          },
+          {
+            "verse": 15,
+            "text": "E-disse eis voltou cunhada-tua a povo-dela e-a Elohim-dela volta atrás-de cunhada-tua"
+          },
+          {
+            "verse": 16,
+            "text": "E-disse Rute a insistas em-mim para-deixar-te que de-atrás-de-ti porque a que irás irei e-em-onde pernoitares pernoitarei povo-teu povo-meu e-Elohim-teu Elohim-meu"
+          },
+          {
+            "verse": 17,
+            "text": "em-onde morreres morrerei e-ali serei-sepultada assim fará yhwh a-mim e-assim acrescentará que a-morte separará entre-mim e-entre-ti"
+          },
+          {
+            "verse": 18,
+            "text": "E-viu porque estava-determinada ela para-andar com-ela e-cessou de-falar a-ela"
+          },
+          {
+            "verse": 19,
+            "text": "e-andaram duas-delas até chegaram casa e-houve E-foi quando-chegaram pão Belém e-agitou-se todo a-cidade sobre-eles e-disseram esta Noemi"
+          },
+          {
+            "verse": 20,
+            "text": "E-disse a-elas a chameis para-mim Noemi chamai a-mim Mara porque fez-amargo muito para-mim muito"
+          },
+          {
+            "verse": 21,
+            "text": "eu cheia fui e-vazia me-trouxe-de-volta yhwh por-que aconteçam a-mim Noemi e-יהוה testificou em-mim e-Shadai fez-mal para-mim"
+          },
+          {
+            "verse": 22,
+            "text": "e-voltou Noemi e-Rute a-moabita nora-dela com-ela a-que-voltou de-campos-de Moabe e-elas vieram casa pão no-início-de ceifa-de cevada"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e-para-Noemi para-marido-dela homem homem valente de-família-de אֱלִימֶלֶךְ e-nome-dele בֹּעַז"
+          },
+          {
+            "verse": 2,
+            "text": "E-disse ר֨וּת a-moabita a נָעֳמִי irei agora o-campo e-respigo em-as-espigas atrás-de que E-disse graça em-olhos-dele e-disse para-ela vai filha-minha"
+          },
+          {
+            "verse": 3,
+            "text": "e-foi e-veio e-respigou no-campo atrás-de os-ceifadores e-aconteceu acaso-dela porção-de o-campo de-בֹעַז que de-família-de אֱלִימֶלֶךְ"
+          },
+          {
+            "verse": 4,
+            "text": "e-eis- בֹעַז veio pão E-disse E-disse yhwh yhwh com-vós a-ele para-ele yhwh yhwh"
+          },
+          {
+            "verse": 5,
+            "text": "E-disse בֹעַז a-jovem-dele o-posto sobre os-ceifadores de-quem a-jovem a esta"
+          },
+          {
+            "verse": 6,
+            "text": "e-respondeu o-jovem o-posto sobre os-ceifadores E-disse jovem moabita ela a-que-retornou com נָעֳמִי de-campo-de Moabe"
+          },
+          {
+            "verse": 7,
+            "text": "E-disse respigo agora e-ajunto em-os-feixes atrás-de os-ceifadores e-veio e-ficou-em-pé desde a-manhã e-até até-agora este sentar-dela a-casa pouco"
+          },
+          {
+            "verse": 8,
+            "text": "E-disse בֹעַז a ר֜וּת não ouviste filha-minha a vás para-respigar em-campo não e-também não passes deste e-assim te-apegarás com jovens-minhas"
+          },
+          {
+            "verse": 9,
+            "text": "olhos-teus no-campo que ceifam e-andaste atrás-delas não ordenei para-não os-jovens para-não tocar-te e-tiveres-sede e-irás a os-vasos e-beberás do-que tiram os-jovens"
+          },
+          {
+            "verse": 10,
+            "text": "e-caiu sobre face-dela e-se-prostrou E-disse a-ele a-ele por-que achei graça em-olhos-teus para-conhecer-me e-eu estranha"
+          },
+          {
+            "verse": 11,
+            "text": "e-respondeu בֹעַז E-disse para-ela foi-relatado foi-relatado para-mim todo que fizeste a morrendo após morte-de homem-teu e-abandonaste pai-teu e-mãe-tua e-terra-de nascimento-teu e-foste a povo que não conheceste ontem terceiro-dia"
+          },
+          {
+            "verse": 12,
+            "text": "pague yhwh trabalho-teu e-seja salário-teu completo de-com yhwh Elohim-de Israel que vieste para-buscar-refúgio debaixo-de asas-dele"
+          },
+          {
+            "verse": 13,
+            "text": "E-disse encontre graça em-olhos-teus que porque consolaste-me e-que falaste sobre coração não e-eu não serei como-uma servas-tuas"
+          },
+          {
+            "verse": 14,
+            "text": "E-disse para-ela Boaz ao-tempo-de a-comida aproxima-te aqui e-comerás de o-pão e-molharás pedaço-teu no-vinagre e-sentou de-lado-de os-ceifadores e-ofereceu e-comeste grão-tostado e-comeu e-saciou-se e-sobrou"
+          },
+          {
+            "verse": 15,
+            "text": "e-levantou-se para-respigar E-ordenou בֹעַז a dizendo também entre entre os-feixes respigue e-não envergonheis-ela"
+          },
+          {
+            "verse": 16,
+            "text": "e-também puxar puxareis para-ela de os-molhos e-deixareis e-respigará e-não repreendais em-ela"
+          },
+          {
+            "verse": 17,
+            "text": "e-respigou no-campo até a-tarde e-debulhou com e-houve respigou E-foi como-efa-de cevada"
+          },
+          {
+            "verse": 18,
+            "text": "e-carregou e-veio a-cidade E-viu sogra-dela com que E-produziu e-tirou e-deu para-ela a que sobrou de-saciedade-dela"
+          },
+          {
+            "verse": 19,
+            "text": "E-disse para-ela sogra-dela onde respigaste o-dia e-onde fizeste haja reconheceu-te bendito e-relatou para-sogra-dela a que trabalhou E-disse e-disse nome o-homem que trabalhei o-dia o-dia בֹּעַז"
+          },
+          {
+            "verse": 20,
+            "text": "E-disse Naomi para-nora-dela bendito ele para-יהוה que não abandonou bondade-dele a E-disse e-a os mortos e-disse para-ela Noemi próximo ele o-homem de-remidores-nossos ela"
+          },
+          {
+            "verse": 21,
+            "text": "E-disse Rute a moabita também porque disse a-mim com os jovens que até aderir até se terminaram a todo a colheita que para-mim"
+          },
+          {
+            "verse": 22,
+            "text": "E-disse Noemi a Rute bom bom que porque sairás com jovens-dele e-não encontrarão em-ti em-campo outro"
+          },
+          {
+            "verse": 23,
+            "text": "e-aderiu em-jovens בֹעַז para-colher até terminar colheita-de as cevadas e-colheita os trigos e-habitou a sogra-dela"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "E-disse para-ela Noemi sogra-dela filha-minha não buscarei para-ti descanso que será-bom para-ti"
+          },
+          {
+            "verse": 2,
+            "text": "e-agora não Boaz conhecido-nosso que estavas a jovens-dele eis-que- ele joeirando a-noite eira as cevadas a-noite"
+          },
+          {
+            "verse": 3,
+            "text": "e-lavarás e-ungirás e-colocarás sobre-ti a eira a serás-conhecida para-o homem até terminar-dele para-comer e-para-beber"
+          },
+          {
+            "verse": 4,
+            "text": "e-seja em-deitar-dele e-saberás a o-lugar que deitará nome e-entrarás e-descobrirás pés-dele e-ele dirá para-ti את que farás"
+          },
+          {
+            "verse": 5,
+            "text": "E-disse para-ela todo que dirás farei"
+          },
+          {
+            "verse": 6,
+            "text": "e-desceu a eira e-fez conforme-tudo que ordenou-ela sogra-dela"
+          },
+          {
+            "verse": 7,
+            "text": "e-comeu Boaz e-bebeu e-foi-bom coração-dele E-veio para-deitar em-extremidade o monte e-veio em-segredo e-descobriu pés-dele e-deitou"
+          },
+          {
+            "verse": 8,
+            "text": "e-houve em-meio a-noite e-tremeu o homem e-virou-se e-eis mulher deitada pés-dele"
+          },
+          {
+            "verse": 9,
+            "text": "E-disse quem E-disse eu eu Rute serva-tua e-estenderás asa-tua que serva-tua porque resgatador tu"
+          },
+          {
+            "verse": 10,
+            "text": "E-disse bendita tu para-יהוה filha-minha fizeste-bem bondade-tua a-última de o-primeiro para-não ir depois-de os-jovens se pobre e-se rico"
+          },
+          {
+            "verse": 11,
+            "text": "e-agora filha-minha a temas todo que que farei para-ti porque que todo portão povo-meu porque mulher-de valor tu"
+          },
+          {
+            "verse": 12,
+            "text": "e-agora que verdadeiramente que resgatador eu eu há resgatador próximo de-mim"
+          },
+          {
+            "verse": 13,
+            "text": "passa-a-noite a-noite e-era pela-manhã se te-resgatará bom resgate e-se não desejar para-resgatar-te eu eu vive yhwh deita até a-manhã"
+          },
+          {
+            "verse": 14,
+            "text": "e-deitou até a-manhã e-levantou reconheça homem a companheiro-seu E-disse a E-disse porque veio a-mulher a-eira"
+          },
+          {
+            "verse": 15,
+            "text": "E-disse traz o-manto que sobre-ti e-segura nela e-segurou nela e-mediu seis-de cevadas e-pôs sobre-ela E-veio a-cidade"
+          },
+          {
+            "verse": 16,
+            "text": "e-veio a E-disse e-disse quem tu filha-minha e-contou objeto-direto todo que fez para-ela o-homem"
+          },
+          {
+            "verse": 17,
+            "text": "E-disse seis-de as-cevadas dar deu que disse disse a virás vazia a sogra-tua"
+          },
+          {
+            "verse": 18,
+            "text": "E-disse senta filha-minha até que saberás como cairá palavra que não descansará o-homem porque se o-dia a palavra o-dia"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "e-Boaz subir o-portão e-sentou nome e-eis o-resgatador passando que falou E-disse E-disse desvia senta aqui fulano sicrano e-desviou e-sentou"
+          },
+          {
+            "verse": 2,
+            "text": "E-tomou dez homens de-anciãos-de a-cidade E-disse sentai aqui e-sentaram"
+          },
+          {
+            "verse": 3,
+            "text": "E-disse para-o-resgatador porção-de o-campo que para-irmão-nosso para-Elimeleque vendeu Naomi a-que-voltou de-campo-de Moabe"
+          },
+          {
+            "verse": 4,
+            "text": "e-eu disse revelarei ouvido-teu dizendo compra diante os que-habitam e-diante-de anciãos-de povo-meu se redimirás redime e-se não a-mim declara para-mim que não-há exceto-tu para-redimir e-eu depois-de-ti E-disse eu redimirei"
+          },
+          {
+            "verse": 5,
+            "text": "E-disse Boaz em-dia-de comprares-tu o-campo de-mão-de Naomi e-de-com Rute a-moabita esposa-de o morto para-levantar nome-de o morto sobre herança-dele"
+          },
+          {
+            "verse": 6,
+            "text": "E-disse o redentor não posso para-mim para-que-não destruiria a tu redime- que tu a redenção-minha porque não posso redimir"
+          },
+          {
+            "verse": 7,
+            "text": "e-esta anteriormente em-Israel sobre a redenção e-sobre a troca para-confirmar todo palavra tirava homem sandália-sua e-dava para-companheiro-seu e-esta a testemunha em-Israel"
+          },
+          {
+            "verse": 8,
+            "text": "E-disse o redentor para-Boaz compra- para-ti e-tirou sandália-sua"
+          },
+          {
+            "verse": 9,
+            "text": "E-disse בֹעַז para-os anciãos e-todo o povo testemunhas o-dia que porque comprei a tudo-de que para-Elimeleque e-a todo que para-Quiliom e-Malom de-mão-de Naomi"
+          },
+          {
+            "verse": 10,
+            "text": "e-também a Rute a moabita esposa-de Malom comprei a-mim para-esposa para-levantar nome-de o morto sobre herança-dele e-não será-cortada nome-de o morto de-com o-dia e-de-portão-de lugar-seu testemunhas vós o-dia"
+          },
+          {
+            "verse": 11,
+            "text": "e-disseram todo o povo que no-portão e-os anciãos yhwh dê yhwh את- a mulher a que-entra a casa-tua como-Raquel e-como-Lia que edificaram duas-delas a casa Israel e-faze- força em-Efrata e-proclama- nome em-casa-de pão"
+          },
+          {
+            "verse": 12,
+            "text": "e-seja casa-sua como-casa-de פֶּרֶץ que ela-deu-à-luz תָמָר para-יְהוּדָה de a-semente yhwh a-ti yhwh para-ti de a-jovem a esta"
+          },
+          {
+            "verse": 13,
+            "text": "E-tomou Boaz a רוּת e-ela-tornou-se para-ele para-esposa E-colocou yhwh E-deu yhwh para-ela filho e-deu-à-luz filho"
+          },
+          {
+            "verse": 14,
+            "text": "e-disseram as-mulheres a נָעֳמִי yhwh yhwh não não para-ti para-ti o-dia o-dia E-chamou nome-de-ele em-Israel"
+          },
+          {
+            "verse": 15,
+            "text": "e-será para-ti para-restaurador-de alma e-para-sustentar a que porque nora-sua que ela-te-amou ela-o-deu-à-luz para-ti ela boa para-ti mais-que-sete filhos"
+          },
+          {
+            "verse": 16,
+            "text": "e-tomou נָעֳמִי a a-criança e-ela-o-colocou em-colo-dela e-ela-tornou-se para-ele para-ama"
+          },
+          {
+            "verse": 17,
+            "text": "e-chamaram a-ele as-vizinhas nome dizendo nasceu filho para-נָעֳמִי e-chamaram nome-dele ele ele pai-de יִשַׁי pai-de Davi"
+          },
+          {
+            "verse": 18,
+            "text": "e-estes gerações פֶּרֶץ פֶּרֶץ gerou a חֶצְרוֹן"
+          },
+          {
+            "verse": 19,
+            "text": "e-חֶצְרוֹן gerou a רָם e-רָם gerou a עַמִּינָדָב"
+          },
+          {
+            "verse": 20,
+            "text": "e-עַמִּינָדָב gerou a נַחְשׁוֹן e-נַחְשׁוֹן gerou a שַׂלְמוֹן"
+          },
+          {
+            "verse": 21,
+            "text": "e-שַׂלְמוֹן gerou a Boaz e-בֹּעַז gerou a עוֹבֵד"
+          },
+          {
+            "verse": 22,
+            "text": "e-עוֹבֵד gerou a יִשַׁי e-יִשַׁי gerou a Davi"
+          }
+        ]
+      }
+    ]
+  }
+}

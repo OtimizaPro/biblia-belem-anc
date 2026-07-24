@@ -1,0 +1,464 @@
+{
+  "translation": {
+    "id": "belem-2025",
+    "name": "Tradução bíblica Belem-2025",
+    "abbrev": "Belem An.C",
+    "language": "pt-BR",
+    "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
+    "license": "CC BY 4.0",
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
+  },
+  "book": {
+    "order": 60,
+    "code": "1PE",
+    "name": "1 Pedro",
+    "chapters": [
+      {
+        "chapter": 1,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Pedro apóstolo Iesous de-Christos escolhidos a-peregrinos dispersão Ponto Galácia Capadócia Ásia e Bitínia"
+          },
+          {
+            "verse": 2,
+            "text": "segundo presciência de-Theos Pai em santificação do-espírito para obediência e aspersão sangue Iesous de-Christos graça a-vós e paz seja-multiplicada"
+          },
+          {
+            "verse": 3,
+            "text": "Bendito o Theos e Pai o do-Kyrios nosso Iesous de-Christos o segundo o muito dele misericórdia tendo-regenerado nos para esperança vivente através-de da-ressurreição Iesous de-Christos de mortos"
+          },
+          {
+            "verse": 4,
+            "text": "para herança incorruptível e imaculado e imarcescível tendo-sido-guardada em nos-céus para vos"
+          },
+          {
+            "verse": 5,
+            "text": "o em poder de-Theos sendo-guardados através-de da-fé para salvação preparada ser-revelado em tempo último"
+          },
+          {
+            "verse": 6,
+            "text": "em o qual exultai pouco agora se é necessário tendo-sido-entristecidos em variados tentações"
+          },
+          {
+            "verse": 7,
+            "text": "para que o prova vosso o da-fé muito-mais-precioso ouro o do-que-está-perecendo através-de fogo porém sendo-examinado seja-encontrada para louvor e glória e honra em revelação Iesous de-Christos"
+          },
+          {
+            "verse": 8,
+            "text": "o qual não vendo amai para o qual agora não vendo crendo porém exultai alegria indizível e tendo-sido-glorificada"
+          },
+          {
+            "verse": 9,
+            "text": "recebendo o fim o da-fé salvação almas"
+          },
+          {
+            "verse": 10,
+            "text": "acerca-de o qual salvação buscaram-diligentemente e esquadrinharam profetas o acerca-de o para vos da-graça tendo-profetizado"
+          },
+          {
+            "verse": 11,
+            "text": "Examinando para quem ou qual tempo indicava o em a-eles espírito de-Christos testificando-de-antemão o para Christos sofrimentos e o com estas-coisas glórias"
+          },
+          {
+            "verse": 12,
+            "text": "o qual foi-revelado que não si-mesmos a-vós porém serviam elas o qual agora foi-anunciado a-vós através-de o tendo-anunciado-boas-novas vos em Espírito no-santo ao-que-foi-enviado de do-céu para o qual desejam anjo inclinar-se"
+          },
+          {
+            "verse": 13,
+            "text": "por-isso tendo-cingido o lombos o entendimento vosso sendo-sóbrios perfeitamente esperai sobre o sendo-levada a-vós graça em revelação Iesous de-Christos"
+          },
+          {
+            "verse": 14,
+            "text": "como filhos obediência não conformando-se o antes em o ignorância vosso desejos"
+          },
+          {
+            "verse": 15,
+            "text": "mas segundo o tendo-chamado vos santo e eles-mesmos santos em toda conduta tornai-vos"
+          },
+          {
+            "verse": 16,
+            "text": "porque está-escrito santos sereis que eu santo"
+          },
+          {
+            "verse": 17,
+            "text": "e se Pai invocais o sem-parcialidade julgando segundo o cada-um obra em medo o o de-peregrinação vosso tempo conduzi-vos"
+          },
+          {
+            "verse": 18,
+            "text": "sei que não corruptíveis prata ou ouro fostes-resgatados de o vãs vosso conduta transmitida-pelos-pais"
+          },
+          {
+            "verse": 19,
+            "text": "mas precioso sangue como cordeiro irrepreensível e imaculada de-Christos"
+          },
+          {
+            "verse": 20,
+            "text": "tendo-sido-conhecido-de-antemão por-um-lado antes-de fundação do-mundo tendo-sido-manifestado porém sobre último o tempos através-de vos"
+          },
+          {
+            "verse": 21,
+            "text": "o através-de dele fiéis para Theos o tendo-levantado ele de mortos e glória a ele tendo-dado de-modo-que o fé vosso e esperança ser para Theos"
+          },
+          {
+            "verse": 22,
+            "text": "o almas vosso Tendo-purificado em o obediência o da-verdade para amor-fraternal sem-hipocrisia de do-coração uns-aos-outros amai fervorosamente"
+          },
+          {
+            "verse": 23,
+            "text": "tendo-sido-regenerados não de semente corruptível mas incorruptível através-de da-palavra vivente de-Theos e permanecendo"
+          },
+          {
+            "verse": 24,
+            "text": "porque toda carne como erva e toda glória dela como flor erva secou o erva e o flor caiu"
+          },
+          {
+            "verse": 25,
+            "text": "o porém palavra do-Kyrios permanece para o eternidade isto e/mas é o palavra o tendo-sido-anunciado-como-boa-nova para vos"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "Tendo-despido portanto toda malícia e todas-as-coisas engano e Hipocrisias e invejas e todas maledicências"
+          },
+          {
+            "verse": 2,
+            "text": "como recém-nascidos crianças-de-peito o racional sem-engano leite desejai-ardentemente para que em a ele sejais-feitos-crescer para salvação"
+          },
+          {
+            "verse": 3,
+            "text": "se provastes que benigno o Kyrios"
+          },
+          {
+            "verse": 4,
+            "text": "junto-a o qual aproximando-se pedra vivendo sob dos-homens por-um-lado tendo-sido-rejeitado de-junto-de porém a-Theos escolhido honrado"
+          },
+          {
+            "verse": 5,
+            "text": "e eles-mesmos como pedras vivos sois-edificados casa espiritual para sacerdócio santo oferecer espirituais sacrifício aceitáveis a-Theos através-de Iesous de-Christos"
+          },
+          {
+            "verse": 6,
+            "text": "porque contém em escritura Eis ponho em Sião pedra escolhido pedra-angular honrado e o crendo sobre a ele não não seja-envergonhado"
+          },
+          {
+            "verse": 7,
+            "text": "a-vós portanto o honra o creem não-creem porém pedra o qual rejeitaram o edificantes este aconteceu para cabeça cantos"
+          },
+          {
+            "verse": 8,
+            "text": "e pedra tropeço e rocha tropeço o qual tropeçam o em-palavra desobedecendo para o qual e foram-colocados"
+          },
+          {
+            "verse": 9,
+            "text": "vós porém raça escolhido real sacerdócio nação santo povo para aquisição para-que o virtudes anuncieis o de das-trevas vos chamante para o maravilhoso dele luz"
+          },
+          {
+            "verse": 10,
+            "text": "o qual alguma-vez não povo agora porém povo de-Theos o não tendo-sido-alvos-de-misericórdia agora porém tendo-recebido-misericórdia"
+          },
+          {
+            "verse": 11,
+            "text": "Amados rogo como peregrinos e peregrinos abster-se o carnais desejos as-quais guerreiam segundo o alma"
+          },
+          {
+            "verse": 12,
+            "text": "o conduta vosso em o nações tendo boa para que em o qual falam-contra vosso como malfeitores de o boas obra Observando glorifiquem o Theos em dia supervisão"
+          },
+          {
+            "verse": 13,
+            "text": "Sujeitai-vos toda humana criação através-de o Kyrion seja rei como Ao-que-excede"
+          },
+          {
+            "verse": 14,
+            "text": "seja governadores como através-de dele sendo-enviados para vingança malfeitores louvor porém fazendo-o-bem"
+          },
+          {
+            "verse": 15,
+            "text": "que assim é o vontade o de-Theos fazendo-o-bem amordaçar o o insensatos dos-homens ignorância"
+          },
+          {
+            "verse": 16,
+            "text": "como livres e não como cobertura tendo o maldade o liberdade mas como de-Theos servos"
+          },
+          {
+            "verse": 17,
+            "text": "todos honrai o irmandade amai o Theos temei o rei honrais"
+          },
+          {
+            "verse": 18,
+            "text": "o servos-domésticos sujeitando-se em todo medo o senhores não somente o bons e moderados mas e o tortuosos"
+          },
+          {
+            "verse": 19,
+            "text": "isto pois graça se através-de consciência de-Theos Suporta alguém tristezas sofrendo injustamente"
+          },
+          {
+            "verse": 20,
+            "text": "qual pois glória se pecando e sendo-esbofeteados perseverareis mas se fazendo-o-bem e sofrendo perseverareis isto graça de-junto-de a-Theos"
+          },
+          {
+            "verse": 21,
+            "text": "para isto pois fostes-chamados que e Christos sofreu em-favor-de vosso a-vós Deixando Exemplo para que tenhais-seguido o pegadas dele"
+          },
+          {
+            "verse": 22,
+            "text": "o qual pecado não fez nem foi-encontrado engano em o boca dele"
+          },
+          {
+            "verse": 23,
+            "text": "o qual sendo-injuriado não não-injuriava-em-troca sofrendo não ameaçava entregava porém o julgando justamente"
+          },
+          {
+            "verse": 24,
+            "text": "o qual o do-pecado nosso ele ofereceu em o corpo dele sobre o madeira/árvore para que o pecados tendo-morrido o justiça vivamos o qual o ferida Fostes-curados"
+          },
+          {
+            "verse": 25,
+            "text": "éreis pois como ovelhas errantes mas vos-convertestes agora sobre o pastor e Supervisor o almas vosso"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "semelhantemente mulheres sujeitando-se o próprios homens para que e se alguns desobedecem o em-palavra através-de o o mulheres conduta sem da-palavra serão-ganhos"
+          },
+          {
+            "verse": 2,
+            "text": "Tendo-observado o em medo pura conduta vosso"
+          },
+          {
+            "verse": 3,
+            "text": "o qual seja não o de-fora entrelaçamento cabelos e adorno de-objetos-de-ouro ou vestimenta vestes mundo"
+          },
+          {
+            "verse": 4,
+            "text": "mas o oculto o do-coração homem em o incorruptível o mansamente e tranquilo do-espírito o qual é diante-de o de-Theos muito-custoso"
+          },
+          {
+            "verse": 5,
+            "text": "assim pois alguma-vez e o santas mulheres o esperando para Theos adornavam si-mesmas sujeitando-se o próprios homens"
+          },
+          {
+            "verse": 6,
+            "text": "como Sara obedeceu o Abraão Kyrion ele chamando o qual tornastes-vos filhos fazendo-o-bem e não as-que-temem nenhuma terror"
+          },
+          {
+            "verse": 7,
+            "text": "o homens semelhantemente habitando-com segundo saibam como mais-fraco vaso o feminino atribuindo honra como e co-herdeiros da-graça da-vida para o não ser-impedido o orações vosso"
+          },
+          {
+            "verse": 8,
+            "text": "o porém fim todos de-mesmo-pensamento compassivos amantes-dos-irmãos compassivos humildes-de-mente"
+          },
+          {
+            "verse": 9,
+            "text": "não retribuindo mau em-troca-de mal ou injúria em-troca-de injúria pelo-contrário porém bendizendo que para isto fostes-chamados para que bênção herdeis"
+          },
+          {
+            "verse": 10,
+            "text": "o pois querendo vida amar e ver do-dia boas cesse o língua de mal e lábios o não falar engano"
+          },
+          {
+            "verse": 11,
+            "text": "desvie-se porém de mal e faça bom busque paz e persiga ela"
+          },
+          {
+            "verse": 12,
+            "text": "que olhos do-Kyrios sobre justos e ouvidos dele para súplica deles face porém do-Kyrios sobre fazendo males"
+          },
+          {
+            "verse": 13,
+            "text": "e quem o tendo-maltratado vos se o bom zelosos torneis-vos"
+          },
+          {
+            "verse": 14,
+            "text": "mas se e sofrêsseis através-de justiça bem-aventurados o porém medo deles não temais nem sejais-perturbados"
+          },
+          {
+            "verse": 15,
+            "text": "Kyrion porém o Christos santificai em o corações vosso prontos sempre junto-a defesa todo o pedindo vos palavra acerca-de o em a-vós da-esperança"
+          },
+          {
+            "verse": 16,
+            "text": "mas com mansidão e medo consciência tendo boa para que em o qual sois-falados-contra sejam-envergonhados o maltratando vosso o boa em em-Christos conduta"
+          },
+          {
+            "verse": 17,
+            "text": "melhor pois fazendo-o-bem se quisesse o vontade o de-Theos sofrer ou fazendo-o-mal"
+          },
+          {
+            "verse": 18,
+            "text": "que e Christos uma-vez acerca-de pecados morreu justo em-favor-de injustos para que vos conduza o a-Theos tendo-sido-morto por-um-lado carne tendo-sido-vivificado porém espírito"
+          },
+          {
+            "verse": 19,
+            "text": "em o qual e o em na-prisão espíritos tendo-ido proclamou"
+          },
+          {
+            "verse": 20,
+            "text": "aos-que-desobedeceram alguma-vez quando aguardava-ansiosamente o o de-Theos longanimidade em dias Noé sendo-preparada arca para o qual poucos isto é oito almas foram-salvos através-de água"
+          },
+          {
+            "verse": 21,
+            "text": "o qual e vos antítipo agora salva batismo não carne remoção imundícia mas consciência boa pergunta para Theos através-de da-ressurreição Iesous de-Christos"
+          },
+          {
+            "verse": 22,
+            "text": "o qual é em direita de-Theos tendo-ido para céu Tendo-sido-sujeitados a ele anjo e autoridades e poderes"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "de-Christos portanto tendo-sofrido carne e vós o ela Intenção armai-vos que o tendo-sofrido carne tem-cessado do-pecado"
+          },
+          {
+            "verse": 2,
+            "text": "para o não-mais dos-homens desejos mas vontade de-Theos o restante em carne viver tempo"
+          },
+          {
+            "verse": 3,
+            "text": "suficiente pois o tendo-passado tempo o vontade o nações ter-realizado tendo-ido em dissoluções desejos embriaguezes orgias em-bebedeiras e ilícitos idolatrias"
+          },
+          {
+            "verse": 4,
+            "text": "em o qual estranham não correndo-junto vosso para o ela o dissolução excesso blasfemando"
+          },
+          {
+            "verse": 5,
+            "text": "o qual retribuirão palavra o prontamente tendo julgar viventes e mortos"
+          },
+          {
+            "verse": 6,
+            "text": "para isto pois e mortos foram-anunciadas-boas-novas para que sejam-julgados por-um-lado segundo homens na-carne vivem porém segundo Theos espírito"
+          },
+          {
+            "verse": 7,
+            "text": "todos porém o fim aproximou-se sede-sóbrios portanto e sede-sóbrios para orações"
+          },
+          {
+            "verse": 8,
+            "text": "antes-de todos o para si-mesmos amor fervorosa tendo que amor cobre multidão pecados"
+          },
+          {
+            "verse": 9,
+            "text": "hospitaleiros para uns-aos-outros sem murmuração"
+          },
+          {
+            "verse": 10,
+            "text": "cada-um assim-como recebeu dom para si-mesmos ele servindo como bons administradores variada da-graça de-Theos"
+          },
+          {
+            "verse": 11,
+            "text": "se alguém fala como oráculos de-Theos se alguém serve como de força o qual supre o Theos para que em todos seja-glorificado o Theos através-de Iesous de-Christos o qual é o glória e o domínio para o eras o eras amém"
+          },
+          {
+            "verse": 12,
+            "text": "Amados não estranhais o em a-vós em-queima junto-a tentação a-vós acontecendo como estrangeiro a-vós acontecendo"
+          },
+          {
+            "verse": 13,
+            "text": "mas conforme participais o o de-Christos sofrimentos alegrai-vos para que e em o revelação o da-glória dele alegreis-vos exultando"
+          },
+          {
+            "verse": 14,
+            "text": "se sois-injuriados em em-nome de-Christos bem-aventurados que o o da-glória e o o de-Theos espírito sobre vos descansa"
+          },
+          {
+            "verse": 15,
+            "text": "não pois alguém vosso sofra como homicida ou ladrão ou malfeitor ou como intrometido-em-assuntos-alheios"
+          },
+          {
+            "verse": 16,
+            "text": "se porém como Cristão não envergonhe-se glorifique porém o Theos em o em-nome neste"
+          },
+          {
+            "verse": 17,
+            "text": "que o tempo o começar o julgamento de o da-casa o de-Theos se porém primeiro de nosso quê o fim o desobedecendo o o de-Theos no-evangelho"
+          },
+          {
+            "verse": 18,
+            "text": "e se o justo dificilmente é-salvo o ímpio e pecador onde aparecerá"
+          },
+          {
+            "verse": 19,
+            "text": "de-modo-que e o sofrendo segundo o vontade o de-Theos fiel Criador confiem o almas deles em prática-do-bem"
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "verses": [
+          {
+            "verse": 1,
+            "text": "anciãos portanto em a-vós rogo o co-presbítero e testemunha o o de-Christos sofrimentos o e o está-para ser-revelado da-glória participante"
+          },
+          {
+            "verse": 2,
+            "text": "apascentai o em a-vós pequeno-rebanho o de-Theos não por-compulsão mas Voluntariamente segundo Theos nem por-ganância-de-lucro-torpe mas prontamente"
+          },
+          {
+            "verse": 3,
+            "text": "nem como dominando o sortes mas modelos tornando-se o rebanho"
+          },
+          {
+            "verse": 4,
+            "text": "e tendo-sido-manifestado o Sumo-pastor recebereis o imarcescível o da-glória coroa"
+          },
+          {
+            "verse": 5,
+            "text": "semelhantemente mais-jovens sujeitai-vos presbíteros todos porém uns-aos-outros o humildade-de-mente revesti-vos-de-humildade que o Theos soberbos opõe-se humildes porém dá graça"
+          },
+          {
+            "verse": 6,
+            "text": "Sede-humilhados portanto sob o forte mão o de-Theos para que vos Exalte em tempo"
+          },
+          {
+            "verse": 7,
+            "text": "toda o ansiedade vosso tendo-lançado-sobre sobre ele que a ele importa acerca-de vosso"
+          },
+          {
+            "verse": 8,
+            "text": "Sede-sóbrios vigiai o adversário vosso diabo como leão Rugindo anda buscando alguém tragar"
+          },
+          {
+            "verse": 9,
+            "text": "o qual resisti sólidos o fé sei o elas o sofrimentos o em o ao-mundo vosso irmandade Ser-completado"
+          },
+          {
+            "verse": 10,
+            "text": "o porém Theos toda da-graça o chamando vos para o eterno dele glória em em-Christos pouco tendo-sofrido ele restaurará firmará fortalecerá firmará"
+          },
+          {
+            "verse": 11,
+            "text": "a ele o domínio para o eras o eras amém"
+          },
+          {
+            "verse": 12,
+            "text": "através-de Silvano a-vós o fiel do-irmão como considero através-de poucos escrevi exortando e testificando esta ser verdadeiras graça o de-Theos para o qual ficai-de-pé"
+          },
+          {
+            "verse": 13,
+            "text": "Saúda vos o em Babilônia co-eleita e Marcos o filho meu"
+          },
+          {
+            "verse": 14,
+            "text": "saudai uns-aos-outros em beijo do-amor paz a-vós todos o em em-Christos"
+          }
+        ]
+      }
+    ]
+  }
+}
