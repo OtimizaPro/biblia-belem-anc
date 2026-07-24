@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 31,
@@ -18,7 +19,7 @@
         "verses": [
           {
             "verse": 1,
-            "text": "חזון עבדיה assim disse Adonai yhwh לADEDOM שמעה שמנוּ yhwh yhwh וציר בגוים enviou קומוּ ונקומה לַמִּלְחָמָֽה׃"
+            "text": "[חֲז֖וֹן] [עֹֽבַדְיָ֑ה] assim disse Adonai yhwh [שְׁמוּעָ֨ה] [שָׁמַ֜עְנוּ] [מֵאֵ֤ת] yhwh yhwh [בַּגּוֹיִ֣ם] [שֻׁלָּ֔ח] enviou [וְנָק֥וּמָה] [עָלֶיהָ[c]] [לַמִּלְחָמָֽה]"
           },
           {
             "verse": 2,
@@ -38,7 +39,7 @@
           },
           {
             "verse": 6,
-            "text": "como נֶחְפְּשׂוּ Esaú נִבְע֖וּ מַצְפֻּנָֽיו׃"
+            "text": "como [נֶחְפְּשׂ֣וּ] Esaú [נִבְע֖וּ] [מַצְפֻּנָֽיו]"
           },
           {
             "verse": 7,
@@ -62,27 +63,27 @@
           },
           {
             "verse": 12,
-            "text": "e-a ver-ás no-dia- irmão-teu em-dia-de נכרו e-a תשמא לבני יְהוּדָה em-dia-de אבדם e-a תגדאל פיكا em-dia angústia"
+            "text": "e-a [בְיוֹם־אָחִ֙יךָ֙] [בְּי֣וֹם] irmão-teu em-dia-de [לִבְנֵֽי] e-a [בְּי֣וֹם] [אָבְדָ֑ם] יְהוּדָה em-dia-de [בְּי֥וֹם] e-a em-dia angústia"
           },
           {
             "verse": 13,
-            "text": "a תבא em-porta-de meu-povo em-dia-de אידם a תרא também tu ברעאתו em-dia-de אֵיד֑וֹ e-a תִּשְׁלַ֥חְנָה בְחֵיל֖וֹ em-dia אֵידֽוֹ׃"
+            "text": "a [בְשַֽׁעַר־עַמִּי֙] em-porta-de meu-povo em-dia-de [גַם־אַתָּ֛ה] a [בְּי֣וֹם] também tu [בְחֵיל֖וֹ] em-dia-de [אֵידֽוֹ] e-a em-dia"
           },
           {
             "verse": 14,
-            "text": "e-a תַּעֲמֹד֙ sobre הַפֶּ֔רֶק לְהַכְרִ֖ית a פְּלִיטָ֑יו e-a תַּסְגֵּ֥ר שְׂרִידָ֖יו em-dia angústia"
+            "text": "e-a [עַל־הַפֶּ֔רֶק] sobre [אֶת־פְּלִיטָ֑יו] [וְאַל־תַּסְגֵּ֥ר] a [בְּי֥וֹם] e-a em-dia angústia"
           },
           {
             "verse": 15,
-            "text": "porque próximo dia-de yhwh sobre todo as-nações como-que tu-fizeste יֵעָ֣שֶׂה para-ti גְּמֻלְךָ֖ יָשׁ֥וּב em-a-cabeça-vosso-verso"
+            "text": "porque próximo [עַל־כָּל־הַגּוֹיִ֑ם] yhwh sobre todo as-nações como-que tu-fizeste [בְּרֹאשֶֽׁךָ] para-ti"
           },
           {
             "verse": 16,
-            "text": "que כַּֽאֲשֶׁ֤ר שְׁתִיתֶם֙ sobre monte-de qad'shi יִשְׁתּ֥וּ todo as-nações permanente e-sejam וְלָע֔וּ e-serão כְּל֥וֹא הָֽיוּ׃"
+            "text": "que [כַּֽאֲשֶׁ֤ר] [שְׁתִיתֶם֙] sobre monte-de [יִשְׁתּ֥וּ] [כָֽל־הַגּוֹיִ֖ם] todo as-nações [וְלָע֔וּ] e-sejam [כְּל֥וֹא] e-serão"
           },
           {
             "verse": 17,
-            "text": "וּבְהַ֥ר צִיּ֛וֹן será פליטה וְהָ֣יָה santidade וירשוּ casa Jacó את מורשהיהם׃"
+            "text": "[וּבְהַ֥ר] [צִיּ֛וֹן] será [פְלֵיטָ֖ה] [וְהָ֣יָה] santidade [וְיָֽרְשׁוּ֙] casa Jacó את [מוֹרָֽשֵׁיהֶם]"
           },
           {
             "verse": 18,
@@ -98,7 +99,7 @@
           },
           {
             "verse": 21,
-            "text": "ועלו משיעים em-monte-de Sião לשפט a monte-de Esaú e-será a-yhwh o-reino"
+            "text": "[וְעָל֤וּ] [מֽוֹשִׁעִים֙] em-monte-de Sião [לִשְׁפֹּ֖ט] a monte-de Esaú e-será a-yhwh o-reino"
           }
         ]
       }

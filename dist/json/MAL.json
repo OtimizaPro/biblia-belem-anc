@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 39,
@@ -34,7 +35,7 @@
           },
           {
             "verse": 5,
-            "text": "וְעֵינֵיכֶם תִּרְאֶ֑ינָה וְאַתֶּ֤ם תֹּֽאמְרוּ֙ יִגְדַּ֣ל yhwh de-cima-de לִגְב֥וּל Israel"
+            "text": "[וְעֵינֵיכֶ֖ם] [תִּרְאֶ֑ינָה] [וְאַתֶּ֤ם] [תֹּֽאמְרוּ֙] [יִגְדַּ֣ל] yhwh de-cima-de [לִגְב֥וּל] Israel"
           },
           {
             "verse": 6,
@@ -54,15 +55,15 @@
           },
           {
             "verse": 10,
-            "text": "quem também Bāḵem וְיִסְגֹּ֣ר דְּלָתַ֔יִם e-não תָאִ֥ירוּ מִזְבְּחִ֖י חִנָּם não-há disse yhwh em vós disse yhwh exércitos que não אֶרְצֶ֥ה מִיֶּדְכֶֽם׃"
+            "text": "quem também [וְיִסְגֹּ֣ר] [דְּלָתַ֔יִם] [וְלֹֽא־תָאִ֥ירוּ] e-não [חִנָּ֑ם] [אֵֽין־לִ֨י] [חֵ֜פֶץ] não-há disse yhwh [צְבָא֔וֹת] disse yhwh exércitos não"
           },
           {
             "verse": 11,
-            "text": "que מִמִּזְרַח־ שֶׁ֜מֶשׁ e-até מְבוֹא֗וֹ grande שְׁמִי֙ entre-as-nações e-em-todo lugar מֻקְטָ֥ר מֻגָּ֛שׁ לִשְׁמִ֖י וּמִנְחָ֣ה טְהוֹרָ֑ה disse yhwh שְׁמִי֙ entre-as-nações disse yhwh exércitos"
+            "text": "que [מִמִּזְרַח־שֶׁ֜מֶשׁ] [וְעַד־מְבוֹא֗וֹ] e-até [שְׁמִי֙] grande [וּבְכָל־מָק֗וֹם] entre-as-nações e-em-todo lugar [וּמִנְחָ֣ה] [טְהוֹרָ֑ה] [כִּֽי־גָד֤וֹל] [שְׁמִי֙] [בַּגּוֹיִ֔ם] disse yhwh [צְבָאֽוֹת] disse yhwh"
           },
           {
             "verse": 12,
-            "text": "e-vós tocando אוֹתֹו בֶּאֱמָרְכֶ֗ם שֻׁלְחַ֤ן Adonai מְגֹאָ֣ל ele וְנִיב֖וֹ נִבְזֶ֥ה אָכְלֽוֹ׃"
+            "text": "e-vós tocando [אוֹת֑וֹ] [בֶּאֱמָרְכֶ֗ם] [שֻׁלְחַ֤ן] Adonai [מְגֹאָ֣ל] ele [וְנִיב֖וֹ] [נִבְזֶ֥ה] [אָכְלֽוֹ]"
           },
           {
             "verse": 13,
@@ -87,7 +88,7 @@
           },
           {
             "verse": 3,
-            "text": "eis-me גֹּאֵר a-vós a הַזָּרַע וְזֵרִיתִי פֶּרֶשׁ sobre פָּנֶיךֶם פֶּרֶשׁ חַגִּיכֶם a-ele vós a-ele"
+            "text": "eis-me [גֹעֵ֤ר] a-vós a [וְזֵרִ֤יתִי] [פֶ֙רֶשׁ֙] [עַל־פְּנֵיכֶ֔ם] sobre [חַגֵּיכֶ֑ם] [וְנָשָׂ֥א] [אֶתְכֶ֖ם] a-ele"
           },
           {
             "verse": 4,
@@ -111,7 +112,7 @@
           },
           {
             "verse": 9,
-            "text": "e-também dei náttiy a-vós ניבזים ושפלים para-todo o-povo כפי que não-vós שֹׁמְרִים a דרcai ונושאים face בתורה׃"
+            "text": "e-também dei [אֶתְכֶ֛ם] a-vós [וּשְׁפָלִ֖ים] [לְכָל־הָעָ֑ם] para-todo o-povo [אֵֽינְכֶם֙] que não-vós [וְנֹשְׂאִ֥ים] a [בַּתּוֹרָֽה׃] face"
           },
           {
             "verse": 10,
@@ -131,11 +132,11 @@
           },
           {
             "verse": 14,
-            "text": "e-disseis sobre sobre sobre porque entre-ti e-entre בֵּינְךָ֜ וּבֵ֣ין ׀ mulher-de נְעוּרֶ֗יךָ tu tu בָּגַ֣דְתָּה em-ela e ela חֲבֶרְתְּךָ וְאֵ֥שׁ בְּרִיתֶֽךָ׃"
+            "text": "[וַאֲמַרְתֶּ֖ם] sobre sobre sobre porque entre-ti e-entre [׀] [אֵ֣שֶׁת] mulher-de [אֲשֶׁ֤ר] tu tu [בָּ֔הּ] em-ela e ela [וְאֵ֥שֶׁת] [בְּרִיתֶֽךָ]"
           },
           {
             "verse": 15,
-            "text": "e-não um fez espírito a-ele a-ele o-primeiro הָאֶחָ֔ד semente descendência Elohim וְנִשְׁמַרְתֶּם֙ בְּר֣וּחֲכֶ֔ם וּבְאֵ֥שֶׁת נְעוּרֶ֖יךָ a ele trairá"
+            "text": "e-não um fez espírito a-ele a-ele o-primeiro [מְבַקֵּ֖שׁ] semente semente Elohim [בְּר֣וּחֲכֶ֔ם] [וּבְאֵ֥שֶׁת] [נְעוּרֶ֖יךָ] [אַל־יִבְגֹּֽד] a"
           },
           {
             "verse": 16,
@@ -156,7 +157,7 @@
           },
           {
             "verse": 2,
-            "text": "e-quem מְכַלְכֵּל֙ a dia בּוֹא֔וֹ e-quem ha-oméd בְּהֵרָֽאוֹת֑וֹ porque ele כאש מְצָרֵ֔ף וּכְבֹרִ֖ית מְכַבְּסִֽים׃"
+            "text": "e-quem [מְכַלְכֵּל֙] a dia [וּמִ֥י] e-quem [בְּהֵרָֽאוֹת֑וֹ] [כִּֽי־הוּא֙] porque ele [וּכְבֹרִ֖ית] [מְכַבְּסִֽים]"
           },
           {
             "verse": 3,
@@ -212,7 +213,7 @@
           },
           {
             "verse": 16,
-            "text": "אָ֧ז נִדְבְּר֛וּ יִרְאֵ֥י yhwh homem a companheiro-seu yhwh yhwh E-ouviu וַ֠יִּכֵּתֵב livro זִכָּר֤וֹן diante-dele yhwh yhwh וּלְחֹשְׁבֵ֖י nome-dele"
+            "text": "[אָ֧ז] [נִדְבְּר֛וּ] [יִרְאֵ֥י] yhwh homem a companheiro-seu yhwh yhwh E-ouviu [סֵ֣פֶר] livro [לְפָנָיו֙] diante-dele yhwh yhwh [שְׁמֽוֹ]"
           },
           {
             "verse": 17,
@@ -244,7 +245,7 @@
           },
           {
             "verse": 24,
-            "text": "e-pagava coração-de אָבוֹת֙ sobre בָּנִ֔ים וְלֵב filhos sobre pais-deles para-que-não אָבוֹא sozinho a a-terra CHEREM"
+            "text": "e-pagava coração-de [עַל־בָּנִ֔ים] sobre [בָּנִ֖ים] [עַל־אֲבוֹתָ֑ם] filhos sobre pais-deles para-que-não a a-terra"
           }
         ]
       }

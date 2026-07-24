@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 17,
@@ -66,7 +67,7 @@
           },
           {
             "verse": 13,
-            "text": "E-disse o-rei para-os-sábios conhecendo הָעִתּוֹ porque assim palavra o-rei diante-de todo conhecedores-de lei e-juízo"
+            "text": "E-disse o-rei para-os-sábios conhecendo [הֽ͏ָעִתִּ֑ים] porque assim palavra o-rei diante-de todo conhecedores-de e-juízo"
           },
           {
             "verse": 14,
@@ -78,7 +79,7 @@
           },
           {
             "verse": 16,
-            "text": "E-disse diante-de o rei e-os-príncipes não sobre não para-somente-dele sozinho Vashti a-rainha porque que todo os-príncipes e-sobre todo os-povos que em-todo províncias-de o-rei Ahasverus"
+            "text": "E-disse diante-de o rei e-os-príncipes não sobre não para-somente-dele sozinho Vashti a-rainha porque que todo os-príncipes e-sobre todo os-povos que em-todo províncias-de o-rei"
           },
           {
             "verse": 17,
@@ -147,7 +148,7 @@
           },
           {
             "verse": 10,
-            "text": "não ela-contou Esther a que e-a origem-de-ela porque Mordecai ordenou sobre-ela que não תַגִּֽיד׃"
+            "text": "não ela-contou Esther a que e-a origem-de-ela porque Mordecai ordenou sobre-ela que não"
           },
           {
             "verse": 11,
@@ -191,7 +192,7 @@
           },
           {
             "verse": 21,
-            "text": "em-os-dias aqueles וּמָרְדֳּכַ֖י habitou na-porta-de o-rei קָצַף֩ בִּגְתָ֨ן וָתֶ֜רֶשׁ dois סָרִיסֵ֤י o rei מִשֹׁמְרֵ֣י הַסַּ֔ף mão לִשְׁלֹ֣חַ mão בַּמֶּ֖לֶךְ אֲחַשְׁוֵרֹֽשׁ׃"
+            "text": "em-os-dias aqueles [וּמָרְדֳּכַ֖י] habitou [בְּשַֽׁעַר־הַמֶּ֑לֶךְ] o-rei [בִּגְתָ֨ן] [וָתֶ֜רֶשׁ] [שְׁנֵֽי־סָרִיסֵ֤י] dois [מִשֹּׁמְרֵ֣י] o rei [וַיְבַקְשׁוּ֙] [לִשְׁלֹ֣חַ] mão [בַּמֶּ֖לֶךְ] mão"
           },
           {
             "verse": 22,
@@ -224,7 +225,7 @@
           },
           {
             "verse": 5,
-            "text": "E-viu לְהָמָ֗ן porque não-há מָרְדֳּכַ֔י כֹּרֵ֥עַ a-ele para-ele וַיִּמָּלֵ֥א Hamán חֵמָֽה׃"
+            "text": "E-viu [הָמָ֔ן] porque não-há [כֹּרֵ֥עַ] [וּמִֽשְׁתַּחֲוֶ֖ה] a-ele para-ele [הָמָ֖ן] [חֵמָֽה]"
           },
           {
             "verse": 6,
@@ -256,7 +257,7 @@
           },
           {
             "verse": 13,
-            "text": "e enviado livros em-mão-de הָרָצִים֮ a todo províncias-de הַמֶּלֶךְ para destruir— para-matar e para exterminar— a todo os-יהודה do menino— um até o velho— o recém-nascido— e-mulheres em-dia-de um בִּשְׁלֹשָׁה dez até o mês— doze dez ele novo de Adar— e para esvaziar— para despojo;—"
+            "text": "[וְנִשְׁל֨וֹחַ] [סְפָרִ֜ים] em-mão-de [הָרָצִים֮] a todo províncias-de [לַהֲרֹ֣ג] [וּלְאַבֵּ֣ד] para-matar [מִנַּ֨עַר] a todo [וְנָשִׁים֙] [בְּי֣וֹם] um [בִּשְׁלוֹשָׁ֥ה] [עָשָׂ֛ר] [לְחֹ֥דֶשׁ] em-dia-de um [אֲדָ֑ר] dez [לָבֽוֹז] doze dez novo"
           },
           {
             "verse": 14,
@@ -277,7 +278,7 @@
           },
           {
             "verse": 2,
-            "text": "וַיָּב֕וֹא até diante-de shaar- que porque não לָב֛וֹא a portão-de o-rei בִּלְב֥וּשׁ שָֽׂק׃"
+            "text": "[וַיָּב֕וֹא] até diante-de [שַֽׁעַר־הַמֶּ֑לֶךְ] que porque não [אֶל־שַׁ֥עַר] a portão-de o-rei"
           },
           {
             "verse": 3,
@@ -297,7 +298,7 @@
           },
           {
             "verse": 7,
-            "text": "e-contou para-ele מרדכי את todo asher קָרְעוּ e-את פרשת הכסף disse disse חמהן לשקול sobre גינזה o-rei לאבדם׃"
+            "text": "e-contou para-ele [OBJ] את todo e-[OBJ] [׀] e-את [הַכֶּ֗סֶף] [אֲשֶׁ֨ר] disse disse [לִ֠שְׁקוֹל] [עַל־גִּנְזֵ֥י] sobre [*ביהודי[y]*ים] o-rei [לְאַבְּדָֽם]"
           },
           {
             "verse": 8,
@@ -329,15 +330,15 @@
           },
           {
             "verse": 15,
-            "text": "E-disse Estar para-responder a מרדכי׃"
+            "text": "E-disse [אֶסְתֵּ֖ר] para-responder a"
           },
           {
             "verse": 16,
-            "text": "לךְ֩ Congregai-vos a todo os judeus הנמצאים בשושן ואכלו ושתו עליכם e-a תאכלו e-a שתו três-de dias noite e no dia também eu ונערותי אָצ֣וּם assim וּבְכֵ֞ן אָבוֹא a o-rei que não כַדָּ֔ת e-kaasher אָבַ֖דְתִּי אָבָֽדְתִּי׃"
+            "text": "[לֵךְ֩] [כְּנ֨וֹס] a todo [בְּשׁוּשָׁ֗ן] [וְצ֣וּמוּ] [עָ֠לַי] [וְאַל־תֹּאכְל֨וּ] [וְאַל־תִּשְׁתּ֜וּ] e-a [יָמִים֙] e-a [וָי֔וֹם] três-de dias noite [כֵּ֑ן] também eu [אֶל־הַמֶּ֙לֶךְ֙] [אֲשֶׁ֣ר] [לֹֽא־כַדָּ֔ת] [וְכַאֲשֶׁ֥ר] [אָבַ֖דְתִּי] a que não"
           },
           {
             "verse": 17,
-            "text": "e-atravessou מָרְדֳּכָ֑י E-fez conforme-tudo que צִוְּתָ֥ה sobre-ele אֶסְתֵּֽר׃"
+            "text": "e-atravessou [מָרְדֳּכָ֑י] E-fez conforme-tudo que [עָלָ֖יו] sobre-ele"
           }
         ]
       },
@@ -366,7 +367,7 @@
           },
           {
             "verse": 6,
-            "text": "E-disse o-rei Estér: בְּמִשְׁתֵּ֣ה הַיַּ֔יִן que שְּׁאֵלָתֵ֖ךְ para-ti a-ti e-que בַּקָּשָׁתֵ֛ךְ até metade-de הַמַּלְכ֖וּת וְתֵעָֽשׂ׃"
+            "text": "E-disse o-rei [לְאֶסְתֵּר֙] [בְּמִשְׁתֵּ֣ה] [הַיַּ֔יִן] que [וְיִנָּ֣תֵֽן] para-ti a-ti e-que [הַמַּלְכ֖וּת] até"
           },
           {
             "verse": 7,
@@ -431,11 +432,11 @@
           },
           {
             "verse": 7,
-            "text": "E-disse הָמָ֖ן a o-rei homem que o-rei desejava יקר"
+            "text": "E-disse [הָמָ֖ן] a o-rei homem que o-rei desejava"
           },
           {
             "verse": 8,
-            "text": "יָבִ֙יאוּ֙ לְב֣וּשׁ מַלְכ֔וּת que לָֽבַשׁ־ nele o-rei וְס֗וּס que רָכַב sobre-ele o-rei e-que deu כֶּ֥תֶר reino-de no-seu-rosto:"
+            "text": "[יָבִ֙יאוּ֙] [לְב֣וּשׁ] [מַלְכ֔וּת] que [לָֽבַשׁ־בּ֖וֹ] nele o-rei [אֲשֶׁ֨ר] que [עָלָיו֙] sobre-ele o-rei e-que deu [מַלְכ֖וּת] reino-de"
           },
           {
             "verse": 9,
@@ -447,11 +448,11 @@
           },
           {
             "verse": 11,
-            "text": "E-tomou חמן a הלובוש e-a הסוס והלבש a מרדכי E-chamou ברחוב a-cidade E-chamou diante-dele assim será feito para-o homem que o-rei desejava בִּיקָרֽוֹ׃"
+            "text": "E-tomou [הָמָן֙] a [וְאֶת־הַסּ֔וּס] e-[OBJ] [אֶֽת־מָרְדֳּכָ֑י] [וַיַּרְכִּיבֵ֙הוּ֙] a [הָעִ֔יר] E-chamou [לְפָנָ֔יו] a-cidade E-chamou diante-dele assim [הַמֶּ֖לֶךְ] para-o homem que"
           },
           {
             "verse": 12,
-            "text": "e-voltou מרדכי a portão o-rei וְהָמָן֙ נדחף a casa-dele Abel וחבוי cabeça"
+            "text": "e-voltou [מָרְדֳּכַ֖י] a portão o-rei [נִדְחַ֣ף] [אֶל־בֵּית֔וֹ] a casa-dele [רֹֽאשׁ] cabeça"
           },
           {
             "verse": 13,
@@ -459,7 +460,7 @@
           },
           {
             "verse": 14,
-            "text": "עַד־הֵם מְדַבְּרִים com-ele וְסָרִיסֵ֥י o-rei הִגִּיעוּ וַיַּבְהִילוּ לְהָבִיא a הָמָן a הַמִּשְׁתָּה que ʿašṭā אֶסְתֵּר׃"
+            "text": "[עוֹדָם֙] [מְדַבְּרִ֣ים] com-ele [וְסָרִיסֵ֥י] o-rei [הִגִּ֑יעוּ] [וַיַּבְהִ֙לוּ֙] [לְהָבִ֣יא] a [אֶל־הַמִּשְׁתֶּ֖ה] a [אֶסְתֵּֽר] que"
           }
         ]
       },
@@ -533,7 +534,7 @@
           },
           {
             "verse": 6,
-            "text": "que אֵיכָכָ֤ה posso וְֽרָאִ֔יתִי בָּרָעָ֖ה que יִמְצָ֣א a meu-povo וְאֵֽיכָכָ֤ה posso וְֽרָאִ֔יתִי בְּאָבְדַ֖ן מוֹלַדְתִּֽי׃"
+            "text": "que [אֵיכָכָ֤ה] posso [וְֽרָאִ֔יתִי] [בָּרָעָ֖ה] que [אֶת־עַמִּ֑י] a meu-povo [וְֽרָאִ֔יתִי] posso [מוֹלַדְתִּֽי׃]"
           },
           {
             "verse": 7,
@@ -594,11 +595,11 @@
           },
           {
             "verse": 3,
-            "text": "e-todo príncipes-de הַמְּדִינ֜וֹת וְהָאֲחַשְׁדַּרְפְּנִ֣ים וְהַפַּח֗וֹת וְעֹשֵׂ֤י הַמְּלָאכָה֙ que para-o-rei מְנַשְּׂאִ֖ים a הַיְּהוּדִ֑ים porque cair פַּֽחַד־ מָרְדֳּכַ֖י sobre-eles"
+            "text": "e-todo príncipes-de [וְהָאֲחַשְׁדַּרְפְּנִ֣ים] [וְהַפַּח֗וֹת] [וְעֹשֵׂ֤י] [הַמְּלָאכָה֙] [אֲשֶׁ֣ר] que para-o-rei [אֶת־הַיְּהוּדִ֑ים] a [פַּֽחַד־מָרְדֳּכַ֖י] porque"
           },
           {
             "verse": 4,
-            "text": "porque grande מרדכי em-casa-de o-rei ושמעו andando em-todo המדינות porque o-homem מרדכי הולך וגדול"
+            "text": "porque grande [בְּבֵ֣ית] em-casa-de o-rei [הוֹלֵ֣ךְ] andando em-todo [מָרְדֳּכַ֖י] porque o-homem"
           },
           {
             "verse": 5,
@@ -610,15 +611,15 @@
           },
           {
             "verse": 7,
-            "text": "e o Parshandata e o דַּֽלְפ֖וֹן וְאֵ֥ת ׀ אַסְפָּֽתָא׃"
+            "text": "e-[OBJ] [׀] [פַּרְשַׁנְדָּ֛תָא] e-[OBJ] [׀] [דַּֽלְפ֖וֹן]"
           },
           {
             "verse": 8,
-            "text": "וְאֵ֧ת ׀ פּוֹרָ֛תָא וְאֵ֥ת ׀ אֲדַלְיָ֖א וְאֵ֥ת ׀ אֲרִידָֽתָא׃"
+            "text": "e-[OBJ] [׀] [פּוֹרָ֛תָא] e-[OBJ] [׀] [אֲדַלְיָ֖א]"
           },
           {
             "verse": 9,
-            "text": "וְאֵ֤ת ׀ פרמשתaea e-את אריסay וְאֵ֥ת ארידay וְאֵ֥ת וַיְזָֽתָא׃"
+            "text": "e-[OBJ] [׀] e-את e-[OBJ] [׀] [אֲרִיסַ֔י] e-[OBJ] [׀]"
           },
           {
             "verse": 10,
@@ -634,7 +635,7 @@
           },
           {
             "verse": 13,
-            "text": "E-disse Esther se bom o-rei bom יִנָּתֵ֣ן também amanhã לַיְּהוּדִים֙ que o-dia para-fazer כְּדָ֣ת o-dia e-a dez filhos-de Hamán serão pendurados sobre o-árvore:"
+            "text": "E-disse Esther se bom o-rei bom [לַיְּהוּדִים֙] também amanhã [לַעֲשׂ֖וֹת] que o-dia e-[OBJ] [עֲשֶׂ֥רֶת] o-dia e-[OBJ] dez sobre"
           },
           {
             "verse": 14,
@@ -650,7 +651,7 @@
           },
           {
             "verse": 17,
-            "text": "em-dia-de três dez לְחֹ֣דֶשׁ אדר ונוח בערביעי dez nele ele dia dia משתה ושמחה׃"
+            "text": "em-dia-de três dez [אֲדָ֑ר] [וְנ֗וֹחַ] [בְּאַרְבָּעָ֤ה] [עָשָׂר֙] dez nele ele dia dia [וְשִׂמְחָֽה]"
           },
           {
             "verse": 18,
@@ -674,7 +675,7 @@
           },
           {
             "verse": 23,
-            "text": "e recebeu os-judeus a que הֵחֵ֖לּוּ laasot e-a que כָּתַ֥ב מרדכי a-eles"
+            "text": "[וְקִבֵּל֙] os-judeus a que [לַעֲשׂ֑וֹת] e-[OBJ] e-[OBJ] que [אֲלֵיהֶֽם]"
           },
           {
             "verse": 24,
@@ -706,7 +707,7 @@
           },
           {
             "verse": 31,
-            "text": "לְקַיֵּ֡ם a יְמֵי֩ הַפֻּרִ֨ים ha-eleh בִּזְמַנֵּיהֶ֗ם como-que קִיַּ֨ם עֲלֵיהֶ֜ם מָרְדֳּכַ֤י הַיְּהוּדִי֙ וְאֶסְתֵּ֣ר a-rainha e-como-que קִיְּמ֥וּ sobre sua-nפשׁם e-sobre זַרְעָ֑ם palavras-de הַצֹּמ֖וֹת וְזַעֲקָתָֽם׃"
+            "text": "[לְקַיֵּ֡ם] a [הַפֻּרִ֨ים] [הָאֵ֜לֶּה] [בִּזְמַנֵּיהֶ֗ם] [כַּאֲשֶׁר֩] como-que [עֲלֵיהֶ֜ם] [מָרְדֳּכַ֤י] [הַיְּהוּדִי֙] [וְאֶסְתֵּ֣ר] [הַמַּלְכָּ֔ה] a-rainha e-como-que [עַל־נַפְשָׁ֖ם] sobre [דִּבְרֵ֥י] e-sobre [וְזַעֲקָתָֽם]"
           },
           {
             "verse": 32,

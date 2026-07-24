@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 30,
@@ -38,7 +39,7 @@
           },
           {
             "verse": 6,
-            "text": "assim disse yhwh sobre três פשעים azza não quatro não אשיבנו sobre הגלותם גלות שלמה להסגר לאדום׃"
+            "text": "assim disse yhwh sobre três [עַזָּ֔ה] [וְעַל־אַרְבָּעָ֖ה] não quatro não [גָּל֥וּת] sobre [לְהַסְגִּ֥יר] [לֶאֱדֽוֹם]"
           },
           {
             "verse": 7,
@@ -74,7 +75,7 @@
           },
           {
             "verse": 15,
-            "text": "וְהָלַ֥ךְ מלךְ בַּגּוֹלָה ele וְשָׂרָ֛יו juntos disse yhwh"
+            "text": "[וְהָלַ֥ךְ] [מַלְכָּ֖ם] [בַּגּוֹלָ֑ה] ele [וְשָׂרָ֛יו] juntos disse yhwh"
           }
         ]
       },
@@ -83,7 +84,7 @@
         "verses": [
           {
             "verse": 1,
-            "text": "assim disse yhwh sobre três פִּשְׁעֵ֣י Moabe não quatro não אֲשִׁיבֶ֑נּוּ sobre שָׂרְפ֛וֹ עַצְמ֥וֹת rei-de Edom לַשִּֽׂיד׃"
+            "text": "assim disse yhwh sobre três [מוֹאָ֔ב] Moabe não quatro não [עַצְמ֥וֹת] sobre [לַשִּֽׂיד] rei-de Edom"
           },
           {
             "verse": 2,
@@ -103,7 +104,7 @@
           },
           {
             "verse": 6,
-            "text": "assim disse yhwh sobre três פִּשְׁעֵ֣י Israel não quatro não אֲשִׁיבֶ֑נּוּ sobre מִכְרָ֤ם בַּכֶּ֙סֶף֙ ṢÁDDÍQ וְאֶבְי֖וֹן por-causa-de נַעֲלָֽיִם׃"
+            "text": "assim disse yhwh sobre três [יִשְׂרָאֵ֔ל] Israel não quatro não [בַּכֶּ֙סֶף֙] sobre [וְאֶבְי֖וֹן] [בַּעֲב֥וּר] [נַעֲלָֽיִם]"
           },
           {
             "verse": 7,
@@ -111,7 +112,7 @@
           },
           {
             "verse": 8,
-            "text": "e-sobre בגדים חבליים יאטו junto todo מִזְבֵּ֑חַ ויין אנושים ישטו casa אֱלֹהֵיהֶם-de-eles"
+            "text": "e-sobre [חֲבֻלִים֙] [יַטּ֔וּ] [אֵ֖צֶל] junto todo [עֲנוּשִׁים֙] [יִשְׁתּ֔וּ] [בֵּ֖ית] [אֱלֹהֵיהֶֽם] casa אֱלֹהֵיהֶם-de-eles"
           },
           {
             "verse": 9,
@@ -152,23 +153,23 @@
         "verses": [
           {
             "verse": 1,
-            "text": "שְׁמַע a a-coisa o-este que yhwh yhwh sobre-vós filhos-de sobre sobre todo הַמִּשְׁפָּחָה que הֵעֵלְתִּי dizendo Egito para-dizer"
+            "text": "[שִׁמְע֞וּ] a a-coisa o-este que yhwh yhwh sobre-vós filhos-de sobre sobre todo [הֶעֱלֵ֛יתִי] que [מִצְרַ֖יִם] dizendo Egito para-dizer"
           },
           {
             "verse": 2,
-            "text": "somente אֲתֶכֶם soube de-toda משפחות a-terra sobre assim אֶפְקֹד sobre-vós את todo עָוֹןֵיכֶם׃"
+            "text": "somente [אֶתְכֶ֣ם] soube de-toda [מִשְׁפְּח֣וֹת] a-terra sobre assim [עֲלֵיכֶ֔ם] sobre-vós את todo"
           },
           {
             "verse": 3,
-            "text": "הֲיֵלָכוּ dois juntos bilhti se נוֹעֲדוּ׃"
+            "text": "[הֲיֵלְכ֥וּ] dois juntos [בִּלְתִּ֖י] se"
           },
           {
             "verse": 4,
-            "text": "הֲיִשָּׁאַג אַרְיֵה בַּיַּ֔עַר וְטֶ֖רֶף não-há a-ele הֲיִתֵּ֨ן כְּפִ֤יר קוֹלוֹ֙ מִמְּעֹ֣נָת֔וֹ bilhti se לָכָֽד׃"
+            "text": "[הֲיִשְׁאַ֤ג] [אַרְיֵה֙] [בַּיַּ֔עַר] [וְטֶ֖רֶף] não-há a-ele [הֲיִתֵּ֨ן] [כְּפִ֤יר] [קוֹלוֹ֙] [מִמְּעֹ֣נָת֔וֹ] [בִּלְתִּ֖י] se"
           },
           {
             "verse": 5,
-            "text": "הֲתִפֹּ֤ל צִפּוֹר֙ sobre a-terra a-terra וּמוֹקֵ֖שׁ não-há para ela הֲיַעֲלֶה־ פַּח֙ não a-terra וְלָכ֖וֹד não יִלְכּֽוֹד׃"
+            "text": "[הֲתִפֹּ֤ל] [צִפּוֹר֙] sobre a-terra a-terra [אֵ֣ין] não-há para ela [מִן־הָ֣אֲדָמָ֔ה] [וְלָכ֖וֹד] não a-terra não"
           },
           {
             "verse": 6,
@@ -176,11 +177,11 @@
           },
           {
             "verse": 7,
-            "text": "que não יַעֲשֶׂ֛ה Adonai yhwh palavra que se גָּלָ֣ה סודו a servos-dele os-profetas"
+            "text": "que não [יַעֲשֶׂ֛ה] Adonai yhwh palavra que se [סוֹד֔וֹ] [אֶל־עֲבָדָ֖יו] a servos-dele"
           },
           {
             "verse": 8,
-            "text": "אריה شاוג quem não ירא Adonai yhwh palavra quem não ינבאו׃"
+            "text": "[אַרְיֵ֥ה] [שָׁאָ֖ג] quem não [יִירָ֑א] Adonai yhwh palavra quem não [יִנָּבֵֽא]"
           },
           {
             "verse": 9,
@@ -188,23 +189,23 @@
           },
           {
             "verse": 10,
-            "text": "e-não Yadʿū ʿăśōṯ- nəkōhā oráculo-de yhwh ha'otsrîm ḥamās וָשֹׁ֖ד בְּאַרְמְנֽוֹתֵיהֶֽם׃"
+            "text": "e-não [עֲשׂוֹת־נְכֹחָ֖ה] [נְאֻם־יְהוָ֑ה] [הָאֽוֹצְרִ֛ים] oráculo-de yhwh [בְּאַרְמְנֽוֹתֵיהֶֽם׃]"
           },
           {
             "verse": 11,
-            "text": "portanto assim disse Adonai yhwh צַ֖ר וּסְבִ֣יב a-terra וְהוֹרִ֤ד מִמֵּךְ֙ עֻזֵּ֔ךְ וְנָבֹ֖זּוּ אַרְמְנוֹתָֽיִךְ׃"
+            "text": "portanto assim disse Adonai yhwh [צַ֖ר] [וּסְבִ֣יב] a-terra [וְהוֹרִ֤ד] [מִמֵּךְ֙] [עֻזֵּ֔ךְ] [וְנָבֹ֖זּוּ] [אַרְמְנוֹתָֽיִךְ]"
           },
           {
             "verse": 12,
-            "text": "כֹּה֮ disse yhwh como-que ויחל הרא פי האריה duas-de רגעים ou בדל- אוזן assim ינצלו filhos-de Israel os-habitam em-Samaria בפאת מטה וּבִדְמֶ֥שֶׁק עָֽרֶשׂ׃"
+            "text": "[כֹּה֮] disse yhwh como-que [יַצִּ֨יל] [הָרֹעֶ֜ה] [מִפִּ֧י] [הָאֲרִ֛י] duas-de [כְרָעַ֖יִם] ou [בְדַל־אֹ֑זֶן] [כֵּ֣ן] assim [בְּנֵ֣י] filhos-de Israel os-habitam em-Samaria [מִטָּ֖ה] [וּבִדְמֶ֥שֶׁק] [עָֽרֶשׂ]"
           },
           {
             "verse": 13,
-            "text": "ouvi וְהָעִ֖idoּ em-casa-de Jacó oráculo-de Adonai yhwh אֱלֹהִים-de הַצְּבָאוֹת׃"
+            "text": "ouvi [וְהָעִ֖ידוּ] em-casa-de Jacó oráculo-de Adonai yhwh Elohim-de"
           },
           {
             "verse": 14,
-            "text": "que em-dia-de פָּקְדִ֥י פִשְׁעֵֽי־ Israel sobre-ele וּפָֽקַדְתִּי֙ sobre מִזְבְּח֣וֹת casa-de El וְנִגְדְּעוּ֙ as-chifres o altar וְנָפְל֖וּ para-a-terra"
+            "text": "que em-dia-de [פָּקְדִ֥י] [פִשְׁעֵֽי־יִשְׂרָאֵ֖ל] Israel sobre-ele [עַל־מִזְבְּח֣וֹת] sobre [וְנִגְדְּעוּ֙] casa-de El [וְנָפְל֖וּ] [לָאָֽרֶץ] o altar para-a-terra"
           },
           {
             "verse": 15,
@@ -225,7 +226,7 @@
           },
           {
             "verse": 3,
-            "text": "וּפְרָצִ֥ים תֵּצֶ֖אנָה mulher נֶגְדָּ֑הּ וְהִשְׁלַכְתֶּ֥נָה הַהַרְמ֖וֹנָה oráculo-de yhwh"
+            "text": "[וּפְרָצִ֥ים] [תֵּצֶ֖אנָה] mulher [נֶגְדָּ֑הּ] [וְהִשְׁלַכְתֶּ֥נָה] [הַהַרְמ֖וֹנָה] oráculo-de yhwh"
           },
           {
             "verse": 4,
@@ -237,7 +238,7 @@
           },
           {
             "verse": 6,
-            "text": "e-também dei a-vós para-vocês ניקון dois em-todo pão והCONSÉR Belém em-todo [עָדַ֖י] e-não שבתם עדאי oráculo-de yhwh"
+            "text": "e-também dei a-vós para-vocês [שִׁנַּ֙יִם֙] dois em-todo pão [בְּכֹ֖ל] Belém em-todo [עָדַ֖י] e-não oráculo-de yhwh"
           },
           {
             "verse": 7,
@@ -245,7 +246,7 @@
           },
           {
             "verse": 8,
-            "text": "ונעו שָׁתִים três cidades a uma uma águas águas e-não יִשְׂבְּעֻ e-não שַׁבְתֶּם עָדִי oráculo-de yhwh"
+            "text": "[וְנָע֡וּ] [שְׁתַּיִם֩] três [עָרִ֜ים] a uma uma águas águas e-não [וְלֹֽא־שַׁבְתֶּ֥ם] e-não [נְאֻם־יְהוָֽה] oráculo-de yhwh"
           },
           {
             "verse": 9,
@@ -265,7 +266,7 @@
           },
           {
             "verse": 13,
-            "text": "que eis יוֹצֵר הָרִים וּבֹרֵ֣א espírito וּמַגִּ֤יד לְאָדָם֙ que- שֵּׂח֔וֹ fez שַׁ֙חַר֙ עֵיפָ֔ה וְדֹרֵ֖ךְ sobre yhwh terra yhwh Elohim-de de-exércitos nome-dele"
+            "text": "que eis [יוֹצֵ֨ר] [הָרִ֜ים] [וּבֹרֵ֣א] espírito [וּמַגִּ֤יד] [לְאָדָם֙] que- [עֹשֵׂ֥ה] fez [עֵיפָ֔ה] [וְדֹרֵ֖ךְ] [עַל־בָּ֣מֳתֵי] sobre yhwh terra yhwh de-exércitos nome-dele"
           }
         ]
       },
@@ -278,7 +279,7 @@
           },
           {
             "verse": 2,
-            "text": "caiu não תּוֹסִ֣יף levantou בְּתוּלַ֖ת Israel נִטְּשָׁ֥ה sobre אַדְמָתָ֖הּ não מְקִימָֽהּ׃"
+            "text": "[נָֽפְלָה֙] não [ק֔וּם] levantou [יִשְׂרָאֵ֑ל] Israel [עַל־אַדְמָתָ֖הּ] sobre [מְקִימָֽהּ] não"
           },
           {
             "verse": 3,
@@ -290,11 +291,11 @@
           },
           {
             "verse": 5,
-            "text": "e-a תִּדְרְשׁוּ֙ casa-de não וְהַגִּלְגָּל֙ não vão-vos não sete que תַעֲבֹ֑רוּ porque הַגִּלְגָּל֙ גָּלֹ֣ה será וּבֵֽית־ El será לְאָֽוֶן׃"
+            "text": "e-a [בֵּֽית־אֵ֔ל] casa-de não [תָבֹ֔אוּ] não [שֶׁ֖בַע] não sete que [הַגִּלְגָּל֙] porque [יִגְלֶ֔ה] [וּבֵֽית־אֵ֖ל] será [לְאָֽוֶן] El será"
           },
           {
             "verse": 6,
-            "text": "דָּרַשׁוּ a yhwh וִֽחְי֑וּ para-que-não יִצְלַ֤ח כָּאֵשׁ֙ casa José וְאָכְלָ֥ה e-não-há מְכַבֶּ֖ה para-a-casa-de El"
+            "text": "[דִּרְשׁ֥וּ] a yhwh [פֶּן־יִצְלַ֤ח] para-que-não [בֵּ֣ית] [יוֹסֵ֔ף] casa José [לְבֵֽית־אֵֽל] e-não-há El"
           },
           {
             "verse": 7,
@@ -314,7 +315,7 @@
           },
           {
             "verse": 11,
-            "text": "portanto porque בּוֹשַׁסְכֶ֞ם sobre pobre וּמַשְׂאַת־ nós תִּקְח֣וּ dele בָּתֵּ֥י גָזִ֛ית בְּנִיתֶ֖ם e-não תֵ֣שְׁבוּ em-elas כַּרְמֵי־ חֶ֣מֶד נְטַעְתֶּ֔ם e-não תִשְׁתּ֖וּ a יֵינָֽם׃"
+            "text": "portanto porque [בּוֹשַׁסְכֶ֞ם] sobre pobre [תִּקְח֣וּ] nós [בָּתֵּ֥י] dele [בְּנִיתֶ֖ם] [וְלֹא־תֵ֣שְׁבוּ] [בָ֑ם] e-não [נְטַעְתֶּ֔ם] em-elas [תִשְׁתּ֖וּ] [אֶת־יֵינָֽם] e-não a"
           },
           {
             "verse": 12,
@@ -334,7 +335,7 @@
           },
           {
             "verse": 16,
-            "text": "portanto assim yhwh yhwh אֱלֹהִים-de dos-exércitos Adonai em-todo ruas luto e-em-todo portões dirão o e e chamassem tristeza a debaixo luto a יודעי נHEYי׃"
+            "text": "portanto assim yhwh yhwh Elohim-de dos-exércitos Adonai em-todo ruas luto e-em-todo portões dirão o e e chamassem tristeza a debaixo luto a יודעי נHEYי׃"
           },
           {
             "verse": 17,
@@ -350,7 +351,7 @@
           },
           {
             "verse": 20,
-            "text": "não-é dia yhwh yhwh e-não luz a-ele e-não o reflexo a-ele"
+            "text": "não-é dia yhwh yhwh e-não luz a-ele e-não a-ele"
           },
           {
             "verse": 21,
@@ -370,7 +371,7 @@
           },
           {
             "verse": 25,
-            "text": "הזבחים ומנחה היגשתם־ לי במדבר quarenta ano casa Israel"
+            "text": "[הַזְּבָחִ֨ים] [וּמִנְחָ֜ה] [הִֽגַּשְׁתֶּם־לִ֧י] [בַמִּדְבָּ֛ר] [אַרְבָּעִ֥ים] quarenta ano casa Israel"
           },
           {
             "verse": 26,
@@ -395,19 +396,19 @@
           },
           {
             "verse": 3,
-            "text": "הַֽמְנַדִּ֖ים para-o-dia mal וַתַּגִּישׁ֖וּן שֶׁ֥בֶת violência"
+            "text": "[הַֽמְנַדִּ֖ים] para-o-dia mal [וַתַּגִּישׁ֖וּן] [שֶׁ֥בֶת] violência"
           },
           {
             "verse": 4,
-            "text": "הַשֹּֽׁכְבִים֙ sobre מִטּ֣וֹת שֵׁן וּסְרֻכִ֖ים sobre עַרְשׂוֹתָ֑ם וְאֹכְלִ֤ים כָּרִים֙ מִצֹּ֔אן וַעֲגָלִ֖ים de-meio מַרְבֵּֽק׃"
+            "text": "[הַשֹּֽׁכְבִים֙] sobre [שֵׁ֔ן] [וּסְרֻחִ֖ים] [עַל־עַרְשׂוֹתָ֑ם] sobre [כָּרִים֙] [מִצֹּ֔אן] [וַעֲגָלִ֖ים] [מִתּ֥וֹךְ] [מַרְבֵּֽק]"
           },
           {
             "verse": 5,
-            "text": "הַפְֹּרְטִ֖ים sobre boca-de הַנָּ֑בֶל כְּדָוִ֕יד a-eles a-eles objetos-de שִֽׁיר׃"
+            "text": "[הַפֹּרְטִ֖ים] sobre boca-de [כְּדָוִ֕יד] [חָשְׁב֥וּ] a-eles a-eles objetos-de"
           },
           {
             "verse": 6,
-            "text": "הַשֹּׁתִ֤ים בְּמִזְרְקֵי֙ vinho וְרֵאשִׁ֥ית שְׁמָנִ֖ים יִמְשָׁ֑חוּ e-não נֶחְל֖וּ sobre שֵׁ֥בֶר יוֹסֵֽף"
+            "text": "[הַשֹּׁתִ֤ים] [בְּמִזְרְקֵי֙] vinho [וְרֵאשִׁ֥ית] [שְׁמָנִ֖ים] [יִמְשָׁ֑חוּ] e-não [נֶחְל֖וּ] sobre [יוֹסֵֽף]"
           },
           {
             "verse": 7,
@@ -415,7 +416,7 @@
           },
           {
             "verse": 8,
-            "text": "נִשְׁבַּע֩ Adonai yhwh בְּנַפְשׁ֗וֹ oráculo-de yhwh אֱלֹהִים-de exércitos eu eu a orgulho Jacó וְאַרְמְנֹתָ֖יו שָׂנֵ֑אתִי וְהִסְגַּרְתִּ֖י cidade e plenitude"
+            "text": "נִשְׁבַּע֩ Adonai yhwh בְּנַפְשׁ֗וֹ oráculo-de yhwh Elohim-de exércitos eu eu a orgulho Jacó וְאַרְמְנֹתָ֖יו שָׂנֵ֑אתִי וְהִסְגַּרְתִּ֖י cidade e plenitude"
           },
           {
             "verse": 9,
@@ -439,7 +440,7 @@
           },
           {
             "verse": 14,
-            "text": "que eis-me levanta sobre-vos casa Israel oráculo-de yhwh אֱלֹהִים-de הַצְּבָא֖וֹת nação וְלָחֲצ֥וּ a-vós do leite de cór até ribeiro-de הָעֲרָבָֽה׃"
+            "text": "que eis-me levanta sobre-vos casa Israel oráculo-de yhwh Elohim-de הַצְּבָא֖וֹת nação וְלָחֲצ֥וּ a-vós do leite de cór até ribeiro-de הָעֲרָבָֽה׃"
           }
         ]
       },
@@ -456,7 +457,7 @@
           },
           {
             "verse": 3,
-            "text": "niḥam yhwh sobre não não disse yhwh yhwh"
+            "text": "[נִחַ֥ם] yhwh sobre não não disse yhwh yhwh"
           },
           {
             "verse": 4,
@@ -472,11 +473,11 @@
           },
           {
             "verse": 7,
-            "text": "assim הִרְאַ֔נִי e-eis Adonai está-postado sobre muro-de אֲנָ֑ךְ ובידיו אֲנָֽךְ׃"
+            "text": "assim [הִרְאַ֔נִי] e-eis Adonai [נִצָּ֖ב] sobre muro-de [וּבְיָד֖וֹ] [אֲנָֽךְ]"
           },
           {
             "verse": 8,
-            "text": "E-disse yhwh a-mim que tu viu עָמ֔וֹס e-disse E-disse E-disse Adonai eis-me nome אֲנָךְ֙ בְּקֶ֙רֶב֙ meu-povo Israel não אוֹסִ֥יף a-ele עֲב֥וֹר a-ele"
+            "text": "E-disse yhwh a-mim que tu viu [וָאֹמַ֖ר] e-disse E-disse E-disse Adonai eis-me nome [בְּקֶ֙רֶב֙] [עַמִּ֣י] meu-povo Israel não [עֲב֥וֹר] a-ele"
           },
           {
             "verse": 9,
@@ -488,19 +489,19 @@
           },
           {
             "verse": 11,
-            "text": "porque disse disse עָמ֔וֹס pela-espada יָמ֣וּת ירבעם וְיִ֨שְׂרָאֵ֔ל גָּלֹ֥ה de-cima-de de-sobre אַדְמָתֽוֹ׃"
+            "text": "porque disse disse [בַּחֶ֖רֶב] pela-espada [יָרָבְעָ֑ם] [וְיִ֨שְׂרָאֵ֔ל] [גָּלֹ֥ה] [יִגְלֶ֖ה] de-cima-de de-sobre"
           },
           {
             "verse": 12,
-            "text": "E-disse אֲמַצְיָה֙ a עָמ֔וֹס חֹזֶ֕ה vai e foge a-ti a pão Judá וֶאֱכָל־ nome Belém e-ali תִּנָּבֵֽא׃"
+            "text": "E-disse [אֲמַצְיָה֙] a [חֹזֶ֕ה] [לֵ֥ךְ] vai [אֶל־אֶ֣רֶץ] a-ti a pão Judá [תִּנָּבֵֽא] nome"
           },
           {
             "verse": 13,
-            "text": "וּבֵֽית־ El não תוֹסִ֥יף que לְהִנָּבֵ֑א ele מִקְדַּשׁ־ rei ele e-casa-de מַמְלָכָ֖ה ela"
+            "text": "[וּבֵֽית־אֵ֔ל] El não [לְהִנָּבֵ֑א] que [מִקְדַּשׁ־מֶ֙לֶךְ֙] ele [וּבֵ֥ית] rei ele"
           },
           {
             "verse": 14,
-            "text": "e-respondeu עָמוֹס֙ E-disse a אֲמַצְיָ֔ה eu profeta eu eu filho-de eu eu porque בוֹקֵ֥ר eu וּבוֹלֵ֥ס שִׁקְמִֽים׃"
+            "text": "e-respondeu [עָמוֹס֙] E-disse a [לֹא־נָבִ֣יא] eu profeta eu eu filho-de eu eu porque"
           },
           {
             "verse": 15,
@@ -521,15 +522,15 @@
         "verses": [
           {
             "verse": 1,
-            "text": "assim הִרְאַ֖נִי Adonai yhwh e-eis כְּל֥וּב קָֽיִץ׃"
+            "text": "assim [הִרְאַ֖נִי] Adonai yhwh e-eis [כְּל֥וּב] [קָֽיִץ]"
           },
           {
             "verse": 2,
-            "text": "E-disse que tu viu עָמ֔וֹס e-disse כְּל֣וּב E-disse yhwh yhwh a-mim veio הַקֵּץ֙ a meu-povo Israel não a-ele a-ele עֲב֥וֹר a-ele"
+            "text": "E-disse que tu viu [וָאֹמַ֖ר] e-disse [קָ֑יִץ] E-disse yhwh yhwh a-mim veio [אֶל־עַמִּ֣י] a meu-povo Israel não a-ele"
           },
           {
             "verse": 3,
-            "text": "וְהֵילִ֜ילוּ שִׁיר֤וֹת הֵיכָל֙ no-dia aquele oráculo-de Adonai yhwh muito הַפּ֔גֶר em-todo lugar הִשְׁלִ֥יךְ הָֽס׃"
+            "text": "[וְהֵילִ֜ילוּ] [שִׁיר֤וֹת] [הֵיכָל֙] no-dia aquele oráculo-de Adonai yhwh muito [הַפֶּ֔גֶר] em-todo [הִשְׁלִ֥יךְ] [הָֽס׃]"
           },
           {
             "verse": 4,
@@ -545,11 +546,11 @@
           },
           {
             "verse": 7,
-            "text": "jurou yhwh בִּגְא֣וֹן Jacó se אֶשְׁכַּ֥ח לָנֶ֖צַח todo מַעֲשֵׂיהֶֽם׃"
+            "text": "jurou yhwh [בִּגְא֣וֹן] Jacó se [לָנֶ֖צַח] [כָּל־מַעֲשֵׂיהֶֽם] todo"
           },
           {
             "verse": 8,
-            "text": "הַ֤עַל esta não a-terra a-terra וְאָבַ֖ל todo habitante-de nela וְעָלְתָ֤ה כָאֹר֙ כּוּלָֹהּ וְנִגְרַשׁ֥ה כִּיאֹר Egito"
+            "text": "[הַ֤עַל] esta não a-terra a-terra [כָּל־יוֹשֵׁ֣ב] todo habitante-de nela [כֻּלָּ֔הּ] [וְנִגְרְשָׁ֥ה] [*ונשקה] [**וְנִשְׁקְעָ֖ה] [כִּיא֥וֹר] Egito"
           },
           {
             "verse": 9,
@@ -573,7 +574,7 @@
           },
           {
             "verse": 14,
-            "text": "os jurados pela iniqüidade Samaria e-diretriz viveu אֱלֹהִים-teu דן e a vida o-caminho-de por água sete cairão e-não arising ainda"
+            "text": "os jurados pela iniqüidade Samaria e-diretriz viveu Elohim-teu דן e a vida o-caminho-de por água sete cairão e-não arising ainda"
           }
         ]
       },
@@ -586,7 +587,7 @@
           },
           {
             "verse": 2,
-            "text": "se יחתרוּ bieshav ol de-lá mão-de-mim תיקחוּם ואם־ יאלוּ os-céus de-lá אורידם׃"
+            "text": "se [בִשְׁא֔וֹל] [מִשָּׁ֖ם] de-lá mão-de-mim [וְאִֽם־יַעֲלוּ֙] [הַשָּׁמַ֔יִם] [מִשָּׁ֖ם] os-céus"
           },
           {
             "verse": 3,
@@ -602,19 +603,19 @@
           },
           {
             "verse": 6,
-            "text": "הַבּוֹנֶה בַּשָּׁמַיִם וַאֲגֻדְתּוֹ sobre terra יְסָדָהּ הַקּוֹרֵא לְמֵי־ הַיָּם [וַֽיִּשְׁפְּכֵ֛ם] sobre a-terra yhwh yhwh nome-dele"
+            "text": "[הַבּוֹנֶ֤ה] [בַשָּׁמַ֙יִם֙] [*מעלותו] sobre terra [עַל־אֶ֣רֶץ] [יְסָדָ֑הּ] [הַקֹּרֵ֣א] [לְמֵֽי־הַיָּ֗ם] [וַֽיִּשְׁפְּכֵ֛ם] sobre a-terra yhwh yhwh"
           },
           {
             "verse": 7,
-            "text": "porventura-não כִּבְנֵי֩ כֻּשִׁיִּ֨ים vós para-mim filhos-de Israel oráculo-de yhwh porventura-não a Israel הֶעֱלֵ֙יתִי֙ da-terra Egito וּפְלִשְׁתִּיִּ֥ים מִכַּפְתּ֖וֹר וַאֲרָ֥ם מִקִּֽיר׃"
+            "text": "porventura-não [כִבְנֵי֩] [כֻשִׁיִּ֨ים] vós para-mim filhos-de Israel oráculo-de yhwh porventura-não a Israel [מִצְרַ֔יִם] da-terra Egito [וַאֲרָ֥ם] [מִקִּֽיר]"
           },
           {
             "verse": 8,
-            "text": "eis os-olhos-de Adonai yhwh בַּמַּמְלָכָה֙ הַֽחַטָּאָ֔ה וְהִשְׁמַדְתִּ֣י a-ela de-sobre de-cima-de face-de a-terra porque que não אַשְׁמִ֛יד a casa Jacó oráculo-de yhwh"
+            "text": "eis os-olhos-de Adonai yhwh [יְהוִ֗ה] [בַּמַּמְלָכָה֙] [הַֽחַטָּאָ֔ה] a-ela de-sobre de-cima-de face-de a-terra porque que não [הַשְׁמֵ֥יד] a casa Jacó oráculo-de yhwh"
           },
           {
             "verse": 9,
-            "text": "porque eu eu מְצַוּ֔ה וַהֲנִע֥וֹתִי em-todo as-nações a casa Israel como-que יִנּ֙וֹעַ֙ בַּכְּבָר֔ה e-não יִפּ֥וֹל צְר֖וֹר terra"
+            "text": "porque eu [מְצַוֶּ֔ה] [וַהֲנִע֥וֹתִי] [בְכָֽל־הַגּוֹיִ֖ם] em-todo as-nações a casa Israel como-que [צְר֖וֹר] [אָֽרֶץ] e-não terra"
           },
           {
             "verse": 10,
@@ -638,7 +639,7 @@
           },
           {
             "verse": 15,
-            "text": "וּנְטַעְתִּ֖ים sobre אַדְמָתָ֑ם e-não יִנָּתְשׁוּ de-cima-de de-sobre אַדְמָתָם֙ dei a-eles disse yhwh yhwh אֱלֹהִים-tua"
+            "text": "[וּנְטַעְתִּ֖ים] sobre [וְלֹ֨א] e-não [ע֗וֹד] de-cima-de [אַדְמָתָם֙] [אֲשֶׁ֣ר] dei a-eles disse yhwh yhwh"
           }
         ]
       }

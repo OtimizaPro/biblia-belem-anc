@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 66,
@@ -552,7 +553,7 @@
           },
           {
             "verse": 14,
-            "text": "e disse a ele Kyrie meu tu sei e disse a-mim estes são o vindos de o tribulação o grande e lavaram o vestes deles e embranqueceram elas em o sangue o Cordeiro"
+            "text": "e disse a ele Kyrios meu tu sei e disse a-mim estes são o vindos de o tribulação o grande e lavaram o vestes deles e embranqueceram elas em o sangue o Cordeiro"
           },
           {
             "verse": 15,
@@ -1100,7 +1101,7 @@
           },
           {
             "verse": 4,
-            "text": "quem não não tema Kyrie e glorifique o nome teu que só santo que todas-as-coisas o nações virão e adorarão diante teu que o juízos teu foram-manifestados"
+            "text": "quem não não tema Kyrios e glorifique o nome teu que só santo que todas-as-coisas o nações virão e adorarão diante teu que o juízos teu foram-manifestados"
           },
           {
             "verse": 5,

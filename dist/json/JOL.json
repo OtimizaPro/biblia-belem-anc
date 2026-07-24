@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 29,
@@ -18,7 +19,7 @@
         "verses": [
           {
             "verse": 1,
-            "text": "palavra-de yhwh ser foi a Yoel- filho-de Ptuel:"
+            "text": "palavra-de yhwh ser foi a filho-de"
           },
           {
             "verse": 2,
@@ -38,7 +39,7 @@
           },
           {
             "verse": 6,
-            "text": "porque subir subiu sobre אַרְצִ֔י עָצ֖וּם e-não de-número שִׁנָּיו֙ segundo אַרְיֵ֔ה a-ele לָבִ֖יא a-ele"
+            "text": "porque subir subiu sobre [וְאֵ֣ין] [מִסְפָּ֑ר] e-não [שִׁנֵּ֣י] [אַרְיֵ֔ה] segundo [לָבִ֖יא] a-ele a-ele"
           },
           {
             "verse": 7,
@@ -62,15 +63,15 @@
           },
           {
             "verse": 12,
-            "text": "הַגֶּ֣פֶן הוֹבִ֔ישָׁה וְהַתְּאֵנָ֖ה אֻמְלָ֑לָה רִמּ֞וֹן também תָּמָ֣ר וְתַפּ֗וּחַ todo עֲצֵ֤י o-campo יָבֵ֔שׁוּ porque homem שָׂשׂ֖וֹן de filhos-de homem"
+            "text": "[הַגֶּ֣פֶן] [הוֹבִ֔ישָׁה] [וְהַתְּאֵנָ֖ה] [אֻמְלָ֑לָה] [רִמּ֞וֹן] também [וְתַפּ֗וּחַ] [כָּל־עֲצֵ֤י] todo [יָבֵ֔שׁוּ] o-campo [שָׂשׂ֖וֹן] porque homem de filhos-de homem"
           },
           {
             "verse": 13,
-            "text": "חִגְר֨וּ וְסִפְד֜וּ os-sacerdotes brilharam מְשָׁרְתֵ֣י altar entrai לִ֣ינוּ בַשַּׂקּ֔ים מְשָׁרְתֵ֖י meu-Elohim que נִמְנַ֛ע de-casa-de אֱלֹהִים de-vós oferta-cereais וָנָֽסֶךְ׃"
+            "text": "חִגְר֨וּ וְסִפְד֜וּ os-sacerdotes brilharam מְשָׁרְתֵ֣י altar entrai לִ֣ינוּ בַשַּׂקּ֔ים מְשָׁרְתֵ֖י meu-Elohim que נִמְנַ֛ע de-casa-de Elohim de-vós oferta-cereais וָנָֽסֶךְ׃"
           },
           {
             "verse": 14,
-            "text": "קַדְּשׁוּ־ צוֹם֙ קִרְא֣וּ עֲצָרָ֔ה אִסְפ֣וּ זְקֵנִ֗ים todo a-terra a-terra yhwh yhwh vosso-Elohim וְזַעֲק֖וּ a yhwh"
+            "text": "[קַדְּשׁוּ־צוֹם֙] [קִרְא֣וּ] [עֲצָרָ֔ה] [אִסְפ֣וּ] [זְקֵנִ֗ים] [כֹּ֚ל] todo a-terra a-terra yhwh yhwh vosso-Elohim [אֶל־יְהוָֽה] a yhwh"
           },
           {
             "verse": 15,
@@ -78,7 +79,7 @@
           },
           {
             "verse": 16,
-            "text": "acaso-nao diante עֵינֵ֖ינוּ alimento נִכְרָ֑ת de-casa-de אֱלֹהִים-nosso שִׂמְחָ֥ה וָגִֽיל׃"
+            "text": "acaso-nao diante עֵינֵ֖ינוּ alimento נִכְרָ֑ת de-casa-de Elohim-nosso שִׂמְחָ֥ה וָגִֽיל׃"
           },
           {
             "verse": 17,
@@ -123,7 +124,7 @@
           },
           {
             "verse": 6,
-            "text": "מפניו יָחִ֣ילוּ עַמִּ֑ים todo face קִבְּצ֥וּ פָארֽוּר׃"
+            "text": "[מִפָּנָ֖יו] [יָחִ֣ילוּ] [עַמִּ֑ים] todo face [פָארֽוּר]"
           },
           {
             "verse": 7,
@@ -139,7 +140,7 @@
           },
           {
             "verse": 10,
-            "text": "diante-dele רגזה terra רעשו céus שמש וְיָרֵ֙חַ֙ קָדָ֔רוּ וְכוֹכָבִ֖ים אָסְפ֥וּ נָגְהָֽם׃"
+            "text": "diante-dele [רָ֣גְזָה] terra [רָעֲשׁ֖וּ] céus [שֶׁ֤מֶשׁ] [וְיָרֵ֙חַ֙] [קָדָ֔רוּ] [וְכוֹכָבִ֖ים] [אָסְפ֥וּ] [נָגְהָֽם]"
           },
           {
             "verse": 11,
@@ -147,7 +148,7 @@
           },
           {
             "verse": 12,
-            "text": "e-também agora oráculo-de yhwh שֻׁ֥בוּ עדאי em-todo לְבַבְכֶם וּבְצ֥וֹם וּבְבְכִ֖י וּבְמִסְפֵּֽד׃"
+            "text": "e-também agora oráculo-de yhwh [בְּכָל־לְבַבְכֶ֑ם] [וּבְצ֥וֹם] em-todo [וּבְמִסְפֵּֽד]"
           },
           {
             "verse": 13,
@@ -155,7 +156,7 @@
           },
           {
             "verse": 14,
-            "text": "quem que conhece voltara e se alegrar e manterá atrás-dele בְּרָכָ֔ה oferta e vinho para-יהוה אֱלֹהִים-vosso"
+            "text": "quem que conhece voltara e se alegrar e manterá atrás-dele בְּרָכָ֔ה oferta e vinho para-יהוה Elohim-vosso"
           },
           {
             "verse": 15,
@@ -191,7 +192,7 @@
           },
           {
             "verse": 23,
-            "text": "e-filhos-de Siao גִּילוּ וַשִּׂמְח֔וּ בּיהוָ֣ה אֱלֹהִים-vosso porque a-vós a-vós a hamooreh a-vós וַיּוֹרֵד para-vós גֵּשֶׁם מוֹרֶה וּמַלְק֖וֹשׁ בָּרִאשֽׁוֹן׃"
+            "text": "e-filhos-de [צִיּ֗וֹן] [גִּ֤ילוּ] [וְשִׂמְחוּ֙] [בַּיהוָ֣ה] Elohim-vosso porque a-vós a-vós a [וַיּ֣וֹרֶד] a-vós [גֶּ֛שֶׁם] para-vós [וּמַלְק֖וֹשׁ] [בָּרִאשֽׁוֹן]"
           },
           {
             "verse": 24,
@@ -207,7 +208,7 @@
           },
           {
             "verse": 27,
-            "text": "vidatetem que בְקֶ֤רֶב Israel eu e-eu yhwh אֱלֹהִים de-vós e-não ainda e-não vergonhem-se; povo-meu para-eternidade"
+            "text": "vidatetem que בְקֶ֤רֶב Israel eu e-eu yhwh Elohim de-vós e-não ainda e-não vergonhem-se; povo-meu para-eternidade"
           }
         ]
       },
@@ -216,7 +217,7 @@
         "verses": [
           {
             "verse": 1,
-            "text": "e-foi depois-de assim אֶשְׁפּ֤וֹךְ a רוּחִי֙ sobre todo בָּשָׂ֔ר וְנִבְּא֖וּ filhos-vossos וּבְנֽוֹתֵיכֶ֑ם זִקְנֵיכֶם֙ חֲלֹמ֣וֹת יַחֲלֹמ֔וּן os jovens vossos חֶזְיֹנ֖וֹת יִרְאֽוּ׃"
+            "text": "e-foi depois-de assim [אֶת־רוּחִי֙] a [וְנִבְּא֖וּ] sobre todo [זִקְנֵיכֶם֙] [חֲלֹמ֣וֹת] filhos-vossos [בַּח֣וּרֵיכֶ֔ם] [חֶזְיֹנ֖וֹת] [יִרְאֽוּ]"
           },
           {
             "verse": 2,
@@ -232,7 +233,7 @@
           },
           {
             "verse": 5,
-            "text": "e-será todo que יִקְרָ֛א yhwh yhwh que porque em-monte-de צִיּ֨וֹן וּבִירוּשָׁלִַ֜ם תִּֽהְיֶ֣ה disse yhwh disse yhwh yhwh que yhwh chamou"
+            "text": "e-será todo que [בְּשֵׁ֥ם] yhwh yhwh que porque em-monte-de [תִּֽהְיֶ֣ה] [פְלֵיטָ֗ה] [כַּֽאֲשֶׁר֙] disse yhwh disse yhwh yhwh que yhwh chamou"
           }
         ]
       },

@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 37,
@@ -22,11 +23,11 @@
           },
           {
             "verse": 2,
-            "text": "assim disse yhwh de-exércitos dizendo o-povo o-este disseram não אֵת־ veio yhwh casa yhwh לְהִבָּנֽוֹת׃"
+            "text": "assim disse yhwh de-exércitos dizendo o-povo o-este [אָֽמְר֔וּ] não [עֶת־בֹּ֛א] veio yhwh casa yhwh"
           },
           {
             "verse": 3,
-            "text": "e-houve palavra-de yhwh por-mão-de dizendo o-profeta para-dizer"
+            "text": "e-houve palavra-de yhwh por-mão-de dizendo"
           },
           {
             "verse": 4,
@@ -34,7 +35,7 @@
           },
           {
             "verse": 5,
-            "text": "e-agora assim disse yhwh exércitos שימוּ nos vossos corações sobre דרכיכם׃"
+            "text": "e-agora assim disse yhwh exércitos [שִׂ֥ימוּ] [לְבַבְכֶ֖ם] sobre"
           },
           {
             "verse": 6,
@@ -42,7 +43,7 @@
           },
           {
             "verse": 7,
-            "text": "assim disse yhwh exércitos שִׂימוּ vossos-corações sobre דָּרְכֵיכֶם׃"
+            "text": "assim disse yhwh exércitos [שִׂ֥ימוּ] [לְבַבְכֶ֖ם] sobre"
           },
           {
             "verse": 8,
@@ -99,7 +100,7 @@
           },
           {
             "verse": 5,
-            "text": "a hadavar que -karattee com-vós בְּצֵאתְכֶ֣ם do-Egito וְרוּחִ֖י עֹמֶ֣דֶת בְּתוֹכְכֶ֑ם a tiráu׃"
+            "text": "a [אֲשֶׁר־כָּרַ֤תִּי] que [בְּצֵאתְכֶ֣ם] com-vós [וְרוּחִ֖י] do-Egito [בְּתוֹכְכֶ֑ם] [אַל־תִּירָֽאוּ׃] a"
           },
           {
             "verse": 6,
@@ -107,7 +108,7 @@
           },
           {
             "verse": 7,
-            "text": "וְהִרְעַשְׁתִּי֙ a todo as-nações וּבָ֖אוּ חֶמְדַּ֣ת todo as-nações וּמִלֵּאתִ֞י disse yhwh o-este glória disse yhwh exércitos"
+            "text": "[וְהִרְעַשְׁתִּי֙] a todo as-nações [כָּל־הַגּוֹיִ֑ם] [וּמִלֵּאתִ֞י] todo as-nações [כָּב֔וֹד] disse yhwh o-este disse yhwh"
           },
           {
             "verse": 8,
@@ -131,7 +132,7 @@
           },
           {
             "verse": 13,
-            "text": "E-disse חַגַּ֔י se יִגַּע טְמֵא־ alma em-todo estes טְמֵא־ e-eles-responderam hakohanim e-disseram será impuro׃"
+            "text": "E-disse [חַגַּ֔י] se [טְמֵא־נֶ֛פֶשׁ] [בְּכָל־אֵ֖לֶּה] alma em-todo estes [וַיֹּאמְר֖וּ] [יִטְמָֽא]"
           },
           {
             "verse": 14,
@@ -155,7 +156,7 @@
           },
           {
             "verse": 19,
-            "text": "הַע֤וֹד הַזֶּ֙רַע֙ בַּמְּגוּרָ֔ה e-até הַגֶּ֨פֶן וְהַתְּאֵנָ֧ה וְהָרִמּ֛וֹן e árvore não não נשַׂא de o-dia este אֲבָרֵךְ"
+            "text": "[הַע֤וֹד] [הַזֶּ֙רַע֙] [בַּמְּגוּרָ֔ה] e-até [וְהַתְּאֵנָ֧ה] [וְהָרִמּ֛וֹן] [וְעֵ֥ץ] [הַזַּ֖יִת] não não [מִן־הַיּ֥וֹם] de o-dia"
           },
           {
             "verse": 20,
@@ -163,7 +164,7 @@
           },
           {
             "verse": 21,
-            "text": "disse a זְרֻבָּבֶל dizendo Judá dizendo eu מַרְעִיֶּשׁ a os-céus e-a a-terra"
+            "text": "disse a [פַּֽחַת־יְהוּדָ֖ה] dizendo Judá dizendo eu [וְאֶת־הָאָֽרֶץ] a os-céus e-[OBJ] a-terra"
           },
           {
             "verse": 22,

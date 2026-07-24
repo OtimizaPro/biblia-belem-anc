@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 57,
@@ -34,7 +35,7 @@
           },
           {
             "verse": 5,
-            "text": "ouvindo teu o amor e o fé o qual tens junto-a o Kyrion Iesous e para todos o santos"
+            "text": "ouvindo teu o amor e o fé o qual tens junto-a o Kyrios Iesous e para todos o santos"
           },
           {
             "verse": 6,

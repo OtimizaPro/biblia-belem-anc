@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 40,
@@ -1481,7 +1482,7 @@
           },
           {
             "verse": 8,
-            "text": "kyrios pois é o do-sábado o Filho o do-homem"
+            "text": "Kyrios pois é o do-sábado o Filho o do-homem"
           },
           {
             "verse": 9,

@@ -9,22 +9,46 @@
  *   dist/sql/belem-2025.sql   dump SQL (books / chapters / verses)
  *   dist/sqlite/belem-2025.sqlite  (opcional, requer Node >= 22)
  *
- * Uso: node scripts/export-formats.mjs [--out dist]
+ * Uso:
+ *   node scripts/export-formats.mjs                 # padrão: --source merge
+ *   node scripts/export-formats.mjs --source txt    # só os .txt do repo
+ *   node scripts/export-formats.mjs --source api    # só o D1 (via API pública)
+ *   node scripts/export-formats.mjs --out dist
  *
- * A fonte da verdade é sempre "Bible belem-pt-br/txt/". Nada aqui edita
- * o texto: o exportador só reempacota. Qualquer divergência entre os
- * formatos e o .txt é bug do exportador, nunca correção de tradução.
+ * Duas fontes existem e NÃO são idênticas:
+ *
+ *   - "Bible belem-pt-br/txt/" — versionado no repo, mas defasado.
+ *   - D1 (https://biblia.aculpaedasovelhas.org) — recebeu revisões que nunca
+ *     voltaram para os .txt. É o artefato mais avançado.
+ *
+ * Por isso o padrão é `merge`: usa o texto do D1 quando existe e não é vazio,
+ * e cai para o .txt quando o D1 não tem o versículo. Assim o export nunca
+ * regride a tradução. O relatório final informa de onde veio cada versículo.
+ *
+ * Nada aqui edita texto: o exportador só escolhe a fonte e reempacota.
  */
 
-import { readdirSync, readFileSync, writeFileSync, mkdirSync, rmSync } from 'node:fs';
+import { readdirSync, readFileSync, writeFileSync, mkdirSync, rmSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const SRC = path.join(ROOT, 'Bible belem-pt-br', 'txt');
 
-const outArg = process.argv.indexOf('--out');
-const OUT = path.join(ROOT, outArg !== -1 ? process.argv[outArg + 1] : 'dist');
+const argv = process.argv.slice(2);
+const arg = (name, def) => {
+  const i = argv.indexOf(name);
+  return i !== -1 ? argv[i + 1] : def;
+};
+const OUT = path.resolve(ROOT, arg('--out', 'dist'));
+const SOURCE = arg('--source', 'merge'); // 'txt' | 'api' | 'merge'
+const API_CACHE = path.resolve(ROOT, arg('--api-cache', 'dist/.cache/d1-corpus.json'));
+const REVERT_LIST = path.resolve(ROOT, arg('--revert', 'scripts/merge-revert.json'));
+
+if (!['txt', 'api', 'merge'].includes(SOURCE)) {
+  console.error(`--source inválido: ${SOURCE} (use txt | api | merge)`);
+  process.exit(1);
+}
 
 const TRANSLATION = {
   id: 'belem-2025',
@@ -105,6 +129,113 @@ function parseBook(file) {
   }
 
   return { ...meta, chapters };
+}
+
+/** Carrega o cache do D1 num índice code -> chapter -> verse -> texto. */
+function loadApiIndex() {
+  if (!existsSync(API_CACHE)) {
+    console.error(
+      `Fonte "${SOURCE}" requer o cache do D1, mas ${path.relative(ROOT, API_CACHE)} não existe.\n` +
+        `Rode primeiro: node scripts/fetch-d1.mjs`
+    );
+    process.exit(1);
+  }
+  const raw = JSON.parse(readFileSync(API_CACHE, 'utf8'));
+  const idx = new Map();
+  for (const b of raw.books) {
+    const chMap = new Map();
+    for (const c of b.chapters) {
+      const vMap = new Map();
+      for (const v of c.verses) if (v.text) vMap.set(v.verse, v.text);
+      chMap.set(c.chapter, vMap);
+    }
+    idx.set(b.code, chMap);
+  }
+  return idx;
+}
+
+// Escritas sem relação com os códices. Usado para NÃO regredir: o merge nunca
+// troca um versículo limpo por uma versão que introduz estes caracteres.
+const ALIEN_MERGE = new RegExp(
+  ['[　-〿㐀-䶿一-鿿豈-﫿]', '[Ѐ-ӿԀ-ԯ]', '[؀-ۿݐ-ݿ]', '[가-힯ᄀ-ᇿ]', '[぀-ヿ]', '[ऀ-ॿ]', '[԰-֏]', '[฀-๿]'].join('|')
+);
+
+/**
+ * Normalização mínima e inegociável sobre o texto vindo do D1.
+ *
+ * O D1 grava o tetragrama como "YHWH" (maiúsculo). A regra normativa da Escola
+ * Belem é que yhwh é a ÚNICA designação divina em minúsculas, sempre. Preferir
+ * o D1 sem isto reintroduziria a violação em todo o corpus. Rebaixamos apenas o
+ * token exato YHWH (com fronteira de palavra) — nada mais é tocado.
+ */
+function normalizeD1(text) {
+  return text.replace(/\bYHWH\b/g, 'yhwh');
+}
+
+/** Referências (BOOK CH:VS) auditadas como regressão do D1 → sempre .txt. */
+function loadRevertSet() {
+  if (SOURCE === 'txt' || !existsSync(REVERT_LIST)) return new Set();
+  return new Set(JSON.parse(readFileSync(REVERT_LIST, 'utf8')).refs ?? []);
+}
+
+/**
+ * Reconcilia a estrutura vinda do .txt com o texto do D1.
+ *
+ * A estrutura (quais livros/capítulos/versículos existem) vem SEMPRE do .txt,
+ * que é a lista canônica versionada; só o TEXTO de cada versículo pode trocar.
+ *
+ * Duas salvaguardas garantem que o merge SÓ melhora o corpus:
+ *
+ *  1. "O mais limpo vence" — nenhuma das duas fontes é limpa. O D1 conserta
+ *     contaminações do .txt mas introduz outras. Então prefere-se o D1 (mais
+ *     avançado), EXCETO quando isso troca um versículo limpo por um contaminado.
+ *
+ *  2. Lista de reversão (scripts/merge-revert.json) — 205 versículos onde uma
+ *     auditoria adversarial confirmou que o texto do D1 é PIOR que o .txt em
+ *     latim (truncado, transliteração crua, nome corrompido). Estes ficam no
+ *     .txt independentemente do resto.
+ */
+function applySource(books, apiIndex, revertSet, stats) {
+  if (SOURCE === 'txt') return books;
+  for (const b of books) {
+    const chMap = apiIndex.get(b.code);
+    for (const ch of b.chapters) {
+      const vMap = chMap?.get(ch.chapter);
+      for (const v of ch.verses) {
+        const ref = `${b.code} ${ch.chapter}:${v.verse}`;
+        if (revertSet.has(ref)) {
+          stats.reverted++; // auditado como regressão do D1
+          stats.fromTxt++;
+          continue;
+        }
+        const rawApi = vMap?.get(v.verse);
+        if (!rawApi) {
+          stats.apiMissing++;
+          stats.fromTxt++;
+          continue;
+        }
+        const apiText = normalizeD1(rawApi);
+        if (/\bYHWH\b/.test(rawApi)) stats.yhwhNormalized++;
+
+        const dirtyTxt = ALIEN_MERGE.test(v.text);
+        const dirtyApi = ALIEN_MERGE.test(apiText);
+
+        if (dirtyApi && !dirtyTxt) {
+          stats.regressionAvoided++; // D1 sujaria um versículo limpo → mantém .txt
+          stats.fromTxt++;
+          continue;
+        }
+
+        stats.fromApi++;
+        if (dirtyTxt && !dirtyApi) stats.contaminationFixed++;
+        if (apiText !== v.text) {
+          v.text = apiText;
+          stats.changed++;
+        }
+      }
+    }
+  }
+  return books;
 }
 
 function write(file, content) {
@@ -221,6 +352,27 @@ const files = readdirSync(SRC)
 
 const books = files.map(parseBook);
 
+// Carrega o D1 ANTES de limpar OUT (o cache vive em OUT/.cache/).
+const provenance = {
+  changed: 0,
+  fromApi: 0,
+  fromTxt: 0,
+  apiMissing: 0,
+  contaminationFixed: 0,
+  regressionAvoided: 0,
+  reverted: 0,
+  yhwhNormalized: 0,
+};
+const apiIndex = SOURCE === 'txt' ? null : loadApiIndex();
+const revertSet = loadRevertSet();
+applySource(books, apiIndex, revertSet, provenance);
+TRANSLATION.textSource =
+  SOURCE === 'txt'
+    ? 'Bible belem-pt-br/txt (repo)'
+    : SOURCE === 'api'
+      ? 'D1 (biblia.aculpaedasovelhas.org)'
+      : 'merge: D1 quando disponível, senão .txt';
+
 let totalChapters = 0;
 let totalVerses = 0;
 for (const b of books) {
@@ -228,7 +380,13 @@ for (const b of books) {
   for (const ch of b.chapters) totalVerses += ch.verses.length;
 }
 
+// Preserva o cache do D1 ao limpar OUT.
+const cacheBackup = existsSync(API_CACHE) ? readFileSync(API_CACHE) : null;
 rmSync(OUT, { recursive: true, force: true });
+if (cacheBackup) {
+  mkdirSync(path.dirname(API_CACHE), { recursive: true });
+  writeFileSync(API_CACHE, cacheBackup);
+}
 
 // JSON por livro + corpus completo
 for (const b of books) {
@@ -262,9 +420,21 @@ write(path.join(OUT, 'sql', 'belem-2025.sql'), sql);
 const sqlitePath = path.join(OUT, 'sqlite', 'belem-2025.sqlite');
 const sqliteOk = await buildSqlite(sql, sqlitePath);
 
+console.log(`Fonte:       ${SOURCE} — ${TRANSLATION.textSource}`);
 console.log(`Livros:      ${books.length}`);
 console.log(`Capítulos:   ${totalChapters}`);
 console.log(`Versículos:  ${totalVerses}`);
+if (SOURCE !== 'txt') {
+  console.log(`Proveniência do texto:`);
+  console.log(`  do D1:                 ${provenance.fromApi}`);
+  console.log(`  do .txt:               ${provenance.fromTxt}`);
+  console.log(`    (D1 ausente:         ${provenance.apiMissing})`);
+  console.log(`    (regressão evitada:  ${provenance.regressionAvoided})`);
+  console.log(`    (revert auditado:    ${provenance.reverted})`);
+  console.log(`  versículos alterados:  ${provenance.changed}`);
+  console.log(`  contaminação corrigida:${provenance.contaminationFixed}`);
+  console.log(`  YHWH→yhwh normalizados:${provenance.yhwhNormalized}`);
+}
 console.log(`Saída:       ${path.relative(ROOT, OUT)}/`);
 console.log(`  json/      ${books.length + 1} arquivos`);
 console.log(`  usfm/      ${books.length} arquivos`);

@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 36,
@@ -46,11 +47,11 @@
           },
           {
             "verse": 8,
-            "text": "e-foi em-dia-de sacrifício-de yhwh וּפָקַדְתִּ֥י sobre os-senhores e-sobre filhos-de o-rei e-sobre todo הַלֹּבְשִׁ֖ים מַלְבּ֥וּשׁ נָכְרִֽי׃"
+            "text": "e-foi em-dia-de sacrifício-de yhwh [וּפָקַדְתִּ֥י] sobre [וְעַל־בְּנֵ֣י] e-sobre filhos-de o-rei e-sobre todo"
           },
           {
             "verse": 9,
-            "text": "וּפָקַדְתִּ֗י sobre todo הַדּוֹלֵ֛ג no-dia הַמִּפְתָּ֖ן em-o-dia o-aquele הַֽמְמַלְאִ֛ים casa אֲדֹנֵיהֶ֖ם ḥamās e engano:"
+            "text": "[וּפָקַדְתִּ֗י] sobre todo [עַל־הַמִּפְתָּ֖ן] no-dia [הַה֑וּא] em-o-dia o-aquele [אֲדֹנֵיהֶ֖ם] casa [וּמִרְמָֽה׃]"
           },
           {
             "verse": 10,
@@ -62,7 +63,7 @@
           },
           {
             "verse": 12,
-            "text": "e-foi em-o-tempo aquela אֲחַפּוֹס a Jerusalém בְּנֵרֹות e-vigilasse sobre os-homens הַקּוֹפְאִים sobre שִׁמְרֵיהֶם yhwh בַּלְבָבָם não yhwh yhwh e-não יָרֵעַ׃"
+            "text": "e-foi em-o-tempo aquela [אֲחַפֵּ֥שׂ] a Jerusalém [וּפָקַדְתִּ֣י] [עַל־הָאֲנָשִׁ֗ים] sobre os-homens [הָאֹֽמְרִים֙] sobre [לֹֽא־יֵיטִ֥יב] yhwh [וְלֹ֥א] não yhwh e-não"
           },
           {
             "verse": 13,
@@ -123,7 +124,7 @@
           },
           {
             "verse": 8,
-            "text": "ouvi חֶרְפַּ֣ת Moabe וְגִדּוּפֵ֖י filhos-de Amom que חֵֽרְפוּ֙ a povo-meu וַיַּגְדִּ֖ילוּ sobre em seus limites:"
+            "text": "ouvi [חֶרְפַּ֣ת] Moabe [וְגִדּוּפֵ֖י] filhos-de Amom que [חֵֽרְפוּ֙] a povo-meu [עַל־גְּבוּלָֽם] sobre"
           },
           {
             "verse": 9,
@@ -139,11 +140,11 @@
           },
           {
             "verse": 12,
-            "text": "também vós כושִׁים חללי חרבי eles"
+            "text": "também vós [חַֽלְלֵ֥י] [חַרְבִּ֖י] [הֵֽמָּה]"
           },
           {
             "verse": 13,
-            "text": "וְיֵ֤ט sua-mão sobre norte וִֽיאַבֵּ֖ד a Assíria וְיָשֵׂ֤ם a נִֽינְוֵה֙ לִשְׁמָמָ֔ה צִיָּ֖ה no deserto:"
+            "text": "[וְיֵ֤ט] sua-mão sobre [וִֽיאַבֵּ֖ד] [אֶת־אַשּׁ֑וּר] a Assíria [לִשְׁמָמָ֔ה] a [כַּמִּדְבָּֽר]"
           },
           {
             "verse": 14,
@@ -151,7 +152,7 @@
           },
           {
             "verse": 15,
-            "text": "a-cidade הָעַלִּיזָה֙ הַיּוֹשֶׁ֣בֶת לָבֶ֔טַח הָאֹֽמְרָה֙ בִּלְבָבָ֔הּ eu וְאַפְסִ֣י ainda אֵ֣יךְ ׀ ela-foi לְשַׁמָּ֗ה era לַֽחַיָּ֔ה todo עובר sobre-ela ישרק IANIע Yadו׃"
+            "text": "[זֹ֞֠[c]את] [הָעִ֤יר] [הָעַלִּיזָה֙] [הַיּוֹשֶׁ֣בֶת] [לָבֶ֔טַח] [הָאֹֽמְרָה֙] eu [אֲנִ֖י] ainda [ע֑וֹד] ela-foi [׀] era [לְשַׁמָּ֗ה] todo [לַֽחַיָּ֔ה] sobre-ela [עוֹבֵ֣ר] [עָלֶ֔יהָ] [יִשְׁרֹ֖ק]"
           }
         ]
       },
@@ -228,7 +229,7 @@
           },
           {
             "verse": 18,
-            "text": "נוּגֵ֧י מִמּוֹעֵ֛ד אָסַ֖פְתִּי מִמֵּ֣ךְ הָי֑וּ מַשְׂאֵ֥ת sobre-ela opróbrio"
+            "text": "[נוּגֵ֧י] [מִמּוֹעֵ֛ד] [אָסַ֖פְתִּי] [מִמֵּ֣ךְ] [הָי֑וּ] [מַשְׂאֵ֥ת] sobre-ela opróbrio"
           },
           {
             "verse": 19,

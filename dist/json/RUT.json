@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 8,
@@ -74,11 +75,11 @@
           },
           {
             "verse": 15,
-            "text": "E-disse eis voltou cunhada-tua a povo-dela e-a אֱלֹהִים-dela volta atrás-de cunhada-tua"
+            "text": "E-disse eis voltou cunhada-tua a povo-dela e-a Elohim-dela volta atrás-de cunhada-tua"
           },
           {
             "verse": 16,
-            "text": "E-disse Rute a insistas em-mim para-deixar-te que de-atrás-de-ti porque a que irás irei e-em-onde pernoitares pernoitarei povo-teu povo-meu e-אֱלֹהִים-teu אֱלֹהִים-meu"
+            "text": "E-disse Rute a insistas em-mim para-deixar-te que de-atrás-de-ti porque a que irás irei e-em-onde pernoitares pernoitarei povo-teu povo-meu e-Elohim-teu Elohim-meu"
           },
           {
             "verse": 17,
@@ -155,7 +156,7 @@
           },
           {
             "verse": 12,
-            "text": "pague yhwh trabalho-teu e-seja salário-teu completo de-com yhwh אֱלֹהִים-de Israel que vieste para-buscar-refúgio debaixo-de asas-dele"
+            "text": "pague yhwh trabalho-teu e-seja salário-teu completo de-com yhwh Elohim-de Israel que vieste para-buscar-refúgio debaixo-de asas-dele"
           },
           {
             "verse": 13,

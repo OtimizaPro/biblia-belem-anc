@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 4,
@@ -299,7 +300,7 @@
           },
           {
             "verse": 16,
-            "text": "todo os-contados para-acampamento-de Rúben centena-de mil e-um e-cinquenta mil e-quatro-de centenas e-cinquenta para-exércitos-de-eles e-segundos eles-partirão"
+            "text": "todo os-contados para-acampamento-de Rúben centena-de mil e-um e-cinquenta mil e-quatro-de centenas e-cinquenta para-exércitos-de-eles e-do-dois eles-partirão"
           },
           {
             "verse": 17,
@@ -540,7 +541,7 @@
           },
           {
             "verse": 41,
-            "text": "e-tomará a os levitas a-mim yhwh debaixo debaixo-de todo primogênito filhos-de Israel e-את debaixo os-levitas em-lugar-de todo primogênito em-animais filhos-de Israel"
+            "text": "e-tomará a os-leviata a-mim yhwh debaixo debaixo-de todo primogênito filhos-de Israel e-את debaixo os-levitas em-lugar-de todo primogênito em-animais filhos-de Israel"
           },
           {
             "verse": 42,
@@ -580,7 +581,7 @@
           },
           {
             "verse": 51,
-            "text": "E-colocou Moisés a prata os redimidos para-Aaron e-para-seus-filhos yhwh boca-de yhwh yhwh ordenou yhwh a Moisés"
+            "text": "E-colocou Moisés a prata os-redimidos para-Aaron e-para-seus-filhos yhwh boca-de yhwh yhwh ordenou yhwh a Moisés"
           }
         ]
       },
@@ -637,7 +638,7 @@
           },
           {
             "verse": 13,
-            "text": "e tingiram a o-altar e-espalharão sobre-ele roupa argaman"
+            "text": "e-dele-estavam-limpando a o-altar e-espalharão sobre-ele biged púrpura"
           },
           {
             "verse": 14,
@@ -649,7 +650,7 @@
           },
           {
             "verse": 16,
-            "text": "u-fqudat Elazar- filho-de Aarão o-sacerdote shemen o-luzeiro u-qatoreth o-sabão e-oferta a-perpétua e-óleo o óleo de-a-conta todo o-tabernáculo e-todo que nele no-sagrado e-no-seus-vesséis"
+            "text": "u-fqudat Elazar- filho-de Aarão o-sacerdote shemen o-luzeiro u-qatoreth o-sabão e-oferta a-perpétua e-óleo a-unção de-a-conta todo o-tabernáculo e-todo que nele no-sagrado e-no-seus-vesséis"
           },
           {
             "verse": 17,
@@ -709,7 +710,7 @@
           },
           {
             "verse": 31,
-            "text": "ve-zot mishmeret masa'am para-todo avodatam em-tenda-de reunião pratos-de-ferro o-tabernáculo e-suas-asas e seus pilares וַאֲדָנָֽיו׃"
+            "text": "ve-zot mishmeret masa'am para-todo avodatam em-tenda-de reunião pratos-de-ferro o-tabernáculo e-suas-asas e-seus-pilares e-dele-eram-mestres"
           },
           {
             "verse": 32,
@@ -749,7 +750,7 @@
           },
           {
             "verse": 41,
-            "text": "Estas que foram contados das-familias filhos-de Gersom todo o-que-serva em-tenda-de de-encontro que pakad Moisés e-Aarão yhwh yhwh yhwh"
+            "text": "Estas os-contados-de das-familias filhos-de Gerson todo o-que-serva em-tenda-de de-encontro que pakad Moisés e-Aarão yhwh de-seu yhwh"
           },
           {
             "verse": 42,
@@ -822,7 +823,7 @@
           },
           {
             "verse": 9,
-            "text": "e-todo tornama para-todo qadeshey filhos-de a-ele será yakrivu para-o-sacerdote para-ele será"
+            "text": "e-todo terumah para-todo santos filhos-de a-ele será yakrivu para-o-sacerdote para-ele será"
           },
           {
             "verse": 10,
@@ -878,7 +879,7 @@
           },
           {
             "verse": 23,
-            "text": "e-escrita-faz a as-maldições os-estes o-sacerdote בַּסֵּ֑פֶר u-macha a águas-de hamarim"
+            "text": "e-escrita-faz a as-maldições os-estes o-sacerdote be-sefer u-machah a águas-de ha-marim"
           },
           {
             "verse": 24,
@@ -894,7 +895,7 @@
           },
           {
             "verse": 27,
-            "text": "ve-hishkaha a as-águas e-será se ficará-imunda e-ela-se-contorceu em-alto em-a-mulher-seu e-entraram na-ela as-águas os-maldizentes para-os-inimigos e-plantou-seu na-barriga-dele e-caiu a-perna-seu e-será a-mulher para-a-maldição em-meio-de a-sua-pena;"
+            "text": "ve-hishkah-h a as-águas e-será se ficará-imunda e-ela-se-contorceu em-alto em-a-mulher-seu e-entraram na-ela as-águas os-maldizentes para-os-inimigos e-plantou-seu na-barriga-dele e-caiu a-perna-seu e-será a-mulher para-a-maldição em-meio-de a-sua-pena;"
           },
           {
             "verse": 28,
@@ -902,7 +903,7 @@
           },
           {
             "verse": 29,
-            "text": "esta lei-de as-ciúmes que תִּשְׂטֶ֥ה mulher debaixo espos-a e-tornar-se-á-impura;"
+            "text": "esta lei-de as-ciúmes que se-perderá mulher debaixo espos-a e-tornar-se-á-impura;"
           },
           {
             "verse": 30,
@@ -923,7 +924,7 @@
           },
           {
             "verse": 2,
-            "text": "palavra a filhos-de Israel e-dirás a-eles homem que mulher porque maravilhará para-o-dar neder nazir לְהַזִּ֖יר para-יהוה"
+            "text": "palavra a filhos-de Israel e-dirás a-eles homem que mulher porque maravilhará para-o-dar neder nazir para-o-sacrificar-com-erva para-יהוה"
           },
           {
             "verse": 3,
@@ -975,31 +976,31 @@
           },
           {
             "verse": 15,
-            "text": "e-cesto de-maçãs farinha-a pães misturados com-o óleo e biscoitos-de não-fermentados ungidas -com-óleo e sua oferta de farinha וְנִסְכֵּיהֶֽם׃"
+            "text": "e-cesto de-maçãs farinha-a pães misturados com-o óleo e biscoitos-de não-fermentados ungidas -com-óleo e-a-oferta-de-levedura e-seu-sacrifício-das-libações"
           },
           {
             "verse": 16,
-            "text": "ve-hikrib o-sacerdote diante-de yhwh וְעָשָׂ֥ה a pecado-dele e-a עֹלָתֽוֹ׃"
+            "text": "ve-hikrib o-sacerdote diante-de yhwh e fez a pecado-dele e-a sua-oferta-queimada"
           },
           {
             "verse": 17,
-            "text": "e-a o-touro fará sacrifício שְׁלָמִים֙ sobre sobre sal הַמַּצּ֑וֹת וְעָשָׂה֙ o-sacerdote a oferta-sua e-a נִסְכּֽוֹ׃"
+            "text": "e-a o-touro fará sacrifício holocaustos- sobre sobre cesto das-pães-de-farinha e-fará o-sacerdote a oferta-sua e-a seu-sacrifício-das-libações"
           },
           {
             "verse": 18,
-            "text": "וְגִלַּ֣ח o nazir entrada-de tenda-de encontro a cabeça e-tome e tomou a cabeça cabeça nisro e deu sobre o-fogo que sob sacrifício os-sacrifícios-de-paz"
+            "text": "e-se-barbeará o-nazir entrada-de tenda-de encontro a cabeça e-tome e-levou a cabelo-de-a cabeça nisro vênatan sobre o-fogo que sob sacrifício os-sacrifícios-de-paz"
           },
           {
             "verse": 19,
-            "text": "e-tome o sacerdote a a semente no solo de o carneiro uma pão-azeviche uma de um e pão pão um e deu sobre mãos-de o nazir apos e purificou a nizro:"
+            "text": "e-tome o sacerdote a do-braço cozido-o de o-veado uma pão-azeviche uma de um e-torta-de-espessura massa-sem-aformar um vênatan sobre mãos-de o-nazir depois se-cortou-o-cabelo a nizro:"
           },
           {
             "verse": 20,
-            "text": "e levantou אלה הכהן תנופה diante-de yhwh yhwh ele ele sobre sobre התנופה e-sobre coxa a terúma e-depois ישתה הנזיר יָֽיִן׃"
+            "text": "e-ele-levantou-o aqueles o-sacerdote a-oferta-de-levantamento diante-de yhwh yhwh ele ele sobre sobre a-oferta-de-levantamento e-sobre coxa a-sacrifício-de-elevação e-depois yish-teh o-nazireu יָיַן׃"
           },
           {
             "verse": 21,
-            "text": "esta lei-de הנזיר que [יִדֹּר֒] קרבנו a-yhwh sobre nisro fora-de-a sua-mão תחסיג sua mão como seu juramento que ele jure sobre faz sobre yhwh nizro:"
+            "text": "esta lei-de o-nazireu que ele-oferecerá oferta-seu a-yhwh sobre nisro fora-de-a sua-mão atingirás sua-mão razão voto-seu que recolherá sobre fazê-lo-á sobre torat nizro:"
           },
           {
             "verse": 22,
@@ -1007,7 +1008,7 @@
           },
           {
             "verse": 23,
-            "text": "palavra a Arão dizendo filhos-seus dizendo assim tubarquem a a-eles Israel Amor para-eles"
+            "text": "palavra a Arão dizendo filhos-seus dizendo assim abençoar-vos a a-eles Israel dizer para-eles"
           },
           {
             "verse": 24,
@@ -1019,7 +1020,7 @@
           },
           {
             "verse": 26,
-            "text": "יִשָׂ֨א yhwh suas faces a-ti e puser a-ti a-ti"
+            "text": "yisa yhwh פניו a-ti e puserá a-ti a-ti"
           },
           {
             "verse": 27,
@@ -1032,7 +1033,7 @@
         "verses": [
           {
             "verse": 1,
-            "text": "e-houve em-dia completamente Moisés para estabelecer a o-tabernáculo ele a-ele ele ele e-a todo utensílios-dele e-a eles e-a todo como seus e ungiram-os e santificou-os eles"
+            "text": "e-houve em-dia quando-terminarem Moisés para-elevar a o-tabernáculo ele o-ele ele ele e-a todo utensílios-dele e-a eles e-a todo seu recipiente e-os-ungiu e-o-consagrou a-eles"
           },
           {
             "verse": 2,
@@ -1040,7 +1041,7 @@
           },
           {
             "verse": 3,
-            "text": "e trouxeram a seu sacrifício yhwh yhwh seis-de o carneiro o carneiro e-dois dez manhã a jumenta sobre segundo os que levaram e o boi para-um e ofereceram eles diante-de o-tabernáculo"
+            "text": "Va'yaví'u a seu sacrifício yhwh yhwh seis-de ovelhas-que-pastam exército e-dois dez manhã roda sobre segundo os-elevados e-boi para um e-deram eles diante-de o-tabernáculo"
           },
           {
             "verse": 4,
@@ -1052,27 +1053,27 @@
           },
           {
             "verse": 6,
-            "text": "E-tomou Moisés a הָעֲגָלֹ֖ת E-colocou o-gado E-deu eles a os-levitas"
+            "text": "E-tomou Moisés a as-rodas E-colocou o-gado E-deu eles a os-levitas"
           },
           {
             "verse": 7,
-            "text": "com duas הָעֲגָלֹ֗ת e-את ארבעת o-bovino deu dar gerson כְּפִ֖י עֲבֹדָתָֽם׃"
+            "text": "com duas as-rodas e-את אַרְבַּ֣עַת o-bovino deu dar gerson כפי serviço-deles"
           },
           {
             "verse": 8,
-            "text": "e-את quatro הָעֲגָלֹ֗ת e-את oito o-bovino deu dar Merari כְּפִי֙ serviço-deles em-mão-de aitamar filho-de אַהֲרֹן o-sacerdote"
+            "text": "e-את quatro as-rodas e-את oito o-bovino deu dar de-melancolia em-o serviço-deles em-mão-de aitamar filho-de אַהֲרֹן o-sacerdote"
           },
           {
             "verse": 9,
-            "text": "e-aos-filhos-de Coate não deu porque עֲבֹדַ֤ת a-santidade em-eles בַּכָּתֵ֖ף carregarao"
+            "text": "e-aos-filhos-de Coate não deu porque serviço-de a-santidade em-eles no-ombro elevam"
           },
           {
             "verse": 10,
-            "text": "וַיַּקְרִ֣יבוּ הַנְּשִׂאִ֗ים a dedicação o altar em-dia o ungido ele e ofereceram os príncipes a seu sacrifício diante-de o-altar"
+            "text": "וַיַּקְרִ֣יבוּ os-nobres a dedicação-de o altar em-dia consagrado-o ele e-elevaram os-nobres a oferta-eles diante-de o-altar"
           },
           {
             "verse": 11,
-            "text": "E-disse yhwh a Moisés um um para o dia um um para o dia יַקְרִיבֻ֔ו a seu sacrifício para a dedicação o-altar"
+            "text": "E-disse yhwh a Moisés um um para-o-dia um um para-o-dia eles-oferecerão a sua oferta para-a-consagração o-altar"
           },
           {
             "verse": 12,
@@ -1080,15 +1081,15 @@
           },
           {
             "verse": 13,
-            "text": "וְקָרְבָּנ֞וֹ a couve de uma uma trinta e-cem seu peso; um um prata setenta siclo em-siclo a-santidade שְׁנֵיהֶ֣ם cheios farinha-fina misturada em-o-óleo para-oferta"
+            "text": "וְקָרְבָּנ֞וֹ café-da-manhã- uma uma trinta e-cem peso-seu um um prata setenta siclo em-siclo a-santidade dois-eles cheios farinha-fina misturada em-o-óleo para-minha"
           },
           {
             "verse": 14,
-            "text": "palma uma dez ouro cheia incenso"
+            "text": "palma uma dez ouro cheia fumo-sacrifício"
           },
           {
             "verse": 15,
-            "text": "touro um filho-de manhã um um o cordeiro de um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um cordeiro- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 16,
@@ -1100,19 +1101,19 @@
           },
           {
             "verse": 18,
-            "text": "no-dia o-segundo se-aproximou Natanial filho-de Zuárt príncipe-de יששכר׃"
+            "text": "no-dia o-segundo se-aproximou Netanuel filho-de Tsua príncipe-de Issachar"
           },
           {
             "verse": 19,
-            "text": "הקריב a oferta-dele uma prata uma trinta e-cem um מזרק um prata setenta siclo em-siclo a-santidade שְׁנֵיהֶ֣ם cheios farinha-fina misturada em-o-óleo para-oferta"
+            "text": "ofereceu a oferta-dele uma prata uma trinta e-cem um lavatório um prata setenta siclo em-siclo a-santidade dois-eles cheios farinha-fina misturada em-o-óleo para-minha-oferta-verso-final"
           },
           {
             "verse": 20,
-            "text": "palma uma dez ouro cheia incenso"
+            "text": "palma uma dez ouro cheia fumegante-verso-final"
           },
           {
             "verse": 21,
-            "text": "touro um filho-de manhã um um כבש־ um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um cordeiro-de- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 22,
@@ -1128,15 +1129,15 @@
           },
           {
             "verse": 25,
-            "text": "קרבנוו prato-de uma uma trinta e-cem משקלנה֒ um um prata setenta siclo em-siclo a-santidade שניםיהם ׀ cheios farinha-fina misturada em-o-óleo para-oferta"
+            "text": "sua-oferta tigela-de- uma uma trinta e-cem seu-peso um um prata setenta siclo em-siclo a-santidade os-dois cheios farinha-fina misturada em-o-óleo para-minha-oferta-verso-final"
           },
           {
             "verse": 26,
-            "text": "palma uma dez ouro cheia incenso"
+            "text": "palma uma dez ouro cheia fumegante-verso-final"
           },
           {
             "verse": 27,
-            "text": "touro um filho-de manhã um um כבש־ um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um cordeiro-de- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 28,
@@ -1144,7 +1145,7 @@
           },
           {
             "verse": 29,
-            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco עטודים cinco cordeiros filhos-de ano cinco este oferenda-de Eliabe filho-de Helom"
+            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco ovelhas-de-tordilho cinco cordeiros filhos-de ano cinco este oferenda-de Eliabe filho-de Helom"
           },
           {
             "verse": 30,
@@ -1152,7 +1153,7 @@
           },
           {
             "verse": 31,
-            "text": "קרבנוו prato-de uma uma trinta e-cem peso-a um um prata setenta siclo em-siclo a-santidade os-dois cheios farinha-fina misturada em-o-óleo para-oferta"
+            "text": "sua-oferta tigela-de- uma uma trinta e-cem seu-peso um um prata setenta siclo em-siclo a-santidade os-dois-eles cheios farinha-fina misturada em-o-óleo para-a-manhã"
           },
           {
             "verse": 32,
@@ -1160,7 +1161,7 @@
           },
           {
             "verse": 33,
-            "text": "touro um filho-de manhã um um כֶּֽבֶשׂ- um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um cordeiro-de- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 34,
@@ -1168,7 +1169,7 @@
           },
           {
             "verse": 35,
-            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco cedros cinco cordeiros filhos-de ano cinco este oferenda-de Elisur filho-de Sedeur"
+            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco ovelhas-de-tordilho cinco cordeiros filhos-de ano cinco este oferenda-de Elisur filho-de Sedeur"
           },
           {
             "verse": 36,
@@ -1176,23 +1177,23 @@
           },
           {
             "verse": 37,
-            "text": "oferta-seu prato-de uma uma trinta e-cem peso-a um um prata setenta siclo em-siclo a-santidade os-dois cheios farinha-fina misturada em-o-óleo para-oferta"
+            "text": "oferta-sua tigela-de- uma uma trinta e-cem peso-seu um um prata setenta siclo em-siclo a-santidade dois-eles cheios farinha-fina misturada em-o-óleo para-minha"
           },
           {
             "verse": 38,
-            "text": "palma uma dez ouro cheia incenso"
+            "text": "palma uma dez ouro cheia fumo-sagrado"
           },
           {
             "verse": 39,
-            "text": "touro um filho-de manhã um um כֶּֽבֶשׂ- um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um cordeiro-de- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 40,
-            "text": "Seir um um por-pecado"
+            "text": "Seir um um para-pecado"
           },
           {
             "verse": 41,
-            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco עַתּוֹדִים cinco cordeiros filhos-de ano cinco este oferenda-de Selumiel filho-de Zurisadai"
+            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco ovelhas cinco cordeiros filhos-de ano cinco este oferenda-de Selumiel filho-de Zurisadai"
           },
           {
             "verse": 42,
@@ -1208,7 +1209,7 @@
           },
           {
             "verse": 45,
-            "text": "touro um filho-de manhã um um כּוֹבֶשׂ־ um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um kevesh- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 46,
@@ -1216,23 +1217,23 @@
           },
           {
             "verse": 47,
-            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco עַתּוֹדִים cinco cordeiros filhos-de ano cinco este oferenda-de Eliasafe filho-de Deuel"
+            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco atudim cinco cordeiros filhos-de ano cinco este oferenda-de Eliasafe filho-de Deuel"
           },
           {
             "verse": 48,
-            "text": "no-dia o-sétimo príncipe aos-filhos-de Efraim אֱלִישָׁמַע filho-de Amiúde"
+            "text": "no-dia o-sétimo príncipe aos-filhos-de Efraim Elishama filho-de Amiúde"
           },
           {
             "verse": 49,
-            "text": "קָרְבָּנ֖וֹ prato-de uma uma trinta e-cem מִשְׁקָלָהּ um um prata setenta siclo em-siclo a-santidade שְׁנֵיהֶם cheios farinha-fina misturada em-o-óleo para-oferta"
+            "text": "qorbano café-da- uma uma trinta e-cem peso-dela um um prata setenta siclo em-siclo a-santidade dois-eles cheios farinha-fina misturada em-o-óleo para-minha"
           },
           {
             "verse": 50,
-            "text": "palma uma dez ouro cheia incenso"
+            "text": "palma uma dez ouro cheia fumaça"
           },
           {
             "verse": 51,
-            "text": "touro um filho-de manhã um um כּוֹבֶשׂ־ um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um cordeiro- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 52,
@@ -1240,15 +1241,15 @@
           },
           {
             "verse": 53,
-            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco עַתּוֹדִים cinco cordeiros filhos-de ano cinco este oferenda-de Elisama filho-de Amiúde"
+            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco ovelhas cinco cordeiros filhos-de ano cinco este oferenda-de Elisama filho-de Amiúde"
           },
           {
             "verse": 54,
-            "text": "no-dia o-oitavo príncipe aos-filhos-de Manassés Gamaliel filho-de פּוֹדָה־ Zur"
+            "text": "no-dia o-oitavo príncipe aos-filhos-de Manassés Gamaliel filho-de resgate- Zur"
           },
           {
             "verse": 55,
-            "text": "קָרְבָּנ֖וֹ prato-de uma uma trinta e-cem מִשְׁקָלָֽהּ um um prata setenta siclo em-siclo a-santidade שְׁנֵיהֶ֣ם cheios farinha-fina misturada em-o-óleo לְמִנְחָֽה"
+            "text": "oferta-seu tigela-de uma uma trinta e-cem peso-dela um um prata setenta siclo em-siclo a-santidade os-dois cheios farinha-fina misturada em-o-óleo para-minha"
           },
           {
             "verse": 56,
@@ -1256,7 +1257,7 @@
           },
           {
             "verse": 57,
-            "text": "touro um filho-de manhã um um כֶּֽבֶשׂ־ um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um cordeiro- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 58,
@@ -1264,23 +1265,23 @@
           },
           {
             "verse": 59,
-            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco עַתּוֹדִים cinco cordeiros filhos-de ano cinco este oferenda-de Gamaliel filho-de Zur"
+            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco ovelhas cinco cordeiros filhos-de ano cinco este oferenda-de Gamaliel filho-de Zur"
           },
           {
             "verse": 60,
-            "text": "no-dia הַתְּשִׁיעִ֔י príncipe aos-filhos-de בִנְיָמ֑͏ִן Abidã filho-de Gideoni"
+            "text": "no-dia o-ninth príncipe aos-filhos-de benjamim Abidã filho-de Gideoni"
           },
           {
             "verse": 61,
-            "text": "קָרְבֻּנֹ prato-de uma uma trinta e-cem מִשְׁקָלָֽהּ um um prata setenta siclo em-siclo a-santidade שְׁנֵיהֶ֣ם cheios farinha-fina misturada em-o-óleo para-oferta"
+            "text": "sua-oferta tigela- uma uma trinta e-cem seu-peso um um prata setenta siclo em-siclo a-santidade os-dois cheios farinha-fina misturada em-o-óleo para-minha"
           },
           {
             "verse": 62,
-            "text": "palma uma dez ouro cheia incenso"
+            "text": "palma uma dez ouro cheia fumo-sacrificial"
           },
           {
             "verse": 63,
-            "text": "touro um filho-de manhã um um כֶּֽבֶשׂ־ um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um cordeiro- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 64,
@@ -1288,23 +1289,23 @@
           },
           {
             "verse": 65,
-            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco עֲטַדִּים cinco cordeiros filhos-de ano cinco este oferenda-de Abidã filho-de Gideoni"
+            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco ovelhas cinco cordeiros filhos-de ano cinco este oferenda-de Abidã filho-de Gideoni"
           },
           {
             "verse": 66,
-            "text": "no-dia הָעֲשִׂירִי príncipe aos-filhos-de Dã Aiezer filho-de עַמִּישַׁדַּי׃"
+            "text": "no-dia o-tenth príncipe aos-filhos-de Dã Aiezer filho-de amisadai"
           },
           {
             "verse": 67,
-            "text": "קָרְבֻּנֹ prato-de uma uma trinta e-cem מִשְׂכָּלָהּ֒ um um prata setenta siclo em-siclo a-santidade שְנֵיהֶם ׀ cheios farinha-fina misturada em-o-óleo para-oferta"
+            "text": "sua-oferta tigela-de- uma uma trinta e-cem seu-peso um um prata setenta siclo em-siclo a-santidade os-dois cheios farinha-fina misturada em-o-óleo para-minha"
           },
           {
             "verse": 68,
-            "text": "palma uma dez ouro cheia קְטֹֽרֶת"
+            "text": "palma uma dez ouro cheia fumo-sagrado"
           },
           {
             "verse": 69,
-            "text": "touro um filho-de manhã um um כֶּבֶשׂ־ um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um cordeiro- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 70,
@@ -1312,23 +1313,23 @@
           },
           {
             "verse": 71,
-            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco עֲטַדִּים cinco cordeiros filhos-de ano cinco este oferenda-de Aiezer filho-de עַמִּישַׁדַּי׃"
+            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco ovelhas cinco cordeiros filhos-de ano cinco este oferenda-de Aiezer filho-de amisadai"
           },
           {
             "verse": 72,
-            "text": "em-dia-de עַשׂתִּי dez dia príncipe aos-filhos-de que Pagiel Ocrã"
+            "text": "em-dia-de Ashthai dez dia príncipe aos-filhos-de que Pagiel Ocrã"
           },
           {
             "verse": 73,
-            "text": "קָרְבָּנ֞וֹ prato-de uma uma trinta e-cem מִשְׂכָּלָהּ֒ um um prata setenta siclo em-siclo a-santidade שְׁנֵיהֶ֣ם cheios farinha-fina misturada em-o-óleo para-oferta"
+            "text": "sua-oferta tigela- uma uma trinta e-cem seu-peso um um prata setenta siclo em-siclo a-santidade os-dois-eles cheios farinha-fina misturada em-o-óleo para-a-manhã"
           },
           {
             "verse": 74,
-            "text": "palma uma dez ouro cheia incenso"
+            "text": "palma uma dez ouro cheia fumo-sagrado"
           },
           {
             "verse": 75,
-            "text": "touro um filho-de manhã um um כֶּֽבֶשׂ- um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um cordeiro- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 76,
@@ -1336,7 +1337,7 @@
           },
           {
             "verse": 77,
-            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco עַתֻּדִ֣ים cinco cordeiros filhos-de ano cinco este oferenda-de Pagiel filho-de Ocrã"
+            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco ovelhas cinco cordeiros filhos-de ano cinco este oferenda-de Pagiel filho-de Ocrã"
           },
           {
             "verse": 78,
@@ -1344,15 +1345,15 @@
           },
           {
             "verse": 79,
-            "text": "קָרְבָּנ֞וֹ cara- uma uma trinta e-cem מִשְׁקָלָהּ֒ um um prata setenta siclo em-siclo a-santidade שְׁנֵיהֶ֣ם cheios farinha-fina misturada em-o-óleo para-oferta"
+            "text": "sua-oferta tigela- uma uma trinta e-cem seu-peso um um prata setenta siclo em-siclo a-santidade os-dois cheios farinha-fina misturada em-o-óleo para-a-oferta-de-pão-"
           },
           {
             "verse": 80,
-            "text": "palma uma dez ouro cheia incenso"
+            "text": "palma uma dez ouro cheia incenso-"
           },
           {
             "verse": 81,
-            "text": "touro um filho-de manhã um um כֶּֽבֶשׂ- um filho-de seu-ano para-holocausto"
+            "text": "touro um filho-de manhã um um cordeiro- um filho-de seu-ano para-holocausto"
           },
           {
             "verse": 82,
@@ -1360,19 +1361,19 @@
           },
           {
             "verse": 83,
-            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco עַתֻּדִ֣ים cinco cordeiros filhos-de ano cinco este oferenda-de Aira filho-de Enã"
+            "text": "e-para-sacrifício as-ofertas-de-paz manhã dois carneiros cinco ovelhas cinco cordeiros filhos-de ano cinco este oferenda-de Aira filho-de Enã"
           },
           {
             "verse": 84,
-            "text": "esta חֲנֻכַּ֣ת o-altar em-dia-de הִמָּשַׁ֣ח a-ele ele príncipes-de Israel cara- prata שִׁיתֶֽם עַשְׂרֵ֗ה מִזְרְקֵי- prata dois dez taças ouro dois dez"
+            "text": "esta consagra-o o-altar em-dia-de ungiu-o a-ele ele príncipes-de Israel tigelas prata duas dez de-mizráquei- prata dois dez taças ouro dois dez"
           },
           {
             "verse": 85,
-            "text": "trinta וּמֵאָ֗ה הַקְּעָרָ֤ה a-uma prata e-setenta הַמִּזְרָ֣ק o-primeiro todo prata os-vasos אֶלְףַ֥יִם e-quatro-de centenas na-unidade-de-prata o-santuário"
+            "text": "trinta e-de-cem a-tigela a-uma prata e-setenta do-mizráquei- o-primeiro todo prata os-vasos duzentos-e-cinquenta e-quatro-de centenas na-unidade-de-prata o-santuário"
           },
           {
             "verse": 86,
-            "text": "כָּפּ֨וֹת ouro duas- dez מְלֵאֹ֣ת קְטֹ֔רֶת dez עַשְׂרָ֛ה o cáf em-siclo a-santidade todo ouro-de as-capoeiras vinte e cem:"
+            "text": "copos ouro duas- dez cheias Ketoret dez dez o-copo em-siclo a-santidade todo ouro-de os-copos vinte e-cento"
           },
           {
             "verse": 87,
@@ -1380,11 +1381,11 @@
           },
           {
             "verse": 88,
-            "text": "e-tudo o bezerro sacrifício-de os sacrifícios de paz vinte e quatro פרים carneiros ששים עטודים sessenta cordeiros filhos-de ano ששים esta חנוכת o altar atrás-de המשיח ele"
+            "text": "e-tudo novilhos sacrifício-de os-da-paz vinte e-quatro novilhos carneiros [אֵילִ֤ם] cabritos sessenta cordeiros filhos-de ano [שִׁשִּׁ֑ים] esta dedicação o altar atrás-de unção ele"
           },
           {
             "verse": 89,
-            "text": "ובבו Moisés a tenda موعد para-falar ITHO E-ouviu a a-ele de-cima-de a-ele de-sobre a-cúpula que sobre ארון os-querubins מִבֵּ֖ין a-ele os-querubins וַיְדַבֵּ֖ר a-ele"
+            "text": "e-quando-entrar Moisés a tenda a-festa para-falar com-ele E-ouviu a a-ele de-cima-de a-ele de-sobre o-capitel que sobre arão os-querubins de-mezzo-a a-ele os-querubins וַיְדַבֵּ֖ר a-ele"
           }
         ]
       },
@@ -1397,15 +1398,15 @@
           },
           {
             "verse": 2,
-            "text": "palavra a Arão a-ele a-ela בְּהַעֲלֹֽתְךָ֙ a face-de a מוּל֙ face-de הַמְּנוֹרָ֔ה יָאִ֖ירוּ sete הַנֵּרֽוֹת׃"
+            "text": "palavra a Arão a-ele a-ela em-o-levantar-você a face-de a móel face-de a-menorah iluminarão sete as-luzes"
           },
           {
             "verse": 3,
-            "text": "E-fez assim Arão a face-de face-de הַמְּנוֹרָ֔ה העלה נֵרֹתֶ֑יהָ como-que yhwh yhwh a Moisés"
+            "text": "E-fez assim Arão a face-de face-de a-menorah elevação- luzes-sua como-que yhwh yhwh a Moisés"
           },
           {
             "verse": 4,
-            "text": "וְזֶ֨ה Masháv Ha-menoráh Mi-qeshá ouro até Yerekhá até ela Mi-qeshá ela Kam-mará'eh yhwh Heráh yhwh a Moisés assim fez a a lanterna:"
+            "text": "e isto trabalho a menorá trava- ouro até coxa-sua até ela trava- ela como-aparência yhwh mostrou- yhwh a Moisés assim fez a a manora:"
           },
           {
             "verse": 5,
@@ -1413,15 +1414,15 @@
           },
           {
             "verse": 6,
-            "text": "Qa-kha a os-levitas de-meio-de filhos-de Israel eles eles"
+            "text": "qach a os-levitas de-meio-de filhos-de Israel eles a-eles"
           },
           {
             "verse": 7,
-            "text": "Ve-ko-hi- a-eles a-eles Lé-tehará isto sobre-eles águas-de pecado e passem arrependimento sobre todo no seu corpo e cobram בגדיהם e se purifiquem"
+            "text": "e-assim- a-eles a-eles para-purificá-los este-o sobre-eles águas-de חטא e-removerão tesoura sobre todo bêsārâm e-lavarem nos seus vestuários e-se-tornarão-puros"
           },
           {
             "verse": 8,
-            "text": "e-tomarão touro filho-de manhã e sua oferta farinha-fina em-estado-de-mistura com-o-açúcar e um carneiro segundo filho-de manhã tomareis para-oferta-pelo-pecado"
+            "text": "e-tomarão touro filho-de manhã e-sua-oferta farinha-de-trigo em-estado-de-mistura com-o-açúcar e-bezerro- segundo filho-de manhã  tomarei  para-oferta-pelo-pecado"
           },
           {
             "verse": 9,
@@ -1429,7 +1430,7 @@
           },
           {
             "verse": 10,
-            "text": "e oferecerás a os-levitas yhwh yhwh e apoiarão filhos-de Israel a mãos-deles sobre os-levitas"
+            "text": "e-aproximarás a os-levitas yhwh yhwh E-sustentem filhos-de Israel a mãos-deles sobre os-levitas"
           },
           {
             "verse": 11,
@@ -1441,31 +1442,31 @@
           },
           {
             "verse": 13,
-            "text": "e-te-estabeleceste a os-levitas diante-de אַהֲרֹן velifnei seus-filhos eles a-eles oferta-elevação para-יהוה"
+            "text": "e-vos-estabeleceis a os-levitas diante-de אַהֲרֹן velifnei seus-filhos eles a-eles oferta-elevação para-יהוה"
           },
           {
             "verse": 14,
-            "text": "veḥibdallātā a os-levitas de-meio-de filhos-de e-sejam e-serão a-mim os-levitas"
+            "text": "e-vos-separais a os-levitas de-meio-de filhos-de e-sejam e-serão a-mim os-levitas"
           },
           {
             "verse": 15,
-            "text": "ve'achăre' assim entrarão para-lavrar para-servir a tenda eles vetihrartā eles vehenefṭā eles tənūpā"
+            "text": "ואחרי־ assim entrarão para-lavrar para-servir a tenda eles e-vos-purificais eles e enfarinharás eles oferta-de-levitação"
           },
           {
             "verse": 16,
-            "text": "que nētenīm נְתֻנִ֥ים eles a-mim de-meio-de filhos-de Israel debaixo פִּטְרַ֨ת todo רֶ֜חֶם em-primogênito todo de-filhos-de Israel eles eles a-mim"
+            "text": "que presentes presentes eles a-mim de-meio-de filhos-de Israel debaixo pitarat todo rehem em-primogênito todo de-filhos-de Israel eles eles para-mim"
           },
           {
             "verse": 17,
-            "text": "que para-mim todo primogênito filhos-de Israel e-sobre-os-animais e nos animais em-dia-de הַכֹּתִ֤י todo primogênito em-terra-de eles הִקְדַּ֥שְׁתִּי eles a-mim"
+            "text": "que para-mim todo primogênito filhos-de Israel e-sobre-os-animais u-babehemah em-dia-de hakotti todo primogênito em-terra-de eles hiqdashthiti eles para-mim"
           },
           {
             "verse": 18,
-            "text": "וָאֶקַּח֙ a debaixo debaixo-de todo בְּכ֖וֹר de-filhos Israel"
+            "text": "va-ekkakh a debaixo debaixo-de todo bekhor de-filhos Israel"
           },
           {
             "verse": 19,
-            "text": "וָאֶתְּנָ֨ה a dos-Levitas נְתֻנִ֥ים לְאַהֲרֹ֣ן e-lábana mítokh filhos-de Israel para-lavrar a obra filhos-de Israel em-tenda-de encontro e-lékaper sobre será Israel e-não yihiye em-os-filhos Israel negéf bégeshet filhos-de Israel a o-santuário"
+            "text": "va-etthana a dos-Levitas netunim para-arão ulvavano de-meio filhos-de Israel para-lavrar a serviço-de filhos-de Israel em-tenda-de encontro e-perdoar sobre será Israel e-não será em-os-filhos Israel flagelo em-contato filhos-de Israel a o-santuário"
           },
           {
             "verse": 20,
@@ -1473,11 +1474,11 @@
           },
           {
             "verse": 21,
-            "text": "váyihtachtáeu os-levitas e cobraram-lhes suas vestes e anaffem Aarão eles oferta-elevação diante-de yhwh e kaphar-olhem sobre-eles אַהֲרֹן para purificá-los:"
+            "text": "e-ele-se-purificou os-levitas e-eles-lavaram em-sus-vestes e-ele-levantou Aarão eles oferta-elevação diante-de yhwh e-perdoou sobre-eles אַהֲרֹן para-fazer-santo-a-ela"
           },
           {
             "verse": 22,
-            "text": "e-depois-de assim vieram para-lavrar para servirem a serviçom deles em-tenda-de encontro diante-de אַהֲרֹן velifnei seus-filhos yhwh ordenou yhwh a Moisés a-eles ele dizendo fizeram para-eles"
+            "text": "e-depois-de assim vieram para-lavrar para-abrir-trabalho a sua servidão em-tenda-de encontro diante-de אַהֲרֹן velifnei seus-filhos yhwh ordenou yhwh a Moisés a-eles os-levitas assim fizeram para-eles"
           },
           {
             "verse": 23,
@@ -1485,15 +1486,15 @@
           },
           {
             "verse": 24,
-            "text": "esta que para-os-Levitas de-filho cinco e-vinte ano e-para-cima virá para fazerem serviço exército em-trabalho-de tenda reunião"
+            "text": "esta que para-os-Levitas de-filho cinco e-vinte ano e-para-cima virá para-guardar exército em-trabalho-de tenda reunião"
           },
           {
             "verse": 25,
-            "text": "e filhos cinquenta ano voltem-se מצְּבָ֣א הָעֲבֹדָ֑ה e-não יַעֲבֹ֖ד ainda"
+            "text": "e-de-filho cinquenta ano ישוב de-guarda o-trabalho e-não ya-abod ainda"
           },
           {
             "verse": 26,
-            "text": "וְשֵׁרֵ֨ת a אֶחָ֜יו בְּאֹ֤הֶל encontro לִשְׁמֹ֣ר מִשְׁמֶ֔רֶת não não יַעֲבֹ֑ד כָּ֛כָה farás aos levitas em-suas-mișmarotâm:"
+            "text": "e-servirá a seu-irmão em-a-tenda encontro para guardar de-serviço não não ele-serve assim farás aos levitas em-os-serviços-deles"
           }
         ]
       },
@@ -1506,7 +1507,7 @@
           },
           {
             "verse": 2,
-            "text": "e-fechem filhos-de Israel a o-pesach em-suas-moádô:"
+            "text": "e-eles-fazem filhos-de Israel a o-páscoa no-sua-celebração:"
           },
           {
             "verse": 3,
@@ -1514,11 +1515,11 @@
           },
           {
             "verse": 4,
-            "text": "e-falou Moisés a filhos-de Israel para-fazer- o-pesах-"
+            "text": "e-falou Moisés a filhos-de Israel para-fazer o-passo"
           },
           {
             "verse": 5,
-            "text": "e-fizeram a o-Pesque no-primeiro- na-quarta- dia dia entre entre os dois em-deserto-de Sinai conforme-tudo que yhwh yhwh a Moisés assim fizeram filhos-de Israel"
+            "text": "e-fizeram a o-Pesque em-primeiro em-quatro dia dia entre entre os-arávios em-deserto-de Si-na-y conforme-tudo que yhwh yhwh a Moisés assim fizeram filhos-de Israel"
           },
           {
             "verse": 6,
@@ -1526,11 +1527,11 @@
           },
           {
             "verse": 7,
-            "text": "e disseram os-homens eis que a-ele nós impuros para a alma homem por-que נִגְרָע para-não הַקְרִיב a yhwh yhwh no-meio-de em-meio-de filhos-de Israel"
+            "text": "e-disseram os-homens esses-eles a-ele nós impuros para-a-alma homem por-que se-puseram-em-estado-de-desgraça para-não o-aproximado a yhwh yhwh no-meio-de em-meio-de filhos-de Israel"
           },
           {
             "verse": 8,
-            "text": "E-disse a-eles Moisés עִמְדוּ וְאֶשְׁמַעָה que yhwh a-vós a-vós"
+            "text": "E-disse a-eles Moisés em-standam e-eouvirei que yhwh a-vós para-vocês"
           },
           {
             "verse": 9,
@@ -1538,43 +1539,43 @@
           },
           {
             "verse": 10,
-            "text": "palavra a filhos-de dizendo dizendo homem homem porque יִהְיֶה־ טָמֵא ׀ לָנֶפֶשׁ ou a-vós para-vós ou para-gerações-vossas וְעָשָׂה פֶּסַח para-יהוה"
+            "text": "palavra a filhos-de dizendo dizendo homem homem porque sera- impuro- para-a-alma ou a-vós para-vós ou para-gerações-vossas e fizer pascal para-יהוה"
           },
           {
             "verse": 11,
-            "text": "בַּחֹדֶשׁ o-segundo בְּאַרְבָּעָ֨ה dez dia entre הָעַרְבַּ֖יִם eles-faziam ele sobre מַצּ֥וֹת וּמְרֹרִ֖ים o-comerão"
+            "text": "בַּחֹ֨דֶשׁ o-segundo em-quatro dez dia entre das-aves eles-faziam ele sobre matzot e-amargos o-comerão"
           },
           {
             "verse": 12,
-            "text": "não nós do-que-ele até não וְעֶ֖צֶם não יִשְׁבְּרוּ־ nele ele chuq-at o-páscoa ele ele"
+            "text": "não nós do-que-ele até não e-osso não quebrar- nele ele chuq-at o-páscoa farão a-ele"
           },
           {
             "verse": 13,
-            "text": "וְהָאִישׁ֩ que ה֨וּא טָה֜וֹר e-na-caminho não foi וְחָדַל֙ para fazer o pêsach aquela a-alma que de sua congregação que yhwh não não oferecerá em seu santo convite seu pecado levará o-homem a-aquela"
+            "text": "e-o-homem que ele puro u-ve-de-rekh não foi e-se-afastará para fazer o-passo aquela a-alma que de-a-sua-povo que yhwh não não oferecerá em-o-tempo-sua pecado-o ele-levará o-homem a-aquela"
           },
           {
             "verse": 14,
-            "text": "e-quando dará abrigo entre vós residente estrangeiro e fará פסח a-yhwh כָּחוּקָה הַפסח וכִּשְׁפְּטוֹ assim fará uma será a-vós a-vós וְלַגֵּר a-terra a-terra"
+            "text": "e-quando morará com-vocês estrangeiro e-fará páscoa a-yhwh segundo-a-ordem-de o-páscoa e-segundo-o-juramento-sua assim fará uma será a-vós a-vós e para o estrangeiro a-terra a-terra"
           },
           {
             "verse": 15,
-            "text": "וּבְיוֹם הָקִים a o-tabernáculo כִּסֵּה a-nuvem a o-tabernáculo לְאֹהֶל será וּבָעֵרֶב será sobre o-tabernáculo como-olhar fogo até manhã"
+            "text": "וביום levantar-á a o-tabernáculo cobriu a-névoa a o-tabernáculo le-ohel será e-no-crepúsculo será sobre o-tabernáculo כאמראה- fogo até manhã"
           },
           {
             "verse": 16,
-            "text": "assim será sempre o nuvem cobrirá-os e a visão noite noite"
+            "text": "assim será permanente ha-eanan cobrirá e-aparencia-de noite noite"
           },
           {
             "verse": 17,
-            "text": "e o rosto a ascensão a-nuvem de-cima-de a-tenda assim partirão filhos-de Israel e no lugar que habitará nome a nuvem nome acamparão filhos-de Israel"
+            "text": "e-conforme subida a-névoa de-cima-de a-tenda assim partirão filhos-de Israel e-no-lugar que habitará- nome o-nubloso nome acamparão filhos-de Israel"
           },
           {
             "verse": 18,
-            "text": "sobre yhwh yhwh se moverão filhos-de Israel yhwh de-seu yhwh e acamparão todo dias-de que irá habitar o nuvem sobre o-tabernáculo acamparão"
+            "text": "sobre yhwh yhwh e-partirão filhos-de Israel yhwh de-seu yhwh e-acamparão todo dias-de que morará o-nublo sobre o-tabernáculo acamparão"
           },
           {
             "verse": 19,
-            "text": "e estenderá a nuvem sobre o-tabernáculo dias muitos e guardarão filhos-de yhwh a guarda-de yhwh e-não eles-partirão"
+            "text": "e-no-alongar-se o-nublo sobre o-tabernáculo dias muitos e-guardarão filhos-de yhwh a guarda-de yhwh e-não eles-partirão"
           },
           {
             "verse": 20,
@@ -1586,11 +1587,11 @@
           },
           {
             "verse": 22,
-            "text": "ou dias ou novo ou dias extender-se-á o-nuvem sobre o-tabernáculo para-acampar sobre-ele acampar-ão filhos-de Israel e-não yhwh e-quando-ele-subir eles-partirão"
+            "text": "ou dias ou novo ou dias em-alongar a-nuéveis sobre o-tabernáculo para-estar-acampado sobre-ele acamparão filhos-de Israel e-não partirão e-em-sua-levantação eles-partirão"
           },
           {
             "verse": 23,
-            "text": "sobre yhwh yhwh acampar-ão yhwh de-seu yhwh yhwh a guardiã yhwh guardaram sobre yhwh yhwh por-mão-de Moisés"
+            "text": "sobre yhwh yhwh acamparão yhwh de-seu yhwh yhwh a de-guarda yhwh guardaram-se sobre de-seu yhwh por-mão-de Moisés"
           }
         ]
       },
@@ -1603,43 +1604,43 @@
           },
           {
             "verse": 2,
-            "text": "fez a-ti dois-de cornetas prata מִקְשָׁה farás eles e-sejam a-ti לְמִקְרָא a-congregação וּלְמַסּע a הַמַּחֲנֹת׃"
+            "text": "fez a-ti dois-de chifres prata miqusha farás eles e-sejam a-ti lemikra a-congregação ulmasa a hammachanot"
           },
           {
             "verse": 3,
-            "text": "e-sopram בָּהֵן וְנוֹעֲדוּ a-ti todo a-congregação a entrada-de tenda encontro"
+            "text": "e-sopram בָּהֵן venoedhu a-ti todo a-congregação a entrada-de tenda-de encontro"
           },
           {
             "verse": 4,
-            "text": "e-se בְּאַחַת יִתְקָעוּ וְנוֹעֲדוּ a-ti הַנּוֹשְׂאִים רָאשֵׁי milhares-de Israel"
+            "text": "e-se beachat yitqauu venoedhu a-ti hannesiim ראשׁי milhares-de Israel"
           },
           {
             "verse": 5,
-            "text": "וּתְקַעְתֶּ֥ם תְּרוּעָ֑ה וְנָֽסְעוּ֙ הַֽמַּחֲנ֔וֹת הַחֹנִ֖ים קֵֽדְמָה׃"
+            "text": "utqatem trova-alarma e-partirão os-lugares-acampamento os-que-acampam para-o-leste"
           },
           {
             "verse": 6,
-            "text": "וּתְקַעְתֶּ֤ם תְּרוּעָה֙ שִׁנִּית וְנָֽסְעוּ֙ as-cânicas os-acamados no-sudeste sinal tocarão para-suas-marchas"
+            "text": "e-tocareis alarme segunda-noite e-partirão os-lugares-acampamento os-que-acampam para o timna' trova-alarma tocarão para-os-marchas-verso"
           },
           {
             "verse": 7,
-            "text": "e-anunciando a a-assembleia insiram e-não anunciem"
+            "text": "e-no-congregar a a-assembleia voces-tocareis e-não voces-clamareis-verso"
           },
           {
             "verse": 8,
-            "text": "e-filhos-de Arão os-sacerdotes tocarão com-hiadas e-sejam a-vós segundo-a-lei eternidade para-gerações-de-vocês"
+            "text": "e-filhos-de Arão os-sacerdotes tocarão em-o-chifres-de-aleluia e-sejam a-vós para-a-lei eternidade para-gerações-de-vocês"
           },
           {
             "verse": 9,
-            "text": "e-quando תָבוּ מִלְחָמָה בָּאַרְצֹתֵיכֶם sobre הַצּוֹרֵר הַצּוֹרֵר vos וְהָרִיעוּ בַּחֲצֹצְרֹת yhwh diante-de yhwh אֱלֹהִים-vosso וְנָשָׂאוּ מִאֹיְבֵיכֶם׃"
+            "text": "e-quando voces-vireis מִלְחָמָה na-terra-de-vosso sobre a-dura o-opressor vos e-voces-estardes-gritando em-chatzrot yhwh diante-de yhwh Elohim-vosso e-noshaatem me-oyveichechem"
           },
           {
             "verse": 10,
-            "text": "וּבְיוֹם simchatkem u'vemoadeikhem u'verashay chadashchem utka'tem b'chatsrot sobre olotkhem e-sobre sacrificios-de shlamikhem e-sejam a-vós lazichron diante-de אֱלֹהִים-vosso eu yhwh אֱלֹהִים-vosso"
+            "text": "e no dia sua-alegria u-bemoadeichechem u-beraashi chadshichechem utekaatem em-chatzrot sobre vossas-ofertas e-sobre zibchei shalmeicheim e-sejam a-vós lezicharon diante-de Elohim-vosso eu yhwh Elohim-vosso"
           },
           {
             "verse": 11,
-            "text": "e-houve basana a segunda no segundo o-segundo vinte no segundo náuá o nuãan de-cima-de tabernáculo-de ha-edut:"
+            "text": "e-houve basshanah hashnith no mês- o-segundo vinte bacheshe naalah o-nubloso de-cima-de tabernáculo-de ha-edut:"
           },
           {
             "verse": 12,
@@ -1651,47 +1652,47 @@
           },
           {
             "verse": 14,
-            "text": "E saiu estandarte-de acampamento-de filhos-de Judá na primeira para-exércitos-deles e-sobre tzava-o Nasom filho-de Aminadabe"
+            "text": "vaysa estandarte-de acampamento-de filhos-de Judá em-a-primeira para-exércitos-deles e-sobre tzava-o Nasom filho-de Aminadabe"
           },
           {
             "verse": 15,
-            "text": "e-sobre exercito tribo-de filhos-de Issacar Netanel filho-de Zuar"
+            "text": "e-sobre exército tribo-de filhos-de Iessachar Netanel filho-de Zuar"
           },
           {
             "verse": 16,
-            "text": "e-sobre exercito tribo-de filhos-de Zebulom Eliabe filho-de Chilon:"
+            "text": "e-sobre exército tribo-de filhos-de Zebulom Eliabe filho-de Chelon"
           },
           {
             "verse": 17,
-            "text": "e Hurd o arca e saírem filhos-de Gershom e-filhos-de Merari carregadores-de o-tabernáculo"
+            "text": "e-foi-lançado ham-mishkan e-partiram filhos-de Gershom e-filhos-de Merari carregadores-de o-tabernáculo"
           },
           {
             "verse": 18,
-            "text": "e saiu estandarte-de acampamento-de reuven para-exércitos-deles e-sobre tzava-o Elisur filho-de Sedeur"
+            "text": "e-partiu estandarte-de acampamento-de reuven para-exércitos-deles e-sobre tzava-o Elisur filho-de Sedeur"
           },
           {
             "verse": 19,
-            "text": "e-sobre exercito tribo-de filhos-de Simeão Sulmiel filho-de 嵯里 Shaddai"
+            "text": "e-sobre exército tribo-de filhos-de Simeão Shelumiel filho-de tori Shaddai"
           },
           {
             "verse": 20,
-            "text": "e-sobre צְבָא tribo-de filhos-de Gade Eliasafe filho-de Deuel"
+            "text": "e-sobre tsva-a tribo-de filhos-de Gade Eliasafe filho-de Deuel"
           },
           {
             "verse": 21,
-            "text": "而挪素乌姆 哈夸他伊姆 carregadores-de 哈密克达什 而希基乌姆 a o-tabernáculo até 巴俄姆:"
+            "text": "ve-naseu-u ha-khatim carregadores-de o santuário ve-heqimu-u a o-tabernáculo até ba-am"
           },
           {
             "verse": 22,
-            "text": "而挪素阿 estandarte-de acampamento-de filhos-de Efraim para-exércitos-deles e-sobre tzava-o Elisama filho-de Amiúde"
+            "text": "ve-nasa-a estandarte-de acampamento-de filhos-de Efraim para-exércitos-deles e-sobre tzava-o Elisama filho-de Amiúde"
           },
           {
             "verse": 23,
-            "text": "e-sobre exercito tribo-de filhos-de Manassés Gamaliel filho-de 帕达－ Zur"
+            "text": "e-sobre tsva-a tribo-de filhos-de Manassés Gamaliel filho-de peda-h Zur"
           },
           {
             "verse": 24,
-            "text": "e-sobre exercito tribo-de filhos-de Benjamim Abidã filho-de 吉杜尼:"
+            "text": "e-sobre tsva-a tribo-de filhos-de Benjamim Abidã filho-de gideon-i"
           },
           {
             "verse": 25,
@@ -1699,19 +1700,19 @@
           },
           {
             "verse": 26,
-            "text": "e-sobre exercito tribo-de filhos-de que Pagiel filho-de Ocrã"
+            "text": "e-sobre exército tribo-de filhos-de que Pagiel filho-de Ocrã"
           },
           {
             "verse": 27,
-            "text": "e-sobre exercito tribo-de filhos-de Naftali Aira filho-de Enã"
+            "text": "e-sobre exército tribo-de filhos-de Naftali Aira filho-de Enã"
           },
           {
             "verse": 28,
-            "text": "Estas caminhos filhos-de Israel para-exércitos-deles e acamparam-se"
+            "text": "Estas viagens filhos-de Israel para-exércitos-deles e-eles-partiram"
           },
           {
             "verse": 29,
-            "text": "E-disse Moisés para Chovabe filho-de Reuel o Midiânita sogro-de Moisés נֹסְעִ֣ים nós a o-lugar disse yhwh ele ele a-vós a-vós לְכָ֤ה com-nos para-ti para-ti porque yhwh falou bom sobre Israel"
+            "text": "E-disse Moisés para-Hobab filho-de Reuel o-midianita cons- sogro Moisés partindo-eles-se nós a o-lugar disse yhwh ele ele a-vós a-vós לְכָ֤ה com-nos para-ti para-ti porque yhwh falou bom sobre Israel"
           },
           {
             "verse": 30,
@@ -1719,27 +1720,27 @@
           },
           {
             "verse": 31,
-            "text": "E-disse a por-favor תַּעֲזֹ֣ב que que sobre assim conheceste חֲנֹתֵ֙נוּ֙ no-deserto e-você-seja para-nós לְעֵינָֽיִם׃"
+            "text": "E-disse a por-favor deixarás que que sobre assim conheceste acampamento-nos no-deserto e-você-seja para-nós para-os-olhos"
           },
           {
             "verse": 32,
-            "text": "e-foi porque תֵלֵ֣ךְ com-nosso e-era o-bom aquele que יֵיטִ֧יב yhwh עִמָּ֖נוּ וְהֵטַ֥בְנוּ para-ti"
+            "text": "e-foi porque andarás com-nosso e-era o-bom aquele que fará-bem yhwh com-nos e-nos-faremos-bem para-ti"
           },
           {
             "verse": 33,
-            "text": "e-eles-partiram de-montanha-de yhwh o-caminho-de três-de dias וַאֲר֨וֹן em-aliança-de yhwh נֹסֵ֣עַ o-caminho-de caminho três-de dias a-eles a-eles מְנוּחָֽה׃"
+            "text": "e-eles-partiram de-montanha-de yhwh o-caminho-de três-de dias e-arca em-aliança-de yhwh n-os-e-a o-caminho-de caminho três-de dias a-eles a-eles m-nu-ha-h"
           },
           {
             "verse": 34,
-            "text": "וַעֲנַ֧ן yhwh sobre-eles de-dia בְּנָסְעָ֖ם de o-acampamento"
+            "text": "v-a-an-na yhwh sobre-eles de-dia b-nas-e-a-m de o-acampamento"
           },
           {
             "verse": 35,
-            "text": "e-houve בִּנְסֹ֥עַ הָאָרֹ֖ן E-disse Moisés קוּמָ֣ה ׀ yhwh yhwh אֹֽיְבֶ֔יךָ וְיָנֻ֥סוּ מְשַׂנְאֶ֖יךָ de-diante-tua"
+            "text": "e-houve b-in-so-a הָאָרֹ֖ן E-disse Moisés q-u-ma-h yhwh yhwh o-yev-e-cha v-yan-nu-su m-shen-a-e-cha de-diante-tua"
           },
           {
             "verse": 36,
-            "text": "e-nucha ויאמר שׁוּבָ֣ה yhwh ribboth milhares-de Israel"
+            "text": "u-b-nu-ho diz-que volta-te yhwh multidões-de milhares-de Israel"
           }
         ]
       },
@@ -1752,55 +1753,55 @@
           },
           {
             "verse": 2,
-            "text": "vayitzak o-povo a Moisés e-ele-orou Moisés a yhwh vatishka' o-fogo"
+            "text": "e clamou o-povo a Moisés e-ele-orou Moisés a yhwh e-ela-senhorou-se o-fogo"
           },
           {
             "verse": 3,
-            "text": "E-chamou nome-de o-lugar aquele tabe'arah porque בָעֲרָה yhwh fogo yhwh"
+            "text": "E-chamou nome-de o-lugar aquele queimadura-de porque queimada yhwh fogo yhwh"
           },
           {
             "verse": 4,
-            "text": "וְהָאָסַפְסֻף֙ que em-meio-seu הִתְאַוּוּ תַּאֲוָה e-voltaram וַיִּּבְכּוּ também filhos-de Israel e-disseram quem יַאֲכִילֵנוּ carne"
+            "text": "e-a-multidão que em-meio-seu se-apaixonaram desejo e-voltaram e-eles-choraram também filhos-de Israel e-disseram quem ele-nos-alimentou carne"
           },
           {
             "verse": 5,
-            "text": "זָכַרְנוּ a הַדָּגָה que nós-comeremos em-Egito חִנָּם com הַקִּּשׁוֹאִים e-את os abatcim e-a o chaczir e-a os btsalim e-a os shumim"
+            "text": "lembramos a o-peixe que nós-comeremos em-Egito חִנָּ֑ם com os-espigões e-את os-abutres e-a o-capim e-a os-cenóveres e-a os-nomes-verso-final"
           },
           {
             "verse": 6,
-            "text": "e-agora nafshenu yeveshah não-há todo bilhti a o man nos olhos"
+            "text": "e-agora a-nostra-vida seca-a não-há todo sem-o a o-manne nosso olhos:"
           },
           {
             "verse": 7,
-            "text": "e o man כּ-זֶרַע- ele ele וְעֵינ֖וֹ o-bdélio הַבְּדֹֽלַח׃"
+            "text": "e-o-manne como-semente- ele ele e-a-sua-olho o-bdélio o-bedolach-verso-final"
           },
           {
             "verse": 8,
-            "text": "שׁוּטֻ֩ o-povo וְלָקְט֜וּ וְטָחֲנ֣וּ בָרֵחַ֗יִם ou דָכְֹוּ בַּמְּדֹכָ֔ה וּבִשְּׁלוּ֙ בַּפָּר֔וּר וְעָשׂ֥וּ ele עֻג֑וֹת e-foi טַעְמ֔וֹ כְּטַ֖עַם לְשַׁ֥ד o óleo"
+            "text": "navegaram o-povo e-colherão e-moerão em-recheias ou moeram na-moenda e-cozinham em-o-paruru e façam ele de-pães e-foi o-sabor-seu como-o-gosto para-o-seio o óleo"
           },
           {
             "verse": 9,
-            "text": "וּבְרֶ֧דֶת הַטַּ֛ל sobre noite noite יֵרֵ֥ד הַמָּ֖ן sobre-ele"
+            "text": "e-na-descida o-talho sobre noite noite descerá o-mão sobre-ele"
           },
           {
             "verse": 10,
-            "text": "E-ouviu Moisés a o povo בּוֹכֶה֙ para-o-sua-famílias homem para-a-entrada-de אָהֳל֑וֹ yhwh muito yhwh muito mal Moisés mau"
+            "text": "E-ouviu Moisés a o povo chorando para-o-sua-famílias homem para-a-porta אָהֳל֑וֹ yhwh muito yhwh muito mal Moisés mau"
           },
           {
             "verse": 11,
-            "text": "E-disse Moisés a yhwh por-que הֲרֵעֹ֙תָ֙ לְעַבְדֶּ֔ךָ וְלָ֛מָּה não מָצָ֥תִי graça em-olhos-teus לָשׂ֗וּם a מַשָּׂ֛א todo o-povo este sobre-mim"
+            "text": "E-disse Moisés a yhwh por-que por-te-imploro para-o-seu-servidor e-porque não encontrei graça em-olhos-teus para-situar a carregamento todo o-povo este sobre-mim"
           },
           {
             "verse": 12,
-            "text": "הֶאָנֹכִ֣י הָרִ֗יתִי a todo o-povo esta se eu יְלִדְתִּיהוּ porque תֹאמַ֨ר a-mim שָׂאֵ֣הוּ בְחֵיקֶ֗ךָ como-que sobre a-terra a הַיֹּנֵ֔ק sobre a-te-rri-tó-ria que נִשְׁבַּ֖עְתָּ לַאֲבֹתָֽיו׃"
+            "text": "e-eu quisi a todo o-povo esta se eu o-gerou-o porque diga a-mim carregue-o no-peito-teu como-que sobre a-terra a o-ninhento sobre a-te-rri-tó-ria que jures-te para-os-seus-pais"
           },
           {
             "verse": 13,
-            "text": "מֵאַ֤יִן a-mim בָּשָׂ֔ר a-dar para-todo o-povo esta porque dizendo sobre-mim dizendo dá- para-nos בָשָׂ֖ר e-n-o-c-e-l-a:"
+            "text": "de-onde a-mim da-carne a-dar para-todo o-povo esta porque dizendo sobre-mim dizendo dá- para-nos carne e-nos-comeremos"
           },
           {
             "verse": 14,
-            "text": "não eu eu l-bá-dí l-s-é-at a que o-povo esta porque k-véd de-mim"
+            "text": "não eu eu lebadí levando a que o-povo esta porque grande de-mim"
           },
           {
             "verse": 15,
@@ -1812,19 +1813,19 @@
           },
           {
             "verse": 17,
-            "text": "e desceria e falaria com ti nome e livraria de הרוח que sobre-ti e-postarei sobre-eles וינשאו contigo במשא o-povo tu תחSEA tu לבדך׃"
+            "text": "e-descerrei-eu e-falarei-eu com-você nome e-arrancarei-eu de o-sopro que sobre-ti e-postarei sobre-eles e-levarão contigo em-massa o-povo tu tissa tu apenas de ti:"
           },
           {
             "verse": 18,
-            "text": "e-a o-povo תאמר consagrem-vos למחר ואכלתם que porque בכITEM yhwh dizendo quem quem יאכלנו׃ בשר porque bom a-nos yhwh a-vós yhwh a-vós carne וַאֲכַלְתֶּֽם׃"
+            "text": "e-a o-povo toamar consagrem-vos lemahar vaachaltem que porque bekitem yhwh dizendo quem quem yaakhilenu basar porque bom para-nós yhwh a-vós yhwh a-vós carne vaachaltem"
           },
           {
             "verse": 19,
-            "text": "não dia um תֹּאכְל֖וּן e-não יוםָיִם וְלֹ֣א ׀ חֲמִשָּׁ֣ה dias e-não עֲשָׂרָ֣ה dias e-não vinte dia"
+            "text": "não dia um tochelun e-não dias-dois e-não- cinco dias e-não asarah dias e-não vinte dia"
           },
           {
             "verse": 20,
-            "text": "até novo dias até até יֵצֵא֙ מֵֽאַפְּכֶ֔ם e-será a-vós לְזָרָ֑א porque porque m'estam a yhwh que b'qirbechem dizendo dizendo por-que isto yatsano'u de-Egito"
+            "text": "até novo dias até até ele sairá de-a-vossa-face e-será a-vós para-o-estrangeiro porque porque desgostais a yhwh que em-a-vossa-mezquita dizendo dizendo por-que isto saiu-nos de-Egito"
           },
           {
             "verse": 21,
@@ -1832,7 +1833,7 @@
           },
           {
             "verse": 22,
-            "text": "ha'tzon u'vekar yishachet a-eles umatz'a a-eles mãe a o-mar peixes-de a-eles ye'asaf a-eles e achou para-eles"
+            "text": "o-rebanho e-bakar será-imolado a-eles e-achou a-eles mãe a o-mar peixes-de a-eles será-coletado a-eles e achou para-eles"
           },
           {
             "verse": 23,
@@ -1844,11 +1845,11 @@
           },
           {
             "verse": 25,
-            "text": "e-descer yhwh em nuvem e-falou a-ele-o a-ele de o vento que sobre-ele E-colocou sobre setenta homem e-houve E-foi כנוך sobre-eles הרוח ויתנבאו e-não yasfu׃"
+            "text": "e-descer yhwh be-anan e-falou a-ele-o a-ele de ha-ruch-ha que sobre-ele E-colocou sobre setenta homem e-houve E-foi ke-no-ch sobre-eles ha-ruch-ha va-yit-nab-av-u e-não e-afirmaram-vos"
           },
           {
             "verse": 26,
-            "text": "WAYYISAARU dois אנשׁים במחנה nome o-primeiro eldenad e-nome-de HASHEINI MIDAD e pôs-se-a sobre-eles o espírito e-eles nas escrituras e-não saíram a-tenda-a e proferiram no acampamento:"
+            "text": "e-permaneceram dois homens-o no-acampamento nome o-primeiro [׀] e-nome-de o-segundo Midad e-foi-posta em-eles הָר֗וּחַ e-eles com-escrições e-não saíram a-tenda-a e-ele-proferiram em-o-lager"
           },
           {
             "verse": 27,
@@ -1856,23 +1857,23 @@
           },
           {
             "verse": 28,
-            "text": "e respondeu Yehoshua filho-de Nun servindo Moisés de seus escolhidos E-disse Adonai Moisés כלאים׃"
+            "text": "e respondeu Yehoshua filho-de Nuun servindo Moisés de-seus-jovens E-disse Adonai Moisés encarcerando-os"
           },
           {
             "verse": 29,
-            "text": "E-disse a-ele Moisés הַמְקַנֵא tu a-mim וּמִי יִתֵן todo yhwh yhwh נְבִיאִים yhwh dê yhwh a a-ele sobre-eles"
+            "text": "E-disse a-ele Moisés o-que-inveja tu a-mim e-quem dará todo yhwh yhwh nébiam yhwh dê yhwh a ruah-o sobre-eles"
           },
           {
             "verse": 30,
-            "text": "וַיֵאסף Moisés a ele ele וְזִקְנֵי Israel"
+            "text": "va-yea-sef Moisés a ele ele e-os-anciãos Israel"
           },
           {
             "verse": 31,
-            "text": "e-Espírito-de נָסַע ׀ de-junto-de yhwh yhwh שַׂלְוִים֮ de הַיָם֒ e estendeu-se sobre a acampada dia dia assim dia dia assim ao redor o-acampamento e duas a-terra face-de a-terra"
+            "text": "e-Espírito-de nas-a de-junto-de yhwh yhwh shalvim de ha-yam va-yeit-tosh sobre ha-machane dia dia assim dia dia assim em-torno-de o-acampamento ukhe-amatayim a-terra face-de a-terra"
           },
           {
             "verse": 32,
-            "text": "E-levantou o-povo todo esse dia aquele e-tudo na-noite dia dia o dia seguinte e reuniram-se a o-que-sobrará a-que-menos asaf o-dez a-eles e-eles-misturaram-se a-eles estriçado voltas o-acampamento"
+            "text": "E-levantou o-povo todo o-hoje o-aquele e-tudo na-noite dia dia o-amanhã e-eles-recolheram a a-súplica o-menor recolheu asarah a-eles e-eles-prostraram-se a-eles prostrar-se em-torno-de o-acampamento"
           },
           {
             "verse": 33,
@@ -1880,11 +1881,11 @@
           },
           {
             "verse": 34,
-            "text": "E-chamou a nome-de o-lugar aquele sepulturas das concupiscências porque nome enteraram a o-povo os que tinham concupiscências"
+            "text": "E-chamou a nome-de o-lugar aquele sepulturas da-avareza porque nome enterraram a o-povo os-que-têm-desejo"
           },
           {
             "verse": 35,
-            "text": "das sepulturas das concupiscências saíram o-povo as praças e-foram no-házerot"
+            "text": "das-sepulturas da-desejo partiram o-povo courts e-foram em-as-cortes"
           }
         ]
       },
@@ -1897,7 +1898,7 @@
           },
           {
             "verse": 2,
-            "text": "e-disseram apenas somente em-mošé yhwh yhwh não-é também disse-lhe yhwh E-ouviu yhwh"
+            "text": "e-disseram acaso somente em-moshe yhwh yhwh não-é também e colocaram-na yhwh E-ouviu yhwh"
           },
           {
             "verse": 3,
@@ -1905,31 +1906,31 @@
           },
           {
             "verse": 4,
-            "text": "E-disse yhwh פתאום a Moisés e-a Arão e-a מריה צאו três-vos a tenda de-encontro um שלשתם׃"
+            "text": "E-disse yhwh de-repente a Moisés e-a Arão e-a Miryā' saí-am ter-convosco a tenda de-encontro e-saíram ter-com-eles"
           },
           {
             "verse": 5,
-            "text": "e-ele-descerrou yhwh בעמוד ענן e-se-posicionou entrada-de haohel E-chamou Aarão ומaría ויצאו dois-deles"
+            "text": "e-ele-descerrou yhwh em-o-pilar nuvem e-se-posicionou entrada-de haohel E-chamou Aarão e-miriam e-saíram dois-deles"
           },
           {
             "verse": 6,
-            "text": "E-disse ouvi por-favor דברי se yhwh נביאכם a-ele בַּמַּרְאָה֙ a-ele אֶתְוַדָּ֔ע בַּחֲל֖וֹם אֲדַבֶּר־ em-ele"
+            "text": "E-disse ouvi por-favor palavras-meus se yhwh profeta-vosso a-ele em-a-imagem a-ele me-revelarei em-o-sonho dare-a-falar- em-ele"
           },
           {
             "verse": 7,
-            "text": "não assim servo-meu Moisés em-todo ele נֶאֱמָ֥ן ela"
+            "text": "não assim servo-meu Moisés em-todo ele fiel ela"
           },
           {
             "verse": 8,
-            "text": "פֶּ֣ה a פֶּ֞ה אֲדַבֶּר־ nele וּמַרְאֶה֙ e-não yhwh וּתְמֻנַ֥ת yhwh não וּמַדּ֙וּעַ֙ não יְרֵאתֶ֔ם para-falar בְּעַבְדּ֥י בְמֹשֶֽׁה׃"
+            "text": "a boca a boca dare-a-falar- nele e-aparência e-não yhwh e-imagem yhwh não e-porquê não temor-vos para-falar em-o-servidor-meu em-Moshê"
           },
           {
             "verse": 9,
-            "text": "וַיִּֽחַרְאַ֧ף yhwh com-eles E-andou"
+            "text": "e-ele-se-irritou yhwh com-eles E-andou"
           },
           {
             "verse": 10,
-            "text": "וְהֶעָנָ֗ן סָ֚ר de-cima-de a-tenda e-eis מִרְיָ֖ם מְצֹרַ֣עַת כַּשָּׁ֑לֶג e virou-se Aarao a Miriam e-eis leprosa:"
+            "text": "e-o-nubloso afastou-se de-cima-de a-tenda e-eis de-Miráim lepra-a como-neve e-ele-virou-se de-Aaron a de-Miráim e-eis de-lepra-a"
           },
           {
             "verse": 11,
@@ -1937,23 +1938,23 @@
           },
           {
             "verse": 12,
-            "text": "a agora será como morto que na sua saída sua-mãe mãe-dele e foi devorado metade-de seu corpo:"
+            "text": "a agora seja como-morte que em-saída-seu sua-mãe mãe-dele e-ele-foi-comido metade-de de-carne-seu"
           },
           {
             "verse": 13,
-            "text": "e gritou: Moisés a dizendo dizendo El por-favor refeição por-favor a-ela"
+            "text": "e-ele-gritou Moisés a dizendo dizendo El por-favor cura por-favor a-ela"
           },
           {
             "verse": 14,
-            "text": "E-disse yhwh a Moisés e sua mãe, jovem jove ante si não cobrir-te-á sete-de dias serás fechada shib-aat dias de-fora para-o-machane e-depois serás reunida:"
+            "text": "E-disse yhwh a Moisés e-pai-seu ele-vomitará vomitou em-a-frente-dela não eles-serão-ocultos sete-de dias ela-será-fechada shib-aat dias de-fora para-o-machane e-depois ele-será-coletado"
           },
           {
             "verse": 15,
-            "text": "foi fechada Miriam de-fora para-o-acampamento sete-de dias e-o-povo não saíram até foi reunida Miriam"
+            "text": "e-ela-fechou-se Miriam de-fora para-o-acampamento sete-de dias e-o-povo não ele-partiu até ele-foi-coletado Miriam"
           },
           {
             "verse": 16,
-            "text": "e-depois saíram o-povo das tendas e-acamparam em-deserto-de Fárã"
+            "text": "e-depois eles-partiram o-povo de-a-cortes e-acamparam em-deserto-de em Paran-"
           }
         ]
       },
@@ -1966,19 +1967,19 @@
           },
           {
             "verse": 2,
-            "text": "envia a-ti homens וְיָתֻ֙רוּ֙ a terra Canaã que eu deu um Israel um um homem um לְמַטֵּ֤ה אֲבֹתָיו֙ תִּשְׁלָ֔חוּ todo príncipe-de neles:"
+            "text": "envia- para-ti אֲנָשִׂים e-eles-procurarão a terra Canaã que eu deu um Israel um um homem um para-o-clã אביו enviarão-os todo príncipe-de בָהֶֽם׃"
           },
           {
             "verse": 3,
-            "text": "e-enviou eles Moisés מִמִּדְבַּ֥ר פָּארָ֖ן sobre yhwh yhwh כֻּלָּ֣ם homens topos-de filhos-de Israel eles"
+            "text": "e-enviou eles Moisés do-deserto Parã sobre yhwh yhwh כֻּלּם homens topos-de filhos-de Israel eles"
           },
           {
             "verse": 4,
-            "text": "e-estes שְׁמוֹתָ֑ם para-a-tribo-de Rúben שַׁמּ֖וּעַ filho-de זַכּֽוּר׃"
+            "text": "e-estes de-seus-nomes para-a-tribo-de Rúben Samuá filho-de Zacur"
           },
           {
             "verse": 5,
-            "text": "para-a-tribo-de Simeão שַׁפַּט filho-de חֹרִי׃"
+            "text": "para-a-tribo-de Simeão שָׁפַט filho-de Horí"
           },
           {
             "verse": 6,
@@ -1986,51 +1987,51 @@
           },
           {
             "verse": 7,
-            "text": "para-tribo-de Issacar יִגְעָל filho-de José"
+            "text": "para-tribo-de Issacar ele-redimirá filho-de José"
           },
           {
             "verse": 8,
-            "text": "para-matate אֶפְרַיִם הוֹשֵׁעַ filho-de נּוּן׃"
+            "text": "para-matate Efrayim Hoshe'a filho-de Nun:"
           },
           {
             "verse": 9,
-            "text": "para-tribo-de Benjamim פָּלַתִ֖י filho-de רָפֻא׃"
+            "text": "para-tribo-de Benjamim Palti filho-de Rafua'"
           },
           {
             "verse": 10,
-            "text": "para-tribo-de Zebulom גַּדִּיאֵל filho-de סֹדִי׃"
+            "text": "para-tribo-de Zebulom Gaddiel filho-de Sodi'"
           },
           {
             "verse": 11,
-            "text": "para-matate José para-tribo-de Manassés גדי filho-de סusi׃"
+            "text": "para-matate José para-tribo-de Manassés Gadi filho-de Susy'"
           },
           {
             "verse": 12,
-            "text": "para-tribo-de Dã Amiel- filho-de גמלִי׃"
+            "text": "para-tribo-de Dã Amiel- filho-de Gamaly'"
           },
           {
             "verse": 13,
-            "text": "para-tribo-de que סתור filho-de מיכאל׃"
+            "text": "para-tribo-de que Setur filho-de Michael"
           },
           {
             "verse": 14,
-            "text": "para-tribo-de Naftali נחבי filho-de VASpsi׃"
+            "text": "para-tribo-de Naftali Nachbi filho-de e-Fesi"
           },
           {
             "verse": 15,
-            "text": "para-tribo-de Gade גאוֵל filho-de מכי׃"
+            "text": "para-tribo-de Gade Geuel filho-de Maki"
           },
           {
             "verse": 16,
-            "text": "Estas nomes-de os-homens que enviou Moisés LATur E-chamou a-terra E-chamou Moisés לְהוֹשֵׁ֥עַ filho-de נוּן יְהוֹשֻֽׁעַ"
+            "text": "Estas nomes-de os-homens que enviou Moisés para perseguir E-chamou a-terra E-chamou Moisés para-Hosea filho-de נוּן יְהוֹשֻֽׁעַ"
           },
           {
             "verse": 17,
-            "text": "e-estendeu eles Moisés לָת֖וּר a terra E-disse E-disse a-eles עֲל֥וּ este בַּנֶּ֔גֶב וַעֲלִיתֶ֖ם a a-montanha"
+            "text": "e-estendeu eles Moisés para-Tour a terra E-disse E-disse a-eles ALU este no-Negueb e-voces-subiram a o-monte"
           },
           {
             "verse": 18,
-            "text": "וּרְאִיתֶ֥ם a a-terra que ela e-a o-povo ele sobre-ela הֶחָזָ֥ק ele הֲרָפֶ֔ה הַמְעַ֥ט ele se muito"
+            "text": "וראות a a-terra que ela e-a o-povo ele sobre-ela o-forte ele se-estafrou o-pouco ele se muito"
           },
           {
             "verse": 19,
@@ -2042,27 +2043,27 @@
           },
           {
             "verse": 21,
-            "text": "e-ele-levantaram-se e procuraram a a-terra do deserto- Tsin até Rechob para entrar חֲמָֽת"
+            "text": "e-ele-levantaram-se e-eles-procuraram a a-terra do-midbar- Tsìn até Rechob para-entrar חֲמָֽת"
           },
           {
             "verse": 22,
-            "text": "e-subiram no Negan— E-veio até Hevron e ali Achimam sexto וְתַלְמַ֔י יְלִידֵ֖י הָעֲנָ֑ק וְחֶבְר֗וֹן sete dois נִבְנְתָ֔ה diante-de צֹ֥עַן Egito"
+            "text": "e-subiram no-Néguev E-veio até Hevron וְשָׁ֤ם Ahímán sexto e-Talmay filhos-de o-Anaqueu e-Hebrôn sete dois foi-construída diante-de tsa'an Egito"
           },
           {
             "verse": 23,
-            "text": "e-vieram até vale-de אֶשְׁכֹּ֗ל וַיִּכְרְת֨וּ de-aqui זְמוֹרָה֙ וְאֶשְׁכּ֤וֹל um um e levaram-no pelo vento duas vezes e-de as figueiras e-de as videiras"
+            "text": "e-vieram até vale-de eshkol va-yikr'tu de-aqui z'mora ve-eshkol um um va-yissa'uhu ba-mot bishnayim e-de harimonim e-de ha-te'enim"
           },
           {
             "verse": 24,
-            "text": "para aquele lugar aquele chamou vale-de a figueira sobre as videiras da figueira que cortaram de-lá filhos-de Israel"
+            "text": "para aquele lugar aquele chamou vale-de eshkol sobre odot ha-eshkol que kartu de-lá filhos-de Israel"
           },
           {
             "verse": 25,
-            "text": "e-eles-retornaram מִתּוּר a-terra ao-fim-de quarenta dia"
+            "text": "e-eles-retornaram mitur a-terra ao-fim-de quarenta dia"
           },
           {
             "verse": 26,
-            "text": "וַיֵּלְכוּ e-ele-chegou a Moisés e-a Arão e-a todo congregação-de filhos-de Israel a deserto-de פָּארָן קָדֵשָׁה a-terra אוֹתָם palavra e-a todo a-eles וַיַּרְא֖וּם a fruto a-terra"
+            "text": "vayyalku e-ele-chegou a Moisés e-a Arão e-a todo congregação-de filhos-de Israel a deserto-de paran qadeshah a-terra os palavra e-a todo a-congregação vayar'um a pri a-terra"
           },
           {
             "verse": 27,
@@ -2070,27 +2071,27 @@
           },
           {
             "verse": 28,
-            "text": "no-entanto porque força o-povo o-que-habitava em-a-terra e as cidades nas rochas muito muito e-também filhos de Anaque vimos nome"
+            "text": "no-entanto porque forte o-povo o-que-habitava em-a-terra e-as-cidades em-Bet-Zur muito muito e-também filhos-de o-Anaq vimos nome"
           },
           {
             "verse": 29,
-            "text": "Amaleque habitante na-terra o Negev e a Chetita וְהַיְבוּסִ֤י e-o-amorreu habitante-de בָּהָ֔ר e-o-canaanita habitou sobre o-mar e-sobre mão o-Jordão"
+            "text": "Amalek habitante na-terra do-sul e-o-Heteu e-o-Jebuseu e-o-amorreu habitante-de no monte e-o-canaanita habitou sobre o-mar e-sobre mão o-Jordão"
           },
           {
             "verse": 30,
-            "text": "וַיַּ֧הַס כָּלֵ֛ב a o-povo E-disse Moisés E-disse עָלֹ֤ה subiremos וְיָרַ֣שְׁנוּ a-ela porque יָכ֥וֹל נוּכַ֖ל a-ela"
+            "text": "e-hes Kaléve a o-povo E-disse Moisés E-disse alehu subiremos veyarashnu a-ela porque yachol nuchal a-ela"
           },
           {
             "verse": 31,
-            "text": "וְהָ֨אֲנָשִׁ֜ים que עָל֤וּ com-ele não não נוכל para-subir a ele nós fortes ele de-nós"
+            "text": "vehanashim que alu com-ele não não nuchal para-subir a ele nós força ele de-nós"
           },
           {
             "verse": 32,
-            "text": "ויצאו דבת a-terra que תרו a-ela a filhos-de dizendo a-terra a-terra que עברנו na-ela לאטור terra terra אכלת ela ele e-todo o-povo que vimos בתוכה homens-de מדות:"
+            "text": "veyotziu dibbat- a-terra que taru- a-ela a filhos-de dizendo a-terra a-terra que avarnu- na-ela para perseguir terra terra okhlet- ela ele e-todo o-povo que vimos בְתוֹכָ֖הּ homens-de middot-"
           },
           {
             "verse": 33,
-            "text": "ושם رָאִ֗ינוּ a הַנְּפִילִ֛ים filhos-de עֲנָ֖ק de הַנְּפִילִ֑ים וַנְּהִ֤י בְעֵינֵ֙ינוּ֙ כּֽ͏ַחֲגָבִ֔ים e-assim הָיִ֖ינוּ בְּעֵינֵיהֶֽם׃"
+            "text": "e ali vimos a hannefilim- filhos-de anak- de hannefilim- vanehi- be-enenu grilos e-assim fomos em seus olhos:"
           }
         ]
       },
@@ -2099,23 +2100,23 @@
         "verses": [
           {
             "verse": 1,
-            "text": "e-carregou todo a-congregação וַֽיִּתְּנ֖וּ a seu-voz e choraram o-povo ele a-aquela"
+            "text": "e-carregou todo a-congregação e-eles-se-tornaram a קוֹלָ֑ם e-eles-choraram o-povo na-noite a-aquela"
           },
           {
             "verse": 2,
-            "text": "e negaram sobre Moisés e-sobre Arão todo filhos-de Israel e disseram a-eles todo a assembleia se — negamos na-terra Egito ou em-o-deserto este se — morremos"
+            "text": "e-eles-lamentaram sobre Moisés e-sobre Arão todo filhos-de Israel e-ele-disseram a-para-eles todo a congregação se-não nossas-matrizes na-terra Egito ou em-o-deserto este se-não morremos"
           },
           {
             "verse": 3,
-            "text": "e por que yhwh trazendo nós a a-terra esta para cair pela espada nashênu veṭappenu serão labaz bom bom a-nos volta mitsráyimah"
+            "text": "e-porque yhwh trazendo nós-aos a a-terra esta para-cair em-espada nossas-mulheres e-nossos-filhos serão para-excesso bom bom para-nós volta de Egito:"
           },
           {
             "verse": 4,
-            "text": "e-disseram homem a irmão-dele nittâna cabeça ve'nashubâ mitsráyimah"
+            "text": "e-disseram homem a irmão-dele foram-dadas cabeça e-voltaríamos de Egito:"
           },
           {
             "verse": 5,
-            "text": "e-caiu Moisés e-Aarão sobre as suas faces diante-de todo assembleia congregação-de filhos-de Israel"
+            "text": "e-caiu Moisés e-Aarão sobre peneyhem diante-de todo assembleia congregação-de filhos-de Israel"
           },
           {
             "verse": 6,
@@ -2131,27 +2132,27 @@
           },
           {
             "verse": 9,
-            "text": "somente em-Yahweh a tremiastes e-vós a a-terra que povo eles porque nossas-massas eles desviou imagem deles e-יהוה conosco a temeis"
+            "text": "porém בַּֽיהוָה֮ a rebelareis-vos e-vós a a-terra que povo eles porque o-nosso-pão eles desviou imagem de-sobre-eles e-יהוה com-nós a temereis-os"
           },
           {
             "verse": 10,
-            "text": "e-disseram todo a-congregação eles eles em-pedras yhwh yhwh נראיה em-tenda-de encontro a todo filhos-de Israel"
+            "text": "e-disseram todo a-congregação eles eles em-pedras yhwh yhwh nos-apareceu em-tenda-de encontro a todo filhos-de Israel"
           },
           {
             "verse": 11,
-            "text": "E-disse yhwh a Moisés até para-onde ינאציני o-povo este e-até אנחה não crerão em-mim em-todo האותות que fiz em-o-centro-dele"
+            "text": "E-disse yhwh a Moisés até para-onde me-aborrecerão o-povo este e-até a-onde não crerão em-mim em-todo as-sinais que fiz-eu em-o-centro-dele"
           },
           {
             "verse": 12,
-            "text": "אכןנו בדבר ואורשנו ואעשנה אותך לגוי- grande nós de-nós"
+            "text": "conhecê-lo com-a-praga e-expulsá-los e-eeshah ot-cha le-goy- grande nós de-nós"
           },
           {
             "verse": 13,
-            "text": "E-disse Moisés a yhwh וְשָׁמְע֣וּ Egito porque הֶעֱלִ֧יתָ בְכֹחֲךָ֛ a o-povo este מִקִּרְבּֽוֹ׃"
+            "text": "E-disse Moisés a yhwh e-ouvirão Egito porque subestimaste-você com-teu-poder a o-povo este de-seu-meio"
           },
           {
             "verse": 14,
-            "text": "e-diretriz a a-terra a-terra esta ouviram yhwh tu yhwh בְּקֶ֖רֶב o-povo este que olho tu yhwh tu yhwh וַעֲנָֽנְךָ֙ ficou-em-pé em-eles tu עָנָ֗ן אַתָּ֨ה andou לִפְנֵיהֶם֙ יוֹמָ֔ם noite fogo noite"
+            "text": "e-diretriz a a-terra a-terra esta ouviram yhwh tu yhwh בְּקֶ֖רֶב o-povo este que olho tu yhwh tu yhwh e-nuvens-teus ficou-em-pé em-eles tu nuvem אתה andou diante deles diariamente noite fogo noite"
           },
           {
             "verse": 15,
@@ -2159,19 +2160,19 @@
           },
           {
             "verse": 16,
-            "text": "senão poderias yhwh trazer a o-povo este a a-eles que jurou a-eles e sacrificaram no-deserto"
+            "text": "por-não poderá yhwh para-trazer a o-povo este a a-eles que jurou para-eles vayishchatem no-deserto"
           },
           {
             "verse": 17,
-            "text": "e-agora será que se tornará grande por-favor força Adonai como dizendo para-dizer"
+            "text": "e-agora ele-se-grandeira- por-favor força Adonai como dizendo para-dizer"
           },
           {
             "verse": 18,
-            "text": "yhwh longo rosto e-grande bondade נֹשֵׂא עָוֺ֖ן וָפָ֑שַׁע não não יְנַקֶּ֔ה פֹּקֵ֞ד עֲוֺ֤ן אָבוֹת֙ sobre בָּנִ֔ים sobre שִׁלֵּשִׁ֖ים e-sobre רִבֵּעִֽים׃"
+            "text": "yhwh longo de-nariz e-muita- bondade leva עון e-pash-te não não purificar-á po-qed [אָבוֹת֙] avós sobre בָּנִים sobre terços e-sobre quartos"
           },
           {
             "verse": 19,
-            "text": "סְלַֽח־ por-favor לַעֲוֺ֛ן o-povo este כְּגֹ֣דֶל o teu perdão e conforme que levaste ao-povo este de-misraim e-até até-aqui"
+            "text": "selach- agora [הָעָ֥ם] o-povo este ke-godel chasdekha ve-ka-asher nas-ta-tha ao-povo este de-misraim e-até até-aqui"
           },
           {
             "verse": 20,
@@ -2179,19 +2180,19 @@
           },
           {
             "verse": 21,
-            "text": "e todavia vive eu e seja preenchido glória-de- yhwh a todo a-terra"
+            "text": "e-o-átrio vive eu e-ele-cheia-se glória-de- yhwh a todo a-terra"
           },
           {
             "verse": 22,
-            "text": "que todo os-homens aqueles que veem a a minha glória e-a minhas maravilhas que fiz em-Egito e-no-deserto e-provara-se-ós a-mim este dez vezes e-não ouviram na-voz-meu"
+            "text": "que todo os-homens os-vendo-os a a-glória-meu e-a as-sinais-meus que fiz em-o-Egito e-no-deserto e-eles-tentaram a-mim este dez vezes e-não ouviram na-voz-meu"
           },
           {
             "verse": 23,
-            "text": "se verão-ele a a-terra que eu-jurei não e-todo contra-mim não e-vereis-a"
+            "text": "se e-veem-os a a-terra que eu-jurei não e-todo os-rejeitando-me não vejam-a"
           },
           {
             "verse": 24,
-            "text": "e-meu-servo כלֵ֗ב porque era espírito outra com-ele e-llenou-se depois-de-mim e o traria a a-terra que veio ali e seu fruto possuirá"
+            "text": "e-meu-servo כלֵ֗ב ekev era espírito outra com-ele e-cheio depois-de-mim e-traga-o-a a a-terra que veio ali e-seu-herdeiro herdeiro-ele"
           },
           {
             "verse": 25,
@@ -2203,31 +2204,31 @@
           },
           {
             "verse": 27,
-            "text": "até quando para a congregação a-malícia-a esta que eles maldições עַל-אֲנִי a תְּלוּנֹות filhos-de Israel que eles מָלִינִים sobre-mim shama'ti"
+            "text": "até מָתַ֗י para-a-congregação a-malícia-a esta que eles malinim sobre mim a tulunot filhos-de Israel que eles malinim alai shama'ti"
           },
           {
             "verse": 28,
-            "text": "disse a-eles vive אֲנִי oráculo-de yhwh se não como דִּבַּרְתֶּם a-vós dizendo fazerei a-vós"
+            "text": "disse a-eles vive אנני oráculo-de yhwh se não como falastes a-vós assim fazerei para-vocês"
           },
           {
             "verse": 29,
-            "text": "בַּמִּדְבָּר הַזֶּה יִפֹּלוּ פִּגְרֵיכֶם e-todo פְּקֻדֵיכֶם para-todo מִסְפַּר כֶ֔ם מִבֶּן vinte ano e-para-cima que הֲלִֽינוֹתֶ֖ם sobre-mim"
+            "text": "em-o-deserto isto é yiflu pigreichechem e-todo pqudeichechem para-todo misparchechem מִבֶּ֛ן vinte ano e-para-cima que halinotem sobre-mim"
           },
           {
             "verse": 30,
-            "text": "se vós תָּבֹ֣אוּ a a-terra que eu-elevei a minha-mão que vos nela porque se Kalev filho-de yefunneh וִיהוֹשֻׁ֖עַ filho-de נֽוּן׃"
+            "text": "se vós tavu a a-terra que eu-elevei a minha-mão que vos nela porque se Kalev filho-de yefunneh e Josué filho-de Nun:"
           },
           {
             "verse": 31,
-            "text": "וְטַ֨פְּכֶ֔ם que אֲמַרְתֶּ֖ם para-saque será וְהֵבֵיאתִ֣י eles וְיָֽדְעוּ֙ a a-terra que מְאַסְתֶּ֖ם nela"
+            "text": "e-vosso-tipo que אֲמַרְתֶּ֖ם para-saque será e-eu-trarei eles וְיָֽדְעוּ֙ וְיָדַעֻהוּ a a-terra que de-aborrecer-vos nela"
           },
           {
             "verse": 32,
-            "text": "וּפִגְרֵיכֶ֖ם vós יִפְּל֖וּ em-o-deserto a-esta"
+            "text": "e-corpos-vossos vós יפלוּ em-o-deserto a-esta"
           },
           {
             "verse": 33,
-            "text": "e-filhos-vossos יִהְי֨וּ רֹעִ֤ים bamidbar quarenta ano וְנָשְׂא֖וּ a זְנוּתֵיכֶ֑ם até [בַּמִּדְבָּֽר] פּגְרֵיכֶ֖ם no-deserto"
+            "text": "e-filhos-vossos יִהְי֨וּ רֹעִ֤ים bamidbar quarenta ano וְנָשְׂא֖וּ a זְנוּתֵיכֶ֑ם até perfeição פּגְרֵיכֶ֖ם no-deserto"
           },
           {
             "verse": 34,
@@ -2288,7 +2289,7 @@
           },
           {
             "verse": 2,
-            "text": "palavra a filhos-de Israel e-dirás que porque תָבֹ֗אוּ a terra מוֹשְׁבֹ֣תֵיכֶ֔ם que a-vós deu a-vós"
+            "text": "palavra a filhos-de Israel e-dirás que porque תָבֹ֗אוּ a terra מוֹשְׁבֹ֣תֵיכֶ֔ם que a-vós deu para-vocês"
           },
           {
             "verse": 3,
@@ -2296,19 +2297,19 @@
           },
           {
             "verse": 4,
-            "text": "e-ele-ofereceu o-maquive oferenda-sua para-יהוה oferta-de-cereais flor-farinha עִשָּׂר֔וֹן בָּל֕וּל בִּרְבִיעִ֥ית הַהִ֖ין azeite"
+            "text": "e-ele-ofereceu o-maquive oferenda-sua para-יהוה oferta-cereais flor-farinha עִשָּׂר֔וֹן בָּל֕וּל בִּרְבִיעִ֥ית הַהִ֖ין azeite"
           },
           {
             "verse": 5,
-            "text": "e vinho para o vaso quarta parte deste vinho farás sobre a-holocausto ou para o sacrifício o-primeiro o-primeiro"
+            "text": "e vinho para o vaso quarta parte deste vinho farás sobre a-holocausto ou para o sacrifício o-primeiro o-um"
           },
           {
             "verse": 6,
-            "text": "ou para a cabra farás oferenda farinha-fina segundo dez misturada em-o-óleo terça parte deste vinho"
+            "text": "ou para a cabra farás oferenda farinha-de-trigo segundo dez misturada em-o-óleo terça parte deste vinho"
           },
           {
             "verse": 7,
-            "text": "e-vinho para o vaso שְׁלִישִׁית הַהִ֑ין tu-oferecerás aroma-de agradavel para-יהוה"
+            "text": "e-vinho para o vaso שְׁלִישִׁית הַהִ֑ין tu-oferecerás aroma-de tranquilidade para-יהוה"
           },
           {
             "verse": 8,
@@ -2316,7 +2317,7 @@
           },
           {
             "verse": 9,
-            "text": "e-oferecerá sobre filho-de o-bovino oferenda farinha-fina três עֶשְׂרֹנִים בָּל֥וּל em-o-óleo metade-de הַהִֽין׃"
+            "text": "e-oferecerá sobre filho-de o-bovino oferenda farinha-de-trigo três dez בָּל֥וּל em-o-óleo metade-de deste vinho"
           },
           {
             "verse": 10,
@@ -2324,7 +2325,7 @@
           },
           {
             "verse": 11,
-            "text": "assim será-feito para-o-vaca o-primeiro ou para-a-ove o-primeiro ou para-a-cabra nas-caprinos ou nas-velozes"
+            "text": "assim será-feito para-o-vaca o-primeiro ou para-a-ove o-primeiro ou para-a-cabra nas-caprinos ou nas-velozes；"
           },
           {
             "verse": 12,
@@ -2336,7 +2337,7 @@
           },
           {
             "verse": 14,
-            "text": "e-quando estrangeiro entre-vós estrangeiro ou que בְתֽוֹכְכֶם֙ para-gerações-vossas e fará mulher aroma-de agradavel a-yhwh como farão assim ele-fará"
+            "text": "e-quando estrangeiro entre-vós estrangeiro ou que בְתֽוֹכְכֶם֙ para-gerações-vossas e fará mulher aroma-de tranquilidade a-yhwh como farão assim ele-fará"
           },
           {
             "verse": 15,
@@ -2364,11 +2365,11 @@
           },
           {
             "verse": 21,
-            "text": "Mereishít [עֲרִסֹ֣תֵיכֶ֔ם] vocês-serão a-yhwh Terumá Ledoroteichem:"
+            "text": "Mereishít vossas-arcas vocês-serão a-yhwh Terumá Ledoroteichem:"
           },
           {
             "verse": 22,
-            "text": "e-porque Tishgú e-não fareis a todo [הָאֵ֑לֶּה] estes yhwh palavra yhwh a Moisés"
+            "text": "e-porque Tishgú e-não fareis a todo os-comandamentos estes yhwh palavra yhwh a Moisés"
           },
           {
             "verse": 23,
@@ -2376,15 +2377,15 @@
           },
           {
             "verse": 24,
-            "text": "e-foi mãe das-olhos a congregação foi feita por inadvertência e fizeram todo a congregação touro um manhã um o holocausto por odor agradável a-yhwh e sua oferenda de farinha e sacrifício um e o carneiro- um um -de oferta de culpa:"
+            "text": "e-foi mãe das-olhos a congregação foi feita por inadvertência e fizeram todo a congregação touro um manhã um o holocausto por odor agradável a-yhwh e sua oferenda de farinha e sacrifício um e o carneiro- ovelhas um -de oferta de culpa:"
           },
           {
             "verse": 25,
-            "text": "e-perdoar o-sacerdote sobre todo assembleia filhos-de a-eles e-perdoado-ficará ela porque Shaggáh ele e eles- -trouxeram a seu sacrifício yhwh a-yhwh e sua oferta de culpa diante-de yhwh sobre -deles:"
+            "text": "e-perdoar o-sacerdote sobre todo assembleia filhos-de a-eles e-perdoado-ficará ela porque Shaggáh ele e eles- -trouxeram a seu sacrifício yhwh a-יהוה e sua oferta de culpa diante-de yhwh sobre -deles:"
           },
           {
             "verse": 26,
-            "text": "e perdoará para-todo a congregação filhos-de Israel e ao estrangeiro o estrangeiro que porque para-todo o-povo por engano;"
+            "text": "e perdoará para-todo a congregação filhos-de Israel e para o estrangeiro o estrangeiro que porque para-todo o-povo por engano;"
           },
           {
             "verse": 27,
@@ -2396,11 +2397,11 @@
           },
           {
             "verse": 29,
-            "text": "o azimut filhos-de Israel e ao estrangeiro o estrangeiro entre vós a lei uma será a-vós que faz por acidente׃"
+            "text": "o azimut filhos-de Israel e para o estrangeiro o estrangeiro entre vós a lei uma será a-vós que faz por engano;"
           },
           {
             "verse": 30,
-            "text": "e-a-alma que farás com a mão Rama de o Azazel e-de ele a yhwh ele aquela e-ser-cortado a-alma aquela de-meio-de a-sua-pena;"
+            "text": "e-a-alma que farás com a mão Rama de o azimut e-de ele a yhwh ele aquela e-ser-cortado a-alma a-essa de-meio-de a-sua-pena;"
           },
           {
             "verse": 31,
@@ -2420,11 +2421,11 @@
           },
           {
             "verse": 35,
-            "text": "E-disse yhwh a morrendo morrer será-morto o-homem ele a-ele em pedras todo a-congregação ele o-lager"
+            "text": "E-disse yhwh a morrendo morrer será-morto o-homem ele a-ele-o em pedras todo a-congregação fora-de o-lager"
           },
           {
             "verse": 36,
-            "text": "e saíram ele todo a congregação a de-fora ele e lançaram ele em pedras E-morreu yhwh ordenou yhwh a Moisés"
+            "text": "e saíram ele todo a congregação a de-fora ele e lançaram a-ele em pedras E-morreu yhwh ordenou yhwh a Moisés"
           },
           {
             "verse": 37,
@@ -2432,19 +2433,19 @@
           },
           {
             "verse": 38,
-            "text": "palavra a filhos-de Israel e-dirás a-eles a-eles a-eles cifteh sobre asas-de nos seus vestuários para as gerações sobre cifteh a borda פֹּתִיל תְּכֵלֶת׃"
+            "text": "palavra a filhos-de Israel e-dirás a-eles a-eles para-eles cifteh sobre asas-de nos seus vestuários para as gerações sobre cifteh a borda פֹּתִיל תְּכֵלֶת׃"
           },
           {
             "verse": 39,
-            "text": "e-foi a-vós לְצִיצִת֒ וּרְאִיתֶ֣ם ele וּזְכַרְתֶּם֙ a yhwh mandamentos-de eles e-fizerdes a-eles e-não תָתֻ֜רוּ vossos-olhos vosso-coração e-depois-de עֵֽינֵיכֶ֔ם que vós זֹנִ֖ים depois-deles"
+            "text": "e-foi a-vós לְצִיצִת֒ וּרְאִיתֶ֣ם ele וּזְכַרְתֶּם֙ a yhwh mandamentos-de eles e-fizerdes a-eles e-não תָתֻ֜רוּ vossos-olhos para-coracoes-vos e-depois-de עֵֽינֵיכֶ֔ם que vós זֹנִ֖ים depois-deles"
           },
           {
             "verse": 40,
-            "text": "para-que תִּזְכְּר֔וּ e-fizerdes a e-sereis מִצְוֺתָ֑י vehitytem ele para os seus elohimes:"
+            "text": "para-que תִּזְכְּר֔וּ e-fizerdes a e-sereis מִצְוֺתָ֑י vehitytem kedoshim para os seus elohim:"
           },
           {
             "verse": 41,
-            "text": "eu yhwh vosso-Elohim que eu tirei vos da-terra Egito para-ser a-vós para-Elohim eu yhwh vosso-Elohim"
+            "text": "eu yhwh Elohim-vossos que eu tirei vos da-terra Egito a-ser a-vós para os elohim eu yhwh vosso-Elohim"
           }
         ]
       },
@@ -2453,7 +2454,7 @@
         "verses": [
           {
             "verse": 1,
-            "text": "E-tomou Qorach filho-de [בֶּן־קְהָ֖ת] filho-de Coate filho-de Levi e Datân e Abiram filhos-de Eliaabe e Úm filho-de Peleet filhos-de Reuven-verso"
+            "text": "E-tomou Qorach filho-de Izhar filho-de Coate filho-de Levi e Datân e Abiram filhos-de Eliaabe e Úm filho-de Peleet filhos-de Reuven-verso"
           },
           {
             "verse": 2,
@@ -2473,15 +2474,15 @@
           },
           {
             "verse": 6,
-            "text": "esta fazei tomai para-vós cântaros קֹ֖רַח e-todo עֲדָתֽוֹ׃"
+            "text": "esta fazei tomai para-vós cântaros  קֹ֖רַח e-todo  עֲדָתֽוֹ׃"
           },
           {
             "verse": 7,
-            "text": "וּתְנ֣וּ בָהֵ֣ן ׀ אֵ֡שׁ וְשִׂימוּ֩ עֲלֵיהֶ֨ן ׀ קְטֹ֜רֶת diante-de yhwh amanhã yhwh o-homem que יִבְחַ֥ר yhwh yhwh ele chefe-de a-vós filhos-de Levi"
+            "text": "וּתְנ֣וּ  בָהֵ֣ן ׀  אֵ֡שׁ  וְשִׂימוּ֩  עֲלֵיהֶ֨ן ׀  קְטֹ֜רֶת diante-de yhwh amanhã yhwh o-homem que  יִבְחַ֥ר yhwh yhwh ele chefe-de a-vós filhos-de Levi"
           },
           {
             "verse": 8,
-            "text": "E-disse Moisés a קֹ֑רַח ouvi por-favor filhos-de Levi"
+            "text": "E-disse Moisés a  קֹ֑רַח ouvi por-favor filhos-de Levi"
           },
           {
             "verse": 9,
@@ -2501,7 +2502,7 @@
           },
           {
             "verse": 13,
-            "text": "o-que-pequeno que e-elevaste-nos@ de-terra-de que-mana leite e mel para nos matar no-deserto porque תִשׂתָרֵ֥ר sobre nós também foi dominado"
+            "text": "o-que-pequeno que e-elevaste-nos@ de-terra-de derramou leite e mel para nos matar no-deserto porque תִשׂתָרֵ֥ר sobre nós também foi dominado"
           },
           {
             "verse": 14,
@@ -2513,7 +2514,7 @@
           },
           {
             "verse": 16,
-            "text": "E-disse Moisés a tu tu e-todo Adat'cha yhwh tu yhwh tu Vahe'm e-Aarão amanhã"
+            "text": "E-disse Moisés a tu tu e-todo a-convocação-te@ yhwh tu yhwh tu Vahe'm e-Aarão amanhã"
           },
           {
             "verse": 17,
@@ -2553,11 +2554,11 @@
           },
           {
             "verse": 26,
-            "text": "e-falou a dizendo dizendo afastem-se de-cima-de de cima as tendas dos os-homens rebelados estes e-a a-eles em-todo que a-eles para-que-não continuaram em-todo a sua culpa:"
+            "text": "e-falou a dizendo dizendo afastem-se de-cima-de de cima as tendas dos os-homens rebelados estes e-a a-eles em-todo que para-eles para-que-não continuaram em-todo a sua culpa:"
           },
           {
             "verse": 27,
-            "text": "e subiram de-cima-de do tabernáculo- קֹרֶח דָּתָ֥ן וַאֲבִירָּם em-o-redor וְדָתָ֨ן וַאֲבִירָ֜ם saíram נִצָּבִ֗ים פֶּ֚תַח אֽ͏ָהֳלֵיהֶ֔ם וּנְשֵׁיהֶ֥ם e-seus-filhos וְטַפָּֽם׃"
+            "text": "e subiram de-cima-de do tabernáculo- קֹרֶח Datan: וַאֲבִירָּם em-o-redor e Datân e Abiram saíram נִצָּבִ֗ים פֶּ֚תַח אֽ͏ָהֳלֵיהֶ֔ם וּנְשֵׁיהֶ֥ם e-seus-filhos וְטַפָּֽם׃"
           },
           {
             "verse": 28,
@@ -2602,11 +2603,11 @@
           },
           {
             "verse": 2,
-            "text": "disse a El'azar filho-de Aarão o-sacerdote ve'yarem a hamachăttoth מִבֵּ֣ין que e-a noite זְרֵה־ הָ֑לְאָה porque קָדֵֽשׁוּ׃"
+            "text": "disse a El'azar filho-de Aarão o-sacerdote ve'yarem a hamachăttoth מִבֵּ֣ין que e-a o-fogo זְרֵה־ הָ֑לְאָה porque קָדֵֽשׁוּ׃"
           },
           {
             "verse": 3,
-            "text": "אֵ֡ת מַחְתּוֹת֩ הֽ͏ַחַטָּאִ֨ים ha-eleh בְּנַפְשֹׁתָ֗ם וְעָשׂ֨וּ eles רִקֻּעֵ֤י פחמים כיפוי למזבח porque הקריבו diante-de- yhwh ויקדו ויהיו para-sinal para-filhos-de Israel"
+            "text": "אֵ֡ת מַחְתּוֹת֩ הֽ͏ַחַטָּאִ֨ים ha-eleh בְּנַפְשֹׁתָ֗ם וְעָשׂ֨וּ eles רִקֻּעֵ֤י פחמים כיפוי למזבח porque הקריבו diante-de yhwh ויקדו ויהיו para-sinal para-filhos-de Israel"
           },
           {
             "verse": 4,
@@ -2614,7 +2615,7 @@
           },
           {
             "verse": 5,
-            "text": "lembrete aos-filhos-de Israel para-propósito-de que não virá homem estrangeiro não não da semente ele ele para-queimar incenso yhwh yhwh e-não sera como coraich e com a congregação dele yhwh palavra a-ele por-mão-de Moisés a-ele"
+            "text": "lembrete aos-filhos-de Israel para-propósito-de que não virá homem estrangeiro não não da semente ele ele para-queimar incenso yhwh yhwh e-não ser-á como coraich e com a congregação dele yhwh palavra a-ele por-mão-de Moisés a-ele"
           },
           {
             "verse": 6,
@@ -2622,7 +2623,7 @@
           },
           {
             "verse": 7,
-            "text": "e-houve em-reunião a-assembly sobre Moisés e-sobre Arão e-voltaram-se a tenda encontro e-eis cobriram yhwh E-viu yhwh yhwh"
+            "text": "e-houve em-reunião a-assembly sobre Moisés e-sobre Arão e-voltaram-se a tenda encontro e-eis cobriram yhwh E-viu glória yhwh"
           },
           {
             "verse": 8,
@@ -2634,11 +2635,11 @@
           },
           {
             "verse": 10,
-            "text": "e-elevaram-se de-meio-de a-assembly esta e-comeram eles em-breve e-caíram sobre em-seus-faces"
+            "text": "e-elevaram-se de-meio-de a-edah esta e-comeram eles em-breve e-caíram sobre em-seus-faces"
           },
           {
             "verse": 11,
-            "text": "E-disse Moisés a Arão toma a a-ferida de-cima-de עָלֶ֨יהָ אֵ֜שׁ de-sobre o-altar וְשִׂ֣ים קְטֹ֔רֶת וְהוֹלֵ֧ךְ מְהֵרָ֛ה a a-congregação e-perdoa yhwh porque יָצָ֥א הַקֶּ֛צֶף de-a-frente-de yhwh הֵחֵ֥ל הַנָּֽגֶף׃"
+            "text": "E-disse Moisés a Arão toma a a-ferida de-cima-de עָלֶ֨יהָ אֵ֜שׁ de-sobre o-altar וְשִׂ֣ים Ketoret וְהוֹלֵ֧ךְ מְהֵרָ֛ה a a-congregação e-perdoa yhwh porque יָצָ֥א הַקֶּ֛צֶף de-a-frente-de yhwh הֵחֵ֥ל הַנָּֽגֶף׃"
           },
           {
             "verse": 12,
@@ -2678,7 +2679,7 @@
           },
           {
             "verse": 21,
-            "text": "e-falou Moisés a filhos-de Israel a-ele אֵלָ֣יו ׀ todo נשיאיהם מטה um um מטה um um para-casa-de pais-deles dois dez מוטות ומטה no-meio-de em-meio-de mótuwám"
+            "text": "e-falou Moisés a filhos-de Israel a-ele אֵלָ֣יו ׀ todo נשיאיהם máta um um מטה um um para-casa-de pais-deles dois dez mattot ומטה no-meio-de em-meio-de mótuwám"
           },
           {
             "verse": 22,
@@ -2690,7 +2691,7 @@
           },
           {
             "verse": 24,
-            "text": "e-saiu Moisés a todo yhwh de-diante-de yhwh a todo filhos-de Israel e-eles-deram-conta a-ele homem metehu"
+            "text": "e-saiu Moisés a todo yhwh de-diante-de yhwh a todo filhos-de Israel e-eles-deram-conta e tomaram homem mattehu"
           },
           {
             "verse": 25,
@@ -2735,27 +2736,27 @@
           },
           {
             "verse": 6,
-            "text": "e-eu eis tom-eu a irmãos-vossos os-levitas de-meio-de filhos-de a-vós lachem Mitsubishi doados para-lavrar la-avod a avodat tenda encontro"
+            "text": "e-eu eis tom-eu a irmãos-vossos os-levitas de-meio-de filhos-de a-vós lachem  Mitsubishi  doados para-lavrar la-avod a avodat tenda-de encontro"
           },
           {
             "verse": 7,
-            "text": "e-tu e-filhos-teu com-te guardareis a vossa sacerdócio para-todo palavra o-altar e-no lar à arca e-servireis serviço Mitsubishi אֶתּוֹ a כְּהֻנָּתְכֶ֔ם e-o-estranho o-que-se-aproxima será-morto"
+            "text": "e-tu e-filhos-teu com-te guardareis a vossa sacerdócio para-todo palavra o-altar e-no lar à arca e-servireis avodat  Mitsubishi  אֶתּוֹ a כְּהֻנָּתְכֶ֔ם e-o-estranho o-que-se-aproxima será-morto"
           },
           {
             "verse": 8,
-            "text": "e-falou yhwh a Aharon- eis dei a-ti a-ti a guarda-de תְּרוּמֹתַ֑י a-ti קָדְשׁוֹ filhos-de Israel לְךָ֨ נְתַתֶּם לְמָשְׁחָה e-aos-seus-filhos por-tempo eternidade"
+            "text": "e-falou yhwh a Aharon- eis dei a-ti para-ti a guarda-de תְּרוּמֹתַ֑י a-ti קָדְשׁוֹ filhos-de Israel לְךָ֨ נְתַתֶּם לְמָשְׁחָה e-aos-seus-filhos por-tempo eternidade"
           },
           {
             "verse": 9,
-            "text": "este a-ti para-ti מִקֹּדֶשׁ הַקֳּדָשִׁ֖ים de o-fogo todo קָ֠רְבֻּנָם para-todo מִנְחָתָם e-para-todo- חַטָּאתָם e-para-todo- a-ti ele יָשִׁ֣יבוּ de-cima-de santo-de קָֽדָשִׁ֥ים a-ti ele וּלְבָנֶֽיךָ׃"
+            "text": "este- a-ti para-ti מִקֹּדֶשׁ הַקֳּדָשִׁ֖ים de o-fogo todo קָ֠רְבֻּנָם para-todo מִנְחָתָם e-para-todo- חַטָּאתָם e-para-todo- a-ti ele יָשִׁ֣יבוּ para-mim santo-de קָֽדָשִׁ֥ים para-ti ele וּלְבָנֶֽיךָ׃"
           },
           {
             "verse": 10,
-            "text": "בְּקֹ֥דֶשׁ הַקֳּדָשִׁ֖ים תֹּאכֲלֶ֑נּוּ todo macho ele a-ele santidade ele-será- para-ti"
+            "text": "בְּקֹ֥דֶשׁ הַקֳּדָשִׁ֖ים תֹּאכֲלֶ֑נּוּ todo macho ele a-ele santidade ele-será- para-ti"
           },
           {
             "verse": 11,
-            "text": "e-este לְּךָ֞ oferta-de מַתָּנָ֗ם para-todo תּוֹנֻפֹת a-ti Israel a-ti נְתַתֶּ֣יךָ וְלִבְנֵ֥י וְלִבְנוֹתֵיכֶ֖ם contigo por-tempo eternidade ele ele em-casa-tua comerá ele"
+            "text": "e-este לְּךָ֞ oferta-de מַתָּנָ֗ם para-todo תּוֹנֻפֹת a-ti Israel para-ti נְתַתֶּ֣יךָ וְלִבְנֵ֥י וְלִבְנוֹתֵיכֶ֖ם contigo por-tempo eternidade ele puro em-casa-tua comerá a-ele"
           },
           {
             "verse": 12,
@@ -2763,7 +2764,7 @@
           },
           {
             "verse": 13,
-            "text": "בְּכֻרֵ֤י todo que em-terra que a-ti será a-ti yihye todo ele em-casa-tua comerão"
+            "text": "בְּכֻרֵ֤י todo que em-terra que a-ti será para-ti yihye todo puro em-casa-tua comerão"
           },
           {
             "verse": 14,
@@ -2771,7 +2772,7 @@
           },
           {
             "verse": 15,
-            "text": "todo pêter rechem para-todo carne que e-sobre-os-animais para-יהוה em-homem e-com-o-gado sera para-ti somente pede o-homem את primogênito-de o-homem e-a em-o-primeiro-nato a-animais o-imundo tífdeh"
+            "text": "todo pêter rechem para-todo carne que e-sobre-os-animais para-יהוה em-homem e-com-o-gado ele-será- para-ti somente pede o-homem את primogênito-de o-homem e-a em-o-primeiro-nato a-animais o-imundo tífdeh"
           },
           {
             "verse": 16,
@@ -2779,7 +2780,7 @@
           },
           {
             "verse": 17,
-            "text": "somente b'bkór- shór ou b'bkór keshév não b'bkór 'ez eles você livrará santo-de eles a o sangue deles tu lançarás sobre o-altar e-a seu óleo tu ungi mulher para-aroma tranquilidade para-יהוה"
+            "text": "porém b'bkór- shór ou b'bkór keshév não b'bkór 'ez eles você livrará santo-de eles a o sangue deles tu lançarás sobre o-altar e-a seu óleo tu ungi mulher para-aroma tranquilidade para-יהוה"
           },
           {
             "verse": 18,
@@ -2791,11 +2792,11 @@
           },
           {
             "verse": 20,
-            "text": "E-disse yhwh a Arão não não tinhal vécheléq a-ti será a-ti bétokáthem eu no-meio-de vénaḥlát'echa em-meio-de filhos-de Israel"
+            "text": "E-disse yhwh a Arão não não tinhal vécheléq a-ti será a-ti entre vós eu no-meio-de vénaḥlát'echa em-meio-de filhos-de Israel"
           },
           {
             "verse": 21,
-            "text": "e-para-filhos-de Levi eis dei todo maʿásér em-Israel para herança substituição sua servidão que eles servos a avodat tenda encontro"
+            "text": "e-para-filhos-de Levi eis dei todo maʿásér em-Israel para herança substituição sua servidão que eles servos a avodat tenda-de encontro"
           },
           {
             "verse": 22,
@@ -2807,7 +2808,7 @@
           },
           {
             "verse": 24,
-            "text": "que a dezimo filhos-de Israel que levantar-se-ão dei oferta dei aos levitas por herança a-eles no-meio-de eu-disse a-eles não filhos-de Israel não herdarão herança"
+            "text": "que a dezimo filhos-de Israel que levantar-se-ão dei oferta dei aos levitas para herança a-eles no-meio-de eu-disse a-eles não filhos-de Israel não herdarão herança"
           },
           {
             "verse": 25,
@@ -2815,7 +2816,7 @@
           },
           {
             "verse": 26,
-            "text": "e-a os levitas diga e-dirás אֲלֵהֶם֒ porque תִ֠קְחוּ de-a filhos-de dei a-vós הַֽמַּעֲשֵׂ֗ר que נָתַ֧תִּי nós מֵאִתָּ֖ם yhwh וַהֲרֵמֹתֶ֤ם do-que-ele yhwh yhwh decimo de הַֽמַּעֲשֵֽׂר׃"
+            "text": "e-a os levitas diga e-dirás אֲלֵהֶם֒ porque תִ֠קְחוּ de-a filhos-de dei a-vós הַֽמַּעֲשֵׂ֗ר que נָתַ֧תִּי nós מֵאִתָּ֖ם yhwh וַהֲרֵמֹתֶ֤ם do-que-ele yhwh decimo de הַֽמַּעֲשֵֽׂר׃"
           },
           {
             "verse": 27,
@@ -2852,7 +2853,7 @@
           },
           {
             "verse": 2,
-            "text": "esta lei ha-torah que yhwh dizendo dizendo disse: a filhos-de Israel e-eles-tomem a-te frutificai vermelho puro que não-há nela מום que não subir sobre-ela sobre"
+            "text": "esta lei ha-torah que yhwh dizendo dizendo disse a filhos-de Israel e-eles-tomem a-te frutificai vermelho puro que não-há nela מום que não subiu sobre-ela sobre"
           },
           {
             "verse": 3,
@@ -2872,7 +2873,7 @@
           },
           {
             "verse": 7,
-            "text": "e enxaguou suas vestes o-sacerdote e lavou seu corpo em água e-depois vira a o-acampamento e-impuro o-sacerdote até no entardecer"
+            "text": "e enxaguou suas vestes o-sacerdote e lavou seu corpo em água e-depois virá a o-acampamento e-o-contaminará o-sacerdote até no entardecer"
           },
           {
             "verse": 8,
@@ -2932,7 +2933,7 @@
           },
           {
             "verse": 22,
-            "text": "e-tudo que יִגַּע־ nele o-imundo יִטְמָ֑א וְהַנּ֥פֶשׁ הַנֹּגַ֖עַת תִּטְמָ֥א até הָעָֽרֶב׃"
+            "text": "e-tudo que [הַטָּמֵ֖א] [יִטְמָ֑א] [וְהַנֶּ֥פֶשׁ] [הַנֹּגַ֖עַת] [תִּטְמָ֥א] [עַד־הָעָֽרֶב׃] até"
           }
         ]
       },
@@ -2953,7 +2954,7 @@
           },
           {
             "verse": 4,
-            "text": "Ve'lāmā הֲבֵאתֶם֙ a yhwh yhwh a הַמִּדְבָּ֖ר este לָמ֣וּת nome nós-mesmos וּבְעִירֵֽנוּ׃"
+            "text": "[וְלָמָ֤ה] [הֲבֵאתֶם֙] a yhwh yhwh a [לָמ֣וּת] este [אֲנַ֖חְנוּ] nome"
           },
           {
             "verse": 5,
@@ -2965,7 +2966,7 @@
           },
           {
             "verse": 7,
-            "text": "e-falou yhwh a Moisés dizendo"
+            "text": "e-falou yhwh a Moisés"
           },
           {
             "verse": 8,
@@ -3114,7 +3115,7 @@
           },
           {
             "verse": 14,
-            "text": "sobre assim que-se-diz בספר yhwh yhwh a והב בסופא e-a הנהליים ארנון׃"
+            "text": "sobre [יֵֽאָמַ֔ר] [בְּסֵ֖פֶר] [מִלְחֲמֹ֣ת] yhwh yhwh a [וְאֶת־הַנְּחָלִ֖ים] [אַרְנֽוֹן] e-[OBJ]"
           },
           {
             "verse": 15,
@@ -3138,7 +3139,7 @@
           },
           {
             "verse": 20,
-            "text": "וּמִבָּמ֗וֹת הַגַּיְא֙ que em-campo-de Moabe cabeça הַפִּסְגָּ֑ה וְנִשְׁקָ֖פָה sobre face-de הַיְשִׁימֹֽן׃"
+            "text": "[וּמִבָּמ֗וֹת] [הַגַּיְא֙] que [בִּשְׂדֵ֣ה] Moabe cabeça [הַפִּסְגָּ֑ה] [וְנִשְׁקָ֖פָה] sobre face-de"
           },
           {
             "verse": 21,
@@ -3211,7 +3212,7 @@
           },
           {
             "verse": 2,
-            "text": "E-viu בָּלָ֖ק filho-de צִפּ֑וֹר a todo que fez Israel לָֽאֱמֹרִֽי׃"
+            "text": "E-viu [בָּלָ֖ק] filho-de [OBJ] a todo que fez Israel"
           },
           {
             "verse": 3,
@@ -3227,7 +3228,7 @@
           },
           {
             "verse": 6,
-            "text": "e-agora לְכָה־ נא אָרֵי- [הַזֶּ֗ה] a ele este porque grande ele mais-que-a-mim אוּלַ֤י que נכה- nele ואֲגַרְשֶׁנּוּ de a-terra porque יָדַ֗עְתִּי a que תְּבָרֵךְ֙ מְבֹרָ֔ךְ e-que תָּאֹ֖ר יוּאָֽר׃"
+            "text": "e-agora [לְכָה־נָּ֨א] [אָֽרָה־לִּ֜י] [אֶת־הָעָ֣ם] [הַזֶּ֗ה] a ele este porque [אוּכַל֙] [נַכֶּה־בּ֔וֹ] [וַאֲגָרְשֶׁ֖נּוּ] [מִן־הָאָ֑רֶץ] que [יָדַ֗עְתִּי] nele [אֲשֶׁר־תְּבָרֵךְ֙] de a-terra porque [יוּאָֽר] [OBJ] que"
           },
           {
             "verse": 7,
@@ -3243,7 +3244,7 @@
           },
           {
             "verse": 10,
-            "text": "E-disse בִּלְעָם a o-Elohim בָּלָ֧ק filho-de צִפֹּ֛ר rei Moabe enviou para-mim"
+            "text": "E-disse [בִּלְעָ֖ם] a o-Elohim [בֶּן־צִפֹּ֛ר] filho-de [מוֹאָ֖ב] rei Moabe enviou"
           },
           {
             "verse": 11,
@@ -3267,7 +3268,7 @@
           },
           {
             "verse": 16,
-            "text": "e-vieram a בִּלְעָ֑ם a-ele para-ele disse disse בלָק filho-de צִפּ֔וֹר a por-favor תִמָּנַ֖ע מֵהֲלֹ֥ךְ para-mim"
+            "text": "[וַיָּבֹ֖אוּ] a [וַיֹּ֣אמְרוּ] a-ele [כֹּ֤ה] disse disse [בֶּן־צִפּ֔וֹר] filho-de [תִמָּנַ֖ע] a por-favor"
           },
           {
             "verse": 17,
@@ -3287,7 +3288,7 @@
           },
           {
             "verse": 21,
-            "text": "E-levantou בִּלְעָם֙ de-manhã וַיַּחֲבֹשׁ a אֲתֹנ֑וֹ E-andou com príncipes-de Moabe"
+            "text": "E-levantou [בִּלְעָם֙] de-manhã [וַֽיַּחֲבֹ֖שׁ] a [וַיֵּ֖לֶךְ] E-andou com"
           },
           {
             "verse": 22,
@@ -3384,7 +3385,7 @@
           },
           {
             "verse": 3,
-            "text": "E-disse בלעם לבלק התיצב sobre עֹלָתֶךָ ואלכה אוּלַ֞י yhwh yhwh לִקְרָאתִ֔י וּדְבַ֥ר que para-ti e-eu-declararei a-ti E-andou שֶֽׁפִי׃"
+            "text": "E-disse [בִּלְעָ֜ם] [לְבָלָ֗ק] [הִתְיַצֵּב֮] sobre [וְאֵֽלְכָ֗ה] [אוּלַ֞י] [יִקָּרֵ֤ה] yhwh yhwh [וּדְבַ֥ר] [מַה־יַּרְאֵ֖נִי] que para-ti [וַיֵּ֖לֶךְ] a-ti E-andou"
           },
           {
             "verse": 4,
@@ -3400,7 +3401,7 @@
           },
           {
             "verse": 7,
-            "text": "e-levantou מְשָׁל֖וֹ E-disse de אֲ֠רָם יַנְחֵ֨נִי בָלָ֤ק rei-de Moabe מֵֽהַרְרֵי־ קֶ֔דֶם לְכוּ אָרֵי- para-mim Jacó וּלְכוּ זוֹעֲמָה Israel"
+            "text": "e-levantou [מְשָׁל֖וֹ] E-disse de [יַנְחֵ֨נִי] [בָלָ֤ק] [מֶֽלֶךְ־מוֹאָב֙] rei-de [לְכָה֙] [אָֽרָה־לִּ֣י] [יַעֲקֹ֔ב] [וּלְכָ֖ה] [זֹעֲמָ֥ה] [יִשְׂרָאֵֽל] Jacó Israel"
           },
           {
             "verse": 8,
@@ -3408,7 +3409,7 @@
           },
           {
             "verse": 9,
-            "text": "porque מִרֹאשׁ צֻרִים֙ אֶרְאֶ֔נּוּ וּמִגְּבָע֖וֹת אֲשׁוּרֶ֑נּוּ eis povo לְבָדָ֣ד não וּבַגּוֹיִ֖ם não יִתְחַשָֽׁב׃"
+            "text": "porque [צֻרִים֙] [אֶרְאֶ֔נּוּ] [וּמִגְּבָע֖וֹת] [אֲשׁוּרֶ֑נּוּ] [הֶן־עָם֙] [לְבָדָ֣ד] povo [וּבַגּוֹיִ֖ם] não [יִתְחַשָּֽׁב] não"
           },
           {
             "verse": 10,
@@ -3420,7 +3421,7 @@
           },
           {
             "verse": 12,
-            "text": "ויאן E-disse הלוא a que ישם yhwh בפי ele אשמור לתדבר׃"
+            "text": "[וַיַּ֖עַן] E-disse [הֲלֹ֗א] a que [יָשִׂ֤ים] yhwh [בְּפִ֔י] ele [אֶשְׁמֹ֖ר] [לְדַבֵּֽר]"
           },
           {
             "verse": 13,
@@ -3456,7 +3457,7 @@
           },
           {
             "verse": 21,
-            "text": "não ele olhou אָוֶן em Jacó e-não viu yhwh em-Israel yhwh אֱלֹהִים-dele com-ele e a trombeta rei em-ele"
+            "text": "não ele olhou אָוֶן em Jacó e-não viu yhwh em-Israel yhwh Elohim-dele com-ele e a trombeta rei em-ele"
           },
           {
             "verse": 22,
@@ -3517,11 +3518,11 @@
           },
           {
             "verse": 5,
-            "text": "que טֹּ֥בוּ אֹהָלֶ֖יךָ Jacó מִשְׁכְּנֹתֶ֖יךָ Israel"
+            "text": "que [אֹהָלֶ֖יךָ] [יַעֲקֹ֑ב] Jacó [יִשְׂרָאֵֽל] Israel"
           },
           {
             "verse": 6,
-            "text": "כִּנְחָלִ֣ים נִטָּ֔יוּ כְּגַנֹּ֖ת sobre rio כַּאֲהָלִים֙ plantar yhwh כַּאֲרָזִ֖ים sobre águas"
+            "text": "[כִּנְחָלִ֣ים] [נִטָּ֔יוּ] [כְּגַנֹּ֖ת] sobre rio [כַּאֲהָלִים֙] plantar yhwh [כַּאֲרָזִ֖ים] sobre águas"
           },
           {
             "verse": 7,
@@ -3533,7 +3534,7 @@
           },
           {
             "verse": 9,
-            "text": "כָּרַ֨ע שָׁכַ֧ב כַּאֲרִ֛י וּכְלָבִ֖יא quem יְקִימֶ֑נּוּ מְבָרֲכֶ֣יךָ בָר֔וּךְ וְאֹרְרֶ֖יךָ maldito"
+            "text": "[כָּרַ֨ע] [שָׁכַ֧ב] [כַּאֲרִ֛י] [וּכְלָבִ֖יא] quem [יְקִימֶ֑נּוּ] [מְבָרֲכֶ֣יךָ] [בָר֔וּךְ] [וְאֹרְרֶ֖יךָ] maldito"
           },
           {
             "verse": 10,
@@ -3545,7 +3546,7 @@
           },
           {
             "verse": 12,
-            "text": "E-disse בִּלְעָם a בלָק também também a מלאכים- que dizendo para-mim falei para-dizer"
+            "text": "E-disse [בִּלְעָ֖ם] a [הֲלֹ֗א] também também a [אֵלַ֖י] que dizendo"
           },
           {
             "verse": 13,
@@ -3573,7 +3574,7 @@
           },
           {
             "verse": 19,
-            "text": "וְיֵ֖רְדְּ מִיַּעֲקֹ֑ב וְהֽ͏ֶאֱבִ֥יד שָׂרִ֖יד מֵעִֽיר׃"
+            "text": "[וְיֵ֖רְדְּ] [מִֽיַּעֲקֹ֑ב] [וְהֽ͏ֶאֱבִ֥יד] [שָׂרִ֖יד] [מֵעִֽיר]"
           },
           {
             "verse": 20,
@@ -3581,7 +3582,7 @@
           },
           {
             "verse": 21,
-            "text": "E-viu a הַקֵּינִ֔י e-levantou מְשָׁל֖וֹ E-disse אֵיתָן֙ מֽוֹשָׁבֶ֔ךָ וְשִׂ֥ים בַּסּ֖לַע Seu"
+            "text": "E-viu a [וַיִּשָּׂ֥א] e-levantou [וַיֹּאמַ֑ר] E-disse [מֽוֹשָׁבֶ֔ךָ] [וְשִׂ֥ים] [בַּסֶּ֖לַע] [קִנֶּֽךָ]"
           },
           {
             "verse": 22,
@@ -3642,7 +3643,7 @@
           },
           {
             "verse": 10,
-            "text": "e-falou yhwh a Moisés dizendo"
+            "text": "e-falou yhwh a Moisés"
           },
           {
             "verse": 11,
@@ -3658,7 +3659,7 @@
           },
           {
             "verse": 14,
-            "text": "e-nome-de homem Israel הַמֻּכֶּ֗ה que הֻכָּה֙ a הַמִּדְיָנִ֔ית זִמְרִ֖י filho-de סָל֑וּא נְשִׂ֥יא casa-de pai לַשִּׁמְעֹנִֽי׃"
+            "text": "[וְשֵׁם֩] homem Israel [הַמֻּכֶּ֗ה] que [הֻכָּה֙] a [זִמְרִ֖י] [בֶּן־סָל֑וּא] filho-de [בֵֽית־אָ֖ב] [לַשִּׁמְעֹנִֽי] casa-de pai"
           },
           {
             "verse": 15,
@@ -3666,15 +3667,15 @@
           },
           {
             "verse": 16,
-            "text": "e-falou yhwh a Moisés dizendo"
+            "text": "e-falou yhwh a Moisés"
           },
           {
             "verse": 17,
-            "text": "צָר֖וֹר a הַמִּדְיָנִ֑ים וְהִכִּיתֶ֖ם a-eles"
+            "text": "[צָר֖וֹר] a [וְהִכִּיתֶ֖ם] [אוֹתָֽם]"
           },
           {
             "verse": 18,
-            "text": "que צֹרְרִ֥ים eles a-vós בֲּנִכְלֵיהֶ֛ם que a-vós a-vós sobre palavra-de פְּע֑וֹר e-sobre palavra כָּזְבִּ֨י filha-de נְשִׂ֤יא Midiã אֲחֹתָ֔ם הַמֻּכָּ֥ה בְיוֹם־ a praga sobre palavra-de P'or"
+            "text": "que [צֹרְרִ֥ים] eles a-vós [בְּנִכְלֵיהֶ֛ם] que a-vós a-vós sobre palavra-de [בַת־נְשִׂ֤יא] e-sobre palavra [הַמֻּכָּ֥ה] [בְיוֹם־הַמַּגֵּפָ֖ה] [עַל־דְּבַר־פְּעֽוֹר] sobre"
           },
           {
             "verse": 19,
@@ -3707,7 +3708,7 @@
           },
           {
             "verse": 6,
-            "text": "לְחֶצְרֹ֕ן família-de הַֽחֶצְרוֹנִ֑י לְכַרְמִ֕י família-de הַכַּרְמִֽי׃"
+            "text": "[לְחֶצְרֹ֕ן] família-de [הַֽחֶצְרוֹנִ֑י] [לְכַרְמִ֕י] família-de [הַכַּרְמִֽי]"
           },
           {
             "verse": 7,
@@ -3743,7 +3744,7 @@
           },
           {
             "verse": 15,
-            "text": "filhos-de גָד֮ לְמִשְׁפְּחֹתֵיהֶֽם לִצְפ֗וֹן família-de הַצְּפוֹנִ֔י לְחַגִּ֕י família-de הַֽחַגִּ֑י לְשׁוּנִ֕י família-de הַשּׁוּנִֽי׃"
+            "text": "filhos-de [גָד֮] [לְמִשְׁפְּחֹתָם֒] [לִצְפ֗וֹן] família-de [הַצְּפוֹנִ֔י] [לְחַגִּ֕י] família-de [הַֽחַגִּ֑י] [לְשׁוּנִ֕י] família-de [הַשּׁוּנִֽי]"
           },
           {
             "verse": 16,
@@ -3763,7 +3764,7 @@
           },
           {
             "verse": 20,
-            "text": "e-foram filhos-de יהודה֮ לְמִשְׁפְּחֹתֵיהֶֽם לְשֵׁלָ֗ה família-de הַשּׁ֣לָנִ֔י לְפֶ֕רֶץ família-de הַפַּרְצִ֑י לְזֶ֕רַח família-de הַזַּרְחִֽי׃"
+            "text": "[וַיִּהְי֣וּ] filhos-de [לְמִשְׁפְּחֹתָם֒] [לְשֵׁלָ֗ה] [מִשְׁפַּ֙חַת֙] família-de [לְפֶ֕רֶץ] [מִשְׁפַּ֖חַת] família-de [לְזֶ֕רַח] [מִשְׁפַּ֖חַת] família-de"
           },
           {
             "verse": 21,
@@ -3787,7 +3788,7 @@
           },
           {
             "verse": 26,
-            "text": "filhos-de זְבוּלֻן֮ לְמִשְׁפְּחֹתֵיהֶֽם לְסֶ֗רֶד família-de הַסַּרְדִּ֔י לְאֵל֕וֹן família-de הָאֵלֹנִ֑י לְיַ֨חְלְאֵ֔ל família-de הַיַּחְלְאֵלִֽי׃"
+            "text": "filhos-de [זְבוּלֻן֮] [לְמִשְׁפְּחֹתָם֒] [לְסֶ֗רֶד] família-de [הַסַּרְדִּ֔י] [לְאֵל֕וֹן] família-de [הָאֵלֹנִ֑י] [לְיַ֨חְלְאֵ֔ל] família-de [הַיַּחְלְאֵלִֽי]"
           },
           {
             "verse": 27,
@@ -3807,11 +3808,11 @@
           },
           {
             "verse": 31,
-            "text": "וְאַ֨שְׂרִיאֵ֔ל família-de הָֽאַשְׂרִֽאֵלִ֑י וְשֶׁ֕כֶם família-de הַשִּׁכְמִֽי׃"
+            "text": "[וְאַ֨שְׂרִיאֵ֔ל] família-de [הָֽאַשְׂרִֽאֵלִ֑י] [וְשֶׁ֕כֶם] família-de [הַשִּׁכְמִֽי]"
           },
           {
             "verse": 32,
-            "text": "וּשְׁמִידָ֕ע família-de הַשְּׁמִידָעִ֑י וְחֵ֕פֶר família-de הַֽחֶפְרִֽי׃"
+            "text": "[וּשְׁמִידָ֕ע] família-de [הַשְּׁמִידָעִ֑י] [וְחֵ֕פֶר] família-de [הַֽחֶפְרִֽי]"
           },
           {
             "verse": 33,
@@ -3835,7 +3836,7 @@
           },
           {
             "verse": 38,
-            "text": "filhos-de בִנְיָמִן לְמִשְׁפְּחֹתֵיהֶֽם לְבֶלַע família-de הַבַּלְעִי לְאַשְׁבֵּל família-de הָֽאַשְׁבֵּלִי לַאֲחִירָם família-de הָאֲחִירָמִי׃"
+            "text": "filhos-de [בִנְיָמִן֮] [לְמִשְׁפְּחֹתָם֒] [לְבֶ֗לַע] família-de [הַבַּלְעִ֔י] [לְאַשְׁבֵּ֕ל] família-de [הָֽאַשְׁבֵּלִ֑י] [לַאֲחִירָ֕ם] família-de [הָאֲחִירָמִֽי]"
           },
           {
             "verse": 39,
@@ -3859,7 +3860,7 @@
           },
           {
             "verse": 44,
-            "text": "filhos-de que לְמִשְׁפְּחֹתֵיהֶֽם לְיִמְנָ֗ה família-de הַיִּמְנָ֔ה לְיִשְׁוִ֕י família-de הַיִּשְׁוִ֑י לִבְרִיעָ֕ה família-de הַבְּרִיעִֽי׃"
+            "text": "filhos-de que [לְמִשְׁפְּחֹתָם֒] [לְיִמְנָ֗ה] família-de [הַיִּמְנָ֔ה] [לְיִשְׁוִ֕י] família-de [הַיִּשְׁוִ֑י] [לִבְרִיעָ֕ה] família-de [הַבְּרִיעִֽי]"
           },
           {
             "verse": 45,
@@ -3891,7 +3892,7 @@
           },
           {
             "verse": 52,
-            "text": "e-falou yhwh a Moisés dizendo"
+            "text": "e-falou yhwh a Moisés"
           },
           {
             "verse": 53,
@@ -3972,7 +3973,7 @@
           },
           {
             "verse": 6,
-            "text": "E-disse yhwh a Moisés dizendo"
+            "text": "E-disse yhwh a Moisés"
           },
           {
             "verse": 7,
@@ -3988,7 +3989,7 @@
           },
           {
             "verse": 10,
-            "text": "e-se a-ele a-ele אַחִים e-dareis a seu-pai לַאֲחֵי seu-pai"
+            "text": "e-se a-ele a-ele [וּנְתַתֶּ֥ם] [אֶת־נַחֲלָת֖וֹ] a seu-pai"
           },
           {
             "verse": 11,
@@ -4008,7 +4009,7 @@
           },
           {
             "verse": 15,
-            "text": "e-falou Moisés a dizendo para-dizer"
+            "text": "e-falou Moisés a dizendo"
           },
           {
             "verse": 16,
@@ -4049,7 +4050,7 @@
         "verses": [
           {
             "verse": 1,
-            "text": "e-falou yhwh a Moisés dizendo"
+            "text": "e-falou yhwh a Moisés"
           },
           {
             "verse": 2,
@@ -4061,7 +4062,7 @@
           },
           {
             "verse": 4,
-            "text": "a um um farás no-manha e-את o carneiro o-segundo entre entre hár'arbayím׃"
+            "text": "a um um farás e-[OBJ] e-[OBJ] [הַשֵּׁנִ֔י] o-segundo entre entre"
           },
           {
             "verse": 5,
@@ -4121,7 +4122,7 @@
           },
           {
             "verse": 19,
-            "text": "וְהִקְרַבְתֶּ֨ם mulher עֹלָה֙ a-yhwh [פָּרִ֧ים] filhos-de manhã dois um um [כְבָשִׂים֙] [בְּנֵ֣י] filhos-de ano [יִהְי֥וּ] a-vós a-vós"
+            "text": "[וְהִקְרַבְתֶּ֨ם] mulher [עֹלָה֙] a-yhwh [פָּרִ֧ים] filhos-de manhã dois um um [כְבָשִׂים֙] [בְּנֵ֣י] filhos-de ano [יִהְי֥וּ] a-vós"
           },
           {
             "verse": 20,
@@ -4161,7 +4162,7 @@
           },
           {
             "verse": 29,
-            "text": "[עִשָּׂרוֹן֙] עִשָּׂר֔וֹן לכּבשׂ o-primeiro [לְשִׁבְעַ֖ת] [הַכְּבָשִֽׂים]"
+            "text": "[עִשָּׂרוֹן֙] [עִשָּׂר֔וֹן] [לַכֶּ֖בֶשׂ] o-primeiro [לְשִׁבְעַ֖ת] [הַכְּבָשִֽׂים]"
           },
           {
             "verse": 30,
@@ -4190,7 +4191,7 @@
           },
           {
             "verse": 4,
-            "text": "[וְעִשָּׂר֣וֹן] um לכּבשׂ o-primeiro [לְשִׁבְעַ֖ת] [הַכְּבָשִֽׂים]"
+            "text": "[וְעִשָּׂר֣וֹן] um [לַכֶּ֖בֶשׂ] o-primeiro [לְשִׁבְעַ֖ת] [הַכְּבָשִֽׂים]"
           },
           {
             "verse": 5,
@@ -4214,7 +4215,7 @@
           },
           {
             "verse": 10,
-            "text": "[עִשָּׂרוֹן֙] עִשָּׂר֔וֹן לכּבשׂ o-primeiro [לְשִׁבְעַ֖ת] [הַכְּבָשִֽׂים]"
+            "text": "[עִשָּׂרוֹן֙] [עִשָּׂר֔וֹן] [לַכֶּ֖בֶשׂ] o-primeiro [לְשִׁבְעַ֖ת] [הַכְּבָשִֽׂים]"
           },
           {
             "verse": 11,
@@ -4234,7 +4235,7 @@
           },
           {
             "verse": 15,
-            "text": "עִשָּׂר֔וֹן לכּבשׂ [לַכֶּ֖בֶשׂ] o-primeiro dez [עָשָׂ֖ר]"
+            "text": "[וְעִשָּׂרוֹׄן֙[4]] [עִשָּׂר֔וֹן] [לַכֶּ֖בֶשׂ] o-primeiro dez [עָשָׂ֖ר]"
           },
           {
             "verse": 16,
@@ -4371,7 +4372,7 @@
           },
           {
             "verse": 9,
-            "text": "[וְ֠אִם] no-dia ouviu [אִישָׁהּ֮] [יָנִ֣יא] [אוֹתָהּ֒] [וְהֵפֵ֗ר] a [אֲשֶׁ֣ר] que sobre-ela e-את [שְׂפָתֶ֔יהָ] [אֲשֶׁ֥ר] que [עַל־נַפְשָׁ֑הּ] sobre [יִֽסְלַֽח־לָֽהּ] yhwh [sem-traducao] a-ela"
+            "text": "[וְ֠אִם] no-dia ouviu [אִישָׁהּ֮] [יָנִ֣יא] [אוֹתָהּ֒] [וְהֵפֵ֗ר] a [אֲשֶׁ֣ר] que e-[OBJ] e-[OBJ] [שְׂפָתֶ֔יהָ] [אֲשֶׁ֥ר] que [עַל־נַפְשָׁ֑הּ] sobre [יִֽסְלַֽח־לָֽהּ]"
           },
           {
             "verse": 10,
@@ -4387,11 +4388,11 @@
           },
           {
             "verse": 13,
-            "text": "e-se [יָפֵ֨ר] eles [׀] [אִישָׁהּ֮] no-dia [שָׁמְעוֹ֒] todo [שְׂפָתֶ֧יהָ] [לִנְדָרֶ֛יהָ] [וּלְאִסַּ֥ר] [נַפְשָׁ֖הּ] não não [אִישָׁ֣הּ] [הֲפֵרָ֔ם] [וַיהוָ֖ה] וַיהוָ֖ה [sem-traducao] a-ela"
+            "text": "e-se [יָפֵ֨ר] eles [׀] [אִישָׁהּ֮] no-dia [שָׁמְעוֹ֒] todo [שְׂפָתֶ֧יהָ] [לִנְדָרֶ֛יהָ] [וּלְאִסַּ֥ר] [נַפְשָׁ֖הּ] não não [אִישָׁ֣הּ] [הֲפֵרָ֔ם] [וַיהוָ֖ה] [יִֽסְלַֽח־לָֽהּ]"
           },
           {
             "verse": 14,
-            "text": "todo [וְכָל־שְׁבֻעַ֥ת] e-todo [לְעַנֹּ֣ת] [נָ֑פֶשׁ] [אִישָׁ֥הּ] alma [וְאִישָׁ֥הּ] [יְפֵרֶֽנּוּ] e homem-de ela [sem-traducao]"
+            "text": "todo [וְכָל־שְׁבֻעַ֥ת] e-todo [לְעַנֹּ֣ת] [נָ֑פֶשׁ] [אִישָׁ֥הּ] alma [וְאִישָׁ֥הּ] [יְפֵרֶֽנּוּ]"
           },
           {
             "verse": 15,
@@ -4412,7 +4413,7 @@
         "verses": [
           {
             "verse": 1,
-            "text": "e-falou yhwh a Moisés dizendo"
+            "text": "e-falou yhwh a Moisés"
           },
           {
             "verse": 2,
@@ -4436,7 +4437,7 @@
           },
           {
             "verse": 7,
-            "text": "[וַֽיִּצְבְּאוּ֙] sobre Midian como yhwh yhwh a Moisés וַיַּֽהַרְג֖וּ todo macho"
+            "text": "[וַֽיִּצְבְּאוּ֙] sobre [כַּאֲשֶׁ֛ר] como yhwh yhwh a Moisés todo macho"
           },
           {
             "verse": 8,
@@ -4444,11 +4445,11 @@
           },
           {
             "verse": 9,
-            "text": "[וַיִּשְׁבּ֧וּ] filhos-de Israel a [וְאֶת־טַפָּ֑ם] מִדְיָן e-a [וְאֶת־כָּל־מִקְנֵהֶ֛ם] e-a todo [sem-traducao] e-a todo [sem-traducao] e-a todo [sem-traducao] [sem-traducao]"
+            "text": "[וַיִּשְׁבּ֧וּ] filhos-de Israel a [וְאֶת־טַפָּ֑ם] e-[OBJ] e-[OBJ] [וְאֶת־כָּל־מִקְנֵהֶ֛ם] e-[OBJ] todo e-[OBJ] todo e-[OBJ] todo"
           },
           {
             "verse": 10,
-            "text": "e-a todo [בְּמ֣וֹשְׁבֹתָ֔ם] e-[OBJ] e-a todo [בָּאֵֽשׁ] queimaram em-a-chama"
+            "text": "e-[OBJ] todo [בְּמ֣וֹשְׁבֹתָ֔ם] e-[OBJ] e-[OBJ] todo [בָּאֵֽשׁ]"
           },
           {
             "verse": 11,
@@ -4488,7 +4489,7 @@
           },
           {
             "verse": 20,
-            "text": "e-todo [וְכָל־כְּלִי־ע֛וֹר] e-todo [עִזִּ֖ים] [וְכָל־כְּלִי־עֵ֑ץ] e-todo obra-de cabras e-todo vida árvore [sem-traducao]"
+            "text": "e-todo [וְכָל־כְּלִי־ע֛וֹר] e-todo [עִזִּ֖ים] [וְכָל־כְּלִי־עֵ֑ץ] e-todo e-todo"
           },
           {
             "verse": 21,
@@ -4508,7 +4509,7 @@
           },
           {
             "verse": 25,
-            "text": "E-disse yhwh a Moisés dizendo"
+            "text": "E-disse yhwh a Moisés"
           },
           {
             "verse": 26,
@@ -4709,7 +4710,7 @@
           },
           {
             "verse": 20,
-            "text": "E-disse a-eles Moisés se [אֶת־הַדָּבָ֣ר] a a-palavra este yhwh diante-de yhwh para a guerra:"
+            "text": "E-disse a-eles Moisés se [אֶת־הַדָּבָ֣ר] a a-palavra este yhwh diante-de yhwh"
           },
           {
             "verse": 21,
@@ -4729,7 +4730,7 @@
           },
           {
             "verse": 25,
-            "text": "E-disse filhos-de Gad e-filhos-de Rúben dizendo Moisés dizendo teus-servos [אֲדֹנִ֖י] como Adonai [sem-traducao]"
+            "text": "E-disse filhos-de Gad e-filhos-de Rúben dizendo Moisés dizendo teus-servos [Adonai] como Adonai [sem-traducao]"
           },
           {
             "verse": 26,
@@ -4745,15 +4746,15 @@
           },
           {
             "verse": 29,
-            "text": "E-disse Moisés [אֲלֵהֶ֗ם] se [בְנֵי־גָ֣ד] filhos-de [׀] [אִ֠תְּכֶם] [אֶֽת־הַיַּרְדֵּ֞ן] [כָּל־חָל֤וּץ] a [לִפְנֵ֣י] yhwh [וְנִכְבְּשָׁ֥ה] a-terra diante-de yhwh a-eles a-terra [הַגִּלְעָ֖ד] [לַאֲחֻזָּֽה] a-eles a terra [sem-traducao] [sem-traducao]"
+            "text": "E-disse Moisés [אֲלֵהֶ֗ם] se [בְנֵי־גָ֣ד] filhos-de [׀] [אִ֠תְּכֶם] [אֶֽת־הַיַּרְדֵּ֞ן] [כָּל־חָל֤וּץ] a [לִפְנֵ֣י] yhwh [וְנִכְבְּשָׁ֥ה] a-terra diante-de yhwh a-eles a-terra [הַגִּלְעָ֖ד] [לַאֲחֻזָּֽה] a terra"
           },
           {
             "verse": 30,
-            "text": "e-se não [חֲלוּצִ֖ים] [אִתְּכֶ֑ם] [וְנֹֽאחֲז֥וּ] [בְתֹכְכֶ֖ם] [בְּאֶ֥רֶץ] [כְּנָֽעַן] כְּנָֽעַן"
+            "text": "e-se não [חֲלוּצִ֖ים] [אִתְּכֶ֑ם] [וְנֹֽאחֲז֥וּ] [בְתֹכְכֶ֖ם] [בְּאֶ֥רֶץ] [כְּנָֽעַן]"
           },
           {
             "verse": 31,
-            "text": "[וַיַּֽעֲנ֧וּ] filhos-de [וּבְנֵ֥י] [רְאוּבֵ֖ן] dizendo dizendo a que yhwh yhwh a [נַעֲשֶֽׂה] assim [sem-traducao]"
+            "text": "[וַיַּֽעֲנ֧וּ] filhos-de [וּבְנֵ֥י] [רְאוּבֵ֖ן] dizendo dizendo a que yhwh yhwh a [נַעֲשֶֽׂה]"
           },
           {
             "verse": 32,
@@ -4765,31 +4766,31 @@
           },
           {
             "verse": 34,
-            "text": "[וַיִּבְנ֣וּ] filhos-de [אֶת־דִּיבֹ֖ן] a e-[OBJ] e-[OBJ] [sem-traducao] e-[OBJ] [sem-traducao]"
+            "text": "[וַיִּבְנ֣וּ] filhos-de [אֶת־דִּיבֹ֖ן] a e-[OBJ] e-[OBJ] e-[OBJ]"
           },
           {
             "verse": 35,
-            "text": "e-[OBJ] [שׁוֹפָ֛ן] [וְאֶת־יַעְזֵ֖ר] e-[OBJ] [sem-traducao] [sem-traducao]"
+            "text": "e-[OBJ] [שׁוֹפָ֛ן] [וְאֶת־יַעְזֵ֖ר] e-[OBJ]"
           },
           {
             "verse": 36,
-            "text": "e-[OBJ] casa [וְאֶת־בֵּ֣ית] e-[OBJ] casa [מִבְצָ֖ר] cidades-de [צֹֽאן] [sem-traducao] [sem-traducao]"
+            "text": "e-[OBJ] casa [וְאֶת־בֵּ֣ית] e-[OBJ] casa [מִבְצָ֖ר] cidades-de [צֹֽאן]"
           },
           {
             "verse": 37,
-            "text": "[וּבְנֵ֤י] [רְאוּבֵן֙] [בָּנ֔וּ] a [וְאֶת־אֶלְעָלֵ֑א] e-[OBJ] [קִרְיָתָֽיִם] e-[OBJ] as-cidades"
+            "text": "[וּבְנֵ֤י] [רְאוּבֵן֙] [בָּנ֔וּ] a [וְאֶת־אֶלְעָלֵ֑א] e-[OBJ] [קִרְיָתָֽיִם] e-[OBJ]"
           },
           {
             "verse": 38,
-            "text": "e-[OBJ] [וְאֶת־בַּ֧עַל] e-[OBJ] [מֽוּסַבֹּ֥ת] [שֵׁ֖ם] [וְאֶת־שִׂבְמָ֑ה] nome e-[OBJ] [אֶת־שְׁמ֥וֹת] [הֶעָרִ֖ים] [אֲשֶׁ֥ר] a nomes-de as-cidades que [sem-traducao]"
+            "text": "e-[OBJ] [וְאֶת־בַּ֧עַל] e-[OBJ] [מֽוּסַבֹּ֥ת] [שֵׁ֖ם] [וְאֶת־שִׂבְמָ֑ה] nome e-[OBJ] [אֶת־שְׁמ֥וֹת] [הֶעָרִ֖ים] [אֲשֶׁ֥ר] a que"
           },
           {
             "verse": 39,
-            "text": "[וַיֵּ֨לְכ֜וּ] filhos-de [מָכִ֧יר] filho-de [גִּלְעָ֖דָה] [וַֽיִּלְכְּדֻ֑הָ] [וַיּ֖וֹרֶשׁ] [אֶת־הָאֱמֹרִ֥י] a [sem-traducao] que nela"
+            "text": "[וַיֵּ֨לְכ֜וּ] filhos-de [מָכִ֧יר] filho-de [גִּלְעָ֖דָה] [וַֽיִּלְכְּדֻ֑הָ] [וַיּ֖וֹרֶשׁ] [אֶת־הָאֱמֹרִ֥י] a que"
           },
           {
             "verse": 40,
-            "text": "E-colocou Moisés a [לְמָכִ֖יר] [בֶּן־מְנַשֶּׁ֑ה] filho-de [בָּֽהּ] e-habitou nela"
+            "text": "E-colocou Moisés a [לְמָכִ֖יר] [בֶּן־מְנַשֶּׁ֑ה] filho-de [בָּֽהּ]"
           },
           {
             "verse": 41,
@@ -4797,7 +4798,7 @@
           },
           {
             "verse": 42,
-            "text": "[וְנֹ֣בַח] andar [וַיִּלְכֹּ֥ד] a [וְאֶת־בְּנֹתֶ֑יהָ] E-chamou [לָ֦ה] E-chamou [בִּשְׁמֽוֹ׃] [sem-traducao] [sem-traducao]"
+            "text": "[וְנֹ֣בַח] andar [וַיִּלְכֹּ֥ד] a [וְאֶת־בְּנֹתֶ֑יהָ] E-chamou [לָ֦ה] E-chamou [בִּשְׁמֽוֹ׃]"
           }
         ]
       },
@@ -4806,11 +4807,11 @@
         "verses": [
           {
             "verse": 1,
-            "text": "Estas [מַסְעֵ֣י] filhos-de Israel que [מֵאֶ֥רֶץ] da-terra-de Egito [בְּיַד־מֹשֶׁ֖ה] pela-mão-de Moisés e-Aarão"
+            "text": "Estas [מַסְעֵ֣י] filhos-de Israel que [מֵאֶ֥רֶץ] da-terra-de Egito [בְּיַד־מֹשֶׁ֖ה] pela-mão-de Moisés"
           },
           {
             "verse": 2,
-            "text": "[וַיִּכְתֹּ֨ב] Moisés a [לְמַסְעֵיהֶ֖ם] [עַל־פִּ֣י] yhwh boca-de yhwh [לְמוֹצָאֵיהֶֽם] [sem-traducao] [sem-traducao]"
+            "text": "[וַיִּכְתֹּ֨ב] Moisés a [לְמַסְעֵיהֶ֖ם] [עַל־פִּ֣י] yhwh boca-de yhwh [לְמוֹצָאֵיהֶֽם]"
           },
           {
             "verse": 3,
@@ -4818,11 +4819,11 @@
           },
           {
             "verse": 4,
-            "text": "[וּמִצְרַ֣יִם] [מְקַבְּרִ֗ים] a que [הִכָּ֧ה] yhwh [בָּהֶ֖ם] todo [וּבֵאלֹ֣הֵיהֶ֔ם] [עָשָׂ֥ה] yhwh yhwh [sem-traducao]"
+            "text": "[וּמִצְרַ֣יִם] [מְקַבְּרִ֗ים] a que [הִכָּ֧ה] yhwh [בָּהֶ֖ם] todo [וּבֵאלֹ֣הֵיהֶ֔ם] [עָשָׂ֥ה] yhwh yhwh"
           },
           {
             "verse": 5,
-            "text": "[וַיִּסְע֥וּ] filhos-de Israel [וַֽיַּחֲנ֖וּ] e-acamparam [sem-traducao]"
+            "text": "[וַיִּסְע֥וּ] filhos-de Israel [וַֽיַּחֲנ֖וּ] e-acamparam"
           },
           {
             "verse": 6,
@@ -4830,7 +4831,7 @@
           },
           {
             "verse": 7,
-            "text": "[וַיִּסְעוּ֙] [מֵֽאֵתָ֔ם] [וַיָּ֙שָׁב֙] sobre boca-de [אֲשֶׁ֥ר] que sobre face-de [וַֽיַּחֲנ֖וּ] [לִפְנֵ֥י] e-acamparam diante-de [sem-traducao]"
+            "text": "[וַיִּסְעוּ֙] [מֵֽאֵתָ֔ם] [וַיָּ֙שָׁב֙] sobre boca-de [אֲשֶׁ֥ר] que sobre face-de [וַֽיַּחֲנ֖וּ] [לִפְנֵ֥י] e-acamparam"
           },
           {
             "verse": 8,
@@ -4842,15 +4843,15 @@
           },
           {
             "verse": 10,
-            "text": "e-partiram [מֵאֵילִ֑ם] e-acamparam sobre mar-de juncos"
+            "text": "e-partiram [מֵאֵילִ֑ם] e-acamparam sobre"
           },
           {
             "verse": 11,
-            "text": "e-partiram [מִיַּם־ס֑וּף] [וַֽיַּחֲנ֖וּ] e-acamparam [sem-traducao] [sem-traducao]"
+            "text": "e-partiram [מִיַּם־ס֑וּף] [וַֽיַּחֲנ֖וּ] e-acamparam"
           },
           {
             "verse": 12,
-            "text": "e-partiram [מִמִּדְבַּר־סִ֑ין] [וַֽיַּחֲנ֖וּ] e-acamparam [sem-traducao]"
+            "text": "e-partiram [מִמִּדְבַּר־סִ֑ין] [וַֽיַּחֲנ֖וּ] e-acamparam"
           },
           {
             "verse": 13,
@@ -4894,11 +4895,11 @@
           },
           {
             "verse": 23,
-            "text": "e-partiram [מִקְּהֵלָ֑תָה] e-acamparam [בְּהַר־שָֽׁפֶר] [sem-traducao]"
+            "text": "e-partiram [מִקְּהֵלָ֑תָה] e-acamparam [בְּהַר־שָֽׁפֶר]"
           },
           {
             "verse": 24,
-            "text": "e-partiram [מֵֽהַר־שָׁ֑פֶר] [וַֽיַּחֲנ֖וּ] e-acamparam [sem-traducao]"
+            "text": "e-partiram [מֵֽהַר־שָׁ֑פֶר] [וַֽיַּחֲנ֖וּ] e-acamparam"
           },
           {
             "verse": 25,
@@ -4946,7 +4947,7 @@
           },
           {
             "verse": 36,
-            "text": "e-partiram [מֵעֶצְי֣וֹן] [גָּ֑בֶר] [וַיַּחֲנ֥וּ] [בְמִדְבַּר־צִ֖ן] ela [קָדֵֽשׁ] [sem-traducao]"
+            "text": "e-partiram [מֵעֶצְי֣וֹן] [גָּ֑בֶר] [וַיַּחֲנ֥וּ] [בְמִדְבַּר־צִ֖ן] ela [קָדֵֽשׁ]"
           },
           {
             "verse": 37,
@@ -4958,7 +4959,7 @@
           },
           {
             "verse": 39,
-            "text": "[וְאַהֲרֹ֔ן] filho-de três [וּמְאַ֖ת] [שָׁנָ֑ה] ano [בְּהֹ֥ר] [הָהָֽר׃] a-montanha"
+            "text": "[וְאַהֲרֹ֔ן] filho-de três [וּמְאַ֖ת] [שָׁנָ֑ה] ano [בְּהֹ֥ר] [הָהָֽר׃]"
           },
           {
             "verse": 40,
@@ -5002,27 +5003,27 @@
           },
           {
             "verse": 50,
-            "text": "[וַיְדַבֵּ֧ר] yhwh a Moisés [מוֹאָ֑ב] [עַל־יַרְדֵּ֥ן] sobre dizendo dizendo para-dizer"
+            "text": "[וַיְדַבֵּ֧ר] yhwh a Moisés [מוֹאָ֑ב] [עַל־יַרְדֵּ֥ן] sobre dizendo"
           },
           {
             "verse": 51,
-            "text": "palavra a filhos-de Israel [אֲלֵהֶ֑ם] que porque vós [אֶת־הַיַּרְדֵּ֖ן] a [כְּנָֽעַן] a terra כְּנָֽעַן"
+            "text": "palavra a filhos-de Israel [אֲלֵהֶ֑ם] que porque vós [אֶת־הַיַּרְדֵּ֖ן] a [כְּנָֽעַן] a terra"
           },
           {
             "verse": 52,
-            "text": "[וְה֨וֹרַשְׁתֶּ֜ם] a a-terra [מִפְּנֵיכֶ֔ם] a-terra [OBJ] [כָּל־מַשְׂכִּיֹּתָ֑ם] e-[OBJ] todo [מַסֵּֽכֹתָם֙] e-[OBJ] e-[OBJ] [כָּל־בָּמֹתָ֖ם] [תַּשְׁמִֽידוּ] [sem-traducao] e-[OBJ] todo [sem-traducao] [sem-traducao]"
+            "text": "[וְה֨וֹרַשְׁתֶּ֜ם] a a-terra [מִפְּנֵיכֶ֔ם] a-terra [OBJ] [כָּל־מַשְׂכִּיֹּתָ֑ם] e-[OBJ] todo [מַסֵּֽכֹתָם֙] e-[OBJ] e-[OBJ] [כָּל־בָּמֹתָ֖ם] [תַּשְׁמִֽידוּ] e-[OBJ] todo"
           },
           {
             "verse": 53,
-            "text": "[וְהוֹרַשְׁתֶּ֥ם] a a-terra que a-vós dei a-vós [לָרֶ֥שֶׁת] a a-terra para-possuir a-ela"
+            "text": "[וְהוֹרַשְׁתֶּ֥ם] a a-terra que a-vós dei a-vós [לָרֶ֥שֶׁת] a a-terra"
           },
           {
             "verse": 54,
-            "text": "[וְהִתְנַחַלְתֶּם֩] a a-terra [לְמִשְׁפְּחֹֽתֵיכֶ֗ם] [לָרַ֞ב] [תַּרְבּ֤וּ] [אֶת־נַחֲלָתוֹ֙] a [תַּמְעִ֣יט] [אֶת־נַחֲלָת֔וֹ] a a a-ele El que a-ele será [לְמַטּ֥וֹת] [אֲבֹתֵיכֶ֖ם] a-ele será [sem-traducao] pais-vosso [sem-traducao]"
+            "text": "[וְהִתְנַחַלְתֶּם֩] a a-terra [לְמִשְׁפְּחֹֽתֵיכֶ֗ם] [לָרַ֞ב] [תַּרְבּ֤וּ] [אֶת־נַחֲלָתוֹ֙] a [תַּמְעִ֣יט] [אֶת־נַחֲלָת֔וֹ] a a a-ele El que a-ele será [לְמַטּ֥וֹת] [אֲבֹתֵיכֶ֖ם] a-ele"
           },
           {
             "verse": 55,
-            "text": "e-se não [אֶת־יֹשְׁבֵ֣י] a-terra habitantes-de a-terra [אֲשֶׁ֣ר] e-foi que [לְשִׂכִּים֙] [בְּעֵ֣ינֵיכֶ֔ם] [וְלִצְנִינִ֖ם] [בְּצִדֵּיכֶ֑ם] [וְצָרֲר֣וּ] [אֶתְכֶ֔ם] [עַל־הָאָ֕רֶץ] vos sobre a-terra que vós moradores nela"
+            "text": "e-se não [אֶת־יֹשְׁבֵ֣י] a-terra habitantes-de a-terra [אֲשֶׁ֣ר] e-foi que [לְשִׂכִּים֙] [בְּעֵ֣ינֵיכֶ֔ם] [וְלִצְנִינִ֖ם] [בְּצִדֵּיכֶ֑ם] [וְצָרֲר֣וּ] [אֶתְכֶ֔ם] [עַל־הָאָ֕רֶץ] vos sobre a-terra que"
           },
           {
             "verse": 56,
@@ -5035,7 +5036,7 @@
         "verses": [
           {
             "verse": 1,
-            "text": "e-falou yhwh a Moisés dizendo"
+            "text": "e-falou yhwh a Moisés"
           },
           {
             "verse": 2,
@@ -5043,7 +5044,7 @@
           },
           {
             "verse": 3,
-            "text": "e-será a-vós canto [מִמִּדְבַּר־צִ֖ן] [עַל־יְדֵ֣י] [אֱד֑וֹם] sobre a-vós [גְּב֣וּל] e-será a-vós fronteira [קֵֽדְמָה] a-terra mar- o-sal [sem-traducao]"
+            "text": "e-será a-vós canto [מִמִּדְבַּר־צִ֖ן] [עַל־יְדֵ֣י] [אֱד֑וֹם] sobre a-vós [גְּב֣וּל] e-será a-vós fronteira [קֵֽדְמָה]"
           },
           {
             "verse": 4,
@@ -5075,7 +5076,7 @@
           },
           {
             "verse": 11,
-            "text": "[וְיָרַ֨ד] [הַגְּבֻ֧ל] [מִשְּׁפָ֛ם] [הָרִבְלָ֖ה] ao-oriente [לָעָ֑יִן] [וְיָרַ֣ד] [הַגְּב֔וּל] [וּמָחָ֛ה] sobre [יָם־כִּנֶּ֖רֶת] [קֵֽדְמָה] [sem-traducao] [sem-traducao]"
+            "text": "[וְיָרַ֨ד] [הַגְּבֻ֧ל] [מִשְּׁפָ֛ם] [הָרִבְלָ֖ה] ao-oriente [לָעָ֑יִן] [וְיָרַ֣ד] [הַגְּב֔וּל] [וּמָחָ֛ה] sobre [יָם־כִּנֶּ֖רֶת] [קֵֽדְמָה]"
           },
           {
             "verse": 12,
@@ -5083,11 +5084,11 @@
           },
           {
             "verse": 13,
-            "text": "E-ordenou Moisés a filhos-de dizendo esta a-terra a-terra que [אֹתָהּ֙] [בְּגוֹרָ֔ל] [אֲשֶׁר֙] que yhwh yhwh [לְתִשְׁעַ֥ת] [הַמַּטּ֖וֹת] [וַחֲצִ֥י] [הַמַּטֶּֽה] [sem-traducao]"
+            "text": "E-ordenou Moisés a filhos-de dizendo esta a-terra a-terra que [אֹתָהּ֙] [בְּגוֹרָ֔ל] [אֲשֶׁר֙] que yhwh yhwh [לְתִשְׁעַ֥ת] [הַמַּטּ֖וֹת] [וַחֲצִ֥י] [הַמַּטֶּֽה]"
           },
           {
             "verse": 14,
-            "text": "que [לָקְח֞וּ] [מַטֵּ֨ה] filhos-de [הָראוּבֵנִי֙] para-casa-de [אֲבֹתָ֔ם] [וּמַטֵּ֥ה] filhos-de [לְבֵ֣ית] para-casa-de [וַחֲצִי֙] [מַטֵּ֣ה] [מְנַשֶּׁ֔ה] [לָקְח֖וּ] [נַחֲלָתָֽם] [sem-traducao]"
+            "text": "que [לָקְח֞וּ] [מַטֵּ֨ה] filhos-de [הָראוּבֵנִי֙] para-casa-de [אֲבֹתָ֔ם] [וּמַטֵּ֥ה] filhos-de [לְבֵ֣ית] para-casa-de [וַחֲצִי֙] [מַטֵּ֣ה] [מְנַשֶּׁ֔ה] [לָקְח֖וּ] [נַחֲלָתָֽם]"
           },
           {
             "verse": 15,
@@ -5095,11 +5096,11 @@
           },
           {
             "verse": 16,
-            "text": "e-falou yhwh a Moisés dizendo"
+            "text": "e-falou yhwh a Moisés"
           },
           {
             "verse": 17,
-            "text": "Estas [שְׁמ֣וֹת] [הָֽאֲנָשִׁ֔ים] que a-vós a-vós a a-terra [וִיהוֹשֻׁ֖עַ] o-sacerdote [sem-traducao] filho-de [sem-traducao]"
+            "text": "Estas [שְׁמ֣וֹת] [הָֽאֲנָשִׁ֔ים] que a-vós a-vós a a-terra [וִיהוֹשֻׁ֖עַ] o-sacerdote filho-de"
           },
           {
             "verse": 18,
@@ -5107,47 +5108,47 @@
           },
           {
             "verse": 19,
-            "text": "[וְאֵ֖לֶּה] [שְׁמ֣וֹת] [הָאֲנָשִׁ֑ים] para-a-tribo-de Judá [כָּלֵ֖ב] filho-de sera-virado-verso-final"
+            "text": "[וְאֵ֖לֶּה] [שְׁמ֣וֹת] [הָאֲנָשִׁ֑ים] para-a-tribo-de Judá [כָּלֵ֖ב] filho-de"
           },
           {
             "verse": 20,
-            "text": "[וּלְמַטֵּה֙] filhos-de [שִׁמְע֔וֹן] [שְׁמוּאֵ֖ל] filho-de Amiúde"
+            "text": "[וּלְמַטֵּה֙] filhos-de [שִׁמְע֔וֹן] [שְׁמוּאֵ֖ל] filho-de"
           },
           {
             "verse": 21,
-            "text": "para-a-tribo-de [בִנְיָמִ֔ן] [אֱלִידָ֖ד] filho-de [sem-traducao]"
+            "text": "para-a-tribo-de [בִנְיָמִ֔ן] [אֱלִידָ֖ד] filho-de"
           },
           {
             "verse": 22,
-            "text": "[וּלְמַטֵּ֥ה] filhos-de [נָשִׂ֑יא] [בֻּקִּ֖י] [בֶּן־יָגְלִֽי] filho-de [sem-traducao]"
+            "text": "[וּלְמַטֵּ֥ה] filhos-de [נָשִׂ֑יא] [בֻּקִּ֖י] [בֶּן־יָגְלִֽי] filho-de"
           },
           {
             "verse": 23,
-            "text": "aos-filhos-de [יוֹסֵ֔ף] [לְמַטֵּ֥ה] filhos-de [נָשִׂ֑יא] [חַנִּיאֵ֖ל] [בֶּן־אֵפֹֽד] filho-de [sem-traducao]"
+            "text": "aos-filhos-de [יוֹסֵ֔ף] [לְמַטֵּ֥ה] filhos-de [נָשִׂ֑יא] [חַנִּיאֵ֖ל] [בֶּן־אֵפֹֽד] filho-de"
           },
           {
             "verse": 24,
-            "text": "[וּלְמַטֵּ֥ה] filhos-de Efraim [קְמוּאֵ֖ל] [בֶּן־שִׁפְטָֽן] filho-de [sem-traducao]"
+            "text": "[וּלְמַטֵּ֥ה] filhos-de Efraim [קְמוּאֵ֖ל] [בֶּן־שִׁפְטָֽן] filho-de"
           },
           {
             "verse": 25,
-            "text": "[וּלְמַטֵּ֥ה] filhos-de [נָשִׂ֑יא] [אֱלִיצָפָ֖ן] [בֶּן־פַּרְנָֽךְ] filho-de [sem-traducao]"
+            "text": "[וּלְמַטֵּ֥ה] filhos-de [נָשִׂ֑יא] [אֱלִיצָפָ֖ן] [בֶּן־פַּרְנָֽךְ] filho-de"
           },
           {
             "verse": 26,
-            "text": "[וּלְמַטֵּ֥ה] filhos-de [נָשִׂ֑יא] [פַּלְטִיאֵ֖ל] [בֶּן־עַזָּֽן] filho-de [sem-traducao]"
+            "text": "[וּלְמַטֵּ֥ה] filhos-de [נָשִׂ֑יא] [פַּלְטִיאֵ֖ל] [בֶּן־עַזָּֽן] filho-de"
           },
           {
             "verse": 27,
-            "text": "[וּלְמַטֵּ֥ה] filhos-de que [אֲחִיה֖וּד] [בֶּן־שְׁלֹמִֽי] filho-de [sem-traducao]"
+            "text": "[וּלְמַטֵּ֥ה] filhos-de que [אֲחִיה֖וּד] [בֶּן־שְׁלֹמִֽי] filho-de"
           },
           {
             "verse": 28,
-            "text": "[וּלְמַטֵּ֥ה] filhos-de [נָשִׂ֑יא] [פְּדַהְ[t]אֵ֖ל] filho-de Amiúde"
+            "text": "[וּלְמַטֵּ֥ה] filhos-de [נָשִׂ֑יא] [פְּדַהְ[t]אֵ֖ל] filho-de"
           },
           {
             "verse": 29,
-            "text": "Estas que ordenou yhwh [לְנַחֵ֥ל] a filhos-de Israel em-terra-de כְּנָֽעַן"
+            "text": "Estas que ordenou yhwh [לְנַחֵ֥ל] a filhos-de Israel"
           }
         ]
       },
@@ -5156,11 +5157,11 @@
         "verses": [
           {
             "verse": 1,
-            "text": "[וַיְדַבֵּ֧ר] yhwh a Moisés [מוֹאָ֑ב] [עַל־יַרְדֵּ֥ן] sobre dizendo dizendo para-dizer"
+            "text": "[וַיְדַבֵּ֧ר] yhwh a Moisés [מוֹאָ֑ב] [עַל־יַרְדֵּ֥ן] sobre dizendo"
           },
           {
             "verse": 2,
-            "text": "[צַו֮] a filhos-de Israel [לַלְוִיִּ֗ם] [מִֽנַּחֲלַ֛ת] [אֲחֻזָּתָ֖ם] [עָרִ֣ים] [לָשָׁ֑בֶת] [וּמִגְרָ֗שׁ] [לֶֽעָרִים֙] [סְבִיבֹ֣תֵיהֶ֔ם] [תִּתְּנ֖וּ] [לַלְוִיִּֽם] [sem-traducao]"
+            "text": "[צַו֮] a filhos-de Israel [לַלְוִיִּ֗ם] [מִֽנַּחֲלַ֛ת] [אֲחֻזָּתָ֖ם] [עָרִ֣ים] [לָשָׁ֑בֶת] [וּמִגְרָ֗שׁ] [לֶֽעָרִים֙] [סְבִיבֹ֣תֵיהֶ֔ם] [תִּתְּנ֖וּ] [לַלְוִיִּֽם]"
           },
           {
             "verse": 3,
@@ -5172,7 +5173,7 @@
           },
           {
             "verse": 5,
-            "text": "[וּמַדֹּתֶ֞ם] de-fora [לָעִ֗יר] a canto [בָּֽאַמָּ֟ה] [וְאֶת־פְּאַת־נֶגֶב֩] [אַלְפַּ֨יִם] e-[OBJ] canto [׀] [אַלְפַּ֣יִם] [בָּֽאַמָּ֗ה] e-[OBJ] canto [צָפ֛וֹן] [אַלְפַּ֥יִם] [בָּאַמָּ֖ה] e-[OBJ] [בַּתָּ֑וֶךְ] [זֶ֚ה] será a-eles [מִגְרְשֵׁ֖י] [הֶעָרִֽים] este será disse [sem-traducao] [sem-traducao]"
+            "text": "[וּמַדֹּתֶ֞ם] de-fora [לָעִ֗יר] a canto [בָּֽאַמָּ֟ה] [וְאֶת־פְּאַת־נֶגֶב֩] [אַלְפַּ֨יִם] e-[OBJ] canto [׀] [אַלְפַּ֣יִם] [בָּֽאַמָּ֗ה] e-[OBJ] canto [צָפ֛וֹן] [אַלְפַּ֥יִם] [בָּאַמָּ֖ה] e-[OBJ] [בַּתָּ֑וֶךְ] [זֶ֚ה] será a-eles [מִגְרְשֵׁ֖י] [הֶעָרִֽים]"
           },
           {
             "verse": 6,
@@ -5184,19 +5185,19 @@
           },
           {
             "verse": 8,
-            "text": "[וְהֶֽעָרִ֗ים] que [תִּתְּנוּ֙] [מֵאֲחֻזַּ֣ת] filhos-de Israel [הָרַב֙] [תַּרְבּ֔וּ] [וּמֵאֵ֥ת] [הַמְעַ֖ט] [תַּמְעִ֑יטוּ] [אִ֗ישׁ] homem [נַחֲלָתוֹ֙] [אֲשֶׁ֣ר] que [יִתֵּ֥ן] [מֵעָרָ֖יו] [לַלְוִיִּֽם׃] [sem-traducao]"
+            "text": "[וְהֶֽעָרִ֗ים] que [תִּתְּנוּ֙] [מֵאֲחֻזַּ֣ת] filhos-de Israel [הָרַב֙] [תַּרְבּ֔וּ] [וּמֵאֵ֥ת] [הַמְעַ֖ט] [תַּמְעִ֑יטוּ] [אִ֗ישׁ] homem [נַחֲלָתוֹ֙] [אֲשֶׁ֣ר] que [יִתֵּ֥ן] [מֵעָרָ֖יו] [לַלְוִיִּֽם׃]"
           },
           {
             "verse": 9,
-            "text": "e-falou yhwh a Moisés dizendo"
+            "text": "e-falou yhwh a Moisés"
           },
           {
             "verse": 10,
-            "text": "palavra a filhos-de Israel [אֲלֵהֶ֑ם] que porque vós [אֶת־הַיַּרְדֵּ֖ן] a [כְּנָֽעַן] na-terra כְּנָֽעַן"
+            "text": "palavra a filhos-de Israel [אֲלֵהֶ֑ם] que porque vós [אֶת־הַיַּרְדֵּ֖ן] a [כְּנָֽעַן]"
           },
           {
             "verse": 11,
-            "text": "[וְהִקְרִיתֶ֤ם] a-vós [עָרִ֔ים] cidades-de [מִקְלָ֖ט] [תִּהְיֶ֣ינָה] a-vós [וְנָ֥ס] [שָׁ֙מָּה֙] [רֹצֵ֔חַ] [מַכֵּה־נֶ֖פֶשׁ] alma [sem-traducao]"
+            "text": "[וְהִקְרִיתֶ֤ם] a-vós [עָרִ֔ים] cidades-de [מִקְלָ֖ט] [תִּהְיֶ֣ינָה] a-vós [וְנָ֥ס] [שָׁ֙מָּה֙] [רֹצֵ֔חַ] [מַכֵּה־נֶ֖פֶשׁ] alma"
           },
           {
             "verse": 12,
@@ -5204,7 +5205,7 @@
           },
           {
             "verse": 13,
-            "text": "[וְהֶעָרִ֖ים] que [תִּתֵּ֑נוּ] [שֵׁשׁ־עָרֵ֥י] cidades-de [תִּהְיֶ֥ינָה] a-vós a-vós"
+            "text": "[וְהֶעָרִ֖ים] que [תִּתֵּ֑נוּ] [שֵׁשׁ־עָרֵ֥י] cidades-de [תִּהְיֶ֥ינָה] a-vós"
           },
           {
             "verse": 14,
@@ -5212,7 +5213,7 @@
           },
           {
             "verse": 15,
-            "text": "aos-filhos-de Israel [וְלַגֵּ֤ר] [וְלַתּוֹשָׁב֙] [בְּתוֹכָ֔ם] [תִּהְיֶ֛ינָה] [שֵׁשׁ־הֶעָרִ֥ים] [הָאֵ֖לֶּה] estes [לָנ֣וּס] [שָׁ֔מָּה] [כָּל־מַכֵּה־נֶ֖פֶשׁ] todo [sem-traducao] alma [sem-traducao]"
+            "text": "aos-filhos-de Israel [וְלַגֵּ֤ר] [וְלַתּוֹשָׁב֙] [בְּתוֹכָ֔ם] [תִּהְיֶ֛ינָה] [שֵׁשׁ־הֶעָרִ֥ים] [הָאֵ֖לֶּה] estes [לָנ֣וּס] [שָׁ֔מָּה] [כָּל־מַכֵּה־נֶ֖פֶשׁ] todo alma"
           },
           {
             "verse": 16,
@@ -5220,7 +5221,7 @@
           },
           {
             "verse": 17,
-            "text": "[וְאִ֡ם] [בְּאֶ֣בֶן] mão que [בָּ֥הּ] [הִכָּ֛הוּ] [וַיָּמֹ֖ת] E-morreu ele morrendo [יוּמַ֖ת] [הָרֹצֵֽחַ] [sem-traducao]"
+            "text": "[וְאִ֡ם] [בְּאֶ֣בֶן] mão que [בָּ֥הּ] [הִכָּ֛הוּ] [וַיָּמֹ֖ת] E-morreu ele morrendo [יוּמַ֖ת] [הָרֹצֵֽחַ]"
           },
           {
             "verse": 18,
@@ -5228,7 +5229,7 @@
           },
           {
             "verse": 19,
-            "text": "[גֹּאֵ֣ל] [הַדָּ֔ם] ele [יָמִ֖ית] a [בְּפִגְעוֹ־ב֖וֹ] ele [יְמִיתֶֽנּוּ] ele [sem-traducao]"
+            "text": "[גֹּאֵ֣ל] [הַדָּ֔ם] ele [יָמִ֖ית] a [בְּפִגְעוֹ־ב֖וֹ] ele [יְמִיתֶֽנּוּ]"
           },
           {
             "verse": 20,
@@ -5236,15 +5237,15 @@
           },
           {
             "verse": 21,
-            "text": "ou [בְאֵיבָ֞ה] [הִכָּ֤הוּ] [בְיָדוֹ֙] E-morreu [מֽוֹת־יוּמַ֥ת] [הַמַּכֶּ֖ה] [רֹצֵ֣חַֽ] ele ele [הַדָּ֗ם] [יָמִ֛ית] [אֶת־הָרֹצֵ֖חַ] a que ele nele-verso"
+            "text": "ou [בְאֵיבָ֞ה] [הִכָּ֤הוּ] [בְיָדוֹ֙] E-morreu [מֽוֹת־יוּמַ֥ת] [הַמַּכֶּ֖ה] [רֹצֵ֣חַֽ] ele ele [הַדָּ֗ם] [יָמִ֛ית] [אֶת־הָרֹצֵ֖חַ] a"
           },
           {
             "verse": 22,
-            "text": "e-se [בְּלֹא־אֵיבָ֖ה] [הֲדָפ֑וֹ] [אוֹ־הִשְׁלִ֥יךְ] [עָלָ֛יו] ou [בְּלֹ֥א] [צְדִיָּֽה] todo [sem-traducao] [sem-traducao] [sem-traducao]"
+            "text": "e-se [בְּלֹא־אֵיבָ֖ה] [הֲדָפ֑וֹ] [אוֹ־הִשְׁלִ֥יךְ] [עָלָ֛יו] ou [בְּלֹ֥א] [צְדִיָּֽה] todo"
           },
           {
             "verse": 23,
-            "text": "ou em-todo [אֲשֶׁר־יָמ֥וּת] que [בְּלֹ֣א] [רְא֔וֹת] E-fez-cair [עָלָ֖יו] [וַיָּמֹ֑ת] sobre-ele E-morreu a-ele não [מְבַקֵּ֖שׁ] a-ele e-não semente [sem-traducao]"
+            "text": "ou em-todo [אֲשֶׁר־יָמ֥וּת] que [בְּלֹ֣א] [רְא֔וֹת] E-fez-cair [עָלָ֖יו] [וַיָּמֹ֑ת] sobre-ele E-morreu a-ele não [מְבַקֵּ֖שׁ] a-ele e-não"
           },
           {
             "verse": 24,
@@ -5252,15 +5253,15 @@
           },
           {
             "verse": 25,
-            "text": "[וְהִצִּ֨ילוּ] [הָעֵדָ֜ה] a [מִיַּד֮] [גֹּאֵ֣ל] [הַדָּם֒] [וְהֵשִׁ֤יבוּ] ele ele [אֶל־עִ֥יר] a cidade [שָׁ֑מָּה] que [בָּ֗הּ] [עַד־מוֹת֙] [הַכֹּהֵ֣ן] o-grande até ele [בְּשֶׁ֥מֶן] [הַקֹּֽדֶשׁ] que [sem-traducao] a-ele [sem-traducao] o-santuário"
+            "text": "[וְהִצִּ֨ילוּ] [הָעֵדָ֜ה] a [מִיַּד֮] [גֹּאֵ֣ל] [הַדָּם֒] [וְהֵשִׁ֤יבוּ] ele ele [אֶל־עִ֥יר] a cidade [שָׁ֑מָּה] que [בָּ֗הּ] [עַד־מוֹת֙] [הַכֹּהֵ֣ן] o-grande até ele [בְּשֶׁ֥מֶן] [הַקֹּֽדֶשׁ] que"
           },
           {
             "verse": 26,
-            "text": "e-se [יֵצֵ֖א] [הָרֹצֵ֑חַ] [אֶת־גְּבוּל֙] a [מִקְלָט֔וֹ] cidade [יָנ֖וּס] que [sem-traducao] ali"
+            "text": "e-se [יֵצֵ֖א] [הָרֹצֵ֑חַ] [אֶת־גְּבוּל֙] a [מִקְלָט֔וֹ] cidade [יָנ֖וּס] que"
           },
           {
             "verse": 27,
-            "text": "[וּמָצָ֤א] ele [גֹּאֵ֣ל] [הַדָּ֔ם] [מִח֕וּץ] [לִגְב֖וּל] cidade [מִקְלָט֑וֹ] [וְרָצַ֞ח] [גֹּאֵ֤ל] [הַדָּם֙] a [אֵ֥ין] a-ele a-ele [sem-traducao]"
+            "text": "[וּמָצָ֤א] ele [גֹּאֵ֣ל] [הַדָּ֔ם] [מִח֕וּץ] [לִגְב֖וּל] cidade [מִקְלָט֑וֹ] [וְרָצַ֞ח] [גֹּאֵ֤ל] [הַדָּם֙] a [אֵ֥ין] a-ele a-ele"
           },
           {
             "verse": 28,
@@ -5272,19 +5273,19 @@
           },
           {
             "verse": 30,
-            "text": "todo [לְפִ֣י] alma [יִרְצַ֖ח] [אֶת־הָרֹצֵ֑חַ] [וְעֵ֣ד] um [לֹא־יַעֲנֶ֥ה] [בְנֶ֖פֶשׁ] um não ele [sem-traducao] [sem-traducao]"
+            "text": "todo [לְפִ֣י] alma [יִרְצַ֖ח] [אֶת־הָרֹצֵ֑חַ] [וְעֵ֣ד] um [לֹא־יַעֲנֶ֥ה] [בְנֶ֖פֶשׁ] um não"
           },
           {
             "verse": 31,
-            "text": "e-não [כֹ֙פֶר֙] [לְנֶ֣פֶשׁ] [רֹצֵ֔חַ] [אֲשֶׁר־ה֥וּא] que ele [כִּי־מ֖וֹת] [יוּמָֽת] porque morrer será-morto"
+            "text": "e-não [כֹ֙פֶר֙] [לְנֶ֣פֶשׁ] [רֹצֵ֔חַ] [אֲשֶׁר־ה֥וּא] que ele [כִּי־מ֖וֹת] [יוּמָֽת] porque"
           },
           {
             "verse": 32,
-            "text": "e-não [כֹ֔פֶר] [לָנ֖וּס] [אֶל־עִ֣יר] a cidade [לָשֶׁ֣בֶת] [בָּאָ֔רֶץ] [עַד־מ֖וֹת] [הַכֹּהֵֽן] até morrer o-sacerdote"
+            "text": "e-não [כֹ֔פֶר] [לָנ֖וּס] [אֶל־עִ֣יר] a cidade [לָשֶׁ֣בֶת] [בָּאָ֔רֶץ] [עַד־מ֖וֹת] [הַכֹּהֵֽן] até"
           },
           {
             "verse": 33,
-            "text": "e-não [אֶת־הָאָ֗רֶץ] a a-terra que que [הַדָּ֔ם] ele [יַחֲנִ֖יף] ele [וְלָאָ֣רֶץ] a a-terra [אֲשֶׁ֣ר] não [כִּי־אִ֖ם] [בְּדַ֥ם] que [sem-traducao] em-ela porque mãe [sem-traducao] [sem-traducao]"
+            "text": "e-não [אֶת־הָאָ֗רֶץ] a a-terra que que [הַדָּ֔ם] ele [יַחֲנִ֖יף] ele [וְלָאָ֣רֶץ] a a-terra [אֲשֶׁ֣ר] não [כִּי־אִ֖ם] [בְּדַ֥ם] que porque mãe"
           },
           {
             "verse": 34,
@@ -5297,11 +5298,11 @@
         "verses": [
           {
             "verse": 1,
-            "text": "[וַֽיִ[t]קְרְב֞וּ] [רָאשֵׁ֣י] [הָֽאָב֗וֹת] filhos-de [בְּנֵֽי־גִלְעָד֙] filho-de [בֶּן־מְנַשֶּׁ֔ה] filho-de [בְּנֵ֣י] [יוֹסֵ֑ף] filhos-de José [מֹשֶׁה֙] diante-de Moisés [רָאשֵׁ֥י] [אָב֖וֹת] [לִבְנֵ֥י] [יִשְׂרָאֵֽל] para-filhos-de Israel"
+            "text": "[וַֽיִ[t]קְרְב֞וּ] [רָאשֵׁ֣י] [הָֽאָב֗וֹת] filhos-de [בְּנֵֽי־גִלְעָד֙] filho-de [בֶּן־מְנַשֶּׁ֔ה] filho-de [בְּנֵ֣י] [יוֹסֵ֑ף] filhos-de José [מֹשֶׁה֙] diante-de Moisés [רָאשֵׁ֥י] [אָב֖וֹת] [לִבְנֵ֥י] [יִשְׂרָאֵֽל] Israel"
           },
           {
             "verse": 2,
-            "text": "[וַיֹּאמְר֗וּ] a Adonai yhwh yhwh [אֶת־הָאָ֧רֶץ] a a-terra [לִבְנֵ֣י] [יִשְׂרָאֵ֑ל] aos-filhos-de Israel [בַֽיהוָ֔ה] [לָתֵ֗ת] [אֶֽת־נַחֲלַ֛ת] [צְלָפְחָ֥ד] a [לִבְנֹתָֽיו] [sem-traducao] [sem-traducao] [sem-traducao]"
+            "text": "[וַיֹּאמְר֗וּ] a Adonai yhwh yhwh [אֶת־הָאָ֧רֶץ] a a-terra [לִבְנֵ֣י] [יִשְׂרָאֵ֑ל] aos-filhos-de Israel [בַֽיהוָ֔ה] [לָתֵ֗ת] [אֶֽת־נַחֲלַ֛ת] [צְלָפְחָ֥ד] a [לִבְנֹתָֽיו]"
           },
           {
             "verse": 3,
@@ -5313,7 +5314,7 @@
           },
           {
             "verse": 5,
-            "text": "E-ordenou Moisés a filhos-de Israel yhwh dizendo yhwh dizendo assim [דֹּבְרִֽים] filhos-de José [sem-traducao]"
+            "text": "E-ordenou Moisés a filhos-de Israel yhwh dizendo yhwh dizendo assim [דֹּבְרִֽים]"
           },
           {
             "verse": 6,
@@ -5325,7 +5326,7 @@
           },
           {
             "verse": 8,
-            "text": "e-todo [יֹרֶ֣שֶׁת] [נַחֲלָ֗ה] [מִמַּטּוֹת֮] [בְּנֵ֣י] filhos-de Israel [מִמִּשְׁפַּ֛חַת] [מַטֵּ֥ה] [אָבִ֖יהָ] [תִּהְיֶ֣ה] será [לְמַ֗עַן] [יִֽירְשׁוּ֙] [בְּנֵ֣י] filhos-de Israel homem [אֲבֹתָֽיו] pais-dele"
+            "text": "e-todo [יֹרֶ֣שֶׁת] [נַחֲלָ֗ה] [מִמַּטּוֹת֮] [בְּנֵ֣י] filhos-de Israel [מִמִּשְׁפַּ֛חַת] [מַטֵּ֥ה] [אָבִ֖יהָ] [תִּהְיֶ֣ה] será [לְמַ֗עַן] [יִֽירְשׁוּ֙] [בְּנֵ֣י] filhos-de Israel homem [אֲבֹתָֽיו]"
           },
           {
             "verse": 9,
@@ -5333,7 +5334,7 @@
           },
           {
             "verse": 10,
-            "text": "como ordenou yhwh a Moisés assim fizeram [צְלָפְחָֽד] [sem-traducao]"
+            "text": "como ordenou yhwh a Moisés assim fizeram [צְלָפְחָֽד]"
           },
           {
             "verse": 11,
@@ -5341,11 +5342,11 @@
           },
           {
             "verse": 12,
-            "text": "[מִֽמִּשְׁפְּחֹ֛ת] filhos-de [בֶן־יוֹסֵ֖ף] filho-de [לְנָשִׁ֑ים] eram [נַחֲלָתָ֔ן] [עַל־מַטֵּ֖ה] [מִשְׁפַּ֥חַת] sobre tribo-de [sem-traducao] seu-pai"
+            "text": "[מִֽמִּשְׁפְּחֹ֛ת] filhos-de [בֶן־יוֹסֵ֖ף] filho-de [לְנָשִׁ֑ים] eram [נַחֲלָתָ֔ן] [עַל־מַטֵּ֖ה] [מִשְׁפַּ֥חַת] sobre"
           },
           {
             "verse": 13,
-            "text": "Estas [הַמִּצְוֺ֞ת] [וְהַמִּשְׁפָּטִ֗ים] que [צִוָּ֧ה] yhwh pela-mão-de Moisés a filhos-de Israel sobre Moabe sobre dizendo [sem-traducao]"
+            "text": "Estas [הַמִּצְוֺ֞ת] [וְהַמִּשְׁפָּטִ֗ים] que [צִוָּ֧ה] yhwh pela-mão-de Moisés a filhos-de Israel sobre Moabe sobre"
           }
         ]
       }

@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 42,
@@ -2497,7 +2498,7 @@
           },
           {
             "verse": 41,
-            "text": "disse porém o Pedro Kyrie junto-a nos o parábola esta dizes ou e junto-a todos"
+            "text": "disse porém o Pedro Kyrios junto-a nos o parábola esta dizes ou e junto-a todos"
           },
           {
             "verse": 42,

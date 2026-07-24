@@ -6,7 +6,8 @@
     "language": "pt-BR",
     "method": "Literal rígido, direto dos códices (hebraico / aramaico / grego)",
     "license": "CC BY 4.0",
-    "source": "https://github.com/OtimizaPro/biblia-belem-anc"
+    "source": "https://github.com/OtimizaPro/biblia-belem-anc",
+    "textSource": "merge: D1 quando disponível, senão .txt"
   },
   "book": {
     "order": 16,
@@ -30,11 +31,11 @@
           },
           {
             "verse": 4,
-            "text": "e-houve כְּשָׁמְעִ֣י ׀ a as-palavras estes sentei e-chorei e-lamentei dias e-estive jejuando e-orando diante-de אֱלֹהִים-de os-céus"
+            "text": "e-houve [כְּשָׁמְעִ֣י] a as-palavras estes sentei e-chorei e-lamentei dias e-estive jejuando e-orando diante-de Elohim-de os-céus"
           },
           {
             "verse": 5,
-            "text": "e-disse ah yhwh אֱלֹהִים-de os-céus o-El o-grande e-o-terrível guardador-de a-aliança e-misericórdia para-amadores-seus e-para-guardadores-de mandamentos-seus"
+            "text": "e-disse ah yhwh Elohim-de os-céus o-Elohim o-grande e-o-terrível guardador-de a-aliança e-misericórdia para-amadores-seus e-para-guardadores-de mandamentos-seus"
           },
           {
             "verse": 6,
@@ -71,7 +72,7 @@
           },
           {
             "verse": 2,
-            "text": "E-disse para-mim o-rei מַדּ֣וּעַ faces-tuas más e-tu não-és doente não-há este porque mãe mau coração e-temi muito muito"
+            "text": "E-disse para-mim o-rei [מַדּ֣וּעַ] faces-tuas más e-tu não-és doente não-há este porque mãe mau coração e-temi muito muito"
           },
           {
             "verse": 3,
@@ -79,7 +80,7 @@
           },
           {
             "verse": 4,
-            "text": "E-disse a-mim o-rei sobre tu isto tu pedindo e-orei a אֱלֹהִים-de os-céus"
+            "text": "E-disse a-mim o-rei sobre tu isto tu pedindo e-orei a Elohim-de os-céus"
           },
           {
             "verse": 5,
@@ -87,7 +88,7 @@
           },
           {
             "verse": 6,
-            "text": "E-disse para-mim o-rei וְהַשֵׁגַ֣ל ׀ sentada junto-a-ele até quando será ida-tua e-quando voltarás e-foi-bom diante-de o rei e-enviou-me a-ele para-ele tempo"
+            "text": "E-disse para-mim o-rei [וְהַשֵּׁגַ֣ל] sentada junto-a-ele até quando será ida-tua e-quando voltarás e-foi-bom diante-de o rei e-enviou-me a-ele para-ele tempo"
           },
           {
             "verse": 7,
@@ -95,7 +96,7 @@
           },
           {
             "verse": 8,
-            "text": "e-carta a asafe guarda-de o-bosque que do-rei que dê a-mim madeiras para-fazer-vigas a portões-de a-fortaleza que da-casa a-ele a-cidade e-para-a-casa que eu-entrarei a-ela e-ele-deu a-mim o-rei conforme-mão-de אֱלֹהִים-meu a-boa sobre-mim"
+            "text": "e-carta a asafe guarda-de o-bosque que do-rei que dê a-mim madeiras para-fazer-vigas a portões-de a-fortaleza que da-casa a-ele a-cidade e-para-a-casa que eu-entrarei a-ela e-ele-deu a-mim o-rei conforme-mão-de Elohim-meu a-boa sobre-mim"
           },
           {
             "verse": 9,
@@ -111,7 +112,7 @@
           },
           {
             "verse": 12,
-            "text": "e-levantei-me noite eu e-homens poucos comigo e-não contei para-homem o-que אֱלֹהַי deu a coração-meu para-fazer לִירוּשָׁלָ֑͏ִם e-animal não-há comigo que se a-animal que eu montando nela"
+            "text": "e-levantei-me noite eu e-homens poucos comigo e-não contei para-homem o-que אֱלֹהַי deu a coração-meu para-fazer para-Ierusalém e-animal não-há comigo que se a-animal que eu montando nela"
           },
           {
             "verse": 13,
@@ -143,7 +144,7 @@
           },
           {
             "verse": 20,
-            "text": "e-respondi a-eles palavra e-disse a-eles אֱלֹהִים-de os-céus ele fará-prosperar para-nós e-nós servos-dele levantaremos e-construiremos e-para-vós não há porção e-justiça e-memorial em-Jerusalém"
+            "text": "e-respondi a-eles palavra e-disse a-eles Elohim-de os-céus ele fará-prosperar para-nós e-nós servos-dele levantaremos e-construiremos e-para-vós não há porção e-justiça e-memorial em-Jerusalém"
           }
         ]
       },
@@ -168,7 +169,7 @@
           },
           {
             "verse": 5,
-            "text": "e-sobre mão-deles repararam os-tecoítas e-nobres-deles não trouxeram pescoço-deles em-trabalho-de senhores-deles"
+            "text": "e-sobre mão-deles repararam os-tecoítas e-nobres-deles não trouxeram pescoço-deles em-trabalho-de adonaies-deles"
           },
           {
             "verse": 6,
@@ -292,7 +293,7 @@
           },
           {
             "verse": 36,
-            "text": "ouviu אֱלֹהִים-nosso porque fomos desprezo e-faze-voltar opróbrio-deles a cabeça-deles e-dá-os para-despojo em-terra-de cativeiro"
+            "text": "ouviu Elohim-nosso porque fomos desprezo e-faze-voltar opróbrio-deles a cabeça-deles e-dá-os para-despojo em-terra-de cativeiro"
           },
           {
             "verse": 37,
@@ -317,7 +318,7 @@
           },
           {
             "verse": 3,
-            "text": "e-oramos a אֱלֹהִים-nosso e-estabelecemos guarda sobre-eles de-dia e-de-noite de-faces-deles"
+            "text": "e-oramos a Elohim-nosso e-estabelecemos guarda sobre-eles de-dia e-de-noite de-faces-deles"
           },
           {
             "verse": 4,
@@ -341,7 +342,7 @@
           },
           {
             "verse": 9,
-            "text": "e-houve quando ouviram inimigos-nossos porque foi-conhecido para-nós e-frustrou אֱלֹהִים a conselho-deles todos-nós a a-muralha homem a trabalho-seu"
+            "text": "e-houve quando ouviram inimigos-nossos porque foi-conhecido para-nós e-frustrou Elohim a conselho-deles todos-nós a a-muralha homem a trabalho-seu"
           },
           {
             "verse": 10,
@@ -353,19 +354,19 @@
           },
           {
             "verse": 12,
-            "text": "e-os-construtores homem espada-sua amarrados sobre lombos-seus e-constroem וְהַתּוֹקֵ֥עַ na-trombeta אֶצְלִֽי׃"
+            "text": "e-os-construtores homem espada-sua amarrados sobre lombos-seus e-constroem [בַּשּׁוֹפָ֖ר] na-trombeta"
           },
           {
             "verse": 13,
-            "text": "e-disse a os-nobres e-a os-oficiais e-a resto o-povo a-málekhá הַרְבֵּ֖ה e-largura וַאֲנַ֗חְנוּ נִפְרָדִים֙ sobre a-ele רחוקים homem מֵאָחִיו׃"
+            "text": "e-disse a os-nobres e-a os-oficiais e-a Jetro o-povo [וַאֲנַ֗חְנוּ] [נִפְרָדִים֙] [עַל־הַ֣חוֹמָ֔ה] e nós [אִ֥ישׁ] sobre o-muro distantes homem"
           },
           {
             "verse": 14,
-            "text": "em-o-lugar que אַשְׁמְע֖וּ a voz-de o-shofar para lá תִּקָּבְצ֣וּ a-nós nosso-Elohim יִלָּ֥חֶם para-nós"
+            "text": "em-o-lugar que ouvi-reis a voz-de o-shofar para lá [אֵלֵ֑ינוּ] a-nós Elohim-nosso [לָֽנוּ] para-nós"
           },
           {
             "verse": 15,
-            "text": "וַאֲנַ֖חְנוּ fazendo בַּמְּלָאכָ֑ה e-metade-deles segurando בָּֽרְמָחִ֔ים de-alot no-alvorada até tset as-estrelas"
+            "text": "e nós fazendo [בַּמְּלָאכָ֑ה] e-metade-deles segurando [בָּֽרְמָחִ֔ים] [מֵעֲל֣וֹת] no-alvorada até tset as-estrelas"
           },
           {
             "verse": 16,
@@ -414,7 +415,7 @@
           },
           {
             "verse": 9,
-            "text": "não bom a palavra que vós fazendo Há-lo com medo de אֱלֹהִים-nosso vocês andem de-herpah as-nações אֹיְבֵֽינוּ׃"
+            "text": "não bom a palavra que vós fazendo Há-lo com medo de Elohim-nosso vocês andem de-herpah as-nações אֹיְבֵֽינוּ׃"
           },
           {
             "verse": 10,
@@ -454,7 +455,7 @@
           },
           {
             "verse": 19,
-            "text": "זָכְרָה־ para-mim אֱלֹהִים-meu לְטוֹבָ֑ה todo que fiz sobre o-povo a-esta"
+            "text": "[זָכְרָה־לִּ֥י] para-mim Elohim-meu [כֹּ֥ל] todo que fiz sobre o-povo a-esta"
           }
         ]
       },
@@ -467,15 +468,15 @@
           },
           {
             "verse": 2,
-            "text": "e-enviou Sanabalt e-Gesém a-mim dizendo לְכָ֞ה וְנִֽוָּעֲדָ֥ה יַחְדָּ֛ו בַּכְּפִירִ֖ים bivik'at אוֹנ֑וֹ e-eles חֹֽשְׁבִ֔ים para-fazer a-mim mal"
+            "text": "e-enviou [סַנְבַלַּ֤ט] e-Gesém a-mim-adai dizendo [לְכָ֞ה] [וְנִֽוָּעֲדָ֥ה] juntos [בַּכְּפִירִ֖ים] [בְּבִקְעַ֣ת] seu e-eles [חֹֽשְׁבִ֔ים] para-fazer a-mim mal"
           },
           {
             "verse": 3,
-            "text": "וָאֶשְׁלְחָ֨ה עֲלֵיהֶ֤ם mensageiros dizendo obra Grande eu fez e-não posso para-descer por-que תִשְׁבַּ֤ת הַמְּלָאכָה֙ como-que אַרְפֶּ֔הָ וְיָרַדְתִּ֖י a-vós"
+            "text": "[וָאֶשְׁלְחָ֨ה] em-eles mensageiros dizendo obra [גְדוֹלָה֙] eu fez e-não posso para-descer por-que [תִשְׁבַּ֤ת] הַמְּלָאכָה como-que [אַרְפֶּ֔הָ] [וְיָרַדְתִּ֖י] a-vós"
           },
           {
             "verse": 4,
-            "text": "וַיִּשְׁלְח֥וּ a-mim kadavar este quatro vezes e retornei eles kadavar a-esta"
+            "text": "e-ele-mandou a-mim como a palavra este quatro vezes [וָאָשִׁ֥יב] eles como a palavra a-esta"
           },
           {
             "verse": 5,
@@ -499,7 +500,7 @@
           },
           {
             "verse": 10,
-            "text": "וַאֲנִי- בָ֗אתִי casa שְֽׁמַֽעְיָ֧ה filho-de דְּלָיָ֛ה filho-de E-disse e-ele עָצ֑וּר E-disse נִוָּעֵד֩ a casa os-אלהים a que הַֽהֵיכָ֗ל וְנִסְגְּרָה֙ portas-de o-templo porque בָּאִ֣ים para matar-te e na noite virais לְהָרְגֶֽךָ׃"
+            "text": "e eu [בֵּ֣ית] casa [בֶן־דְּלָיָ֛ה] filho-de [וְה֣וּא] filho-de E-disse e-ele [אֶל־בֵּ֨ית] E-disse [אֶל־תּ֣וֹךְ] a casa os-אלהים a que [בָּאִ֣ים] [לְהָרְגֶ֔ךָ] portas-de o-templo porque vindo para-te-matar"
           },
           {
             "verse": 11,
@@ -511,7 +512,7 @@
           },
           {
             "verse": 13,
-            "text": "para-que שָׂכוּר֙ ele לְמַֽעַן־ אִירָ֥א e farei- assim a-eles e-será mal para-nome-de mau para-que יְחָֽרְפֽוּנִי׃"
+            "text": "para-que [שָׂכוּר֙] ele para  [וְאֶֽעֱשֶׂה־כֵּ֖ן] e-e'asah- assim a-eles e-será mal para-nome-de mau para-o-fim-de"
           },
           {
             "verse": 14,
@@ -523,7 +524,7 @@
           },
           {
             "verse": 16,
-            "text": "e-houve como ouviram todo ao'eveinu va-yire'u todo as-nações que muito e caíram e-souberam que va-yed'u porque de-junto-de אֱלֹהִים-nosso foi feita a obra a esta"
+            "text": "e-houve como ouviram todo ao'eveinu va-yire'u todo as-nações que muito e caíram e-souberam que va-yed'u porque de-junto-de Elohim-nosso foi feita a obra a esta"
           },
           {
             "verse": 17,
@@ -548,7 +549,7 @@
           },
           {
             "verse": 2,
-            "text": "ואצוה a חֲנָ֣נִי אחיו e-a חנניה príncipe a-cidadela sobre Jerusalém porque ele כאיש אֱמֶ֔ת E-viu a אֱלֹהִים מרבים"
+            "text": "[וָאֲצַוֶּ֞ה] a Hanani meu irmão: e-a [הַבִּירָ֖ה] príncipe a-cidadela sobre Jerusalém porque ele como homem אמת E-viu a Elohim"
           },
           {
             "verse": 3,
@@ -560,15 +561,15 @@
           },
           {
             "verse": 5,
-            "text": "E-colocou אֱלֹהַי a coração-meu וָאֶקְבְּצָ֞ה a הַחֹרִ֧ים e-a הַסְּגָנִ֛ים e-a o-povo para-me-hachesh וָֽאֶמְצָ֗א ספר הַיַּ֙חַשׂ֙ הָעוֹלִ֣ים בָּרִאשׁוֹנָ֔ה וָאֶמְצָ֖א escrito em-ele"
+            "text": "E-colocou אֱלֹהַי a coração-meu [אֶת־הַחֹרִ֧ים] a [וְאֶת־הָעָ֖ם] e-a [וָֽאֶמְצָ֗א] e-a o-povo para-se-rir [בָּרִאשׁוֹנָ֔ה] סֵ֤פֶר [כָּת֥וּב] [בּֽוֹ׃] escrito em-ele"
           },
           {
             "verse": 6,
-            "text": "Estas filhos-de a-província הָעֹלִים֙ de-cativeiro-de o-exílio que ele-exilou נְבוּכַדְנֶצַּ֖ר rei Babilônia וַיָּשׁ֧וּבוּ לִֽירוּשָׁלַ֛͏ִם וְלִיהוּדָ֖ה homem para-cidade-sua"
+            "text": "Estas filhos-de a-província [הַמְּדִינָ֗ה] de-cativeiro-de o-exílio que ele-exilou [הֶגְלָ֔ה] rei Babilônia [בָּבֶ֑ל] [וַיָּשׁ֧וּבוּ] [לִֽירוּשָׁלַ֛͏ִם] homem para-cidade-sua"
           },
           {
             "verse": 7,
-            "text": "os-que-vieram com Zorobabel Jesua נְחֶמְיָ֡ה עֲצַרְיָה רַֽעַמְיָ֨ה נַחֲמָ֜נִי Mardoqueu Bilsã מִסְפֶּ֥רֶת Bigvai נְח֣וּם Baaná número homens-de povo Israel"
+            "text": "os-que-vieram com Zorobabel Jesua [עֲ֠זַרְיָה] [רַֽעַמְיָ֨ה] [נַחֲמָ֜נִי] [מָרְדֳּכַ֥י] Mardoqueu Bilsã [בִּגְוַ֖י] Bigvai [בַּעֲנָ֑ה] Baaná número homens-de povo Israel"
           },
           {
             "verse": 8,
@@ -584,7 +585,7 @@
           },
           {
             "verse": 11,
-            "text": "filhos-de Paate Moabe para-filhos-de Jesua וְיוֹאָ֑ב dois-mil e-oito centenas oito dez"
+            "text": "filhos-de Paate Moabe para-filhos-de Jesua [אַלְפַּ֕יִם] dois-mil e-oito centenas oito dez"
           },
           {
             "verse": 12,
@@ -600,7 +601,7 @@
           },
           {
             "verse": 15,
-            "text": "filhos-de בִנּ֔וּי seis centenas quarenta e-oito"
+            "text": "filhos-de [בִנּ֔וּי] seis centenas quarenta e-oito"
           },
           {
             "verse": 16,
@@ -624,7 +625,7 @@
           },
           {
             "verse": 21,
-            "text": "filhos-de Ater לְחִזְקִיָּ֖ה noventa e-oito"
+            "text": "filhos-de Ater [תִּשְׁעִ֥ים] noventa e-oito"
           },
           {
             "verse": 22,
@@ -636,7 +637,7 @@
           },
           {
             "verse": 24,
-            "text": "filhos-de חָרִ֔יף cem dois dez"
+            "text": "filhos-de [חָרִ֔יף] cem dois dez"
           },
           {
             "verse": 25,
@@ -644,7 +645,7 @@
           },
           {
             "verse": 26,
-            "text": "homens-de casa-de pão וּנְטֹפָ֔ה cem oitenta e-oito"
+            "text": "homens-de casa-de pão [מֵאָ֖ה] cem oitenta e-oito"
           },
           {
             "verse": 27,
@@ -656,11 +657,11 @@
           },
           {
             "verse": 29,
-            "text": "homens-de Quiriate יְעָרִים֙ Quefira e-Beerote sete centenas quarenta e-três"
+            "text": "homens-de Quiriate [יְעָרִים֙] Quefira e-Beerote sete centenas quarenta e-três"
           },
           {
             "verse": 30,
-            "text": "homens-de הָֽרָמָה֙ e-Geba seis centenas vinte e-um"
+            "text": "homens-de [הָֽרָמָה֙] e-Geba seis centenas vinte e-um"
           },
           {
             "verse": 31,
@@ -672,7 +673,7 @@
           },
           {
             "verse": 33,
-            "text": "homens-de נְב֛וֹ outro cinquenta e-dois"
+            "text": "homens-de [נְב֛וֹ] outro cinquenta e-dois"
           },
           {
             "verse": 34,
@@ -712,7 +713,7 @@
           },
           {
             "verse": 43,
-            "text": "os-levitas filhos-de Yeshua לְקַדְמִיאֵ֛ל para-os-filhos-de לְהוֹדְוָ֖ה setenta e-quatro"
+            "text": "os-levitas filhos-de Yeshua [לִבְנֵ֥י] para-os-filhos-de [שִׁבְעִ֥ים] setenta e-quatro"
           },
           {
             "verse": 44,
@@ -720,35 +721,35 @@
           },
           {
             "verse": 45,
-            "text": "o-porteiros filhos-de Shallum filhos-de Ater filhos-de טַלְמֹ֣ן filhos-de Akkub filhos-de Hatita filhos-de Shobai cem trinta e-oito"
+            "text": "o-porteiros filhos-de Shallum filhos-de Ater filhos-de [חֲטִיטָ֖א] filhos-de Akkub filhos-de Hatita filhos-de Shobai cem trinta e-oito"
           },
           {
             "verse": 46,
-            "text": "o-netinins filhos-de צִחָ֥א filhos-de חֲשֻׂפָ֖א filhos-de Tabbaoth"
+            "text": "o-netinins filhos-de [בְנֵי־חֲשֻׂפָ֖א] filhos-de [טַבָּעֽוֹת] filhos-de Tabbaoth"
           },
           {
             "verse": 47,
-            "text": "filhos-de קֵירֹ֥ס filhos-de סִיעָ֖א filhos-de Padon"
+            "text": "filhos-de [בְּנֵי־סִיעָ֖א] filhos-de [פָדֽוֹן] filhos-de Padon"
           },
           {
             "verse": 48,
-            "text": "filhos-de Lebanah filhos-de Hagabah filhos-de שַׁלְמָֽי׃"
+            "text": "filhos-de Lebanah filhos-de Hagabah filhos-de"
           },
           {
             "verse": 49,
-            "text": "filhos-de חָנָ֥ן filhos-de גִדֵּ֖ל filhos-de גָֽחַר׃"
+            "text": "filhos-de chanan filhos-de filhos-de"
           },
           {
             "verse": 50,
-            "text": "filhos-de Re-ayah filhos-de רְצִ֖ין filhos-de נְקוֹדָֽא׃"
+            "text": "filhos-de Re-ayah filhos-de retzin filhos-de"
           },
           {
             "verse": 51,
-            "text": "filhos-de גַזָּ֥ם filhos-de עֻזָּ֖א filhos-de פָסֵֽחַ׃"
+            "text": "filhos-de [בְּנֵי־עֻזָּ֖א] filhos-de uzzah filhos-de"
           },
           {
             "verse": 52,
-            "text": "filhos-de בֵסַ֥י filhos-de מְעוּנִ֖ים filhos-de"
+            "text": "filhos-de [בְּנֵי־מְעוּנִ֖ים] filhos-de [*נפושסים] filhos-de"
           },
           {
             "verse": 53,
@@ -756,7 +757,7 @@
           },
           {
             "verse": 54,
-            "text": "filhos-de בַצְלִ֥ית filhos-de Mehida filhos-de Harsha"
+            "text": "filhos-de [בְּנֵֽי־מְחִידָ֖א] filhos-de Mehida filhos-de Harsha"
           },
           {
             "verse": 55,
@@ -768,23 +769,23 @@
           },
           {
             "verse": 57,
-            "text": "filhos-de servos-de Shelomoh filhos-de סוֹטַ֥י filhos-de סוֹפֶ֖רֶת filhos-de פְרִידָֽא׃"
+            "text": "filhos-de servos-de Shelomoh filhos-de [בְּנֵי־סוֹפֶ֖רֶת] filhos-de [פְרִידָֽא] filhos-de"
           },
           {
             "verse": 58,
-            "text": "filhos-de יַעְלָ֥א filhos-de Darkon filhos-de Giddel"
+            "text": "filhos-de [בְנֵי־דַרְק֖וֹן] filhos-de Darkon filhos-de Giddel"
           },
           {
             "verse": 59,
-            "text": "filhos-de Shephatiah filhos-de Hattil filhos-de Pokereth a-Zebaim filhos-de אָמֽוֹן׃"
+            "text": "filhos-de Shephatiah filhos-de Hattil filhos-de Pokereth a-Zebaim filhos-de"
           },
           {
             "verse": 60,
-            "text": "todo הַנְּתִינִים e-filhos-de servos-de Shelomoh três centenas noventa e-dois"
+            "text": "todo [וּבְנֵ֖י] e-filhos-de servos-de Shelomoh três centenas noventa e-dois"
           },
           {
             "verse": 61,
-            "text": "e-estes הָעוֹלִים de-Tel Melah Tel Harsha querubim אַדּוֹן וְאִמֵּר e-não יָכְל֗וּ para-declarar casa-de pais-deles e-descendência-deles mãe eles eles"
+            "text": "e-estes [הָֽעוֹלִים֙] de-Tel Melah Tel Harsha querubim [אַדּ֖וֹן] [וְאִמֵּ֑ר] e-não [יָכְל֗וּ] para-declarar casa-de pais-deles e-descendência-deles mãe eles eles"
           },
           {
             "verse": 62,
@@ -796,11 +797,11 @@
           },
           {
             "verse": 64,
-            "text": "Estas procuraram escrito-deles o-genealogias e-não נִמְצָ֑א וַיְגֹֽאֲל֖וּ de o-sacerdócio"
+            "text": "Estas procuraram escrito-deles o-genealogias e-não encontrado-se-é [וַיְגֹֽאֲל֖וּ] de o-sacerdócio"
           },
           {
             "verse": 65,
-            "text": "E-disse o-governador a-eles que não eles-comerão de-santidade até até ficou-em-pé o-sacerdote para-Urim וְתוּמִּֽים׃"
+            "text": "E-disse o-governador a-eles que não eles-comerão de-santidade até até ficou-em-pé o-sacerdote para-Urim"
           },
           {
             "verse": 66,
@@ -808,11 +809,11 @@
           },
           {
             "verse": 67,
-            "text": "de-além-de servos-de-eles e-servas-de-eles Estas sete-de milhares três centenas trinta e-sete וְלָהֶ֗ם משֹׁרֲרִים וּמְשֹׁ֣רֲר֔וֹת duzentos e-quarenta e-cinco"
+            "text": "de-além-de servos-de-eles e-servas-de-eles Estas sete-de milhares três centenas trinta e-sete [וְלָהֶ֗ם] conselheiros [וּמְשֹׁ֣רֲר֔וֹת] duzentos e-quarenta e-cinco"
           },
           {
             "verse": 68,
-            "text": "גְּמַלִּ֕ים quatro centenas trinta e-cinco jumentos seis-de milhares sete centenas e-vinte"
+            "text": "[גְּמַלִּ֕ים] quatro centenas trinta e-cinco jumentos seis-de milhares sete centenas e-vinte"
           },
           {
             "verse": 69,
@@ -857,15 +858,15 @@
           },
           {
             "verse": 6,
-            "text": "E-abençoou Esra a yhwh אֱלֹהִים o-grande e-responderam todo o-povo אָמֵן אָמֵן בְּמֹ֣עַל mãos-deles וַיִּקְּד֧וּ וַיִּשְׁתַּחֲוֻ֛ a-yhwh אַפַּ֥יִם para-terra"
+            "text": "E-abençoou Esra a yhwh Elohim o-grande e-responderam todo o-povo אָמֵן אָמֵן בְּמֹ֣עַל mãos-deles וַיִּקְּד֧וּ וַיִּשְׁתַּחֲוֻ֛ a-yhwh אַפַּ֥יִם para-terra"
           },
           {
             "verse": 7,
-            "text": "וְיֵשׁ֡וּעַ וּבָנִ֡י וְשֵׁרֵ֥בְיָ֣ה ׀ יָמִ֡ין עַקָּב שַׁבְתַּי הֻדִּיָּה מַעֲשֵׂיָה קְלִיטָא עֲזַרְיָה יוֹזָבָד חָנָן פְּלַאַיָּה וְהַלְוִיִּ֔ם מְבִינִים a o-povo para a lei e o povo sobre estavam"
+            "text": "[וְיֵשׁ֡וּעַ] [וּבָנִ֡י] [וְשֵׁרֵ֥בְיָ֣ה] [׀] [יָמִ֡ין] [עַקּ֡וּב] [שַׁבְּתַ֣י] [׀] [הֽוֹדִיָּ֡ה] [מַעֲשֵׂיָ֡ה] [קְלִיטָ֣א] [עֲזַרְיָה֩] [יוֹזָבָ֨ד] e os levitas [פְּלָאיָה֙] a o-povo [אֶת־הָעָ֖ם] e-o-povo sobre [עַל־עָמְדָֽם]"
           },
           {
             "verse": 8,
-            "text": "e leram no livro na-lei אֱלֹהִים escrito e sabedoria sabedoria e entenderam no estudo"
+            "text": "e leram no livro na-lei Elohim escrito e sabedoria sabedoria e entenderam no estudo"
           },
           {
             "verse": 9,
@@ -885,11 +886,11 @@
           },
           {
             "verse": 13,
-            "text": "e-no-dia o segundo נאספו cabeças-de os-pais para-todo o povo os-sacerdotes וְהַלְוִיִּ֔ם a עזרא הסופר וליהשלים a palavras-de ha-torah"
+            "text": "e-no-dia [הַשֵּׁנִ֡י] [נֶאֶסְפוּ֩] cabeças-de os-pais para-todo o povo os-sacerdotes e os levitas a [וּלְהַשְׂכִּ֖יל] [אֶל־דִּבְרֵ֥י] e-para-saber a palavras-de ha-torah"
           },
           {
             "verse": 14,
-            "text": "והמצאו כתוב בתורה que tsi-vu-a yhwh pela-mão-de Moisés que ישבו filhos-de Israel בסוכות בחג o-quarto o sétimo"
+            "text": "[וַֽיִּמְצְא֖וּ] [כָּת֣וּב] [בַּתּוֹרָ֑ה] que tsi-vu-a yhwh pela-mão-de Moisés que vivam filhos-de Israel [בַּחֹ֥דֶשׁ] [הַשְּׁבִיעִֽי] no mês- הַשְׁבִיעִֽי׃"
           },
           {
             "verse": 15,
@@ -905,7 +906,7 @@
           },
           {
             "verse": 18,
-            "text": "E-chamou בְּסֵ֨פֶר תּוֹרַ֤ת o-אֱלֹהִים dia בְּיוֹם de o-dia הָֽרִאשׁ֔וֹן até o-dia הָאַחֲר֑וֹן e-ele-fizeram- חָג֙ sete-de dias וּבַיּ֧וֹם הַשְׁמִינִ֛י עֲצֶ֖רֶת como-o-julgamento"
+            "text": "E-chamou [בְּסֵ֨פֶר] torah-de o-Elohim dia בְּי֔וֹם de o-dia הָֽרִאשׁ֔וֹן até o-dia [הָאַחֲר֑וֹן] e-ele-fizeram- [שִׁבְעַ֣ת] sete-de dias e-no-dia [עֲצֶ֖רֶת] עֲצֶ֖רֶת como-o-julgamento"
           }
         ]
       },
@@ -914,7 +915,7 @@
         "verses": [
           {
             "verse": 1,
-            "text": "וּבְיוֹם֩ vinte וְאַרְבָּעָ֜ה para-o-mês o-este נאספו filhos-de Israel בצום ובשקים e-terra sobre-eles"
+            "text": "[וּבְיוֹם֩] vinte [וְאַרְבָּעָ֜ה] para-o-mês o-este [נֶאֶסְפ֤וּ] filhos-de Israel [וּבְשַׂקִּ֔ים] [וַאֲדָמָ֖ה] e-terra sobre-eles"
           },
           {
             "verse": 2,
@@ -922,15 +923,15 @@
           },
           {
             "verse": 3,
-            "text": "WAYYAKMU sobre עָמְדָ֔ם וַֽיִּקְרְא֗וּ בְּסֵ֨פֶר yhwh yhwh Elohim-deles o-dia o-dia וּרְבִיעִית֙ מִתְוַדִּ֣ים וּמִֽשְׁתַּחֲוִ֔ים a-yhwh אֱלֹהֵיהֶם-de-eles"
+            "text": "va-y-qa-ru-mu sobre [וַֽיִּקְרְא֗וּ] [בְּסֵ֨פֶר] [תּוֹרַ֧ת] yhwh yhwh elohim-deles o-dia o-dia [מִתְוַדִּ֣ים] [וּמִֽשְׁתַּחֲוִ֔ים] [לַיהוָ֖ה] a-yhwh אֱלֹהֵיהֶם-de-eles"
           },
           {
             "verse": 4,
-            "text": "E-levantou sobre מַֽעֲלֵ֣ה os-levitas Jeshua וּבָנִ֜י קַדְמִיאֵ֧ל שְׁבַנְיָ֛ה filhos-de שֶׁרֶבְיָה filhos-de כְּנַנִּי וַיִּזְעַקוּ com-voz grande a yhwh אֱלֹהֵיהֶם-de-eles"
+            "text": "E-levantou sobre [הַלְוִיִּ֗ם] os-levitas Jeshua [קַדְמִיאֵ֧ל] [שְׁבַנְיָ֛ה] [בֻּנִּ֥י] filhos-de [בָּנִ֣י] filhos-de [וַֽיִּזְעֲקוּ֙] [בְּק֣וֹל] com-voz grande a yhwh אֱלֹהֵיהֶם-de-eles"
           },
           {
             "verse": 5,
-            "text": "e-disseram הַלֹּוִיִּם יֵשׁוּעַ וְקַדְמִיאֵל filhos-de חַשְׁבְּנוֹיָה שֶׁרֶבְיָה הֻדוּיָה שֶׁבַנְיָה פתחיה קוּמוּ ברכוּ a yhwh אֱלֹהִים-vosso de העולם até העולם ויברכוּ nome כבודך ומROOMם sobre todo ברכה וטהל"
+            "text": "e-disseram [הַלְוִיִּ֡ם] [יֵשׁ֣וּעַ] [וְ֠קַדְמִיאֵל] filhos-de [חֲשַׁבְנְיָ֜ה] [שֵׁרֵֽבְיָ֤ה] [הֽוֹדִיָּה֙] [שְׁבַנְיָ֣ה] [פְתַֽחְיָ֔ה] [ק֗וּמוּ] [בָּרֲכוּ֙] a yhwh Elohim-vosso de [וִיבָֽרְכוּ֙] até [כְּבוֹדֶ֔ךָ] [וּמְרוֹמַ֥ם] nome kavodecha sobre todo ברכה"
           },
           {
             "verse": 6,
@@ -946,15 +947,15 @@
           },
           {
             "verse": 9,
-            "text": "E-viu a aflição-de אֲבֹתֵ֖ינוּ em-Egito e-a זַעֲקָתָ֥ם ouviste sobre mar-de juncos"
+            "text": "E-viu a aflição-de [בְּמִצְרָ֑יִם] em-Egito e-a [עַל־יַם־סֽוּף] ouviste sobre mar-de juncos"
           },
           {
             "verse": 10,
-            "text": "e-deu אֹתֹ֨ת וּמֹֽפְתִ֜ים בְּפַרְעֹ֤ה e-em-todo seus-servos e-em-todo que אַרְצ֔וֹ que soubeste porque הֵזִידֻ sobre-eles וַתַּעַשׂ־ para-ti nome כְּהַיּ֥וֹם a-esta"
+            "text": "e-deu [אֹתֹ֨ת] [וּמֹֽפְתִ֜ים] [בְּפַרְעֹ֤ה] e-em-todo seus-servos e-em-todo que אַרְצ֔וֹ que soubeste porque [וַתַּֽעַשׂ־לְךָ֥] sobre-eles e-você-fez- para-ti nome como-no-dia a-esta"
           },
           {
             "verse": 11,
-            "text": "וְהַיָּם֙ בָּקַעְתָּ em-frente-de-eles וַיַּעַבְר֥וּ no-meio-de o-mar ba-yabbāšā́ e-a רֹ֨דְפֵיהֶ֜ם הִשׁלַ֧כְתָּ [בְּמַ֥יִם] como pedra vida עַזִּֽים׃"
+            "text": "[וְהַיָּם֙] [בָּקַ֣עְתָּ] em-frente-de-eles [וַיַּֽעַבְר֥וּ] em-o-centro-de- o-mar em-a-terra-firmo e-a [בִמְצוֹלֹ֛ת] [כְּמוֹ־אֶ֖בֶן] [בְּמַ֥יִם] como eben"
           },
           {
             "verse": 12,
@@ -990,7 +991,7 @@
           },
           {
             "verse": 20,
-            "text": "וְרוּחֲךָ֨ a-boa נָתַ֖תָּ לְהַשְׂכִּילָ֑ם וּמַנְךָ֙ não מָנַ֣עְתָּ מִפִּיהֶ֔ם deste a-eles a-eles לִצְמָאָֽם׃"
+            "text": "[וְרוּחֲךָ֙] a-boa [נָתַ֖תָּ] [לְהַשְׂכִּילָ֑ם] [וּמַנְךָ֙] não [מִפִּיהֶ֔ם] [וּמַ֛יִם] deste a-eles a-eles"
           },
           {
             "verse": 21,
@@ -1030,7 +1031,7 @@
           },
           {
             "verse": 30,
-            "text": "וַתִּמְשֹׁךְ sobre-eles dois רבבות וַתָּעַד בָּם בְּר֣וּחֲךָ por-mão-de נְבִיאֶ֗יךָ e-não הֶאֱזַנְתָּֽוּ וַתִּתְנֵ֣ן לָהֶ֑ם em-mão עַמֵּ֖י הָאֲרָצֹ֑ות׃"
+            "text": "[וַתִּמְשֹׁ֤ךְ] sobre-eles dois [רַבּ֔וֹת] [וַתָּ֨עַד] [בָּ֧ם] [בְּרוּחֲךָ֛] por-mão-de [וְלֹ֣א] e-não [וַֽתִּתְּנֵ֔ם] [בְּיַ֖ד] em-mão [הָאֲרָצֹֽת]"
           },
           {
             "verse": 31,
@@ -1067,11 +1068,11 @@
         "verses": [
           {
             "verse": 1,
-            "text": "e-em-todo זֹאת אֲנַחְנוּ כָּרְתִ֥ים אֲמָנָה וְכֹתְבִ֑ים e-sobre הֶחָתּוּם שָׂרֵ֥ינוּ לְוִיֵּ֖נוּ כֹּהֲנֵֽינוּ׃"
+            "text": "e-em-todo [אֲנַ֛חְנוּ] [כֹּרְתִ֥ים] [אֲמָנָ֖ה] [וְכֹתְבִ֑ים] [וְעַל֙] e-sobre [שָׂרֵ֥ינוּ] [לְוִיֵּ֖נוּ] [כֹּהֲנֵֽינוּ]"
           },
           {
             "verse": 2,
-            "text": "e-sobre הַחֲתוּמִ֑ים נְחֶמְיָ֧ה הַתִּרְשָׁ֛תָא filho-de חֲכַלְיָ֖ה וְצִדְקִיָּֽה׃"
+            "text": "e-sobre [הַחֲתוּמִ֑ים] [נְחֶמְיָ֧ה] [הַתִּרְשָׁ֛תָא] filho-de [וְצִדְקִיָּֽה]"
           },
           {
             "verse": 3,
@@ -1079,23 +1080,23 @@
           },
           {
             "verse": 4,
-            "text": "פסחור אמירה מלכייה׃"
+            "text": "[פַּשְׁח֥וּר] [אֲמַרְיָ֖ה] [מַלְכִּיָּֽה]"
           },
           {
             "verse": 5,
-            "text": "חתוש שבדיה מלוך׃"
+            "text": "[חַטּ֥וּשׁ] [שְׁבַנְיָ֖ה] [מַלּֽוּךְ]"
           },
           {
             "verse": 6,
-            "text": "חרים מרמות עבדיה׃"
+            "text": "[חָרִ֥ם] [מְרֵמ֖וֹת] [עֹֽבַדְיָֽה]"
           },
           {
             "verse": 7,
-            "text": "דָּנִיֵּ֥אל גִּנְּת֖וֹן בָּרֽוּךְ׃"
+            "text": "[דָּנִיֵּ֥אל] [גִּנְּת֖וֹן] [בָּרֽוּךְ]"
           },
           {
             "verse": 8,
-            "text": "Mesulão אביה מִיָּמִֽן׃"
+            "text": "Mesulão [אֲבִיָּ֖ה] [מִיָּמִֽן]"
           },
           {
             "verse": 9,
@@ -1103,15 +1104,15 @@
           },
           {
             "verse": 10,
-            "text": "וְֽהַלְוִיִּ֑ם וְיֵשׁ֙וּעַ֙ filho-de אֲזַנְיָ֔ה בִּנּ֕וּי de-filhos-de Henadade קַדְמִיאֵֽל׃"
+            "text": "[וְֽהַלְוִיִּ֑ם] [וְיֵשׁ֙וּעַ֙] filho-de [בִּנּ֕וּי] [מִבְּנֵ֥י] de-filhos-de Henadade"
           },
           {
             "verse": 11,
-            "text": "וַאֲחֵיהֶ֑ם שְׁבַנְיָ֧ה הֽוֹדִיָּ֛ה קְלִיטָ֖א פְּלָאיָ֥ה Hanan"
+            "text": "[וַאֲחֵיהֶ֑ם] [שְׁבַנְיָ֧ה] [הֽוֹדִיָּ֛ה] [קְלִיטָ֖א] [פְּלָאיָ֥ה] Hanan"
           },
           {
             "verse": 12,
-            "text": "מִיכָ֥א רְח֖וֹב חֲשַׁבְיָֽה׃"
+            "text": "[מִיכָ֥א] [רְח֖וֹב] [חֲשַׁבְיָֽה]"
           },
           {
             "verse": 13,
@@ -1135,39 +1136,39 @@
           },
           {
             "verse": 18,
-            "text": "Ater חִזְקִיָּ֖ה עַזּֽוּר׃"
+            "text": "Ater [חִזְקִיָּ֖ה] [עַזּֽוּר]"
           },
           {
             "verse": 19,
-            "text": "הוֹדִיָּ֥ה חָשֻׁ֖ם בֵּצָֽי׃"
+            "text": "[הוֹדִיָּ֥ה] [חָשֻׁ֖ם] [בֵּצָֽי]"
           },
           {
             "verse": 20,
-            "text": "חָרִ֥יף עֲנָת֖וֹת"
+            "text": "[חָרִ֥יף] [עֲנָת֖וֹת]"
           },
           {
             "verse": 21,
-            "text": "מַגְפִּיעָ֥שׁ מְשֻׁלָּ֖ם חֵזִֽיר׃"
+            "text": "[מַגְפִּיעָ֥שׁ] [מְשֻׁלָּ֖ם] [חֵזִֽיר]"
           },
           {
             "verse": 22,
-            "text": "משֵׁיזַבְאֵ֥ל Zadoque יַדּֽוּעַ׃"
+            "text": "[מְשֵׁיזַבְאֵ֥ל] Zadoque [יַדּֽוּעַ]"
           },
           {
             "verse": 23,
-            "text": "פלַטְיָ֥ה Hanã עֲנָיָֽה׃"
+            "text": "[פְּלַטְיָ֥ה] Hanã [עֲנָיָֽה]"
           },
           {
             "verse": 24,
-            "text": "הוֹשֵׁ֥עַ Hananyah חַשּֽׁוּב׃"
+            "text": "[הוֹשֵׁ֥עַ] Hananyah [חַשּֽׁוּב]"
           },
           {
             "verse": 25,
-            "text": "הַלּוֹחֵ֥שׁ פִּלְחָ֖א שׁוֹבֵֽק׃"
+            "text": "[הַלּוֹחֵ֥שׁ] [פִּלְחָ֖א] [שׁוֹבֵֽק]"
           },
           {
             "verse": 26,
-            "text": "רְח֥וּם חֲשַׁבְנָ֖ה Mášāy׃"
+            "text": "[רְח֥וּם] [חֲשַׁבְנָ֖ה] [מַעֲשֵׂיָֽה]"
           },
           {
             "verse": 27,
@@ -1179,15 +1180,15 @@
           },
           {
             "verse": 29,
-            "text": "e-restante-de o-povo os-sacerdotes haləwīȳm hāšōʿārîm hamməšōrērim hannatīnîm e-todo o separado de povos das nações a lei-de os-אֱלֹהִים suas mulheres seus filhos e suas filhas todo conhecedor de compreensão:"
+            "text": "e-restante-de o-povo os-sacerdotes haləwīȳm hāšōʿārîm hamməšōrērim hannatīnîm e-todo o separado de povos das nações a lei-de os-Elohim suas mulheres seus filhos e suas filhas todo conhecedor de compreensão:"
           },
           {
             "verse": 30,
-            "text": "que seguram sobre seus irmãos suas honras וּבָאִ֞ים בְּאָלָ֣ה וּבִשְׁבוּעָ֗ה para-andar em-lei-de os-אֱלֹהִים que נִתְּנָ֔ה em-mão Moisés servo- o-אֱלֹהִים וְלִשְׁמ֣וֹר yhwh a todo mandamentos-de yhwh אֲדֹנֵ֔ינוּ וּמִשְׁפָּטָ֖יו וְחֻקָּֽיו׃"
+            "text": "que seguram sobre seus irmãos suas honras וּבָאִ֞ים בְּאָלָ֣ה וּבִשְׁבוּעָ֗ה para-andar em-lei-de os-Elohim que נִתְּנָ֔ה em-mão Moisés servo- o-Elohim וְלִשְׁמ֣וֹר yhwh a todo mandamentos-de yhwh אֲדֹנֵ֔ינוּ וּמִשְׁפָּטָ֖יו וְחֻקָּֽיו׃"
           },
           {
             "verse": 31,
-            "text": "וַאֲשֶׁ֛ר não deu בְּנֹתֵ֖ינוּ a-terra a-terra não בְּנֹ֣תֵיהֶ֔ם não נִקַּ֖ח לְבָנֵֽינוּ׃"
+            "text": "[וַאֲשֶׁ֛ר] não deu [לְעַמֵּ֣י] a-terra a-terra não [נִקַּ֖ח] não"
           },
           {
             "verse": 32,
@@ -1195,15 +1196,15 @@
           },
           {
             "verse": 33,
-            "text": "e estabelecemos-nos sobre-nos [מִצְוֺ֔ת] a-dar sobre nós terça parte o siclo no ano para a obra casa אֱלֹהִים-nosso"
+            "text": "e estabelecemos-nos sobre-nos [מִצְוֺ֔ת] a-dar sobre nós terça parte o siclo no ano para a obra casa Elohim-nosso"
           },
           {
             "verse": 34,
-            "text": "para o pão da mesa e a oferta o queimar-continuamente e-a-offerida o queimar-continuamente as-sabáticos os-novilhos aos-momentos e-para-a-santidade e-as-ofertas-por-transgressões ləkappēr sobre e-tudo e-todo obra-de casa-de אֱלֹהִים-nosso"
+            "text": "para o pão da mesa e a oferta o queimar-continuamente e-a-offerida o queimar-continuamente as-sabáticos os-novilhos aos-momentos e-para-a-santidade e-as-ofertas-por-transgressões ləkappēr sobre e-tudo e-todo obra-de casa-de Elohim-nosso"
           },
           {
             "verse": 35,
-            "text": "e-a-sorte e-nós-levamos sobre )(((קרובן)) העשִׂים os-sacerdotes הלויִימָ והעָם֒ para-trazer לַבֵּית אֱלֹהֵ֧ינוּ para-casa-de אֲבֹתֵ֛ינוּ לְעִתִּ֥ים מְזֻמָּנִ֖ים ano בְשָׁנָ֑ה yhwh sobre mizbakh yhwh nosso-Elohim conforme-o-escrito Torá:"
+            "text": "e-a-sorte e-nós-levamos sobre )(((קרובן)) העשִׂים os-sacerdotes הלויִימָ והעָם֒ para-trazer לַבֵּית Elohim para-casa-de אֲבֹתֵ֛ינוּ לְעִתִּ֥ים מְזֻמָּנִ֖ים ano בְשָׁנָ֑ה yhwh sobre mizbakh yhwh nosso-Elohim conforme-o-escrito Torá:"
           },
           {
             "verse": 36,
@@ -1211,19 +1212,19 @@
           },
           {
             "verse": 37,
-            "text": "e-a bícoras nossos filhos e-nossos-animais conforme-o-escrito na-torá e-a nosso-primeiros nossos-vacas e-nossos-ovelhas trazer para-casa-de אֱלֹהִים-nosso aos-sacerdotes os-que-oferecem em-casa-de אֱלֹהִים-nosso"
+            "text": "e-a bícoras nossos filhos e-nossos-animais conforme-o-escrito na-torá e-a nosso-primeiros nossos-vacas e-nossos-ovelhas trazer para-casa-de Elohim-nosso aos-sacerdotes os-que-oferecem em-casa-de Elohim-nosso"
           },
           {
             "verse": 38,
-            "text": "e-a ré'eshít nossas-arízes e-nossas-oferendas e-frutos todo עֵ֜ץ תִּיר֣וֹשׁ וְיִצְהָ֗ר profeta לַכֹּהֲנִים֙ a לִשְׁכ֣וֹת casa-de אֱלֹהִים-nosso וּמַעְשַׂ֥ר אַדְמָתֵ֖נוּ para-os-Levitas e-eles os-levitas הַֽמְעַשְּׂרִ֔ים em-todo cidades-de עֲבֹדָתֵֽנוּ׃"
+            "text": "e-a ré'eshít nossas-arízes e-nossas-oferendas e-frutos todo עֵ֜ץ תִּיר֣וֹשׁ וְיִצְהָ֗ר profeta לַכֹּהֲנִים֙ a לִשְׁכ֣וֹת casa-de Elohim-nosso וּמַעְשַׂ֥ר אַדְמָתֵ֖נוּ para-os-Levitas e-eles os-levitas הַֽמְעַשְּׂרִ֔ים em-todo cidades-de עֲבֹדָתֵֽנוּ׃"
           },
           {
             "verse": 39,
-            "text": "e-será o-sacerdote filho-de Aarao com os-levitas בַּעְשֵׂ֣ר os-levitas e-os-levitas יַעֲלוּ a מַעֲשַׂר הַמַּעֲשֵׂר para-casa-de אֱלֹהִים-nosso a הַלְשׁוֹכֹת segundo-casa-de הָאוֹצָר׃"
+            "text": "e-será o-sacerdote filho-de [עִם־הַלְוִיִּ֖ם] com os-levitas [וְהַלְוִיִּ֞ם] os-levitas e-os-levitas [הַֽמַּעֲשֵׂר֙] a [Elohim] [אֶל־הַלְּשָׁכ֖וֹת] para-casa-de Elohim-nosso a"
           },
           {
             "verse": 40,
-            "text": "que a הַלְשׁוֹכֹת יָבִיאוּ filhos-de Israel e-filhos-de הַלֵּוִי a oferta-de הַדֶגָן֮ as figs וְהַיִצְחָר֒ e ali instrumentos-de do-santuário e os sacerdotes os-servindo e os contador e os reveladores e-não nós abandonemos a casa אֱלֹהִים-nosso"
+            "text": "que a הַלְשׁוֹכֹת יָבִיאוּ filhos-de Israel e-filhos-de הַלֵּוִי a oferta-de הַדֶגָן֮ as figs וְהַיִצְחָר֒ e ali instrumentos-de do-santuário e os sacerdotes os-servindo e os contador e os reveladores e-não nós abandonemos a casa Elohim-nosso"
           }
         ]
       },
@@ -1256,7 +1257,7 @@
           },
           {
             "verse": 7,
-            "text": "e-estes filhos-de Benjamim carrinho filho-de paga filho-de encontrista filho-de פְּדָיָה֩ filho-de ק֨וֹלָיָ֧ה filho-de Maaseias filho-de אִֽיתִיאֵ֖ל filho-de יְשַֽׁעְיָֽה׃"
+            "text": "e-estes filhos-de Benjamim [סַלֻּ֡א] filho-de [בֶּן־יוֹעֵ֡ד] filho-de [בֶן־ק֨וֹלָיָ֧ה] filho-de [בֶּן־אִֽיתִיאֵ֖ל] filho-de filho-de filho-de filho-de"
           },
           {
             "verse": 8,
@@ -1264,7 +1265,7 @@
           },
           {
             "verse": 9,
-            "text": "וְיוֹאֵ֥ל filho-de memória-minha פָּקִ֣יד sobre-eles וִיהוּדָ֧ה filho-de הַסְּנוּאָ֛ה sobre a-cidade memorando:"
+            "text": "[וְיוֹאֵ֥ל] filho-de memória-minha [עֲלֵיהֶ֑ם] sobre-eles [בֶן־הַסְּנוּאָ֛ה] filho-de [מִשְׁנֶֽה׃] sobre"
           },
           {
             "verse": 10,
@@ -1272,7 +1273,7 @@
           },
           {
             "verse": 11,
-            "text": "Seraías filho-de חלquíyah filho-de Mesulão filho-de צדוק filho-de meriyot filho-de אֲחִיטוּב manifesto- casa אֱלֹהִים"
+            "text": "Seraías filho-de [בֶּן־מְשֻׁלָּ֣ם] filho-de Mesulão filho-de [נְגִ֖ד] filho-de [הָאֱלֹהִֽים] filho-de casa"
           },
           {
             "verse": 12,
@@ -1280,7 +1281,7 @@
           },
           {
             "verse": 13,
-            "text": "ve-echav ראשIMS לאבות duzentos quarenta ושניםAYIM ואמסAYS filho-de עזרIEL filho-de אחזAYI filho-de משילIMSOT filho-de disse"
+            "text": "[וְאֶחָיו֙] [רָאשִׁ֣ים] [לְאָב֔וֹת] duzentos quarenta [וּשְׁנָ֑יִם] [וַעֲמַשְׁסַ֧י] filho-de [בֶּן־אַחְזַ֥י] filho-de [בֶּן־אִמֵּֽר] filho-de filho-de disse"
           },
           {
             "verse": 14,
@@ -1288,15 +1289,15 @@
           },
           {
             "verse": 15,
-            "text": "וּמִֽן־ os-levitas שְׁמַעְיָ֧ה filho-de חַשּׁ֛וּב filho-de עַזְרִיקָ֥ם filho-de חֲשׁוֹבְיָה filho-de בּוּנִּֽי׃"
+            "text": "[וּמִֽן־הַלְוִיִּ֑ם] os-levitas [בֶן־חַשּׁ֛וּב] filho-de [בֶּן־חֲשַׁבְיָ֖ה] filho-de filho-de filho-de"
           },
           {
             "verse": 16,
-            "text": "וְשַׁבְּתַ֨י וְיוֹזָבָ֜ד sobre הַמְּלָאכָ֤ה הַחִֽיצֹנָה֙ para-casa-de os-אֱלֹהִים dos principais os-levitas"
+            "text": "וְשַׁבְּתַ֨י וְיוֹזָבָ֜ד sobre הַמְּלָאכָ֤ה הַחִֽיצֹנָה֙ para-casa-de os-Elohim dos principais os-levitas"
           },
           {
             "verse": 17,
-            "text": "וּמַתַּנְיָ֣ה filho-de מִ֠יכָה filho-de Zabdi filho-de אָסָ֜ף cabeça הַתְּחִלָּה֙ יְהוֹדֶ֣ה לַתְּפִלָּ֔ה וּבַקְבֻּקְיָ֖ה מִשְׁנֶ֣ה me-echa-hao וְעַבְדָּא֙ filho-de שַׁמּ֔וּעַ filho-de גַּלָּל filho-de"
+            "text": "[וּמַתַּנְיָ֣ה] filho-de [בֶּן־זַבְדִּ֨י] filho-de [רֹ֗אשׁ] filho-de [יְהוֹדֶ֣ה] cabeça [וּבַקְבֻּקְיָ֖ה] [מִשְׁנֶ֣ה] [מֵאֶחָ֑יו] [וְעַבְדָּא֙] [בֶּן־שַׁמּ֔וּעַ] [בֶּן־גָּלָ֖ל] [בֶּן־*ידיתון] filho-de filho-de filho-de"
           },
           {
             "verse": 18,
@@ -1316,7 +1317,7 @@
           },
           {
             "verse": 22,
-            "text": "e o que conta os-levitas em-Jerusalém עוזִי filho-de filhos-de filho-de חשביָה filho-de מתנַיָה filho-de MICָא de-filhos-de Asafe המשורֵרים לNEGֶד obra-de casa-de אֱלֹהִים"
+            "text": "[וּפְקִ֤יד] os-levitas [בִּיר֣וּשָׁלִַ֔ם] [עֻזִּ֤י] filho-de filhos-de filho-de [בֶּן־מִיכָ֑א] filho-de [אָסָף֙] filho-de [לְנֶ֖גֶד] [מְלֶ֥אכֶת] Asafe casa-de"
           },
           {
             "verse": 23,
@@ -1356,15 +1357,15 @@
           },
           {
             "verse": 32,
-            "text": "עֲנָת֥וֹת נֹ֖ב עֲנָֽנְיָֽה׃"
+            "text": "[עֲנָת֥וֹת] [נֹ֖ב] [עֲנָֽנְיָֽה]"
           },
           {
             "verse": 33,
-            "text": "חָצ֥וֹר ׀ רָמָ֖ה גִּתָּֽיִם׃"
+            "text": "[חָצ֥וֹר] [׀] [רָמָ֖ה]"
           },
           {
             "verse": 34,
-            "text": "חָדִ֥יד צְבֹעִ֖ים נְבַלָּֽט׃"
+            "text": "[חָדִ֥יד] [צְבֹעִ֖ים] [נְבַלָּֽט]"
           },
           {
             "verse": 35,
@@ -1381,7 +1382,7 @@
         "verses": [
           {
             "verse": 1,
-            "text": "e-estes os-sacerdotes e levitas que עֲלוּ com זְרֻבָּבֶל filho-de Shealtiel וְיֵשׁוּעַ שָׂרַיָּה יִרְמְיָה עֶזְרָא׃"
+            "text": "e-estes os-sacerdotes [וְהַלְוִיִּ֔ם] que [עָל֛וּ] com [בֶּן־שְׁאַלְתִּיאֵ֖ל] filho-de Shealtiel [יִרְמְיָ֖ה] [עֶזְרָֽא]"
           },
           {
             "verse": 2,
@@ -1389,7 +1390,7 @@
           },
           {
             "verse": 3,
-            "text": "שָׁכַנְיָה רְחֻמֶּה מרמות:"
+            "text": "[שְׁכַנְיָ֥ה] [רְחֻ֖ם] [מְרֵמֹֽת]"
           },
           {
             "verse": 4,
@@ -1397,7 +1398,7 @@
           },
           {
             "verse": 5,
-            "text": "מיימן מעדייה בלגה:"
+            "text": "[מִיָּמִ֥ין] [מַֽעַדְיָ֖ה] [בִּלְגָּֽה]"
           },
           {
             "verse": 6,
@@ -1421,11 +1422,11 @@
           },
           {
             "verse": 11,
-            "text": "וְיוֹיָדָע֙ gerou a Jônatas וְיוֹנָתָ֖ן gerou a יַדּֽוּעַ׃"
+            "text": "[וְיוֹיָדָע֙] gerou a Jônatas [הוֹלִ֥יד] gerou a"
           },
           {
             "verse": 12,
-            "text": "וּבִימֵי֙ יוֹיָקִ֔ים foram כֹהֲנִ֖ים cabeças-de הָאָב֑וֹת לִשְׂרָיָ֣ה מְרָיָ֔ה לְיִרְמְיָ֖ה חֲנַנְיָֽה׃"
+            "text": "[וּבִימֵי֙] [יֽוֹיָקִ֔ים] foram [כֹהֲנִ֖ים] cabeças-de [הָאָב֑וֹת] [לִשְׂרָיָ֣ה] [מְרָיָ֔ה] [לְיִרְמְיָ֖ה] [חֲנַנְיָֽה]"
           },
           {
             "verse": 13,
@@ -1437,15 +1438,15 @@
           },
           {
             "verse": 15,
-            "text": "לְחָרִ֣ם עַדְנָ֔א לִמְרָי֖וֹת חֶלְקָֽי׃"
+            "text": "[לְחָרִ֣ם] [עַדְנָ֔א] [לִמְרָי֖וֹת] [חֶלְקָֽי]"
           },
           {
             "verse": 16,
-            "text": "זכריה לְגִנְּת֥וֹן מְשֻׁלָּֽם׃"
+            "text": "[*לעדיא] [**לְעִדּ֥וֹא] [זְכַרְיָ֖ה]"
           },
           {
             "verse": 17,
-            "text": "לַאֲבִיָּ֖ה זִכְרִ֑י לְמִ֨נְיָמִ֔ין לְמוֹעַדְיָ֖ה פִּלְטָֽי׃"
+            "text": "[לַאֲבִיָּ֖ה] [זִכְרִ֑י] [לְמִ֨נְיָמִ֔ין] [לְמוֹעַדְיָ֖ה] [פִּלְטָֽי]"
           },
           {
             "verse": 18,
@@ -1453,11 +1454,11 @@
           },
           {
             "verse": 19,
-            "text": "וּלְיוֹיָרִ֣יב מַתְּנַ֔י לִֽידַֽעְיָ֖ה עֻזִּֽי׃"
+            "text": "[וּלְיוֹיָרִ֣יב] [מַתְּנַ֔י] [לִֽידַֽעְיָ֖ה] [עֻזִּֽי]"
           },
           {
             "verse": 20,
-            "text": "לְסַלַּ֥י קַלָּ֖י לְעָמ֥וֹק Éber"
+            "text": "[לְסַלַּ֥י] [קַלָּ֖י] [לְעָמ֥וֹק] Éber"
           },
           {
             "verse": 21,
@@ -1477,7 +1478,7 @@
           },
           {
             "verse": 25,
-            "text": "מַתַּנְיָ֧ה וּבַקְבֻּֽקְיָ֛ה עֹבַדְיָ֥ה מְשֻׁלָּ֖ם Talmon עַקּ֑וּב שֹׁמְרִים שֹׁעֲרִים מִשְׁמָר בַּאֲסֻפֵּי הַשֹּׁעָרִים׃"
+            "text": "[מַתַּנְיָ֧ה] [וּבַקְבֻּֽקְיָ֛ה] [עֹבַדְיָ֥ה] [מְשֻׁלָּ֖ם] Talmon [עַקּ֑וּב] [שֹׁמְרִ֤ים] [שֽׁוֹעֲרִים֙] [מִשְׁמָ֔ר] [בַּאֲסֻפֵּ֖י] [הַשְּׁעָרִֽים]"
           },
           {
             "verse": 26,
@@ -1489,7 +1490,7 @@
           },
           {
             "verse": 28,
-            "text": "וַיֵּאָ֣סְפ֔וּ filhos-de הַמְשֹׁרְרִ֑ים e-de הַכִּכָּר֙ סְבִיב֣וֹת Jerusalém e-de חַצְרֵ֖י נְטֹפָתִֽי׃"
+            "text": "[וַיֵּאָ֣סְפ֔וּ] filhos-de [הַמְשֹׁרְרִ֑ים] e-de [סְבִיב֣וֹת] [יְרוּשָׁלִַ֔ם] Jerusalém e-de"
           },
           {
             "verse": 29,
@@ -1513,11 +1514,11 @@
           },
           {
             "verse": 34,
-            "text": "Judá e-Benjamim וּֽשְׁמַֽעְיָ֖ה וְיִרְמְיָֽה׃"
+            "text": "Judá e-Benjamim [וּֽשְׁמַֽעְיָ֖ה] [וְיִרְמְיָֽה׃]"
           },
           {
             "verse": 35,
-            "text": "e-dos-filhos os-sacerdotes בַּחֲצֹצְרֹת זְכַרְיָ֨ה filho-de יֽוֹנָתָ֜ן filho-de שְׁמַֽעְיָ֗ה filho-de מַתַּנְיָה֙ filho-de מִ֣יכָיָ֔ה filho-de Zacur filho-de אָסֹף׃"
+            "text": "[וּמִבְּנֵ֥י] os-sacerdotes [בַּחֲצֹצְר֑וֹת] [זְכַרְיָ֨ה] filho-de [בֶּן־שְׁמַֽעְיָ֗ה] filho-de [בֶּן־מִ֣יכָיָ֔ה] filho-de [בֶּן־אָסָֽף] filho-de filho-de filho-de"
           },
           {
             "verse": 36,
@@ -1549,7 +1550,7 @@
           },
           {
             "verse": 43,
-            "text": "וַיִּזְבְּח֣וּ no-dia-de הַ֠הוּא זְבָחִ֨ים גְּדוֹלִ֜ים que porque o-אֱלֹהִים שִׂמְּחָם֙ alegria grande e-também הַנָּשִׁ֛ים וְהַיְלָדִ֖ים שָׂמֵ֑חוּ וַתִּשָּׁמַ֛ע שמחת Jerusalém מרחוק׃"
+            "text": "וַיִּזְבְּח֣וּ no-dia-de הַ֠הוּא זְבָחִ֨ים גְּדוֹלִ֜ים que porque o-Elohim שִׂמְּחָם֙ alegria grande e-também הַנָּשִׁ֛ים וְהַיְלָדִ֖ים שָׂמֵ֑חוּ וַתִּשָּׁמַ֛ע שמחת Jerusalém מרחוק׃"
           },
           {
             "verse": 44,
@@ -1561,7 +1562,7 @@
           },
           {
             "verse": 46,
-            "text": "porque nos dias Davíd ao-oriente мїкїдем os que murmuram e cântico- hinos e louvores para-אֱלֹהִים"
+            "text": "porque nos dias Davíd ao-oriente мїкїдем os que murmuram e cântico- hinos e louvores para-Elohim"
           },
           {
             "verse": 47,
@@ -1574,11 +1575,11 @@
         "verses": [
           {
             "verse": 1,
-            "text": "no-dia aquele é-chamado besefer Moisés em-orelhas-de o-povo e-encontrado escrito nele que não vira amônita e-moabita בִּקְהַ֥ל אֱלֹהִים até eternidade"
+            "text": "no-dia aquele é-chamado besefer Moisés em-orelhas-de o-povo e-encontrado escrito nele que não vira amônita e-moabita בִּקְהַ֥ל Elohim até eternidade"
           },
           {
             "verse": 2,
-            "text": "que não קִדְּמ֛וּ a filhos-de Israel בַּלֶּ֣חֶם וּבַמָּ֑יִם e deitou-se sobre-o a בִּלְעָם֙ לְקַֽלְל֔וֹ וַיַּהֲפֹ֧ךְ אֱלֹהִים nosso a maldição לִבְרָכָֽה׃"
+            "text": "que não [קִדְּמ֛וּ] a filhos-de Israel [וּבַמָּ֑יִם] [וַיִּשְׂכֹּ֨ר] [עָלָ֤יו] sobre-o a [וַיַּהֲפֹ֧ךְ] [Elohim] [הַקְּלָלָ֖ה] Elohim nosso"
           },
           {
             "verse": 3,
@@ -1586,7 +1587,7 @@
           },
           {
             "verse": 4,
-            "text": "velifnei deste-lado אֶלְיָשִׁיב֙ o-sacerdote נָת֖וּן בְּלִשְׁכַּ֣ת casa-de nosso-Elohim קָר֖וֹב לְטוֹבִיָּֽה׃"
+            "text": "[וְלִפְנֵ֣י] deste-lado [אֶלְיָשִׁיב֙] o-sacerdote [נָת֖וּן] [בְּלִשְׁכַּ֣ת] casa-de nosso-Elohim [לְטוֹבִיָּֽה]"
           },
           {
             "verse": 5,
@@ -1594,11 +1595,11 @@
           },
           {
             "verse": 6,
-            "text": "e-em-todo não não estava que porque בִּשְׁנַת֩ trinta וּשְׁתַּ֜יִם לְאַרְתַּחְשַׁ֤סְתְּא rei-de Babilônia בָּ֣אתִי a o-rei וּלְקֵ֥ץ dias נִשְׁאַ֥לְתִּי de o rei"
+            "text": "e-em-todo não não estava que porque [שְׁלֹשִׁ֨ים] [וּשְׁתַּ֜יִם] [לְאַרְתַּחְשַׁ֤סְתְּא] [מֶֽלֶךְ־בָּבֶל֙] rei-de Babilônia [וּלְקֵ֥ץ] a o-rei [מִן־הַמֶּֽלֶךְ] de"
           },
           {
             "verse": 7,
-            "text": "e-vim לִֽירוּשָׁלָ֑͏ִם וָאָבִ֣ינָה בָרָעָ֗ה que fez אֶלְיָשִׁיב֙ לְט֣וֹבִיָּ֔ה para-fazer a-ele נִשָׁ֔כָה בְּחַצְרֵ֖י casa אֱלֹהִים"
+            "text": "e-vim [לִֽירוּשָׁלָ֑͏ִם] [וָאָבִ֣ינָה] [בָרָעָ֗ה] que fez [אֶלְיָשִׁיב֙] [לְט֣וֹבִיָּ֔ה] para-fazer a-ele [נִשְׁכָּ֔ה] [בְּחַצְרֵ֖י] casa Elohim"
           },
           {
             "verse": 8,
@@ -1606,7 +1607,7 @@
           },
           {
             "verse": 9,
-            "text": "e disse foram purificados as pias e tratei nome utensílios-de casa os-אֱלֹהִים a הַמִּנְחָ֖ה e a cera"
+            "text": "e disse foram purificados as pias e tratei nome utensílios-de casa os-Elohim a הַמִּנְחָ֖ה e a cera"
           },
           {
             "verse": 10,
@@ -1626,7 +1627,7 @@
           },
           {
             "verse": 14,
-            "text": "זכרה- para-mim אֱלֹהִים-meu sobre esta e-a תםах חסדאי que עשייתי em-casa-de אֱלֹהִים-meu ומשמריו׃"
+            "text": "[זָכְרָה־לִּ֥י] para-mim Elohim-meu sobre esta e-a [עָשִׂ֛יתִי] [בְּבֵ֥ית] que [וּבְמִשְׁמָרָֽיו]"
           },
           {
             "verse": 15,
@@ -1642,11 +1643,11 @@
           },
           {
             "verse": 18,
-            "text": "porventura-não assim fizeram אֲבֹ֣תֵיכֶ֔ם e-trouxe אֱלֹהִים-nosso עָלֵ֗ינוּ a todo הָרָעָ֣ה esta e-sobre a-cidade esta e vós מוֹסִיפִ֤ים חָרוֹן֙ sobre Israel לְחַלֵּ֖ל a הַשַׁבָּֽת׃"
+            "text": "porventura-não [כֹ֤ה] fizeram [אֲבֹ֣תֵיכֶ֔ם] e-trouxe [Elohim] [עָלֵ֗ינוּ] a todo [הַזֹּ֔את] esta e-sobre a-cidade esta [מוֹסִיפִ֤ים] [חָרוֹן֙] [עַל־יִשְׂרָאֵ֔ל] sobre Israel a"
           },
           {
             "verse": 19,
-            "text": "e-houve como-que צָֽלֲלוּ֩ portões-de Jerusalém diante-de הַשַׁבָּ֗ת וָאֹֽמְרָה֙ וַיִּסָּגְר֣וּ הַדְּלָת֔וֹת וָאֹ֣מְרָ֔ה que não יִפְתָּח֔וּם até atrás-de השבת וּמִנְּעָרַ֗י הֽ͏ֶעֱמַ֙דְתִּי֙ sobre הַשְּׁעָרִ֔ים não virá Massá em-dia a sabáth:"
+            "text": "e-houve como-que [צָֽלֲלוּ֩] portões-de Jerusalém diante-de [הַשַׁבָּ֗ת] [וָאֹֽמְרָה֙] [וַיִּסָּגְר֣וּ] [הַדְּלָת֔וֹת] [וָאֹ֣מְרָ֔ה] que não [יִפְתָּח֔וּם] até atrás-de [הַשַּׁבָּ֑ת] [וּמִנְּעָרַ֗י] [הֽ͏ֶעֱמַ֙דְתִּי֙] sobre [לֹא־יָב֥וֹא] não virá Massá"
           },
           {
             "verse": 20,
@@ -1694,7 +1695,7 @@
           },
           {
             "verse": 31,
-            "text": "e-para-kurban as-etsim em-etusim previamente-mazumanot e-para-bikkurim recordação- para-mim אֱלֹהִים-meu para-bem:"
+            "text": "e-para-kurban as-etsim em-etusim previamente-mazumanot e-para-bikkurim recordação- para-mim Elohim-meu para-bem:"
           }
         ]
       }

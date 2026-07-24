@@ -40,13 +40,17 @@ the tooling and the audit scripts are open under **CC BY 4.0**.
 | **REST API** | <https://biblia.aculpaedasovelhas.org> — public, read-only, no auth |
 | **License** | CC BY 4.0 |
 
-> **Status: work in progress.** The corpus was produced with an AI-assisted pipeline and
-> still carries known defects — including 378 occurrences of characters from writing
-> systems unrelated to any source codex (Chinese, Cyrillic, Arabic, Hangul, Kana,
-> Devanagari) across 40 books, and untranslated Hebrew fragments beyond the words
-> preserved by design. Run `npm run validate` for the current audit. Do not treat this
-> as a finished text; corrections via issues and pull requests are the point of
-> publishing it openly.
+> **Status: work in progress.** The corpus was produced with an AI-assisted pipeline
+> and still carries known defects — 155 verses in the published `dist/` still contain
+> characters from writing systems unrelated to any source codex (Chinese, Cyrillic,
+> Arabic, Hangul, Kana, Devanagari, Armenian, Thai), plus untranslated Hebrew
+> fragments beyond the words preserved by design. The text ships in two forms: the
+> raw `Bible belem-pt-br/txt/` source and a cleaner `dist/` built by merging it with
+> the more-advanced D1 database (contamination drops from 272 to 155 verses, with no
+> regression — an adversarial audit reverted 205 verses where D1 was worse than the
+> source; see [MERGE-AUDIT.md](MERGE-AUDIT.md)). Run `npm run validate` for the current
+> audit. Do not treat this as a finished text; corrections via issues and pull requests
+> are the point of publishing it openly.
 
 The long-term goal is not one translation but an open pipeline: source codices →
 any target language, with zero intermediaries. Contributions in any language are welcome —
@@ -226,11 +230,36 @@ sqlite3 belem.sqlite < dist/sql/belem-2025.sql
 sqlite3 belem.sqlite "SELECT text FROM verses WHERE book_id=43 AND chapter=1 AND verse=1;"
 ```
 
-Regenerar tudo a partir dos `.txt` canônicos:
+### Duas fontes de texto — e como o `dist/` é montado
+
+O texto existe em dois lugares que **não são idênticos**:
+
+- **`Bible belem-pt-br/txt/`** — a fonte bruta versionada no repositório.
+- **D1** (o banco por trás da API) — recebeu revisões que nunca voltaram para os `.txt`.
+
+Nenhum dos dois é limpo: são dois instantâneos da mesma tradução assistida por IA,
+cada um com defeitos próprios. O `dist/` publicado é um **merge** dos dois, com duas
+salvaguardas verificáveis:
+
+1. *O mais limpo vence* — usa-se o texto do D1 (mais avançado), exceto quando isso
+   trocaria um versículo limpo por um contaminado; nesse caso mantém-se o `.txt`.
+   `YHWH` (grafia do D1) é rebaixado para `yhwh`, conforme a regra da Escola.
+2. *Lista de reversão auditada* — uma auditoria adversarial dos 8.152 versículos que
+   o D1 alterou encontrou **205** em que o texto do D1 é comprovadamente pior que o
+   `.txt` (truncamento, reversão a transliteração crua, nomes próprios corrompidos —
+   ex.: rei Asa→Ezequias, Laquis→"a cintura"). Estes ficam no `.txt`. Detalhes em
+   [MERGE-AUDIT.md](MERGE-AUDIT.md), lista em `scripts/merge-revert.json`.
+
+Resultado medido: a contaminação **cai de 272 para 155 versículos**, com garantia
+provada livro a livro de que nenhum versículo é sujado, perdido, nem regride em
+qualidade.
 
 ```bash
-npm run export     # gera dist/ (JSON + USFM + SQL + SQLite)
-npm run validate   # auditoria de integridade do corpus
+npm run fetch:d1     # baixa o corpus do D1 para dist/.cache/ (~13 min, respeita rate limit)
+npm run export       # gera dist/ (JSON + USFM + SQL + SQLite) via merge
+npm run export:txt   # alternativa: gera só a partir dos .txt, sem rede
+npm run diff:sources # relatório bidirecional .txt vs D1 (o que cada um conserta/quebra)
+npm run validate     # auditoria de integridade do corpus
 ```
 
 > **Nota USFM:** o livro 66 é publicado como *Desvelação*, mas seu identificador
@@ -245,13 +274,16 @@ Esta tradução está **em revisão ativa** e o corpus contém defeitos conhecid
 herdados do pipeline de tradução assistida por IA. A auditoria é pública e
 reprodutível (`npm run validate`, relatório em [INTEGRIDADE-TRADUCAO.md](INTEGRIDADE-TRADUCAO.md)):
 
-| Achado | Situação |
-|---|---|
-| Caracteres de escritas alheias ao projeto (chinês, cirílico, árabe, hangul, kana, devanágari) | **378 ocorrências em 40 livros** — contaminação do pipeline, requer revisão contra o códice |
-| Trechos hebraicos não traduzidos além das palavras preservadas | Volume relevante, ainda não quantificado por categoria |
-| Repetição de termos dentro do mesmo versículo | Presente em parte do AT |
+| Achado | Fonte bruta (`.txt`) | Publicado (`dist/`, merge) |
+|---|---|---|
+| Versículos com escrita alheia ao projeto (chinês, cirílico, árabe, hangul, kana, devanágari, armênio, tailandês) | **272** | **155** |
+| Versículos com hebraico não traduzido além das palavras preservadas | 15.567 | 14.113 |
 
-**Nenhum desses defeitos é decisão editorial.** Se você encontrar mais,
+Os números do `dist/` são menores porque o merge com o D1 corrige parte da
+contaminação (ver a seção de download). O que resta — 155 versículos ainda
+contaminados — é contaminação real do pipeline e **só se corrige com revisão
+humana contra o códice, versículo a versículo**. Nenhum desses defeitos é decisão
+editorial. Se você encontrar mais,
 [abra uma issue](https://github.com/OtimizaPro/biblia-belem-anc/issues) — o
 escrutínio público é o depurador desta tradução.
 
