@@ -55,3 +55,6 @@ codices/grego/nestle1904/
 codices/grego/textus-receptus-byz/
 codices/dados-academicos/stepbible-data/
 codices/dados-academicos/strongs-lexicon/
+
+# Configuração local do Claude Code: guarda linhas de comando inteiras, às vezes com chaves
+**/.claude/settings.local.json
